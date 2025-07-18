@@ -1,0 +1,10 @@
+pyarrow
+fastparquet
+pandas
+requests
+webdriver-manager
+selenium
+beautifulsoup4
+polars
+duckdb
+fpsim2
