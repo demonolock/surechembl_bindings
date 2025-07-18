@@ -1,3 +1,4 @@
+from lxml import etree, html
 import time
 
 from selenium import webdriver
@@ -16,12 +17,12 @@ chrome_options.add_argument("--headless")
 driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=chrome_options)
 driver.get(url)
 # Ничего надежнее не придумалось. Ожидание по xpath не сработало и ожидание прогрузки js тоже execute_script('return document.readyState') == 'complete
-time.sleep(5)
+time.sleep(10)
 
-html = driver.page_source
+html_content = driver.page_source
 driver.quit()
 
-soup = BeautifulSoup(html, "html.parser")
+soup = BeautifulSoup(html_content, "html.parser")
 
 # 4 - Title
 title = soup.find(class_='patent-title')
@@ -57,6 +58,8 @@ for vwin in soup.find_all(class_=lambda c: c and 'v-window ' in c):
     for img in vwin.find_all('img', src=True):
         images.append(img['src'])
 
+tree = html.fromstring(html_content)
+target = tree.xpath("//*[@class='elevation-6 badge target']/../..//span[@class='text']")
 
 print("=========Title=========")
 print(title_text)
@@ -68,3 +71,6 @@ print("=========Description last 500=========")
 print(description_section[-500:-1] if description_section else None)
 print("=========Images=========")
 print(images)
+print("=========Target=========")
+# Тут находятся все таргеты на странице, меняя индекс можно переключаться
+print(target[0].text_content().strip())
