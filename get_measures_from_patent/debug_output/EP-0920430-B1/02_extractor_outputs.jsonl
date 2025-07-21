@@ -1,0 +1,5 @@
+{"raw_mentions": "Unfortunately, there are no sentences in the provided text that meet the specified criteria, as they do not contain a bioactivity metric (IC50, Ki, Kd, EC50) with a specific numeric value and a unit."}
+{"raw_mentions": "There are no sentences that meet the specified criteria. The text does not contain any sentences with a bioactivity metric (IC50, Ki, Kd, EC50), a specific numeric value, and a unit for that value."}
+{"raw_mentions": "There are no sentences that meet the specified criteria. The text does not contain any bioactivity metrics (IC50, Ki, Kd, EC50) with specific numeric values and units."}
+{"raw_mentions": "Routinely, Ki(factor Xa) values less than 3 nM were calculated from the Morrison equation."}
+{"final_json": [{"molecule_name": null, "protein_target_name": "factor Xa", "protein_uniprot_id": null, "protein_seq_id": null, "binding_metric": "Ki", "value": "<3", "unit": "nM"}]}
