@@ -201,7 +201,7 @@ def process_patent_text(patent_text: str, associated_molecules: list[dict], pate
         if extracted_data:
             # Post-filter the results to ensure they meet the criteria
             for item in extracted_data:
-                if item.get("value") and item.get("unit") and item.get("molecule_name") and item.get("binding_metric"):
+                if item.get("value") and item.get("molecule_name") and item.get("binding_metric"):
                     item["raw_mentions"] = raw_mentions  # Add the source mentions for debugging
                     all_extracted_data.append(item)
 
