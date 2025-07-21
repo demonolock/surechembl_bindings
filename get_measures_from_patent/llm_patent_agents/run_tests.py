@@ -1,13 +1,14 @@
 import json
 import os
 from patent_processor import process_patent_text
+import config
 
 def main():
     """
     Main function to run a single test case for the patent processor.
     """
     patent_id = "patent1"
-    patent_file_path = os.path.join("tests", "patents", f"{patent_id}.txt")
+    patent_file_path = os.path.join("get_measures_from_patent", "llm_patent_agents", "tests", "patents", f"{patent_id}.txt")
 
     print(f"--- Running Test for {patent_id} ---")
 
@@ -36,7 +37,7 @@ def main():
     print(f"\nTotal data points extracted: {len(extracted_data)}")
 
     # 4. Check for debug files
-    debug_dir = os.path.join("debug_output", patent_id)
+    debug_dir = os.path.join(config.DEBUG_OUTPUT_DIR, patent_id)
     print(f"\n--- Debug Output ---")
     if os.path.exists(debug_dir):
         print(f"Debug directory created at: {debug_dir}")

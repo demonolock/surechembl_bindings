@@ -1,0 +1,6 @@
+{"raw_mentions": "There are no sentences or table rows in the provided text that contain all of the required elements: a bioactivity metric (IC50, Ki, Kd, EC50), a specific numeric value associated with that metric, and a unit for that value."}
+{"raw_mentions": "There are no sentences or table rows in the provided text that contain all of the following:\n1. A bioactivity metric (IC50, Ki, Kd, EC50).\n2. A specific numeric value associated with that metric (e.g., \"10\", \"5.5\", \"<100\").\n3. A unit for that value (e.g., \"nM\", \"uM\", \"%\").\n\nTherefore, there are no lines to return."}
+{"raw_mentions": "There are no sentences that meet the specified criteria. The text does not contain any sentences with a bioactivity metric (IC50, Ki, Kd, EC50), a specific numeric value, and a unit for that value."}
+{"raw_mentions": "IC50, i.e., the antibody concentration required to induce a 50% inhibition of Imax of the 3G8 binding, was calculated using the PRISM software."}
+{"final_json": [{"molecule_name": "", "protein_target_name": "3G8", "protein_uniprot_id": null, "protein_seq_id": null, "binding_metric": "IC50", "value": "", "unit": ""}]}
+{"raw_mentions": "None"}

@@ -1,3 +1,4 @@
+import os
 
 # --- API and Directory Configuration ---
 API_BASE_URL = "http://80.209.242.40:8000/v1"
@@ -5,7 +6,7 @@ API_KEY = "dummy-key"
 MODEL_NAME = "llama-3.3-70b-instruct"
 TEMPERATURE = 0.1
 MAX_TOKENS_RESPONSE = 4096
-DEBUG_OUTPUT_DIR = "debug_output"
+DEBUG_OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "debug_output")
 
 # --- Error Handling Configuration ---
 API_RETRY_ATTEMPTS = 3
@@ -20,7 +21,7 @@ CHUNK_OVERLAP = 300
 # --- Prompt Templates ---
 EXTRACTOR_FIND_PROMPT = """
 You are a highly specialized research assistant. Your task is to find and list sentences or table rows from the provided text.
-CRITICAL: A sentence/row is only relevant if it contains ALL of the following:
+A sentence/row is only relevant if it contains ALL of the following:
 1. A bioactivity metric (IC50, Ki, Kd, EC50).
 2. A specific numeric value associated with that metric (e.g., "10", "5.5", "<100").
 3. A unit for that value (e.g., "nM", "uM", "%").

@@ -6,7 +6,7 @@ import re
 import os
 from tqdm import tqdm
 
-from llm_patent_agents import config
+from . import config
 
 # --- Logging Setup ---
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -99,11 +99,14 @@ class _ExtractorAgent:
     """
     An agent that extracts structured data from a text chunk using a two-step LLM process.
     """
-    def run(self, text_chunk: str, patent_id: str, debug: bool = False) -> tuple[str | None, list[dict]]:
+    def run(self, text_chunk: str, patent_id: str, debug: bool = False, debug_output_dir: str | None = None) -> tuple[str | None, list[dict]]:
         """
         Runs the two-step extraction process.
         Returns the raw mentions and the extracted data.
         """
+        if debug and debug_output_dir is None:
+            debug_output_dir = config.DEBUG_OUTPUT_DIR
+
         # Step 1: Find raw mentions
         find_prompt = config.EXTRACTOR_FIND_PROMPT.format(text_chunk=text_chunk)
         raw_mentions = _call_llm(find_prompt)
@@ -114,7 +117,7 @@ class _ExtractorAgent:
 
         # Debugging: Save raw mentions
         if debug:
-            debug_dir = os.path.join(config.DEBUG_OUTPUT_DIR, patent_id)
+            debug_dir = os.path.join(debug_output_dir, patent_id)
             os.makedirs(debug_dir, exist_ok=True)
             with open(os.path.join(debug_dir, "02_extractor_outputs.jsonl"), "a") as f:
                 f.write(json.dumps({"raw_mentions": raw_mentions}) + "\n")
@@ -155,7 +158,7 @@ class _ExtractorAgent:
         
         # Debugging: Save final JSON
         if debug and extracted_data:
-            debug_dir = os.path.join(config.DEBUG_OUTPUT_DIR, patent_id)
+            debug_dir = os.path.join(debug_output_dir, patent_id)
             with open(os.path.join(debug_dir, "02_extractor_outputs.jsonl"), "a") as f:
                 f.write(json.dumps({"final_json": extracted_data}) + "\n")
 
@@ -163,17 +166,21 @@ class _ExtractorAgent:
 
 
 # --- Main Processing Function ---
-def process_patent_text(patent_text: str, associated_molecules: list[dict], patent_id: str, debug: bool = False) -> list[dict]:
+def process_patent_text(patent_text: str, associated_molecules: list[dict], patent_id: str, debug: bool = False, debug_output_dir: str | None = None) -> list[dict]:
     """
     Processes the full text of a patent to extract bioactivity data.
     """
+    # Determine debug directory
+    if debug and debug_output_dir is None:
+        debug_output_dir = config.DEBUG_OUTPUT_DIR
+
     # 1. Get relevant chunks
     relevant_chunks = _get_relevant_chunks(patent_text)
     logging.info(f"Found {len(relevant_chunks)} relevant chunks for patent {patent_id}.")
 
     # 2. Debug: Save chunks
     if debug:
-        debug_dir = os.path.join(config.DEBUG_OUTPUT_DIR, patent_id)
+        debug_dir = os.path.join(debug_output_dir, patent_id)
         os.makedirs(debug_dir, exist_ok=True)
         with open(os.path.join(debug_dir, "01_chunks.json"), "w") as f:
             json.dump(relevant_chunks, f, indent=4)
@@ -190,7 +197,7 @@ def process_patent_text(patent_text: str, associated_molecules: list[dict], pate
     # 4. & 5. Loop through chunks and extract data
     all_extracted_data = []
     for chunk in tqdm(relevant_chunks, desc=f"Processing chunks for {patent_id}"):
-        raw_mentions, extracted_data = agent.run(chunk, patent_id, debug)
+        raw_mentions, extracted_data = agent.run(chunk, patent_id, debug, debug_output_dir)
         if extracted_data:
             # Post-filter the results to ensure they meet the criteria
             for item in extracted_data:
