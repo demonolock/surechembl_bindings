@@ -1,0 +1,22 @@
+[
+    {
+        "molecule_name": "anti-RAGE antibodies",
+        "protein_target_name": "RAGE",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "1×10−7",
+        "unit": "M",
+        "raw_mentions": "The invention includes anti-RAGE antibodies that bind specifically to RAGE-expressing cells in vitro and in vivo, and antibodies that bind to human RAGE with a dissociation constant (Kd) in the range of from at least about 1×10<sup>−7 </sup>M to about 1×10<sup>−10 </sup>M."
+    },
+    {
+        "molecule_name": "anti-RAGE antibodies",
+        "protein_target_name": "RAGE",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "1×10−10",
+        "unit": "M",
+        "raw_mentions": "The invention includes anti-RAGE antibodies that bind specifically to RAGE-expressing cells in vitro and in vivo, and antibodies that bind to human RAGE with a dissociation constant (Kd) in the range of from at least about 1×10<sup>−7 </sup>M to about 1×10<sup>−10 </sup>M."
+    }
+]

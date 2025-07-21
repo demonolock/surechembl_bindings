@@ -1,0 +1,22 @@
+[
+    {
+        "molecule_name": "ANG-1",
+        "protein_target_name": "Tie2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": "33",
+        "binding_metric": "Kd",
+        "value": "3",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nANG-1 and ANG-2 were initially identified as agonists and antagonists, respectively, in tissue culture experiments (for ANG-1 see: Davis, S., et al, Cell 87(1996) 1161-. \nAll known angiopoietins bind predominantly Tie2(SEQ ID NO: 33), and both ANG-1 and-2 bind Tie2 with an affinity of 3nM (Kd) (Maison Pierre, P.C., et al, Science 277(1997) 55-60)."
+    },
+    {
+        "molecule_name": "ANG-2",
+        "protein_target_name": "Tie2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": "33",
+        "binding_metric": "Kd",
+        "value": "3",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nANG-1 and ANG-2 were initially identified as agonists and antagonists, respectively, in tissue culture experiments (for ANG-1 see: Davis, S., et al, Cell 87(1996) 1161-. \nAll known angiopoietins bind predominantly Tie2(SEQ ID NO: 33), and both ANG-1 and-2 bind Tie2 with an affinity of 3nM (Kd) (Maison Pierre, P.C., et al, Science 277(1997) 55-60)."
+    }
+]
