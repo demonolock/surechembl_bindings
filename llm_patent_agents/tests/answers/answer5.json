@@ -1,0 +1,42 @@
+[
+  {
+    "smiles": "COC1=NC(NC[C@H](F)CN2C3=C(C=C(Br)C=C3)C3=C2C=CC(Br)=C3)=CC=C1",
+    "inchi_key": "GAQWKARFCURWKO-HNNXBMFYSA-N",
+    "protein_target_name": "CYP1A2",
+    "protein_uniprot_id": null,
+    "protein_seq_id": null,
+    "binding_metric": "IC50",
+    "value": "20",
+    "unit": "uM"
+  },
+  {
+    "smiles": "COC1=NC(NC[C@H](F)CN2C3=C(C=C(Br)C=C3)C3=C2C=CC(Br)=C3)=CC=C1",
+    "inchi_key": "GAQWKARFCURWKO-HNNXBMFYSA-N",
+    "protein_target_name": "CYP2C19",
+    "protein_uniprot_id": null,
+    "protein_seq_id": null,
+    "binding_metric": "IC50",
+    "value": "1.9",
+    "unit": "uM"
+  },
+  {
+    "smiles": "COC1=NC(NC[C@H](F)CN2C3=C(C=C(Br)C=C3)C3=C2C=CC(Br)=C3)=CC=C1",
+    "inchi_key": "GAQWKARFCURWKO-HNNXBMFYSA-N",
+    "protein_target_name": "μ-opioid receptor",
+    "protein_uniprot_id": null,
+    "protein_seq_id": null,
+    "binding_metric": "IC50",
+    "value": "8.2",
+    "unit": "uM"
+  },
+  {
+    "smiles": "COC1=NC(NC[C@H](F)CN2C3=C(C=C(Br)C=C3)C3=C2C=CC(Br)=C3)=CC=C1",
+    "inchi_key": "GAQWKARFCURWKO-HNNXBMFYSA-N",
+    "protein_target_name": "translocator protein (TSPO)",
+    "protein_uniprot_id": null,
+    "protein_seq_id": null,
+    "binding_metric": "IC50",
+    "value": "0.35",
+    "unit": "uM"
+  }
+]
