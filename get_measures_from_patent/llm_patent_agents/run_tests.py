@@ -1,7 +1,7 @@
 import json
 import os
-from patent_processor import process_patent_text
-import config
+from .patent_processor import process_patent_text
+from . import config
 
 def main():
     """
