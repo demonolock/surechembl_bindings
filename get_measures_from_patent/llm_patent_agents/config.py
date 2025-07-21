@@ -4,7 +4,7 @@ import os
 API_BASE_URL = "http://80.209.242.40:8000/v1"
 API_KEY = "dummy-key"
 MODEL_NAME = "llama-3.3-70b-instruct"
-TEMPERATURE = 0.0
+TEMPERATURE = 0.1
 MAX_TOKENS_RESPONSE = 4096
 DEBUG_OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "debug_output")
 
