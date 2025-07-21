@@ -1,0 +1,2 @@
+{"raw_mentions": "The EC50 of compound II-a was in a range of 0.070 - 0.02 nM (e.g. 0.070, 0.075, 0.080, 0.085, 0.090, 0.095, 0.010, 0.015 or 0.02 nM)"}
+{"final_json": [{"molecule_name": "compound II-a", "protein_target_name": null, "protein_uniprot_id": null, "protein_seq_id": null, "binding_metric": "EC50", "value": "0.070 - 0.02", "unit": "nM"}]}

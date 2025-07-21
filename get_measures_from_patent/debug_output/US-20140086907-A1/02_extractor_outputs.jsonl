@@ -1,0 +1,4 @@
+{"raw_mentions": "There are no sentences that meet the specified criteria. The text does not contain any sentences with a bioactivity metric (IC50, Ki, Kd, EC50), a specific numeric value, and a unit for that value."}
+{"raw_mentions": "A dose can be formulated in animal models to achieve a circulating plasma concentration range that includes the IC50 (i.e., the concentration of the multimodal TRAIL agent), which achieves a half-maximal inhibition of symptoms) as determined in cell culture, or in an appropriate animal model."}
+{"final_json": [{"molecule_name": null, "protein_target_name": null, "protein_uniprot_id": null, "protein_seq_id": null, "binding_metric": "IC50", "value": null, "unit": null}]}
+{"raw_mentions": "There are no sentences that meet the specified criteria. The text does not contain any sentences with a bioactivity metric (IC50, Ki, Kd, EC50), a specific numeric value, and a unit for that value."}

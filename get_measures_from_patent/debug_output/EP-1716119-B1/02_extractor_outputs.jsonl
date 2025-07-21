@@ -1,0 +1,2 @@
+{"raw_mentions": "The mean IC50 over all cell lines in the panel is 120 nM (Developmental Therapeutics Program Website: http://dtp.nci.nih.gov/, mean graph for compound S330507)."}
+{"final_json": [{"molecule_name": "S330507", "protein_target_name": null, "protein_uniprot_id": null, "protein_seq_id": null, "binding_metric": "IC50", "value": "120", "unit": "nM"}]}
