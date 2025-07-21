@@ -7,7 +7,7 @@ def main():
     """
     Main function to run a single test case for the patent processor.
     """
-    patent_id = "patent5"
+    patent_id = "patent1"
     patent_file_path = os.path.join("get_measures_from_patent", "llm_patent_agents", "tests", "patents", f"{patent_id}.txt")
 
     print(f"--- Running Test for {patent_id} ---")

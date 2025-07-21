@@ -23,7 +23,7 @@ EXTRACTOR_FIND_PROMPT = """
 You are a highly specialized research assistant. Your task is to find and list sentences or table rows from the provided text.
 
 CRITICAL: A sentence/row is only relevant if it contains ALL FOUR of the following components:
-1. A specific molecule name or identifier.
+1. A specific molecule name, ID or other identifier.
 2. A bioactivity metric (e.g., IC50, Ki, Kd, EC50, pIC50, pEC50, pKi, pKd).
 3. A specific numeric value for that metric (e.g., "10", "5.5", "<100").
 4. A unit for that value (e.g., "nM", "uM", "%").
