@@ -9,31 +9,55 @@ from_cache = True
 # Тут результат выгрузки filter/__main__.py
 patent_dir = "/home/vshepard/hackaton_life/patents"
 
+dir_path = os.path.dirname(os.path.abspath(__file__))
+processed_patents_file = os.path.join(dir_path, 'output', 'processed_patents.json')
+# Get processed patent_number list
+if os.path.exists(processed_patents_file):
+    with open(processed_patents_file, "r", encoding="utf-8") as f:
+        try:
+            processed_patents = set(json.load(f))
+        except Exception:
+            processed_patents = set()
+else:
+    processed_patents = set()
+
+def save_processed_patents():
+    with open(processed_patents_file, "w", encoding="utf-8") as f:
+        json.dump(list(processed_patents), f, indent=2, ensure_ascii=False)
+
 def process_description(patent_text, patent_number, output_dir):
-        print(f'End download {patent_number}')
-        extracted_data = process_patent_text(
-            patent_text=patent_text,
-            associated_molecules=[],
-            patent_id=patent_number,
-            debug=True,
-            debug_output_dir=output_dir
-        )
+    if patent_number in processed_patents:
+        print(f"{patent_number} already processed, skipping.")
+        return
 
-        # Save the final JSON output
-        if extracted_data:
-            debug_dir = os.path.join(output_dir, patent_number)
-            os.makedirs(debug_dir, exist_ok=True)
-            final_output_path = os.path.join(debug_dir, "03_final_output.json")
-            with open(final_output_path, "w", encoding="utf-8") as f:
-                json.dump(extracted_data, f, indent=4, ensure_ascii=False)
-            print(f"- Saved final output to: {final_output_path}")
+    print(f'End download {patent_number}')
+    extracted_data = process_patent_text(
+        patent_text=patent_text,
+        associated_molecules=[],
+        patent_id=patent_number,
+        debug=True,
+        debug_output_dir=output_dir
+    )
 
-        # 3. Print the final result
-        res = json.dumps(extracted_data, indent=4)
-        print("\n--- Final Extracted Data ---")
-        print(res)
-        print(f"\nTotal data points extracted: {len(extracted_data)}")
+    # Save the final JSON output
+    if extracted_data:
+        debug_dir = os.path.join(output_dir, patent_number)
+        os.makedirs(debug_dir, exist_ok=True)
+        final_output_path = os.path.join(debug_dir, "03_final_output.json")
+        with open(final_output_path, "w", encoding="utf-8") as f:
+            json.dump(extracted_data, f, indent=4, ensure_ascii=False)
+        print(f"- Saved final output to: {final_output_path}")
 
+    # Print the final result
+    res = json.dumps(extracted_data, indent=4)
+    print("\n--- Final Extracted Data ---")
+    print(res)
+    print(f"\nTotal data points extracted: {len(extracted_data)}")
+
+    # Mark this patent as processed, save immediately, and print confirmation
+    processed_patents.add(patent_number)
+    save_processed_patents()
+    print(f"Patent {patent_number} added to {processed_patents_file} and saved.")
 
 def main():
     output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "debug_output")
@@ -66,7 +90,5 @@ def main():
                 print(f'FAILED download {patent_number} after 40 sec')
                 with open('patent_ids_error.txt', 'a') as f:
                     f.write(patent_number + '\n')
-
-
 
 main()
