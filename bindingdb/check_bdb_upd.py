@@ -88,7 +88,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     df = pd.read_csv(
-        'BindingDB_singlechain.csv.gz', sep=',',
+        'BindingDB_singlechain.csv', sep=',',
         usecols=[
             "Ligand SMILES", "Ligand InChI", "Ligand InChI Key",
             "Target Name", "Sequence",

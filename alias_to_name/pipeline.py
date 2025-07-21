@@ -6,46 +6,24 @@
 import json
 import os
 
-from alias_to_name.web_utils import fetch_patent, split_text_with_overlap
-
-from alias_to_name.utils import ask_llm
+from alias_to_name.utils import fetch_patent, split_text_with_overlap, ask_llm, get_alias_list, process_patent
 
 dir_path = os.path.dirname(os.path.abspath(__file__))
-patent_number = "EP-3068388-A2"
-measures_file = os.path.join(dir_path, "data/json/03_final_output.json")
+measures_file = os.path.join(dir_path, "output/final_json.json")
 patent_file = os.path.join(dir_path, "data/json/patent_EP-3068388-A2.json")
 
 with open(measures_file, "r", encoding="utf‑8") as f:
     measures = json.load(f)
 
-# Сайт не грузит, пока читаю с файла
-# patent_data = fetch_patent(patent_number)
-with open(patent_file, "r", encoding="utf‑8") as f:
-    patent_data = json.load(f)
-
-description = patent_data['data']['contents']['patentDocument']['descriptions'][0]['section']
-content = description['content']
-annotations = description['annotations']
-chemicals = []
-for a in annotations:
-    if a['category'] == 'chemical' or a['category'] == 'target':
-        chemicals.append(a['name'].lower().strip())
-
-for measure in measures:
-    aliases = []
-    molecule_name = measure['molecule_name'].lower().strip()
-    if molecule_name not in chemicals:
-        aliases.append(measure['molecule_name'])
-
-
-
+patent_numbers = set([measure['patent_number'] for measure in measures if 'patent_number' in measure])
+# Если сайт не грузит, читаю с файла
+# with open(patent_file, "r", encoding="utf‑8") as f:
+#     patent_data = json.load(f)
 
 SYSTEM_PROMPT = """
 You are a chemistry nomenclature expert.
 Task: For each alias below, return the most common name of the molecule it refers to.
 If an alias is unknown or maps to multiple molecules, output “Not found”.
-Order matters – keep the answers in the same order as the aliases appear.
-Output only the names (one per line, no bullets, no extra text).
 """
 USER_PROMPT = """
 Alias list start:
@@ -53,12 +31,20 @@ Alias list start:
 
 Text:
 {patent_text}
+
+Return only in format "alias, molecula_name" and nothing more
 """
 
-for chunck_text in split_text_with_overlap(content):
-    aliases_in_chunk = []
-    message = [{"role": "system", "content": SYSTEM_PROMPT},
-               {"role": "user",   "content": USER_PROMPT.format(alias_list=[])}]
-    ask_llm(message=message)
+for patent_number in patent_numbers:
+    try:
+        patent_data = fetch_patent(patent_number)
+        filtered_measures = [measure for measure in measures if measure['patent_number'] == patent_number]
+        content, aliases = get_alias_list(patent_data, filtered_measures)
+
+        result = process_patent(SYSTEM_PROMPT, USER_PROMPT, patent_number, measures)
+        if result and len(result) > 0:
+            print(result)
+    except Exception as err:
+        print(f"skip {patent_number}")
 
 print()

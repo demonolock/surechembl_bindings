@@ -1,3 +1,4 @@
+{"raw_mentions": "There are no sentences or table rows in the provided text that contain all of the required elements: a bioactivity metric (IC50, Ki, Kd, EC50), a specific numeric value associated with that metric, and a unit for that value."}
 {"raw_mentions": "However, experiments were realized in acellular in vitro assay and the IC50 of Stx1 was shifted by one order of magnitude in presence of 0.8 mM 4-APP."}
 {"final_json": [{"molecule_name": "4-APP", "protein_target_name": "Stx1", "protein_uniprot_id": null, "protein_seq_id": null, "binding_metric": "IC50", "value": "one order of magnitude", "unit": null}]}
 {"raw_mentions": "None"}

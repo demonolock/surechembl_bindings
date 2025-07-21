@@ -5,7 +5,7 @@ from patent_filter import patent_filter
 from patent_parser import fetch_patent_description
 from get_patents import get_patents_ids
 
-patent_dirs = '/home/chebykin/patents'
+patent_dirs = '/home/vshepard/hackaton_life/patents'
 def main():
     all_patent_numbers = get_patents_ids('data/patent_ids_dummy.txt')
     unfiltered_patents = get_patents_ids('out/patent_ids_unfiltered.txt')
@@ -13,7 +13,7 @@ def main():
 
     curr_patents_numbers = all_patent_numbers - unfiltered_patents - filtered_patents
 
-    max_workers = 4  # Максимум CPU - то что вы используете (браузер, IDE). Я взяла половину от своих 16 CPU
+    max_workers = 16  # Максимум CPU - то что вы используете (браузер, IDE). Я взяла половину от своих 16 CPU
 
     with ProcessPoolExecutor(max_workers=max_workers) as executor:
         future_to_patent = {executor.submit(fetch_patent_description, pn): pn for pn in curr_patents_numbers}
