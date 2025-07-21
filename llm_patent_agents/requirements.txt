@@ -1,0 +1,7 @@
+openai
+pandas
+tqdm
+thefuzz
+python-Levenshtein
+pytest
+pytest-mock
