@@ -29,15 +29,9 @@ csv_header = [
     "Ki (nM)",
     "IC50 (nM)",
     "Kd (nM)",
-    "EC50 (nM)"
+    "EC50 (nM)",
+    "unit"
 ]
-
-metric_fields = {
-    "Ki": "Ki (nM)",
-    "IC50": "IC50 (nM)",
-    "Kd": "Kd (nM)",
-    "EC50": "EC50 (nM)"
-}
 
 with open(final_json, 'r', encoding='utf-8') as f:
     data = json.load(f)
@@ -49,11 +43,11 @@ with open(bindb_csv, 'w', encoding='utf-8', newline='') as w_file:
     for row in data:
         # Ensure required keys are present
         if (
-            "Ligand InChI Key" in row and
-            "Sequence" in row and
-            "binding_metric" in row and
-            "value" in row and
-            "unit" in row
+            row["Ligand InChI Key" ] and
+            row["Sequence"] and
+            row["binding_metric"] and
+            row["value"] and
+            row["unit"]
         ):
             out_row = {
                 "Ligand SMILES": row.get("Ligand SMILES", ""),
@@ -63,20 +57,13 @@ with open(bindb_csv, 'w', encoding='utf-8', newline='') as w_file:
                 "IC50 (nM)": "",
                 "Kd (nM)": "",
                 "EC50 (nM)": "",
+                "unit": row.get( "unit", "")
             }
-
             metric = row["binding_metric"]
-            column = metric_fields.get(metric)
-            value = str(row["value"])
-            unit = str(row["unit"])
-
-            if column:
-                # If the unit is nM, just write the value, else write value + unit
-                if unit.lower() == "nm":
-                    out_row[column] = value
-                else:
-                    out_row[column] = f"{value} {unit}"
-
+            if metric not in ['IC50', 'EC50', 'Kd', 'Ki']:
+                print(f"skip {metric}")
+                continue
+            out_row[f"{metric} (nM)"] = row.get("value", "")
             writer.writerow(out_row)
 
     

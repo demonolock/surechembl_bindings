@@ -1,3 +1,5 @@
+import os
+
 import pandas as pd
 import numpy as np
 import argparse
@@ -81,9 +83,12 @@ def standardize_and_validate_smiles(smiles: str) -> Optional[str]:
         return None
 
 if __name__ == "__main__":
+    dir_path = os.path.dirname(os.path.realpath(__file__))
+    our_output = os.path.join(dir_path, "enrich_data", "output", "bindb.csv")
+
     parser = argparse.ArgumentParser(description='Evaluate test data against BindingDB dataset.')
-    parser.add_argument('--test_csv', help='Path to test CSV file', required=True)
-    parser.add_argument('--mol_representation_filter', default='smiles', choices=['smiles', 'InChI_key'],
+    parser.add_argument('--test_csv', default=our_output, help='Path to test CSV file')
+    parser.add_argument('--mol_representation_filter', default='InChI_key', choices=['smiles', 'InChI_key'],
                         help='Which molecular representation to use for identifying unique ligand-target pairs (default: smiles)')
     args = parser.parse_args()
 
