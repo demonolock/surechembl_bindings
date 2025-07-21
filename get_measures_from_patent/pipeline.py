@@ -12,7 +12,7 @@ from filter.src.get_patents import get_patents_ids
 # Настройка логирования
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-def process_single_patent(patent_number, output_dir, timeout=120):
+def process_single_patent(patent_number, output_dir, timeout=40):
     """Обрабатывает один патент: скачивает и извлекает данные."""
     try:
         logging.info(f'Начинаю обработку патента: {patent_number}')
@@ -75,7 +75,7 @@ def main():
     parser.add_argument(
         "--timeout",
         type=int,
-        default=120,
+        default=40,
         help="Таймаут в секундах для скачивания одного патента."
     )
     args = parser.parse_args()
