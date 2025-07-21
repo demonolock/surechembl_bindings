@@ -21,12 +21,14 @@ CHUNK_OVERLAP = 300
 # --- Prompt Templates ---
 EXTRACTOR_FIND_PROMPT = """
 You are a highly specialized research assistant. Your task is to find and list sentences or table rows from the provided text.
-A sentence/row is only relevant if it contains ALL of the following:
-1. A bioactivity metric (IC50, Ki, Kd, EC50).
-2. A specific numeric value associated with that metric (e.g., "10", "5.5", "<100").
-3. A unit for that value (e.g., "nM", "uM", "%").
 
-Do NOT include sentences that only describe methods or calculations in general terms. Only extract lines with concrete data points.
+CRITICAL: A sentence/row is only relevant if it contains ALL FOUR of the following components:
+1. A specific molecule name or identifier.
+2. A bioactivity metric (e.g., IC50, Ki, Kd, EC50, pIC50, pEC50, pKi, pKd).
+3. A specific numeric value for that metric (e.g., "10", "5.5", "<100").
+4. A unit for that value (e.g., "nM", "uM", "%").
+
+Extract enough contex to identify specific molecule. Do NOT include sentences that only describe methods or calculations in general terms.
 Return ONLY the raw sentences/lines, one per line.
 
 --- Text Snippet to Analyze ---
@@ -40,15 +42,17 @@ You are a data formatting specialist. Based on the list of raw sentences/lines p
 Rules:
 1. Extract data EXACTLY as it is written. Do not change or normalize values.
 2. For the 'value' field, if the text contains an operator like '<10' or '>1000', extract it as a string, e.g., "<10".
+3. If a value for a field is not present in the text, the value for that key must be null.
+4. For "molecule_name", extract the most specific identifier available. If the text mentions both a general class and a specific ID, extract the specific ID.
 JSON format for each object:
 {{
-    "molecule_name": "name, ID or other identifictor of the molecule",
-    "protein_target_name": "the name of the target protein as mentioned in the text",
+    "molecule_name": "name, ID or other identifier of the molecule. If not found, use null.",
+    "protein_target_name": "the name of the target protein. If not found, use null.",
     "protein_uniprot_id": "UniProt ID if available, else null",
     "protein_seq_id": "SEQ ID NO if available, else null",
-    "binding_metric": "the metric type like IC50, Ki, KB, Kd, EC50",
+    "binding_metric": "the metric type like IC50, Ki, Kd, EC50, pIC50, pEC50, pKi, pKd",
     "value": "the numeric value as a string",
-    "unit": "nM, uM, pM, or %"
+    "unit": "the unit for the value (e.g., nM, uM, pM, %). If not found, use null."
 }}
 
 --- Raw Sentences/Lines to Format ---
