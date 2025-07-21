@@ -3,6 +3,9 @@ import json
 import requests
 import time
 
+from selenium.webdriver.common.devtools.v136.debugger import step_out
+
+
 def fetch_patent(patent_number, retries=3, backoff=5):
     url = f"https://surechembl.org/api/document/{patent_number}/contents"
     headers = {"User-Agent": "Mozilla/5.0"}
@@ -23,15 +26,15 @@ def fetch_patent(patent_number, retries=3, backoff=5):
     raise last_exception
 
 
-def split_text_with_overlap(text, chunk_size=1500, overlap=300):
+def split_text_with_overlap(text, chunk_size=1000, overlap=300):
     assert overlap < chunk_size, "Overlap must be smaller than chunk size"
     chunks = []
     start = 0
     step = chunk_size - overlap
-
-    while start < len(text):
+    list_words = text.split()
+    while start < len(list_words):
         end = start + chunk_size
-        chunks.append(text[start:end])
+        chunks.append(" ".join(list_words[start:end]))
         start += step
 
     return chunks
@@ -44,7 +47,6 @@ def get_alias_list(patent_data, measures):
     for a in annotations:
         if a['category'] == 'chemical' or a['category'] == 'target':
             chemicals.append(a['name'].lower().strip())
-
     aliases = set()
     for measure in measures:
         if isinstance(measure['molecule_name'], str):
@@ -69,15 +71,26 @@ def ask_llm(message, max_tokens=2000, temperature=0.3):
     )
     return response.choices[0].message.content
 
+def parse_llm_output(llm_output: str) -> dict[str, str]:
+    alias_value = {}
+    for line in llm_output.splitlines():
+        term = line.split(',')
+        if len(term) == 2:
+            alias_value[term[0]] = term[1]
+        else:
+            print(f"Skip inconsistent llm out {line}")
+    return alias_value
 
-def process_patent(SYSTEM_PROMPT, USER_PROMPT, patent_number, measures):
-    patent_data = fetch_patent(patent_number)
-    content_for_patent, aliases_in_patent = get_alias_list(patent_data, measures)
 
-    full_output = None
-    for chunk_text in split_text_with_overlap(content_for_patent):
+def process_patent(SYSTEM_PROMPT, USER_PROMPT, content, aliases):
+    # patent_data = fetch_patent(patent_number)
+    # content_for_patent, aliases_in_patent = get_alias_list(patent_data, measures)
+
+    full_output = ""
+    alias_value_ans = {}
+    for chunk_text in split_text_with_overlap(content):
         # Filter aliases present in this chunk
-        aliases_in_chunk = [alias for alias in aliases_in_patent if alias in chunk_text]
+        aliases_in_chunk = [alias for alias in aliases if alias in chunk_text]
         if not aliases_in_chunk:
             continue
         user_prompt = USER_PROMPT.format(
@@ -88,8 +101,15 @@ def process_patent(SYSTEM_PROMPT, USER_PROMPT, patent_number, measures):
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": user_prompt}
         ]
+        print(message)
         output = ask_llm(message=message)
-        full_output += output
+        print(output)
+        full_output += output + '\n'
+        alias_value = parse_llm_output(output)
+        for alias, value in alias_value.items():
+            if alias in aliases:
+                alias_value_ans[alias] = value
+                aliases.remove(alias)
         # # Extract JSON from model output (if not already JSON, parse as needed)
         # try:
         #     result_json = json.loads(output)
@@ -107,4 +127,4 @@ def process_patent(SYSTEM_PROMPT, USER_PROMPT, patent_number, measures):
         # # Stop if all aliases are found
         # if not aliases_in_patent:
         #     break
-    return full_output
+    return full_output, alias_value_ans

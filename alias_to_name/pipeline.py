@@ -35,16 +35,23 @@ Text:
 Return only in format "alias, molecula_name" and nothing more
 """
 
+# patent_numbers = ['EP-2566876-A1']
 for patent_number in patent_numbers:
     try:
+        print(patent_number)
         patent_data = fetch_patent(patent_number)
         filtered_measures = [measure for measure in measures if measure['patent_number'] == patent_number]
+        # filtered_measures = [{'molecule_name': 'sildenafil', 'protein_target_name': None, 'protein_uniprot_id': None, 'protein_seq_id': None, 'binding_metric': 'IC50', 'value': None, 'unit': None, 'patent_number': 'WO-2006023603-A2'}, {'molecule_name': 'sildenafil', 'protein_target_name': None, 'protein_uniprot_id': None, 'protein_seq_id': None, 'binding_metric': None, 'value': '10.4 ± 5.7', 'unit': 'nM', 'patent_number': 'WO-2006023603-A2'}, {'molecule_name': 'sildenafil', 'protein_target_name': 'PDE5 A', 'protein_uniprot_id': None, 'protein_seq_id': None, 'binding_metric': None, 'value': '-10', 'unit': 'nM', 'patent_number': 'WO-2006023603-A2'}, {'molecule_name': 'sildenafil', 'protein_target_name': None, 'protein_uniprot_id': None, 'protein_seq_id': None, 'binding_metric': None, 'value': '10', 'unit': 'nM', 'patent_number': 'WO-2006023603-A2'}, {'molecule_name': 'sildenafil', 'protein_target_name': None, 'protein_uniprot_id': None, 'protein_seq_id': None, 'binding_metric': 'IC50', 'value': '5-10', 'unit': 'nM', 'patent_number': 'WO-2006023603-A2'}, {'molecule_name': 'EMD 360527', 'protein_target_name': None, 'protein_uniprot_id': None, 'protein_seq_id': None, 'binding_metric': 'IC50', 'value': '1', 'unit': 'μM', 'patent_number': 'WO-2006023603-A2'}, {'molecule_name': 'compounds', 'protein_target_name': 'PDE5A', 'protein_uniprot_id': None, 'protein_seq_id': None, 'binding_metric': 'IC50', 'value': '-10', 'unit': 'nM', 'patent_number': 'WO-2006023603-A2'}, {'molecule_name': 'sildenafil', 'protein_target_name': 'PDE5A', 'protein_uniprot_id': None, 'protein_seq_id': None, 'binding_metric': None, 'value': '37±5.2', 'unit': 'nM', 'patent_number': 'WO-2006023603-A2'}, {'molecule_name': 'EMD-360527/5', 'protein_target_name': 'PDE5A', 'protein_uniprot_id': None, 'protein_seq_id': None, 'binding_metric': None, 'value': None, 'unit': None, 'patent_number': 'WO-2006023603-A2'}, {'molecule_name': 'compounds', 'protein_target_name': 'PDEl', 'protein_uniprot_id': None, 'protein_seq_id': None, 'binding_metric': 'IC50', 'value': '1-20', 'unit': 'μM', 'patent_number': 'WO-2006023603-A2'}, {'molecule_name': 'compounds', 'protein_target_name': 'PDE3', 'protein_uniprot_id': None, 'protein_seq_id': None, 'binding_metric': 'IC50', 'value': '1-20', 'unit': 'μM', 'patent_number': 'WO-2006023603-A2'}]
         content, aliases = get_alias_list(patent_data, filtered_measures)
 
-        result = process_patent(SYSTEM_PROMPT, USER_PROMPT, patent_number, measures)
+        print("aliases")
+        print(aliases)
+        result, alias_value_ans = process_patent(SYSTEM_PROMPT, USER_PROMPT, content, aliases)
         if result and len(result) > 0:
             print(result)
+            print(alias_value_ans)
     except Exception as err:
         print(f"skip {patent_number}")
+        print(err)
 
 print()
