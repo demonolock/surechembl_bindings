@@ -1,4 +1,7 @@
 import json
+import random
+import string
+import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import requests
 import shelve
@@ -45,25 +48,55 @@ def name_to_inchi_key(name, inchi_key_cache):
     inchi_key_cache[name] = inchi_key
     return inchi_key
 
+def random_email(domain="gmail.com"):
+    username = ''.join(random.choices(string.ascii_lowercase + string.digits, k=10))
+    return f"{username}@{domain}"
+
 def get_sequence_uniprot(protein_name, sequence_cache):
     if protein_name in sequence_cache:
         return sequence_cache[protein_name]
     url = f"https://rest.uniprot.org/uniprotkb/search?query={protein_name}&format=json&fields=accession"
-    resp = requests.get(url)
-    if not resp.ok or not resp.json().get("results"):
-        sequence_cache[protein_name] = None
-        return None
-    accession = resp.json()["results"][0]["primaryAccession"]
-    seq_url = f"https://rest.uniprot.org/uniprotkb/{accession}.fasta"
-    seq_resp = requests.get(seq_url)
-    if not seq_resp.ok:
-        sequence_cache[protein_name] = None
-        return None
-    fasta = seq_resp.text
-    lines = fasta.splitlines()
-    sequence = "".join(line.strip() for line in lines if not line.startswith(">"))
-    sequence_cache[protein_name] = sequence
-    return sequence
+    try:
+        resp = requests.get(url, timeout=15)
+        if resp.ok and resp.json().get("results"):
+            accession = resp.json()["results"][0]["primaryAccession"]
+            seq_url = f"https://rest.uniprot.org/uniprotkb/{accession}.fasta"
+            seq_resp = requests.get(seq_url, timeout=15)
+            if seq_resp.ok:
+                fasta = seq_resp.text
+                lines = fasta.splitlines()
+                sequence = "".join(line.strip() for line in lines if not line.startswith(">"))
+                if sequence:
+                    sequence_cache[protein_name] = sequence
+                    return sequence
+    except Exception as e:
+        pass  # Try next source
+
+    # 2. Try GenBank/RefSeq via NCBI Entrez (requires Biopython)
+    # Тут может быть  HTTP Error 429: Too Many Requests
+    # Но я расчитываю что редко сюда будем попадать с реальным сиквенсом. Потом можно улучшить и обернуть в rate limit.
+    try:
+        from Bio import Entrez, SeqIO
+        Entrez.email = random_email()
+        # Search for the protein by name in protein db (includes GenBank, RefSeq)
+        handle = Entrez.esearch(db="protein", term=protein_name, retmax=1)
+        record = Entrez.read(handle)
+        if record["IdList"]:
+            protein_id = record["IdList"][0]
+            fetch_handle = Entrez.efetch(db="protein", id=protein_id, rettype="fasta", retmode="text")
+            seq_record = SeqIO.read(fetch_handle, "fasta")
+            sequence = str(seq_record.seq)
+            if sequence:
+                time.sleep(1) # rate limit
+                print("Found sequence:", sequence)
+                sequence_cache[protein_name] = sequence
+                return sequence
+    except Exception as e:
+        pass
+
+    sequence_cache[protein_name] = None
+    return None
+
 
 def process_one(result, inchi_key_cache, sequence_cache):
     inchi_key = None
