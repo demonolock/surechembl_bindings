@@ -14,7 +14,7 @@ def fetch_patent_description(doc_id: str) -> str|None:
             # Find English description
             for desc in descriptions:
                 if desc.get('lang') == 'EN' and 'section' in desc and 'content' in desc['section']:
-                    return desc['section']['content']
+                    return desc['section']
             return None
     except Exception:
         return None

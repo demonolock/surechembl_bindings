@@ -51,10 +51,9 @@ def get_alias_list(patent_data, measures):
             chemicals.append(a['name'].lower().strip())
     aliases = set()
     for measure in measures:
-        if isinstance(measure['molecule_name'], str) and isinstance(measure['protein_target_name'], str):
-            molecule_name = measure['molecule_name'].lower().strip()
-            if molecule_name not in chemicals:
-                aliases.add(measure['molecule_name'])
+        molecule_name = measure['molecule_name'].lower().strip()
+        if molecule_name not in chemicals:
+            aliases.add(measure['molecule_name'])
     return content, list(aliases)
 
 
