@@ -56,22 +56,21 @@ def _call_llm(prompt: str) -> str | None:
                 return None
 
 # --- Chunking Function ---
-def _get_relevant_chunks(text: str) -> list[str]:
+def _get_relevant_chunks(text: str, metric_regex_pattern, chunk_context_size, negative_keywords_regex=None) -> list[str]:
     """
     Finds relevant chunks of text based on metric keywords and filters out negative keywords.
     """
     # 1. Find all metric positions
-    metric_positions = [m.start() for m in re.finditer(config.METRIC_REGEX_PATTERN, text, re.IGNORECASE)]
+    metric_positions = [m.start() for m in re.finditer(metric_regex_pattern, text, re.IGNORECASE)]
     if not metric_positions:
         return []
 
     # 2. Create intervals
     intervals = []
     for pos in metric_positions:
-        start = max(0, pos - config.CHUNK_CONTEXT_SIZE)
-        end = min(len(text), pos + config.CHUNK_CONTEXT_SIZE)
+        start = max(0, pos - chunk_context_size)
+        end = min(len(text), pos + chunk_context_size)
         intervals.append((start, end))
-
     # 3. Merge overlapping intervals
     if not intervals:
         return []
@@ -89,7 +88,7 @@ def _get_relevant_chunks(text: str) -> list[str]:
     final_chunks = []
     for start, end in merged_intervals:
         chunk = text[start:end]
-        if not re.search(config.NEGATIVE_KEYWORDS_REGEX, chunk, re.IGNORECASE):
+        if not negative_keywords_regex or not re.search(negative_keywords_regex, chunk, re.IGNORECASE):
             final_chunks.append(chunk)
 
     return final_chunks
@@ -175,7 +174,12 @@ def process_patent_text(patent_text: str, associated_molecules: list[dict], pate
         debug_output_dir = config.DEBUG_OUTPUT_DIR
 
     # 1. Get relevant chunks
-    relevant_chunks = _get_relevant_chunks(patent_text)
+    relevant_chunks = _get_relevant_chunks(
+        patent_text,
+        config.METRIC_REGEX_PATTERN,
+        config.CHUNK_CONTEXT_SIZE,
+        config.NEGATIVE_KEYWORDS_REGEX
+    )
     logging.info(f"Found {len(relevant_chunks)} relevant chunks for patent {patent_id}.")
 
     # 2. Debug: Save chunks

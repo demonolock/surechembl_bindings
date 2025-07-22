@@ -5,6 +5,8 @@ import time
 
 from selenium.webdriver.common.devtools.v136.debugger import step_out
 
+from get_measures_from_patent.llm_patent_agents.patent_processor import _get_relevant_chunks
+
 
 def fetch_patent(patent_number, retries=3, backoff=5):
     url = f"https://surechembl.org/api/document/{patent_number}/contents"
@@ -49,7 +51,7 @@ def get_alias_list(patent_data, measures):
             chemicals.append(a['name'].lower().strip())
     aliases = set()
     for measure in measures:
-        if isinstance(measure['molecule_name'], str):
+        if isinstance(measure['molecule_name'], str) and isinstance(measure['protein_target_name'], str):
             molecule_name = measure['molecule_name'].lower().strip()
             if molecule_name not in chemicals:
                 aliases.add(measure['molecule_name'])
@@ -74,11 +76,11 @@ def ask_llm(message, max_tokens=2000, temperature=0.3):
 def parse_llm_output(llm_output: str) -> dict[str, str]:
     alias_value = {}
     for line in llm_output.splitlines():
-        term = line.split(',')
-        if len(term) == 2:
+        term = line.split(';;')
+        if len(term) == 2 and 'Not found' not in term[1]:
             alias_value[term[0]] = term[1]
         else:
-            print(f"Skip inconsistent llm out {line}")
+            print(f"Skip inconsistent llm out {line}\n")
     return alias_value
 
 
@@ -88,7 +90,8 @@ def process_patent(SYSTEM_PROMPT, USER_PROMPT, content, aliases):
 
     full_output = ""
     alias_value_ans = {}
-    for chunk_text in split_text_with_overlap(content):
+    aliases_regex = '\\b(' + "|".join(aliases) + ')\\b'
+    for chunk_text in _get_relevant_chunks(content, aliases_regex,1500):
         # Filter aliases present in this chunk
         aliases_in_chunk = [alias for alias in aliases if alias in chunk_text]
         if not aliases_in_chunk:
@@ -101,9 +104,9 @@ def process_patent(SYSTEM_PROMPT, USER_PROMPT, content, aliases):
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": user_prompt}
         ]
-        print(message)
+        print(f"Request to LLM: {message}")
         output = ask_llm(message=message)
-        print(output)
+        print(f"Response LLM: {output}")
         full_output += output + '\n'
         alias_value = parse_llm_output(output)
         for alias, value in alias_value.items():
