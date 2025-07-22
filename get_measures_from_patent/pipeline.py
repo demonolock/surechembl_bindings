@@ -9,6 +9,10 @@ from llm_patent_agents.patent_processor import process_patent_text
 from filter.src.patent_parser import fetch_patent_description
 from filter.src.get_patents import get_patents_ids
 
+from_cache = True
+# Тут результат выгрузки filter/__main__.py
+patent_dirs = '/home/vshepard/hackaton_life/patents'
+
 # Настройка логирования
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -64,13 +68,15 @@ def main():
     parser.add_argument(
         "input_file",
         type=str,
+        default="", # Не нужно если есть from_cache
         help="Путь к текстовому файлу со списком ID патентов."
     )
     parser.add_argument(
         "--workers",
         type=int,
-        default=10,
-        help="Количество параллельных потоков для обработки патентов."
+        default=16,
+        help="Количество параллельных потоков для обработки патентов.",
+
     )
     parser.add_argument(
         "--timeout",
@@ -80,24 +86,59 @@ def main():
     )
     args = parser.parse_args()
 
-    patent_numbers = get_patents_ids(args.input_file)
     output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "debug_output")
 
-    logging.info(f"Начинаю обработку {len(patent_numbers)} патентов с {args.workers} воркерами.")
+    if from_cache:
+        logging.info(f"Обработка патентов из кэша в {patent_dirs}")
+        files = [f for f in os.listdir(patent_dirs) if os.path.isfile(os.path.join(patent_dirs, f))]
+        logging.info(f"Найдено {len(files)} файлов для обработки.")
 
-    with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as executor:
-        # Передаем каждому воркеру функцию и ее аргументы
-        future_to_patent = {executor.submit(process_single_patent, pn, output_dir, args.timeout): pn for pn in patent_numbers}
-        
-        # Обрабатываем результаты по мере их завершения
-        for future in concurrent.futures.as_completed(future_to_patent):
-            patent_number = future_to_patent[future]
+        for filename in files:
+            file_path = os.path.join(patent_dirs, filename)
+            with open(file_path, "r", encoding="utf-8") as f:
+                patent_text = f.read()
+            patent_number = os.path.splitext(filename)[0]
+            if not patent_text:
+                logging.warning(f'No data in {file_path}')
+                continue
             try:
-                future.result()  # Проверяем на наличие исключений во время выполнения
-            except Exception as exc:
-                logging.error(f'{patent_number} сгенерировал исключение: {exc}')
+                logging.info(f"Processing cached patent {patent_number}")
+                # reuse your processing logic from process_single_patent, skipping download part
+                extracted_data = process_patent_text(
+                    patent_text=patent_text,
+                    associated_molecules=[],
+                    patent_id=patent_number,
+                    debug=True,
+                    debug_output_dir=output_dir
+                )
+                if extracted_data:
+                    debug_dir = os.path.join(output_dir, patent_number)
+                    os.makedirs(debug_dir, exist_ok=True)
+                    final_output_path = os.path.join(debug_dir, "03_final_output.json")
+                    with open(final_output_path, "w", encoding="utf-8") as wf:
+                        json.dump(extracted_data, wf, indent=4, ensure_ascii=False)
+                    logging.info(f"Сохранен результат для {patent_number}: {len(extracted_data)} записей.")
+                else:
+                    logging.info(f"Для патента {patent_number} не найдено данных.")
+            except Exception as e:
+                logging.error(f'Ошибка при обработке кэшированного патента {patent_number}: {e}', exc_info=True)
+    else:
+        patent_numbers = get_patents_ids(args.input_file)
+        logging.info(f"Начинаю обработку {len(patent_numbers)} патентов с {args.workers} воркерами.")
 
-    logging.info("Обработка всех патентов завершена.")
+        with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as executor:
+            # Передаем каждому воркеру функцию и ее аргументы
+            future_to_patent = {executor.submit(process_single_patent, pn, output_dir, args.timeout): pn for pn in patent_numbers}
+
+            # Обрабатываем результаты по мере их завершения
+            for future in concurrent.futures.as_completed(future_to_patent):
+                patent_number = future_to_patent[future]
+                try:
+                    future.result() # Проверяем на наличие исключений во время выполнения
+                except Exception as exc:
+                    logging.error(f'{patent_number} сгенерировал исключение: {exc}')
+
+        logging.info("Обработка всех патентов завершена.")
 
 if __name__ == "__main__":
     main()
