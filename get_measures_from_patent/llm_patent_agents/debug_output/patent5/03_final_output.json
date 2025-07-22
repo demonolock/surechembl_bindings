@@ -1,0 +1,52 @@
+[
+    {
+        "molecule_name": "(-)-P7C3-S243",
+        "protein_target_name": "CYP1A2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "20",
+        "unit": "μΜ",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n(-)-P7C3-S243 did not show significant toxicity towards 3 human cancer cell lines tested (IC50 > 10 μΜ vs H2122, H2009 and HCC44).\nSeveral cytochrome P450's were insensitive to (-)-P7C3-S243 (3A4, 2C9, 3D6, 2C8, 2B6) while CYP1A2 and CYP2C19 showed modest IC50 values of 20 and 1.9 μΜ, respectively.\nOf 47 neuronal receptors and channels tested, only the μ-opioid receptor (IC50 = 8.2 μΜ) and the peripheral benzodiazepine receptor (also known as translocator protein, TSPO, IC50 = 0.35 μΜ) showed any ligand displacement.\nMoreover, while we see enantiomeric specificity in the neurogenesis (FIG. 2) and MPTP assays (FIG. 3), both enantiomers of P7C3-S243 bind TSPO with similarly weak affinity (0.35 and 0.68 μΜ).\nIP 10 189±35 66/28 0.45 >24\nIP 20 319±68 90/48 0.28 15\nPO 20 388±29 38/58 0.81 9.6\nLikewise, we observed <15% inhibition of the hERG channel at 50 μΜ using a patch clamp assay."
+    },
+    {
+        "molecule_name": "(-)-P7C3-S243",
+        "protein_target_name": "CYP2C19",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "1.9",
+        "unit": "μΜ",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n(-)-P7C3-S243 did not show significant toxicity towards 3 human cancer cell lines tested (IC50 > 10 μΜ vs H2122, H2009 and HCC44).\nSeveral cytochrome P450's were insensitive to (-)-P7C3-S243 (3A4, 2C9, 3D6, 2C8, 2B6) while CYP1A2 and CYP2C19 showed modest IC50 values of 20 and 1.9 μΜ, respectively.\nOf 47 neuronal receptors and channels tested, only the μ-opioid receptor (IC50 = 8.2 μΜ) and the peripheral benzodiazepine receptor (also known as translocator protein, TSPO, IC50 = 0.35 μΜ) showed any ligand displacement.\nMoreover, while we see enantiomeric specificity in the neurogenesis (FIG. 2) and MPTP assays (FIG. 3), both enantiomers of P7C3-S243 bind TSPO with similarly weak affinity (0.35 and 0.68 μΜ).\nIP 10 189±35 66/28 0.45 >24\nIP 20 319±68 90/48 0.28 15\nPO 20 388±29 38/58 0.81 9.6\nLikewise, we observed <15% inhibition of the hERG channel at 50 μΜ using a patch clamp assay."
+    },
+    {
+        "molecule_name": "(-)-P7C3-S243",
+        "protein_target_name": "μ-opioid receptor",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "8.2",
+        "unit": "μΜ",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n(-)-P7C3-S243 did not show significant toxicity towards 3 human cancer cell lines tested (IC50 > 10 μΜ vs H2122, H2009 and HCC44).\nSeveral cytochrome P450's were insensitive to (-)-P7C3-S243 (3A4, 2C9, 3D6, 2C8, 2B6) while CYP1A2 and CYP2C19 showed modest IC50 values of 20 and 1.9 μΜ, respectively.\nOf 47 neuronal receptors and channels tested, only the μ-opioid receptor (IC50 = 8.2 μΜ) and the peripheral benzodiazepine receptor (also known as translocator protein, TSPO, IC50 = 0.35 μΜ) showed any ligand displacement.\nMoreover, while we see enantiomeric specificity in the neurogenesis (FIG. 2) and MPTP assays (FIG. 3), both enantiomers of P7C3-S243 bind TSPO with similarly weak affinity (0.35 and 0.68 μΜ).\nIP 10 189±35 66/28 0.45 >24\nIP 20 319±68 90/48 0.28 15\nPO 20 388±29 38/58 0.81 9.6\nLikewise, we observed <15% inhibition of the hERG channel at 50 μΜ using a patch clamp assay."
+    },
+    {
+        "molecule_name": "(-)-P7C3-S243",
+        "protein_target_name": "translocator protein (TSPO)",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "0.35",
+        "unit": "μΜ",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n(-)-P7C3-S243 did not show significant toxicity towards 3 human cancer cell lines tested (IC50 > 10 μΜ vs H2122, H2009 and HCC44).\nSeveral cytochrome P450's were insensitive to (-)-P7C3-S243 (3A4, 2C9, 3D6, 2C8, 2B6) while CYP1A2 and CYP2C19 showed modest IC50 values of 20 and 1.9 μΜ, respectively.\nOf 47 neuronal receptors and channels tested, only the μ-opioid receptor (IC50 = 8.2 μΜ) and the peripheral benzodiazepine receptor (also known as translocator protein, TSPO, IC50 = 0.35 μΜ) showed any ligand displacement.\nMoreover, while we see enantiomeric specificity in the neurogenesis (FIG. 2) and MPTP assays (FIG. 3), both enantiomers of P7C3-S243 bind TSPO with similarly weak affinity (0.35 and 0.68 μΜ).\nIP 10 189±35 66/28 0.45 >24\nIP 20 319±68 90/48 0.28 15\nPO 20 388±29 38/58 0.81 9.6\nLikewise, we observed <15% inhibition of the hERG channel at 50 μΜ using a patch clamp assay."
+    },
+    {
+        "molecule_name": "P7C3-S243",
+        "protein_target_name": "translocator protein (TSPO)",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "0.68",
+        "unit": "μΜ",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n(-)-P7C3-S243 did not show significant toxicity towards 3 human cancer cell lines tested (IC50 > 10 μΜ vs H2122, H2009 and HCC44).\nSeveral cytochrome P450's were insensitive to (-)-P7C3-S243 (3A4, 2C9, 3D6, 2C8, 2B6) while CYP1A2 and CYP2C19 showed modest IC50 values of 20 and 1.9 μΜ, respectively.\nOf 47 neuronal receptors and channels tested, only the μ-opioid receptor (IC50 = 8.2 μΜ) and the peripheral benzodiazepine receptor (also known as translocator protein, TSPO, IC50 = 0.35 μΜ) showed any ligand displacement.\nMoreover, while we see enantiomeric specificity in the neurogenesis (FIG. 2) and MPTP assays (FIG. 3), both enantiomers of P7C3-S243 bind TSPO with similarly weak affinity (0.35 and 0.68 μΜ).\nIP 10 189±35 66/28 0.45 >24\nIP 20 319±68 90/48 0.28 15\nPO 20 388±29 38/58 0.81 9.6\nLikewise, we observed <15% inhibition of the hERG channel at 50 μΜ using a patch clamp assay."
+    }
+]
