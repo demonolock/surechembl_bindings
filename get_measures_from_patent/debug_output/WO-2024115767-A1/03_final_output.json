@@ -1,0 +1,66 @@
+[
+    {
+        "molecule_name": "LTB4",
+        "protein_target_name": "Human BLT1",
+        "binding_metric": "KD",
+        "value": "0.39 - 1,5",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nHuman BLT1 is a high affinity receptor (KD 0.39 - 1,5nM; [18]) specific for LTB4 with only 20-hydroxy LTB4 and 12-epi LTB4 in high concentrations able to displace LTB4 in competitive binding studies [19],\nHuman BLT2 has a 20-fold lower affinity (KD 23nM) for LTB4 than BLT1 and is activated by a broader range of eicosanoids including 12-epi LTB4, 20-hydroxy LTB4, 12(S)- and 15(S)-HETE and 12(S)- and 15(S)-HPETE [19],"
+    },
+    {
+        "molecule_name": "LTB4",
+        "protein_target_name": "Human BLT2",
+        "binding_metric": "KD",
+        "value": "23",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nHuman BLT1 is a high affinity receptor (KD 0.39 - 1,5nM; [18]) specific for LTB4 with only 20-hydroxy LTB4 and 12-epi LTB4 in high concentrations able to displace LTB4 in competitive binding studies [19],\nHuman BLT2 has a 20-fold lower affinity (KD 23nM) for LTB4 than BLT1 and is activated by a broader range of eicosanoids including 12-epi LTB4, 20-hydroxy LTB4, 12(S)- and 15(S)-HETE and 12(S)- and 15(S)-HPETE [19],"
+    },
+    {
+        "molecule_name": "Nomacopan",
+        "protein_target_name": "C5",
+        "binding_metric": "IC50",
+        "value": "0.02",
+        "unit": "mg/ml",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nNomacopan has been demonstrated to bind to C5 and prevent its cleavage by C5 convertase in rat, mouse and human serum with an IC50 of approximately 0.02mg/ml.\nThe nomacopan protein has been demonstrated to bind to C5 with a KD of 1 nM or less, determined using surface plasmon resonance (SPR) [45, 46], \nIn fusion proteins of the invention, the bioactive polypeptides preferably retain the ability to bind C5, conveniently with a KD of less than 20nM, more conveniently less than 10nM, most conveniently less than 5nM, preferably less than 2nM, more preferably less than 1 nM, most preferably less than 0.5nM, even more preferably less than 0.4, 0.3, 0.2, 0.1 nM, and advantageously less than 0.05, 0.02, 0.01 nM, wherein said KD is determined using SPR, preferably in accordance with the method described in [45],"
+    },
+    {
+        "molecule_name": "nomacopan protein",
+        "protein_target_name": "C5",
+        "binding_metric": "KD",
+        "value": "<1",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nNomacopan has been demonstrated to bind to C5 and prevent its cleavage by C5 convertase in rat, mouse and human serum with an IC50 of approximately 0.02mg/ml.\nThe nomacopan protein has been demonstrated to bind to C5 with a KD of 1 nM or less, determined using surface plasmon resonance (SPR) [45, 46], \nIn fusion proteins of the invention, the bioactive polypeptides preferably retain the ability to bind C5, conveniently with a KD of less than 20nM, more conveniently less than 10nM, most conveniently less than 5nM, preferably less than 2nM, more preferably less than 1 nM, most preferably less than 0.5nM, even more preferably less than 0.4, 0.3, 0.2, 0.1 nM, and advantageously less than 0.05, 0.02, 0.01 nM, wherein said KD is determined using SPR, preferably in accordance with the method described in [45],"
+    },
+    {
+        "molecule_name": "bioactive polypeptide",
+        "protein_target_name": "C5",
+        "binding_metric": "KD",
+        "value": "<0.05",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nPreferably, the bioactive polypeptide binds C5, either wild-type and/or C5 from subjects with C5 polymorphisms, e.g. C5 polymorphisms that render treatment by eculizumab ineffective, or reduce the efficacy of treatment with eculizumab, with a 20nM, more conveniently less than 10nM, most conveniently less than 5nM, preferably less than 2nM, more preferably less than 1 nM, most preferably less than 0.5nM, even more preferably less than 0.4, 0.3, 0.2, 0.1 nM, and advantageously less than 0.05, 0.02, 0.01 nM, wherein said KD is determined using SPR, preferably in accordance with the method described in [45],\n\nData obtained using fluorescence titration show that nomacopan binds to LTB4 with a KD of between 200 and 300 pM.\n\nNomacopan may bind LTB4 with a KD of less than 1 nM, more conveniently less than 0.9nM, most conveniently less than 0.8nM, preferably less than 0.7nM, more preferably less than 0.6nM, most preferably less than 0.5nM, even more preferably less than 0.4 nM, and advantageously less than 0.3nM, wherein said KD is determined using fluorescence titration, preferably in accordance with the method above."
+    },
+    {
+        "molecule_name": "nomacopan",
+        "protein_target_name": "LTB4",
+        "binding_metric": "KD",
+        "value": "between 200 and 300",
+        "unit": "pM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nPreferably, the bioactive polypeptide binds C5, either wild-type and/or C5 from subjects with C5 polymorphisms, e.g. C5 polymorphisms that render treatment by eculizumab ineffective, or reduce the efficacy of treatment with eculizumab, with a 20nM, more conveniently less than 10nM, most conveniently less than 5nM, preferably less than 2nM, more preferably less than 1 nM, most preferably less than 0.5nM, even more preferably less than 0.4, 0.3, 0.2, 0.1 nM, and advantageously less than 0.05, 0.02, 0.01 nM, wherein said KD is determined using SPR, preferably in accordance with the method described in [45],\n\nData obtained using fluorescence titration show that nomacopan binds to LTB4 with a KD of between 200 and 300 pM.\n\nNomacopan may bind LTB4 with a KD of less than 1 nM, more conveniently less than 0.9nM, most conveniently less than 0.8nM, preferably less than 0.7nM, more preferably less than 0.6nM, most preferably less than 0.5nM, even more preferably less than 0.4 nM, and advantageously less than 0.3nM, wherein said KD is determined using fluorescence titration, preferably in accordance with the method above."
+    },
+    {
+        "molecule_name": "nomacopan",
+        "protein_target_name": "LTB4",
+        "binding_metric": "KD",
+        "value": "<0.3",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nPreferably, the bioactive polypeptide binds C5, either wild-type and/or C5 from subjects with C5 polymorphisms, e.g. C5 polymorphisms that render treatment by eculizumab ineffective, or reduce the efficacy of treatment with eculizumab, with a 20nM, more conveniently less than 10nM, most conveniently less than 5nM, preferably less than 2nM, more preferably less than 1 nM, most preferably less than 0.5nM, even more preferably less than 0.4, 0.3, 0.2, 0.1 nM, and advantageously less than 0.05, 0.02, 0.01 nM, wherein said KD is determined using SPR, preferably in accordance with the method described in [45],\n\nData obtained using fluorescence titration show that nomacopan binds to LTB4 with a KD of between 200 and 300 pM.\n\nNomacopan may bind LTB4 with a KD of less than 1 nM, more conveniently less than 0.9nM, most conveniently less than 0.8nM, preferably less than 0.7nM, more preferably less than 0.6nM, most preferably less than 0.5nM, even more preferably less than 0.4 nM, and advantageously less than 0.3nM, wherein said KD is determined using fluorescence titration, preferably in accordance with the method above."
+    },
+    {
+        "molecule_name": "bioactive polypeptides",
+        "protein_target_name": "C5",
+        "binding_metric": "KD",
+        "value": ">1",
+        "unit": "micromolar",
+        "raw_mentions": "Such bioactive polypeptides may e.g. bind C5 with a KD greater than 1 micromolar as determined by SPR according to the method described in [52], or as set out in Example 2 of WO2018193121 and/or may inhibit sheep red blood cell lysis by less than 10% when present at a concentration of 0.02mg/mL in whole pooled normal serum with the CH50 lytic assay performed according to or similarly to that performed in [53]"
+    }
+]

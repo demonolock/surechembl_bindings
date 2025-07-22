@@ -1,0 +1,2 @@
+{"raw_mentions": "It can be seen that the above compounds have very obvious inhibitory effect on novel coronavirus 3C-like protease, and IC <sub>50</sub> A value of 2.339 Mu.M indicates that PF-05231023 was effective in inhibiting the activity of novel coronavirus 3C-like protease."}
+{"final_json": [{"molecule_name": "PF-05231023", "protein_target_name": "novel coronavirus 3C-like protease", "binding_metric": "IC50", "value": "2.339", "unit": "Mu.M"}]}

@@ -1,0 +1,2 @@
+{"raw_mentions": "Here is the extracted sentence:\n\nIn one embodiment of the invention, if the K of their combinations be more than or equal to 10^-7 m, antibody has the reactivity for polypeptide thyroid carcinoma mark."}
+{"final_json": [{"molecule_name": null, "protein_target_name": "polypeptide thyroid carcinoma mark", "binding_metric": "K", "value": "10^-7", "unit": "m"}]}

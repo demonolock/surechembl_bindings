@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_name": "Compound G4",
+        "protein_target_name": "Ab42",
+        "binding_metric": "IC50",
+        "value": "1114",
+        "unit": "nM",
+        "raw_mentions": "Compound G4 had an Ab42 IC50 of 1114 nM with an Abtotal/Ab42 selectivity of 11 fold."
+    }
+]

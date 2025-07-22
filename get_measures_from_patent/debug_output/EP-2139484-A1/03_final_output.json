@@ -1,0 +1,74 @@
+[
+    {
+        "molecule_name": "compounds in Table 1",
+        "protein_target_name": "PI3K",
+        "binding_metric": "binding affinity",
+        "value": "<9",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe standard assay concentrations for enzyme, ATP, and substrate are 0.5-1.1 nM, lμM, and 7.5 μM, respectively.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 9 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 5 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 3 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 1.5 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 1 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.6 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.3 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.2 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.1 μM or less."
+    },
+    {
+        "molecule_name": "compounds in Table 1",
+        "protein_target_name": "PI3K",
+        "binding_metric": "binding affinity",
+        "value": "<5",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe standard assay concentrations for enzyme, ATP, and substrate are 0.5-1.1 nM, lμM, and 7.5 μM, respectively.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 9 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 5 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 3 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 1.5 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 1 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.6 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.3 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.2 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.1 μM or less."
+    },
+    {
+        "molecule_name": "compounds in Table 1",
+        "protein_target_name": "PI3K",
+        "binding_metric": "binding affinity",
+        "value": "<3",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe standard assay concentrations for enzyme, ATP, and substrate are 0.5-1.1 nM, lμM, and 7.5 μM, respectively.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 9 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 5 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 3 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 1.5 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 1 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.6 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.3 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.2 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.1 μM or less."
+    },
+    {
+        "molecule_name": "compounds in Table 1",
+        "protein_target_name": "PI3K",
+        "binding_metric": "binding affinity",
+        "value": "<1.5",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe standard assay concentrations for enzyme, ATP, and substrate are 0.5-1.1 nM, lμM, and 7.5 μM, respectively.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 9 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 5 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 3 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 1.5 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 1 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.6 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.3 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.2 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.1 μM or less."
+    },
+    {
+        "molecule_name": "compounds in Table 1",
+        "protein_target_name": "PI3K",
+        "binding_metric": "binding affinity",
+        "value": "<1",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe standard assay concentrations for enzyme, ATP, and substrate are 0.5-1.1 nM, lμM, and 7.5 μM, respectively.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 9 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 5 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 3 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 1.5 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 1 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.6 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.3 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.2 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.1 μM or less."
+    },
+    {
+        "molecule_name": "compounds in Table 1",
+        "protein_target_name": "PI3K",
+        "binding_metric": "binding affinity",
+        "value": "<0.6",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe standard assay concentrations for enzyme, ATP, and substrate are 0.5-1.1 nM, lμM, and 7.5 μM, respectively.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 9 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 5 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 3 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 1.5 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 1 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.6 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.3 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.2 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.1 μM or less."
+    },
+    {
+        "molecule_name": "compounds in Table 1",
+        "protein_target_name": "PI3K",
+        "binding_metric": "binding affinity",
+        "value": "<0.3",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe standard assay concentrations for enzyme, ATP, and substrate are 0.5-1.1 nM, lμM, and 7.5 μM, respectively.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 9 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 5 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 3 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 1.5 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 1 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.6 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.3 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.2 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.1 μM or less."
+    },
+    {
+        "molecule_name": "compounds in Table 1",
+        "protein_target_name": "PI3K",
+        "binding_metric": "binding affinity",
+        "value": "<0.2",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe standard assay concentrations for enzyme, ATP, and substrate are 0.5-1.1 nM, lμM, and 7.5 μM, respectively.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 9 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 5 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 3 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 1.5 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 1 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.6 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.3 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.2 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.1 μM or less."
+    },
+    {
+        "molecule_name": "compounds in Table 1",
+        "protein_target_name": "PI3K",
+        "binding_metric": "binding affinity",
+        "value": "<0.1",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe standard assay concentrations for enzyme, ATP, and substrate are 0.5-1.1 nM, lμM, and 7.5 μM, respectively.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 9 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 5 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 3 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 1.5 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 1 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.6 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.3 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.2 μM or less.\nIn another embodiment, the PI3K inhibitor is selected from the compounds in Table 1 having a PI3K-binding affinity of about 0.1 μM or less."
+    }
+]

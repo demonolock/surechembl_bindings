@@ -1,0 +1,26 @@
+[
+    {
+        "molecule_name": "242",
+        "protein_target_name": "PR",
+        "binding_metric": "Ki",
+        "value": "200",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows:\n\n\nTable 2: selected Progesterone acceptor of the present invention is regulated compound and reference agonist compound progesterone (Prog) and with reference to coinfection and the competitive binding data of agonist compounds RU486 to PR\n        CompoundPR agonist CV-1 cellPR antagonist CV-1 cellThe PR combination  No.                                        Render a service (%)(nM) tiresRender a service (%)(nM) tires                                      Ki                                          (nM) \n        242                                                                              na                                                                              na                                                                              95                      200                      70 \n        251                                                                              na                                                                              na                      91                      747                      930 \n        473                                                                              na                                                                              na                      55                      880                      508"
+    },
+    {
+        "molecule_name": "251",
+        "protein_target_name": "PR",
+        "binding_metric": "Ki",
+        "value": "747",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows:\n\n\nTable 2: selected Progesterone acceptor of the present invention is regulated compound and reference agonist compound progesterone (Prog) and with reference to coinfection and the competitive binding data of agonist compounds RU486 to PR\n        CompoundPR agonist CV-1 cellPR antagonist CV-1 cellThe PR combination  No.                                        Render a service (%)(nM) tiresRender a service (%)(nM) tires                                      Ki                                          (nM) \n        242                                                                              na                                                                              na                                                                              95                      200                      70 \n        251                                                                              na                                                                              na                      91                      747                      930 \n        473                                                                              na                                                                              na                      55                      880                      508"
+    },
+    {
+        "molecule_name": "473",
+        "protein_target_name": "PR",
+        "binding_metric": "Ki",
+        "value": "880",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows:\n\n\nTable 2: selected Progesterone acceptor of the present invention is regulated compound and reference agonist compound progesterone (Prog) and with reference to coinfection and the competitive binding data of agonist compounds RU486 to PR\n        CompoundPR agonist CV-1 cellPR antagonist CV-1 cellThe PR combination  No.                                        Render a service (%)(nM) tiresRender a service (%)(nM) tires                                      Ki                                          (nM) \n        242                                                                              na                                                                              na                                                                              95                      200                      70 \n        251                                                                              na                                                                              na                      91                      747                      930 \n        473                                                                              na                                                                              na                      55                      880                      508"
+    }
+]

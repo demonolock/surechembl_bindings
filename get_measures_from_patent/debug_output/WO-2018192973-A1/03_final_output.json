@@ -1,0 +1,42 @@
+[
+    {
+        "molecule_name": "Hepcidin",
+        "protein_target_name": "Fpn",
+        "binding_metric": "IC50",
+        "value": "150",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n* Cells were then treated with ca. 10-fold IC50 concentrations, as determined in the hepcidin internalization assay (see Table 1 ), of hepcidin (Hepcidin, 150 nM) or Fpn inhibitors Example Compound No. 208 (210 nM), Example Compound No. 167 (1.5 μΜ), Example Compound No. 127 (120 nM), Example Compound No. 152 (40 nM) for 10 or 120 min before harvesting and immunoprecipitation with the anti-Fpn antibody F308.\n* A serial dilution of hepdicin (Bachem) or ferroportin inhibitors (4 μΜ-0.0064 μΜ, 5 fold dilution) is added in a total volume of 0.6 ml per well. \n\nNote that there are only two sentences that contain all four required components: a specific molecule name/ID, a bioactivity metric (IC50), a numeric value, and a unit. The other sentences in the text do not meet these criteria."
+    },
+    {
+        "molecule_name": "Example Compound No. 208",
+        "protein_target_name": "Fpn",
+        "binding_metric": "IC50",
+        "value": "210",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n* Cells were then treated with ca. 10-fold IC50 concentrations, as determined in the hepcidin internalization assay (see Table 1 ), of hepcidin (Hepcidin, 150 nM) or Fpn inhibitors Example Compound No. 208 (210 nM), Example Compound No. 167 (1.5 μΜ), Example Compound No. 127 (120 nM), Example Compound No. 152 (40 nM) for 10 or 120 min before harvesting and immunoprecipitation with the anti-Fpn antibody F308.\n* A serial dilution of hepdicin (Bachem) or ferroportin inhibitors (4 μΜ-0.0064 μΜ, 5 fold dilution) is added in a total volume of 0.6 ml per well. \n\nNote that there are only two sentences that contain all four required components: a specific molecule name/ID, a bioactivity metric (IC50), a numeric value, and a unit. The other sentences in the text do not meet these criteria."
+    },
+    {
+        "molecule_name": "Example Compound No. 167",
+        "protein_target_name": "Fpn",
+        "binding_metric": "IC50",
+        "value": "1.5",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n* Cells were then treated with ca. 10-fold IC50 concentrations, as determined in the hepcidin internalization assay (see Table 1 ), of hepcidin (Hepcidin, 150 nM) or Fpn inhibitors Example Compound No. 208 (210 nM), Example Compound No. 167 (1.5 μΜ), Example Compound No. 127 (120 nM), Example Compound No. 152 (40 nM) for 10 or 120 min before harvesting and immunoprecipitation with the anti-Fpn antibody F308.\n* A serial dilution of hepdicin (Bachem) or ferroportin inhibitors (4 μΜ-0.0064 μΜ, 5 fold dilution) is added in a total volume of 0.6 ml per well. \n\nNote that there are only two sentences that contain all four required components: a specific molecule name/ID, a bioactivity metric (IC50), a numeric value, and a unit. The other sentences in the text do not meet these criteria."
+    },
+    {
+        "molecule_name": "Example Compound No. 127",
+        "protein_target_name": "Fpn",
+        "binding_metric": "IC50",
+        "value": "120",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n* Cells were then treated with ca. 10-fold IC50 concentrations, as determined in the hepcidin internalization assay (see Table 1 ), of hepcidin (Hepcidin, 150 nM) or Fpn inhibitors Example Compound No. 208 (210 nM), Example Compound No. 167 (1.5 μΜ), Example Compound No. 127 (120 nM), Example Compound No. 152 (40 nM) for 10 or 120 min before harvesting and immunoprecipitation with the anti-Fpn antibody F308.\n* A serial dilution of hepdicin (Bachem) or ferroportin inhibitors (4 μΜ-0.0064 μΜ, 5 fold dilution) is added in a total volume of 0.6 ml per well. \n\nNote that there are only two sentences that contain all four required components: a specific molecule name/ID, a bioactivity metric (IC50), a numeric value, and a unit. The other sentences in the text do not meet these criteria."
+    },
+    {
+        "molecule_name": "Example Compound No. 152",
+        "protein_target_name": "Fpn",
+        "binding_metric": "IC50",
+        "value": "40",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n* Cells were then treated with ca. 10-fold IC50 concentrations, as determined in the hepcidin internalization assay (see Table 1 ), of hepcidin (Hepcidin, 150 nM) or Fpn inhibitors Example Compound No. 208 (210 nM), Example Compound No. 167 (1.5 μΜ), Example Compound No. 127 (120 nM), Example Compound No. 152 (40 nM) for 10 or 120 min before harvesting and immunoprecipitation with the anti-Fpn antibody F308.\n* A serial dilution of hepdicin (Bachem) or ferroportin inhibitors (4 μΜ-0.0064 μΜ, 5 fold dilution) is added in a total volume of 0.6 ml per well. \n\nNote that there are only two sentences that contain all four required components: a specific molecule name/ID, a bioactivity metric (IC50), a numeric value, and a unit. The other sentences in the text do not meet these criteria."
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_name": "compound of the present invention",
+        "protein_target_name": "PAI-1",
+        "binding_metric": "IC50",
+        "value": "4.12, 16.83, 5.84, 8.41, 24.01, 623.2",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe activity of inhibiting PAI-1 production of the compound of the present invention was expressed in terms of the IC50 value and shown in Table 2.\nTABLE 2PAI-1 production-inhibitingCompound No.activity, IC50(μM)114.1216.835.848.4124.01623.2\nTo C57BL/6 mice (6-week-old, female), bleomycin hydrochloride (Bleo: NIPPON KAYAKU CO., LTD) (6 mg/kg, 25 μl/animal) was injected into the bronchus together with 500 μl of compressed air, 0.3 mg/kg of the test substance was suspended in 0.5% carboxymethyl cellulose sodium, and orally administered once daily, 10 μM TGF-β was added thereto and incubated for 24 hours."
+    }
+]

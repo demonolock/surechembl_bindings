@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_name": "DRα1-hMOG-35-55",
+        "protein_target_name": "CD74",
+        "binding_metric": "Kd",
+        "value": "750",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nCompetition experiment showed that DRα1-hMOG-35-55 was able to outcompete the binding of the FITC-labeled P2 peptide to immunoprecipitated CD74 with a relative affinity (K<sub>D</sub>) of 750 nM (FIG. 5C).\nThe K<sub>D </sub>calculated polypeptides were 0.65 μM for DRα1-hMOG-35-55 and 0.089 μM for DRhQ."
+    }
+]

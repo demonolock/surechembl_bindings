@@ -1,0 +1,18 @@
+[
+    {
+        "molecule_name": "NPY inhibitors",
+        "protein_target_name": "NPY Y1 and NPY Y5",
+        "binding_metric": "IC50",
+        "value": "<100",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. Preferably, said NPY inhibitors (including NPY Y1 and NPY Y5) having an IC50 of less than 100nM, more preferably less than 50nM."
+    },
+    {
+        "molecule_name": "NPY inhibitors",
+        "protein_target_name": "NPY Y1 and NPY Y5",
+        "binding_metric": "IC50",
+        "value": "<50",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. Preferably, said NPY inhibitors (including NPY Y1 and NPY Y5) having an IC50 of less than 100nM, more preferably less than 50nM."
+    }
+]

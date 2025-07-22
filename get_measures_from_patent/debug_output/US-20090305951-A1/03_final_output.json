@@ -1,0 +1,18 @@
+[
+    {
+        "molecule_name": "compound according to the invention",
+        "protein_target_name": "NCAM",
+        "binding_metric": "Kd",
+        "value": "10−3 to 10−10",
+        "unit": "M",
+        "raw_mentions": "The binding affinity of the compound according to the invention preferably has a binding affinity (Kd value) to NCAM and/or the NCAM ligand in the range of 10<sup>−3 </sup>to 10<sup>−10 </sup>M, such as preferably in the range of 10<sup>−4 </sup>to 10<sup>−8 </sup>M."
+    },
+    {
+        "molecule_name": "compound according to the invention",
+        "protein_target_name": "NCAM",
+        "binding_metric": "Kd",
+        "value": "10−4 to 10−8",
+        "unit": "M",
+        "raw_mentions": "The binding affinity of the compound according to the invention preferably has a binding affinity (Kd value) to NCAM and/or the NCAM ligand in the range of 10<sup>−3 </sup>to 10<sup>−10 </sup>M, such as preferably in the range of 10<sup>−4 </sup>to 10<sup>−8 </sup>M."
+    }
+]

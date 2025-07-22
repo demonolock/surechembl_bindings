@@ -1,0 +1,194 @@
+[
+    {
+        "molecule_name": "BI97C3",
+        "protein_target_name": "Bcl-XL",
+        "binding_metric": "IC50",
+        "value": "0.32",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C5",
+        "protein_target_name": "Bcl-XL",
+        "binding_metric": "IC50",
+        "value": "0.24",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C6",
+        "protein_target_name": "Bcl-XL",
+        "binding_metric": "IC50",
+        "value": "0.36",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C7",
+        "protein_target_name": "Bcl-XL",
+        "binding_metric": "IC50",
+        "value": "0.55",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C9",
+        "protein_target_name": "Bcl-XL",
+        "binding_metric": "IC50",
+        "value": "3.02",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C10",
+        "protein_target_name": "Bcl-XL",
+        "binding_metric": "IC50",
+        "value": "12.6",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C3",
+        "protein_target_name": "Bcl-2",
+        "binding_metric": "IC50",
+        "value": "0.23",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C5",
+        "protein_target_name": "Bcl-2",
+        "binding_metric": "IC50",
+        "value": "0.21",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C6",
+        "protein_target_name": "Bcl-2",
+        "binding_metric": "IC50",
+        "value": "0.22",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C7",
+        "protein_target_name": "Bcl-2",
+        "binding_metric": "IC50",
+        "value": "0.25",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C9",
+        "protein_target_name": "Bcl-2",
+        "binding_metric": "IC50",
+        "value": "2.3",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C10",
+        "protein_target_name": "Bcl-2",
+        "binding_metric": "IC50",
+        "value": "6.7",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C3",
+        "protein_target_name": "Mcl-1",
+        "binding_metric": "IC50",
+        "value": "0.71",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C5",
+        "protein_target_name": "Mcl-1",
+        "binding_metric": "IC50",
+        "value": "0.32",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C6",
+        "protein_target_name": "Mcl-1",
+        "binding_metric": "IC50",
+        "value": "0.35",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C7",
+        "protein_target_name": "Mcl-1",
+        "binding_metric": "IC50",
+        "value": "0.47",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C9",
+        "protein_target_name": "Mcl-1",
+        "binding_metric": "IC50",
+        "value": "3.1",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C10",
+        "protein_target_name": "Mcl-1",
+        "binding_metric": "IC50",
+        "value": "5.9",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C3",
+        "protein_target_name": "Bfl-1",
+        "binding_metric": "IC50",
+        "value": "0.47",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C5",
+        "protein_target_name": "Bfl-1",
+        "binding_metric": "IC50",
+        "value": "1.3",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C6",
+        "protein_target_name": "Bfl-1",
+        "binding_metric": "IC50",
+        "value": "0.69",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C7",
+        "protein_target_name": "Bfl-1",
+        "binding_metric": "IC50",
+        "value": "1.4",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C9",
+        "protein_target_name": "Bfl-1",
+        "binding_metric": "IC50",
+        "value": "ND",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    },
+    {
+        "molecule_name": "BI97C10",
+        "protein_target_name": "Bfl-1",
+        "binding_metric": "IC50",
+        "value": "ND",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nBI97C3 had an IC50 of 0.32 μM against Bcl-XL.\nBI97C5 had an IC50 of 0.24 μM against Bcl-XL.\nBI97C6 had an IC50 of 0.36 μM against Bcl-XL.\nBI97C7 had an IC50 of 0.55 μM against Bcl-XL.\nBI97C9 had an IC50 of 3.02 μM against Bcl-XL.\nBI97C10 had an IC50 of 12.6 μM against Bcl-XL.\nBI97C3 had an IC50 of 0.23 μM against Bcl-2.\nBI97C5 had an IC50 of 0.21 μM against Bcl-2.\nBI97C6 had an IC50 of 0.22 μM against Bcl-2.\nBI97C7 had an IC50 of 0.25 μM against Bcl-2.\nBI97C9 had an IC50 of 2.3 μM against Bcl-2.\nBI97C10 had an IC50 of 6.7 μM against Bcl-2.\nBI97C3 had an IC50 of 0.71 μM against Mcl-1.\nBI97C5 had an IC50 of 0.32 μM against Mcl-1.\nBI97C6 had an IC50 of 0.35 μM against Mcl-1.\nBI97C7 had an IC50 of 0.47 μM against Mcl-1.\nBI97C9 had an IC50 of 3.1 μM against Mcl-1.\nBI97C10 had an IC50 of 5.9 μM against Mcl-1.\nBI97C3 had an IC50 of 0.47 μM against Bfl-1.\nBI97C5 had an IC50 of 1.3 μM against Bfl-1.\nBI97C6 had an IC50 of 0.69 μM against Bfl-1.\nBI97C7 had an IC50 of 1.4 μM against Bfl-1.\nBI97C9 had an IC50 of ND μM against Bfl-1.\nBI97C10 had an IC50 of ND μM against Bfl-1."
+    }
+]

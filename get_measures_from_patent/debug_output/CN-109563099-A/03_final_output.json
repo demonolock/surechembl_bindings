@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_name": "crystal form A",
+        "protein_target_name": "BTK kinases",
+        "binding_metric": "IC50",
+        "value": "0.27",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The IC50 of compound 1 passes through Graphpad Data are fitted to this base of a fruit equation (logistic equation) of four parameter logistics and obtained by Prism software.\n2. The IC of crystal form A for BTK kinases50 For 0.27nM.\n3. The IC of ITK50 Determine: the experimental program of ITK measurement is measured similar to BTK, in addition to carrying out following improvement: 3 μM of ATP With 2 μM of TK substrates in the kinase reaction.\n4. The IC of TEC50 Determine: the experimental program of Tec measurement is tested similar to BTK, in addition to the following improvement of progress: 1) 280 μM ATP and 2nM Poly-GT substrate is in kinase reaction；2) reaction buffer does not contain SEB.\n5. The IC of JAK350 Determine: the experimental program of JAK3 measurement is tested similar to BTK, in addition to carrying out following improvement: 1) 3.4 μ M ATP and 3 μM of peptide substrates (B-EE-15, biotin-EQEDEPEGDYFEWLE) are in kinase reaction；2) reaction buffer contains There are 50mM Tris pH7.8,10mM MgCl2, 5mM DTT, 0.01%Triton X-100 and 0.01% BSA.\n6. The IC of EGFR50 Determine: the experimental program of EGFR measurement is tested similar to BTK, in addition to the following improvement of progress: 1) 20 μM (ultimate density is for ATP, 1.44 μM of TK substrate-biotins (a kind of universal substrate of tyrosine kinase) and 0-1000nM compound 1%DMSO) it is used for kinase reaction；2) reaction buffer contains 50mM HEPES pH7.5,10mM MgCl2、1mM EGTA、 0.01%Brij-35,2.5mM DTT and 0.1%BSA；3) termination/detection liquid contain 25mM HEPES pH7.5,400mM KF, 50mM EDTA, 0.01%Triton-X100 and 0.1%BSA.\n7. ATP is directed to the K of 5 kinds of kinasesM And the IC of precincubation 1 hour measurement crystal form A50。"
+    }
+]

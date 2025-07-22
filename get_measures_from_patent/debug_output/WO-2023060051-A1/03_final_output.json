@@ -1,0 +1,18 @@
+[
+    {
+        "molecule_name": "Nb PGT121-LS",
+        "protein_target_name": "FcyRI(CD64)",
+        "binding_metric": "EC50",
+        "value": ">50",
+        "unit": "ug/mL",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nTable 10: FcyRI(CD64) EC50 >50 denotes samples where EC50 could not be calculated due to flat curve. Antibody EC50 (ug/mL) AUC \nNb PGT121-LS >50 0.2613 \nNb PGT121-YTE >50 0.2465 \n\n\nTable 12: FcγRIIB (CD32B) EC50 >50 denotes samples where EC50 could not be calculated due to flat curve. \n\n\nTable 13: FcγRIII (CD16) EC50 >50 denotes samples where EC50 could not be calculated due to flat curve. Antibody EC50 (ug/mL) AUC"
+    },
+    {
+        "molecule_name": "Nb PGT121-YTE",
+        "protein_target_name": "FcyRI(CD64)",
+        "binding_metric": "EC50",
+        "value": ">50",
+        "unit": "ug/mL",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nTable 10: FcyRI(CD64) EC50 >50 denotes samples where EC50 could not be calculated due to flat curve. Antibody EC50 (ug/mL) AUC \nNb PGT121-LS >50 0.2613 \nNb PGT121-YTE >50 0.2465 \n\n\nTable 12: FcγRIIB (CD32B) EC50 >50 denotes samples where EC50 could not be calculated due to flat curve. \n\n\nTable 13: FcγRIII (CD16) EC50 >50 denotes samples where EC50 could not be calculated due to flat curve. Antibody EC50 (ug/mL) AUC"
+    }
+]

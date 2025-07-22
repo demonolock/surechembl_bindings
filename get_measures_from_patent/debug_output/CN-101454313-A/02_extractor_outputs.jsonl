@@ -1,0 +1,2 @@
+{"raw_mentions": "According to the detection of this mensuration, all compounds of this paper example all have the following EC50 of 10 \u03bc M."}
+{"final_json": [{"molecule_name": null, "protein_target_name": null, "binding_metric": "EC50", "value": "10", "unit": "\u03bcM"}]}

@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_name": "biotin",
+        "protein_target_name": "Streptavidin, avidin",
+        "binding_metric": "KD",
+        "value": "10",
+        "unit": "M",
+        "raw_mentions": "Streptavidin, a 60,000 Da molecule extracted from Streptomyces avidinii, and avidin, extracted from egg white, both have four recognition sites for biotin. Their affinity constant for this small molecule is very high (KD = 10 <sup>\"</sup> M) which allows them to interact with all substances containing biotin."
+    }
+]

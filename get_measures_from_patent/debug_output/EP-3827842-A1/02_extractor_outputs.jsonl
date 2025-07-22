@@ -1,0 +1,2 @@
+{"raw_mentions": "TLR7 receptor agonist activity (EC 50 value) is 10 times or more of the TLR8 receptor agonist activity ."}
+{"final_json": [{"molecule_name": null, "protein_target_name": "TLR7 receptor vs TLR8 receptor", "binding_metric": "EC50", "value": ">10", "unit": null}]}

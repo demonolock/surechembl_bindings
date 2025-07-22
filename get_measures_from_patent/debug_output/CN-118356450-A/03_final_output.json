@@ -1,0 +1,18 @@
+[
+    {
+        "molecule_name": "aloperine",
+        "protein_target_name": "glycosidase",
+        "binding_metric": "IC50",
+        "value": "5.9X10^-5",
+        "unit": "mol/L",
+        "raw_mentions": "the literature reports that the aloperine has an inhibitory effect on glycosidase, the IC50 for the trehalose is 5.9X10 <sup>-5</sup> mol/L, and the IC <sub>50</sub> for the fungus glucan 1, 4-alpha glucosidase is 1.1X10 <sup>-5</sup> mol/L."
+    },
+    {
+        "molecule_name": "aloperine",
+        "protein_target_name": "fungus glucan 1, 4-alpha glucosidase",
+        "binding_metric": "IC50",
+        "value": "1.1X10^-5",
+        "unit": "mol/L",
+        "raw_mentions": "the literature reports that the aloperine has an inhibitory effect on glycosidase, the IC50 for the trehalose is 5.9X10 <sup>-5</sup> mol/L, and the IC <sub>50</sub> for the fungus glucan 1, 4-alpha glucosidase is 1.1X10 <sup>-5</sup> mol/L."
+    }
+]

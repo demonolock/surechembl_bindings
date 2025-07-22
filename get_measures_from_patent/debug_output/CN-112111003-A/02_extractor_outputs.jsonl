@@ -1,0 +1,2 @@
+{"raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nWherein Kd is Fura-2/AM and Ca<sup>2+</sup>The dissociation constant of the reaction is 224nmol/L, and R is the ratio of the fluorescence intensity of F340 to F380 at each measurement point."}
+{"final_json": [{"molecule_name": "Fura-2/AM", "protein_target_name": null, "binding_metric": "Kd", "value": "224", "unit": "nmol/L"}]}

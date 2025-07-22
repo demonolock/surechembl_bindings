@@ -1,0 +1,26 @@
+[
+    {
+        "molecule_name": "compounds of this invention",
+        "protein_target_name": "AT1 receptor",
+        "binding_metric": "pIC50",
+        "value": "7.0-10.0",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe compounds of this invention has AT <sub>1</sub> receptor antagonist activity and NEP suppress, so described compound also can be used as research tool with pIC <sub>50</sub> of about 7.0-10.0.\nOther compound of interest comprises that those have the AT more than or equal to about 7.5 pK <sub>i</sub> with NEP enzyme pIC <sub>50</sub> of more than or equal to about 7.0."
+    },
+    {
+        "molecule_name": "Other compound of interest",
+        "protein_target_name": "AT",
+        "binding_metric": "pKi",
+        "value": "7.5",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe compounds of this invention has AT <sub>1</sub> receptor antagonist activity and NEP suppress, so described compound also can be used as research tool with pIC <sub>50</sub> of about 7.0-10.0.\nOther compound of interest comprises that those have the AT more than or equal to about 7.5 pK <sub>i</sub> with NEP enzyme pIC <sub>50</sub> of more than or equal to about 7.0."
+    },
+    {
+        "molecule_name": "Other compound of interest",
+        "protein_target_name": "NEP enzyme",
+        "binding_metric": "pIC50",
+        "value": "7.0",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe compounds of this invention has AT <sub>1</sub> receptor antagonist activity and NEP suppress, so described compound also can be used as research tool with pIC <sub>50</sub> of about 7.0-10.0.\nOther compound of interest comprises that those have the AT more than or equal to about 7.5 pK <sub>i</sub> with NEP enzyme pIC <sub>50</sub> of more than or equal to about 7.0."
+    }
+]

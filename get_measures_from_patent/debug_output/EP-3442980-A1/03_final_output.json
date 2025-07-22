@@ -1,0 +1,50 @@
+[
+    {
+        "molecule_name": "compounds of the invention",
+        "protein_target_name": "RET",
+        "binding_metric": "IC50",
+        "value": "1",
+        "unit": "μΜ",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\n[00146] In general, the compounds of the invention demonstrate an IC50 of 1 μΜ or less in the RET assay described in the Examples section, with preferred compounds of the invention demonstrating an IC50 of 200 nM or less and the most preferred compounds of the invention demonstrating an IC50 of 50 nM or less.\n[00148] In the RET<sup>V804M</sup> enzyme assay described herein in the Examples section, the compounds of Formula I suitably possess an activity of less than 1 μΜ, with the preferred compounds demonstrating an activity of 100 nM or less and the most preferred compounds of the invention demonstrating an IC50 of 50 nM or less.\n[00149] In the RET cell assay described herein in the Examples section, the compounds of Formula I suitably possess an activity of less than 1 μΜ, with the preferred compounds demonstrating an activity of 250 nM or less and the most preferred compounds of the invention demonstrating an IC50 of 100 nM or less.\n[00150] In the RET<sup>V804M</sup> cell assay described herein in the Examples section, the compounds of Formula I suitably possess an activity of less than 1 μΜ, with the preferred compounds demonstrating an activity of 500 nM or less, and more preferred compounds demonstrating an activity of 100 nM or less, and the most preferred compounds of the invention demonstrating an IC50 of 50 nM or less."
+    },
+    {
+        "molecule_name": "compounds of the invention",
+        "protein_target_name": "RET",
+        "binding_metric": "IC50",
+        "value": "200",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\n[00146] In general, the compounds of the invention demonstrate an IC50 of 1 μΜ or less in the RET assay described in the Examples section, with preferred compounds of the invention demonstrating an IC50 of 200 nM or less and the most preferred compounds of the invention demonstrating an IC50 of 50 nM or less.\n[00148] In the RET<sup>V804M</sup> enzyme assay described herein in the Examples section, the compounds of Formula I suitably possess an activity of less than 1 μΜ, with the preferred compounds demonstrating an activity of 100 nM or less and the most preferred compounds of the invention demonstrating an IC50 of 50 nM or less.\n[00149] In the RET cell assay described herein in the Examples section, the compounds of Formula I suitably possess an activity of less than 1 μΜ, with the preferred compounds demonstrating an activity of 250 nM or less and the most preferred compounds of the invention demonstrating an IC50 of 100 nM or less.\n[00150] In the RET<sup>V804M</sup> cell assay described herein in the Examples section, the compounds of Formula I suitably possess an activity of less than 1 μΜ, with the preferred compounds demonstrating an activity of 500 nM or less, and more preferred compounds demonstrating an activity of 100 nM or less, and the most preferred compounds of the invention demonstrating an IC50 of 50 nM or less."
+    },
+    {
+        "molecule_name": "compounds of the invention",
+        "protein_target_name": "RET",
+        "binding_metric": "IC50",
+        "value": "50",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\n[00146] In general, the compounds of the invention demonstrate an IC50 of 1 μΜ or less in the RET assay described in the Examples section, with preferred compounds of the invention demonstrating an IC50 of 200 nM or less and the most preferred compounds of the invention demonstrating an IC50 of 50 nM or less.\n[00148] In the RET<sup>V804M</sup> enzyme assay described herein in the Examples section, the compounds of Formula I suitably possess an activity of less than 1 μΜ, with the preferred compounds demonstrating an activity of 100 nM or less and the most preferred compounds of the invention demonstrating an IC50 of 50 nM or less.\n[00149] In the RET cell assay described herein in the Examples section, the compounds of Formula I suitably possess an activity of less than 1 μΜ, with the preferred compounds demonstrating an activity of 250 nM or less and the most preferred compounds of the invention demonstrating an IC50 of 100 nM or less.\n[00150] In the RET<sup>V804M</sup> cell assay described herein in the Examples section, the compounds of Formula I suitably possess an activity of less than 1 μΜ, with the preferred compounds demonstrating an activity of 500 nM or less, and more preferred compounds demonstrating an activity of 100 nM or less, and the most preferred compounds of the invention demonstrating an IC50 of 50 nM or less."
+    },
+    {
+        "molecule_name": "compounds of Formula I",
+        "protein_target_name": "RETV804M",
+        "binding_metric": "IC50",
+        "value": "50",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\n[00146] In general, the compounds of the invention demonstrate an IC50 of 1 μΜ or less in the RET assay described in the Examples section, with preferred compounds of the invention demonstrating an IC50 of 200 nM or less and the most preferred compounds of the invention demonstrating an IC50 of 50 nM or less.\n[00148] In the RET<sup>V804M</sup> enzyme assay described herein in the Examples section, the compounds of Formula I suitably possess an activity of less than 1 μΜ, with the preferred compounds demonstrating an activity of 100 nM or less and the most preferred compounds of the invention demonstrating an IC50 of 50 nM or less.\n[00149] In the RET cell assay described herein in the Examples section, the compounds of Formula I suitably possess an activity of less than 1 μΜ, with the preferred compounds demonstrating an activity of 250 nM or less and the most preferred compounds of the invention demonstrating an IC50 of 100 nM or less.\n[00150] In the RET<sup>V804M</sup> cell assay described herein in the Examples section, the compounds of Formula I suitably possess an activity of less than 1 μΜ, with the preferred compounds demonstrating an activity of 500 nM or less, and more preferred compounds demonstrating an activity of 100 nM or less, and the most preferred compounds of the invention demonstrating an IC50 of 50 nM or less."
+    },
+    {
+        "molecule_name": "compounds of Formula I",
+        "protein_target_name": "RET",
+        "binding_metric": "IC50",
+        "value": "100",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\n[00146] In general, the compounds of the invention demonstrate an IC50 of 1 μΜ or less in the RET assay described in the Examples section, with preferred compounds of the invention demonstrating an IC50 of 200 nM or less and the most preferred compounds of the invention demonstrating an IC50 of 50 nM or less.\n[00148] In the RET<sup>V804M</sup> enzyme assay described herein in the Examples section, the compounds of Formula I suitably possess an activity of less than 1 μΜ, with the preferred compounds demonstrating an activity of 100 nM or less and the most preferred compounds of the invention demonstrating an IC50 of 50 nM or less.\n[00149] In the RET cell assay described herein in the Examples section, the compounds of Formula I suitably possess an activity of less than 1 μΜ, with the preferred compounds demonstrating an activity of 250 nM or less and the most preferred compounds of the invention demonstrating an IC50 of 100 nM or less.\n[00150] In the RET<sup>V804M</sup> cell assay described herein in the Examples section, the compounds of Formula I suitably possess an activity of less than 1 μΜ, with the preferred compounds demonstrating an activity of 500 nM or less, and more preferred compounds demonstrating an activity of 100 nM or less, and the most preferred compounds of the invention demonstrating an IC50 of 50 nM or less."
+    },
+    {
+        "molecule_name": "compounds of Formula I",
+        "protein_target_name": "RETV804M",
+        "binding_metric": "IC50",
+        "value": "50",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\n[00146] In general, the compounds of the invention demonstrate an IC50 of 1 μΜ or less in the RET assay described in the Examples section, with preferred compounds of the invention demonstrating an IC50 of 200 nM or less and the most preferred compounds of the invention demonstrating an IC50 of 50 nM or less.\n[00148] In the RET<sup>V804M</sup> enzyme assay described herein in the Examples section, the compounds of Formula I suitably possess an activity of less than 1 μΜ, with the preferred compounds demonstrating an activity of 100 nM or less and the most preferred compounds of the invention demonstrating an IC50 of 50 nM or less.\n[00149] In the RET cell assay described herein in the Examples section, the compounds of Formula I suitably possess an activity of less than 1 μΜ, with the preferred compounds demonstrating an activity of 250 nM or less and the most preferred compounds of the invention demonstrating an IC50 of 100 nM or less.\n[00150] In the RET<sup>V804M</sup> cell assay described herein in the Examples section, the compounds of Formula I suitably possess an activity of less than 1 μΜ, with the preferred compounds demonstrating an activity of 500 nM or less, and more preferred compounds demonstrating an activity of 100 nM or less, and the most preferred compounds of the invention demonstrating an IC50 of 50 nM or less."
+    }
+]

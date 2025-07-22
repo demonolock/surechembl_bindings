@@ -1,0 +1,18 @@
+[
+    {
+        "molecule_name": "A4D2",
+        "protein_target_name": "Chitinase A",
+        "binding_metric": "IC50",
+        "value": "17",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nFIG. 11 shows the blocking effect of homologue A4D2 on Chitinase A. Non-linear fit, f=y0+a*exp(−b*x) is indicated. The 50% inhibitory concentration (IC50) for A4D2 was calculated as 17 μM.\nFIG. 14 shows the blocking effect of ChOS lot G040823 on Chitinase A. The IC50 was calculated as 70 μg/ml."
+    },
+    {
+        "molecule_name": "ChOS lot G040823",
+        "protein_target_name": "Chitinase A",
+        "binding_metric": "IC50",
+        "value": "70",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nFIG. 11 shows the blocking effect of homologue A4D2 on Chitinase A. Non-linear fit, f=y0+a*exp(−b*x) is indicated. The 50% inhibitory concentration (IC50) for A4D2 was calculated as 17 μM.\nFIG. 14 shows the blocking effect of ChOS lot G040823 on Chitinase A. The IC50 was calculated as 70 μg/ml."
+    }
+]

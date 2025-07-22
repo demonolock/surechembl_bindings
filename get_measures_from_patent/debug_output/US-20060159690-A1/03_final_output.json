@@ -1,0 +1,18 @@
+[
+    {
+        "molecule_name": "SMCY peptide",
+        "protein_target_name": "HLA-B7",
+        "binding_metric": "IC50",
+        "value": "34",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBinding studies showed that the concentration of the SMCY peptide that inhibited the binding of an iodinated standard peptide to purified HLA-B7 by 50% (IC50) was 34 nM, while the IC50 for the SMCX peptide was 140 nM (FIG. 5).\nHalf-maximal lysis was achieved at a peptide concentration of 10 pM (FIG. 4)."
+    },
+    {
+        "molecule_name": "SMCX peptide",
+        "protein_target_name": "HLA-B7",
+        "binding_metric": "IC50",
+        "value": "140",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBinding studies showed that the concentration of the SMCY peptide that inhibited the binding of an iodinated standard peptide to purified HLA-B7 by 50% (IC50) was 34 nM, while the IC50 for the SMCX peptide was 140 nM (FIG. 5).\nHalf-maximal lysis was achieved at a peptide concentration of 10 pM (FIG. 4)."
+    }
+]

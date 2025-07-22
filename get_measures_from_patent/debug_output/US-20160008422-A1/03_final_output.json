@@ -1,0 +1,74 @@
+[
+    {
+        "molecule_name": "CN19o",
+        "protein_target_name": "CaMKII",
+        "binding_metric": "IC50",
+        "value": "<1",
+        "unit": "nM",
+        "raw_mentions": "In other embodiments, it was demonstrated that CN19o potency was improved by over 100 fold with an IC50 of less than 1 nM. \nIn addition, CN19o (SEQ ID NO: 24) demonstrated about 50,000 fold selectivity of inhibition of CaMKII over CaMKI with no specific metric value mentioned but related to the previous sentence."
+    },
+    {
+        "molecule_name": "CN21",
+        "protein_target_name": "CaMKII",
+        "binding_metric": "IC50",
+        "value": "~100",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nPhosphorylation of syntide 2 by CaMKII was inhibited by CN21, CN20 and CN19 with an IC50 of ˜100 nM (FIG. 15D).\nCN21a (5 μM) blocks CaMKII phosphorylation of (FIG. 14A) crude live protein extracts, (FIG. 14B) bacterially expressed GST-NR2B-c (containing C-terminal NR2B amino acid 1,120 to 1,482), and (FIG. 14C) T305 but not T286 autophosphorylation."
+    },
+    {
+        "molecule_name": "CN19o",
+        "protein_target_name": "CaMKII",
+        "binding_metric": "IC50",
+        "value": "about 0.75",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. It was demonstrated that CN19a2v had an IC50 of ˜20 nM (FIG. 23B); the potency of CN19a2v was about 5-fold greater than CN19 (see FIG. 17A).\n2. The V12Q and V16D mutants of CN19a2v had an IC50 of about 1 nM, and a combination mutant (referred to as CN19o) increased potency even further (FIG. 24C).\n3. CN19o (SEQ ID NO: 24) inhibited CaMKII with an IC50 of about 0.75 nM (FIG. 25A), and thus CN19o (SEQ ID NO: 24) has >125fold enhanced potency compared to CN19.\n4. Further investigation revealed that CaMKI inhibition by CN19o (SEQ ID NO: 24) (about 38 μM IC50) was reduced compared to CN19a2v (about 18 μM IC50).\n5. The IC50 for CaMKI inhibition of CN19 (36 μM), CN19a2v (18 μM) and CN19o (38 μM) 360-50,000-fold greater than their IC50 for CaMKII inhibition (100 nM, 20 nM and 0.75 nM, respectively; compare FIGS. 15, 23 and 26)."
+    },
+    {
+        "molecule_name": "CN19o",
+        "protein_target_name": "CaMKI",
+        "binding_metric": "IC50",
+        "value": "about 38",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. It was demonstrated that CN19a2v had an IC50 of ˜20 nM (FIG. 23B); the potency of CN19a2v was about 5-fold greater than CN19 (see FIG. 17A).\n2. The V12Q and V16D mutants of CN19a2v had an IC50 of about 1 nM, and a combination mutant (referred to as CN19o) increased potency even further (FIG. 24C).\n3. CN19o (SEQ ID NO: 24) inhibited CaMKII with an IC50 of about 0.75 nM (FIG. 25A), and thus CN19o (SEQ ID NO: 24) has >125fold enhanced potency compared to CN19.\n4. Further investigation revealed that CaMKI inhibition by CN19o (SEQ ID NO: 24) (about 38 μM IC50) was reduced compared to CN19a2v (about 18 μM IC50).\n5. The IC50 for CaMKI inhibition of CN19 (36 μM), CN19a2v (18 μM) and CN19o (38 μM) 360-50,000-fold greater than their IC50 for CaMKII inhibition (100 nM, 20 nM and 0.75 nM, respectively; compare FIGS. 15, 23 and 26)."
+    },
+    {
+        "molecule_name": "CN19a2v",
+        "protein_target_name": "CaMKI",
+        "binding_metric": "IC50",
+        "value": "about 18",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. It was demonstrated that CN19a2v had an IC50 of ˜20 nM (FIG. 23B); the potency of CN19a2v was about 5-fold greater than CN19 (see FIG. 17A).\n2. The V12Q and V16D mutants of CN19a2v had an IC50 of about 1 nM, and a combination mutant (referred to as CN19o) increased potency even further (FIG. 24C).\n3. CN19o (SEQ ID NO: 24) inhibited CaMKII with an IC50 of about 0.75 nM (FIG. 25A), and thus CN19o (SEQ ID NO: 24) has >125fold enhanced potency compared to CN19.\n4. Further investigation revealed that CaMKI inhibition by CN19o (SEQ ID NO: 24) (about 38 μM IC50) was reduced compared to CN19a2v (about 18 μM IC50).\n5. The IC50 for CaMKI inhibition of CN19 (36 μM), CN19a2v (18 μM) and CN19o (38 μM) 360-50,000-fold greater than their IC50 for CaMKII inhibition (100 nM, 20 nM and 0.75 nM, respectively; compare FIGS. 15, 23 and 26)."
+    },
+    {
+        "molecule_name": "CN19",
+        "protein_target_name": "CaMKI",
+        "binding_metric": "IC50",
+        "value": "36",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. It was demonstrated that CN19a2v had an IC50 of ˜20 nM (FIG. 23B); the potency of CN19a2v was about 5-fold greater than CN19 (see FIG. 17A).\n2. The V12Q and V16D mutants of CN19a2v had an IC50 of about 1 nM, and a combination mutant (referred to as CN19o) increased potency even further (FIG. 24C).\n3. CN19o (SEQ ID NO: 24) inhibited CaMKII with an IC50 of about 0.75 nM (FIG. 25A), and thus CN19o (SEQ ID NO: 24) has >125fold enhanced potency compared to CN19.\n4. Further investigation revealed that CaMKI inhibition by CN19o (SEQ ID NO: 24) (about 38 μM IC50) was reduced compared to CN19a2v (about 18 μM IC50).\n5. The IC50 for CaMKI inhibition of CN19 (36 μM), CN19a2v (18 μM) and CN19o (38 μM) 360-50,000-fold greater than their IC50 for CaMKII inhibition (100 nM, 20 nM and 0.75 nM, respectively; compare FIGS. 15, 23 and 26)."
+    },
+    {
+        "molecule_name": "CN19",
+        "protein_target_name": "CaMKII",
+        "binding_metric": "IC50",
+        "value": "100",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. It was demonstrated that CN19a2v had an IC50 of ˜20 nM (FIG. 23B); the potency of CN19a2v was about 5-fold greater than CN19 (see FIG. 17A).\n2. The V12Q and V16D mutants of CN19a2v had an IC50 of about 1 nM, and a combination mutant (referred to as CN19o) increased potency even further (FIG. 24C).\n3. CN19o (SEQ ID NO: 24) inhibited CaMKII with an IC50 of about 0.75 nM (FIG. 25A), and thus CN19o (SEQ ID NO: 24) has >125fold enhanced potency compared to CN19.\n4. Further investigation revealed that CaMKI inhibition by CN19o (SEQ ID NO: 24) (about 38 μM IC50) was reduced compared to CN19a2v (about 18 μM IC50).\n5. The IC50 for CaMKI inhibition of CN19 (36 μM), CN19a2v (18 μM) and CN19o (38 μM) 360-50,000-fold greater than their IC50 for CaMKII inhibition (100 nM, 20 nM and 0.75 nM, respectively; compare FIGS. 15, 23 and 26)."
+    },
+    {
+        "molecule_name": "CN19a2v",
+        "protein_target_name": "CaMKII",
+        "binding_metric": "IC50",
+        "value": "20",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. It was demonstrated that CN19a2v had an IC50 of ˜20 nM (FIG. 23B); the potency of CN19a2v was about 5-fold greater than CN19 (see FIG. 17A).\n2. The V12Q and V16D mutants of CN19a2v had an IC50 of about 1 nM, and a combination mutant (referred to as CN19o) increased potency even further (FIG. 24C).\n3. CN19o (SEQ ID NO: 24) inhibited CaMKII with an IC50 of about 0.75 nM (FIG. 25A), and thus CN19o (SEQ ID NO: 24) has >125fold enhanced potency compared to CN19.\n4. Further investigation revealed that CaMKI inhibition by CN19o (SEQ ID NO: 24) (about 38 μM IC50) was reduced compared to CN19a2v (about 18 μM IC50).\n5. The IC50 for CaMKI inhibition of CN19 (36 μM), CN19a2v (18 μM) and CN19o (38 μM) 360-50,000-fold greater than their IC50 for CaMKII inhibition (100 nM, 20 nM and 0.75 nM, respectively; compare FIGS. 15, 23 and 26)."
+    },
+    {
+        "molecule_name": "CN19o",
+        "protein_target_name": "CaMKII",
+        "binding_metric": "IC50",
+        "value": "0.75",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. It was demonstrated that CN19a2v had an IC50 of ˜20 nM (FIG. 23B); the potency of CN19a2v was about 5-fold greater than CN19 (see FIG. 17A).\n2. The V12Q and V16D mutants of CN19a2v had an IC50 of about 1 nM, and a combination mutant (referred to as CN19o) increased potency even further (FIG. 24C).\n3. CN19o (SEQ ID NO: 24) inhibited CaMKII with an IC50 of about 0.75 nM (FIG. 25A), and thus CN19o (SEQ ID NO: 24) has >125fold enhanced potency compared to CN19.\n4. Further investigation revealed that CaMKI inhibition by CN19o (SEQ ID NO: 24) (about 38 μM IC50) was reduced compared to CN19a2v (about 18 μM IC50).\n5. The IC50 for CaMKI inhibition of CN19 (36 μM), CN19a2v (18 μM) and CN19o (38 μM) 360-50,000-fold greater than their IC50 for CaMKII inhibition (100 nM, 20 nM and 0.75 nM, respectively; compare FIGS. 15, 23 and 26)."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "molecule_name": "IgG antibody",
+        "protein_target_name": "target antigen",
+        "binding_metric": "Kd",
+        "value": "1.0×10−6",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe term “does not substantially bind” to a protein or cells, as used herein, means does not bind or does not bind with a high affinity to the protein or cells, i.e. binds to the protein or cells with a K<sub>D </sub>of 1.0×10<sup>−6 </sup>M or more, more preferably 1.0×10<sup>−5 </sup>M or more, more preferably 1.0×10<sup>−4 </sup>M or more, more preferably 1.0×10<sup>−3 </sup>M or more, even more preferably 1.0×10<sup>−2 </sup>M or more.\nThe term “high affinity” for an IgG antibody refers to an antibody having a K<sub>D </sub>of 1.0×10<sup>−6 </sup>M or less, more preferably 5.0×10<sup>−8 </sup>M or less, even more preferably 1.0×10<sup>−8 </sup>M or less, even more preferably 1.0×10<sup>−9 </sup>M or less and even more preferably 5.0×10<sup>−10 </sup>M or less for a target antigen.\nHowever, “high affinity” binding can vary for other antibody isotypes. For example, “high affinity” binding for an IgM isotype refers to an antibody having a K<sub>D </sub>of 10<sup>−6 </sup>M or less, more preferably 10<sup>−7 </sup>M or less, even more preferably 10<sup>−8 </sup>M or less."
+    },
+    {
+        "molecule_name": "IgG antibody",
+        "protein_target_name": "target antigen",
+        "binding_metric": "Kd",
+        "value": "5.0×10−8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe term “does not substantially bind” to a protein or cells, as used herein, means does not bind or does not bind with a high affinity to the protein or cells, i.e. binds to the protein or cells with a K<sub>D </sub>of 1.0×10<sup>−6 </sup>M or more, more preferably 1.0×10<sup>−5 </sup>M or more, more preferably 1.0×10<sup>−4 </sup>M or more, more preferably 1.0×10<sup>−3 </sup>M or more, even more preferably 1.0×10<sup>−2 </sup>M or more.\nThe term “high affinity” for an IgG antibody refers to an antibody having a K<sub>D </sub>of 1.0×10<sup>−6 </sup>M or less, more preferably 5.0×10<sup>−8 </sup>M or less, even more preferably 1.0×10<sup>−8 </sup>M or less, even more preferably 1.0×10<sup>−9 </sup>M or less and even more preferably 5.0×10<sup>−10 </sup>M or less for a target antigen.\nHowever, “high affinity” binding can vary for other antibody isotypes. For example, “high affinity” binding for an IgM isotype refers to an antibody having a K<sub>D </sub>of 10<sup>−6 </sup>M or less, more preferably 10<sup>−7 </sup>M or less, even more preferably 10<sup>−8 </sup>M or less."
+    },
+    {
+        "molecule_name": "IgG antibody",
+        "protein_target_name": "target antigen",
+        "binding_metric": "Kd",
+        "value": "1.0×10−8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe term “does not substantially bind” to a protein or cells, as used herein, means does not bind or does not bind with a high affinity to the protein or cells, i.e. binds to the protein or cells with a K<sub>D </sub>of 1.0×10<sup>−6 </sup>M or more, more preferably 1.0×10<sup>−5 </sup>M or more, more preferably 1.0×10<sup>−4 </sup>M or more, more preferably 1.0×10<sup>−3 </sup>M or more, even more preferably 1.0×10<sup>−2 </sup>M or more.\nThe term “high affinity” for an IgG antibody refers to an antibody having a K<sub>D </sub>of 1.0×10<sup>−6 </sup>M or less, more preferably 5.0×10<sup>−8 </sup>M or less, even more preferably 1.0×10<sup>−8 </sup>M or less, even more preferably 1.0×10<sup>−9 </sup>M or less and even more preferably 5.0×10<sup>−10 </sup>M or less for a target antigen.\nHowever, “high affinity” binding can vary for other antibody isotypes. For example, “high affinity” binding for an IgM isotype refers to an antibody having a K<sub>D </sub>of 10<sup>−6 </sup>M or less, more preferably 10<sup>−7 </sup>M or less, even more preferably 10<sup>−8 </sup>M or less."
+    },
+    {
+        "molecule_name": "IgG antibody",
+        "protein_target_name": "target antigen",
+        "binding_metric": "Kd",
+        "value": "1.0×10−9",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe term “does not substantially bind” to a protein or cells, as used herein, means does not bind or does not bind with a high affinity to the protein or cells, i.e. binds to the protein or cells with a K<sub>D </sub>of 1.0×10<sup>−6 </sup>M or more, more preferably 1.0×10<sup>−5 </sup>M or more, more preferably 1.0×10<sup>−4 </sup>M or more, more preferably 1.0×10<sup>−3 </sup>M or more, even more preferably 1.0×10<sup>−2 </sup>M or more.\nThe term “high affinity” for an IgG antibody refers to an antibody having a K<sub>D </sub>of 1.0×10<sup>−6 </sup>M or less, more preferably 5.0×10<sup>−8 </sup>M or less, even more preferably 1.0×10<sup>−8 </sup>M or less, even more preferably 1.0×10<sup>−9 </sup>M or less and even more preferably 5.0×10<sup>−10 </sup>M or less for a target antigen.\nHowever, “high affinity” binding can vary for other antibody isotypes. For example, “high affinity” binding for an IgM isotype refers to an antibody having a K<sub>D </sub>of 10<sup>−6 </sup>M or less, more preferably 10<sup>−7 </sup>M or less, even more preferably 10<sup>−8 </sup>M or less."
+    },
+    {
+        "molecule_name": "IgG antibody",
+        "protein_target_name": "target antigen",
+        "binding_metric": "Kd",
+        "value": "5.0×10−10",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe term “does not substantially bind” to a protein or cells, as used herein, means does not bind or does not bind with a high affinity to the protein or cells, i.e. binds to the protein or cells with a K<sub>D </sub>of 1.0×10<sup>−6 </sup>M or more, more preferably 1.0×10<sup>−5 </sup>M or more, more preferably 1.0×10<sup>−4 </sup>M or more, more preferably 1.0×10<sup>−3 </sup>M or more, even more preferably 1.0×10<sup>−2 </sup>M or more.\nThe term “high affinity” for an IgG antibody refers to an antibody having a K<sub>D </sub>of 1.0×10<sup>−6 </sup>M or less, more preferably 5.0×10<sup>−8 </sup>M or less, even more preferably 1.0×10<sup>−8 </sup>M or less, even more preferably 1.0×10<sup>−9 </sup>M or less and even more preferably 5.0×10<sup>−10 </sup>M or less for a target antigen.\nHowever, “high affinity” binding can vary for other antibody isotypes. For example, “high affinity” binding for an IgM isotype refers to an antibody having a K<sub>D </sub>of 10<sup>−6 </sup>M or less, more preferably 10<sup>−7 </sup>M or less, even more preferably 10<sup>−8 </sup>M or less."
+    }
+]

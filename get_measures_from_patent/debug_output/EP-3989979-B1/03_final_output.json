@@ -1,0 +1,34 @@
+[
+    {
+        "molecule_name": "compounds of formula (I)",
+        "protein_target_name": "Orail-SOCE",
+        "binding_metric": "Ki",
+        "value": "submicromolar",
+        "unit": null,
+        "raw_mentions": "It is demonstrated here that the compounds of formula (I) are capable of inhibiting SOCE with a submicromolar Ki, and that this inhibitory activity is selective for Orail-SOCE at low doses, compared to its effect against IP3R and SERCA pumps."
+    },
+    {
+        "molecule_name": "P9",
+        "protein_target_name": "SOCE",
+        "binding_metric": "Ki",
+        "value": "6 ± 0.3",
+        "unit": "µM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nP11 75 ± 21 nM\nP6 275 ± 17 nM\nP15 294 ± 74 nM\nP8 350 ± 40 nM\nP12 374 ± 96 nM\nDibenzothienyl-APB (Djillani 2014) 405 ± 23 nM\nP10 484 ± 116 nM\nP9 641 ± 103 nM\nP7 751 ± 97 nM\nP13 1.84 ± 0.1 µM\nP5 2.1 ± 0.6 µM\nP16 3.1 ± 0.6 µM\nP3 3.5 ± 0.6 µM\nP2 3.5 ± 0.65 µM\nP14 5.4 ± 0.3 µM\nP4 75 ± 21 µM\nCompound P10 is, however, the more active of the two with a Ki of approximately 500 nM and total inhibition obtained at 3 µM.\nCompound P16 combines a para methyl group on one of the phenyls, and a methoxy group on the other phenyl, with an inhibitory activity of 3.1 ± 0.6 µM.\nCompound P15 exhibits improved inhibitory activity with a Ki of approximately 300 nM.\nCompound P11, which includes a phenyl group para-linked to each of the phenyl groups of 2-APB, and has a Ki of 75 ± 21 nM on Jurkat cells.\nKi of 32 ± 2 nM, 40 ± 5 nM and 50 ± 5 nM were calculated in DG75 (B lymphocytes), U937 (monocytes) and MDA-MB231 (hormone-independent breast cancer) cells respectively, against 75 ± 21 nM for Jurkat cells.\nP9 only inhibits SOCE with a Ki of 6 ± 0.3 µM.\nP11 inhibits SERCA with a Ki of 7.4 µM, while the Ki for SOCE is 75 nM."
+    },
+    {
+        "molecule_name": "P11",
+        "protein_target_name": "SERCA",
+        "binding_metric": "Ki",
+        "value": "7.4",
+        "unit": "µM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nP11 75 ± 21 nM\nP6 275 ± 17 nM\nP15 294 ± 74 nM\nP8 350 ± 40 nM\nP12 374 ± 96 nM\nDibenzothienyl-APB (Djillani 2014) 405 ± 23 nM\nP10 484 ± 116 nM\nP9 641 ± 103 nM\nP7 751 ± 97 nM\nP13 1.84 ± 0.1 µM\nP5 2.1 ± 0.6 µM\nP16 3.1 ± 0.6 µM\nP3 3.5 ± 0.6 µM\nP2 3.5 ± 0.65 µM\nP14 5.4 ± 0.3 µM\nP4 75 ± 21 µM\nCompound P10 is, however, the more active of the two with a Ki of approximately 500 nM and total inhibition obtained at 3 µM.\nCompound P16 combines a para methyl group on one of the phenyls, and a methoxy group on the other phenyl, with an inhibitory activity of 3.1 ± 0.6 µM.\nCompound P15 exhibits improved inhibitory activity with a Ki of approximately 300 nM.\nCompound P11, which includes a phenyl group para-linked to each of the phenyl groups of 2-APB, and has a Ki of 75 ± 21 nM on Jurkat cells.\nKi of 32 ± 2 nM, 40 ± 5 nM and 50 ± 5 nM were calculated in DG75 (B lymphocytes), U937 (monocytes) and MDA-MB231 (hormone-independent breast cancer) cells respectively, against 75 ± 21 nM for Jurkat cells.\nP9 only inhibits SOCE with a Ki of 6 ± 0.3 µM.\nP11 inhibits SERCA with a Ki of 7.4 µM, while the Ki for SOCE is 75 nM."
+    },
+    {
+        "molecule_name": "P11",
+        "protein_target_name": "SOCE",
+        "binding_metric": "Ki",
+        "value": "75",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nP11 75 ± 21 nM\nP6 275 ± 17 nM\nP15 294 ± 74 nM\nP8 350 ± 40 nM\nP12 374 ± 96 nM\nDibenzothienyl-APB (Djillani 2014) 405 ± 23 nM\nP10 484 ± 116 nM\nP9 641 ± 103 nM\nP7 751 ± 97 nM\nP13 1.84 ± 0.1 µM\nP5 2.1 ± 0.6 µM\nP16 3.1 ± 0.6 µM\nP3 3.5 ± 0.6 µM\nP2 3.5 ± 0.65 µM\nP14 5.4 ± 0.3 µM\nP4 75 ± 21 µM\nCompound P10 is, however, the more active of the two with a Ki of approximately 500 nM and total inhibition obtained at 3 µM.\nCompound P16 combines a para methyl group on one of the phenyls, and a methoxy group on the other phenyl, with an inhibitory activity of 3.1 ± 0.6 µM.\nCompound P15 exhibits improved inhibitory activity with a Ki of approximately 300 nM.\nCompound P11, which includes a phenyl group para-linked to each of the phenyl groups of 2-APB, and has a Ki of 75 ± 21 nM on Jurkat cells.\nKi of 32 ± 2 nM, 40 ± 5 nM and 50 ± 5 nM were calculated in DG75 (B lymphocytes), U937 (monocytes) and MDA-MB231 (hormone-independent breast cancer) cells respectively, against 75 ± 21 nM for Jurkat cells.\nP9 only inhibits SOCE with a Ki of 6 ± 0.3 µM.\nP11 inhibits SERCA with a Ki of 7.4 µM, while the Ki for SOCE is 75 nM."
+    }
+]

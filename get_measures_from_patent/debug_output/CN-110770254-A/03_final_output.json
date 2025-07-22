@@ -1,0 +1,34 @@
+[
+    {
+        "molecule_name": "antibody or antigen-binding fragment",
+        "protein_target_name": "human c-Met",
+        "binding_metric": "Kd",
+        "value": "5X 10^-8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nWith the proviso that the antibody or antigen-binding fragment thereof is, for example, 5X 10<sup>-8</sup>K of M or less<sub>D</sub>，1×10<sup>-8</sup>K of M or less<sub>D</sub>，5×10<sup>-9</sup>K of M or less<sub>D</sub>Or 1X 10<sup>-9</sup>K of M or less<sub>D</sub>Binding to human c-Met, but not limited thereto.\nThe values are 3.173X 10 respectively<sup>-10</sup>、9.993×10<sup>-11</sup>And 2.78X 10<sup>-10</sup> \nThe limiting condition may be, K of the antibody<sub>D</sub>Values are measured using methods widely established in the art."
+    },
+    {
+        "molecule_name": "antibody or antigen-binding fragment",
+        "protein_target_name": "human c-Met",
+        "binding_metric": "Kd",
+        "value": "1×10^-8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nWith the proviso that the antibody or antigen-binding fragment thereof is, for example, 5X 10<sup>-8</sup>K of M or less<sub>D</sub>，1×10<sup>-8</sup>K of M or less<sub>D</sub>，5×10<sup>-9</sup>K of M or less<sub>D</sub>Or 1X 10<sup>-9</sup>K of M or less<sub>D</sub>Binding to human c-Met, but not limited thereto.\nThe values are 3.173X 10 respectively<sup>-10</sup>、9.993×10<sup>-11</sup>And 2.78X 10<sup>-10</sup> \nThe limiting condition may be, K of the antibody<sub>D</sub>Values are measured using methods widely established in the art."
+    },
+    {
+        "molecule_name": "antibody or antigen-binding fragment",
+        "protein_target_name": "human c-Met",
+        "binding_metric": "Kd",
+        "value": "5×10^-9",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nWith the proviso that the antibody or antigen-binding fragment thereof is, for example, 5X 10<sup>-8</sup>K of M or less<sub>D</sub>，1×10<sup>-8</sup>K of M or less<sub>D</sub>，5×10<sup>-9</sup>K of M or less<sub>D</sub>Or 1X 10<sup>-9</sup>K of M or less<sub>D</sub>Binding to human c-Met, but not limited thereto.\nThe values are 3.173X 10 respectively<sup>-10</sup>、9.993×10<sup>-11</sup>And 2.78X 10<sup>-10</sup> \nThe limiting condition may be, K of the antibody<sub>D</sub>Values are measured using methods widely established in the art."
+    },
+    {
+        "molecule_name": "antibody or antigen-binding fragment",
+        "protein_target_name": "human c-Met",
+        "binding_metric": "Kd",
+        "value": "1X 10^-9",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nWith the proviso that the antibody or antigen-binding fragment thereof is, for example, 5X 10<sup>-8</sup>K of M or less<sub>D</sub>，1×10<sup>-8</sup>K of M or less<sub>D</sub>，5×10<sup>-9</sup>K of M or less<sub>D</sub>Or 1X 10<sup>-9</sup>K of M or less<sub>D</sub>Binding to human c-Met, but not limited thereto.\nThe values are 3.173X 10 respectively<sup>-10</sup>、9.993×10<sup>-11</sup>And 2.78X 10<sup>-10</sup> \nThe limiting condition may be, K of the antibody<sub>D</sub>Values are measured using methods widely established in the art."
+    }
+]

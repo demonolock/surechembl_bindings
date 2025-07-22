@@ -1,0 +1,2 @@
+{"raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe IC<sub>50</sub> value for an experimental compound is the concentration at which 50% of specific <sup>3</sup>H-LTB<sub>4</sub> binding is inhibited."}
+{"final_json": [{"molecule_name": "LTB4", "protein_target_name": null, "binding_metric": "IC50", "value": null, "unit": null}]}

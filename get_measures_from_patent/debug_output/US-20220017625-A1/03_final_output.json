@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_name": "antibody Y022",
+        "protein_target_name": "EGFRvIII",
+        "binding_metric": "Kd",
+        "value": "2.7",
+        "unit": "nM",
+        "raw_mentions": "The binding curve obtained for antibody 7B3 in concentration-gradient ELISA assay is exemplarily shown in FIG. 2 with K<sub>D </sub>of about 22.4 nM; \nThe binding curve of antibody Y022 to EGFRvIII is shown in FIG. 3 with apparent K<sub>D </sub>of about 2.7 nM."
+    }
+]
