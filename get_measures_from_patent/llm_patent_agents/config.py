@@ -51,8 +51,6 @@ JSON format for each object:
 {{
     "molecule_name": "name, ID or other identifier of the molecule. If not found, use null.",
     "protein_target_name": "the name of the target protein. If not found, use null.",
-    "protein_uniprot_id": "UniProt ID if available, else null",
-    "protein_seq_id": "SEQ ID NO if available, else null",
     "binding_metric": "the metric type like IC50, Ki, Kd, EC50, pIC50, pEC50, pKi, pKd",
     "value": "the numeric value as a string",
     "unit": "the unit for the value (e.g., nM, uM, pM, %). If not found, use null.",
