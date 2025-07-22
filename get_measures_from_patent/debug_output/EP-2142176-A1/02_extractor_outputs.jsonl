@@ -1,0 +1,4 @@
+{"raw_mentions": "Here is the extracted sentence:\n\nDomperidone has a pKa of 7.9."}
+{"final_json": [{"molecule_name": "Domperidone", "protein_target_name": null, "binding_metric": "pKa", "value": "7.9", "unit": null}]}
+{"raw_mentions": "For any domperidone composition used in the methods of the invention, the therapeutically effective dose can be estimated initially from in vitro assays such as cell culture assays."}
+{"final_json": [{"molecule_name": null, "protein_target_name": null, "binding_metric": null, "value": null, "unit": null}]}

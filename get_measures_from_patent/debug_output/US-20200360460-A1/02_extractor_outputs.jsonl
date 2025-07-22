@@ -1,0 +1,2 @@
+{"raw_mentions": "RB5 was effective in enhancing pERK with an EC50 of 3.4 \u03bcM."}
+{"final_json": [{"molecule_name": "RB5", "protein_target_name": "pERK", "binding_metric": "EC50", "value": "3.4", "unit": "\u03bcM"}]}

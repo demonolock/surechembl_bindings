@@ -1,0 +1,74 @@
+[
+    {
+        "molecule_name": "anti-SIRPg antibody",
+        "protein_target_name": "SIRPg",
+        "binding_metric": "KD",
+        "value": "10−8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAn “anti-SIRPg antibody” may also be defined as an antibody that exhibits appreciable binding affinity for SIRPg and that blocks the interaction between CD47 and SIRPg, with an affinity of about 10<sup>−8 </sup>M (KD) or stronger.\n“Appreciable affinity” or “specific binding” or “specifically bind to” includes binding with an affinity of about 10<sup>−8 </sup>M (KD) or stronger, preferably between 10<sup>−8 </sup>M (KD) and 10<sup>−12 </sup>M (KD), optionally between 10<sup>−8 </sup>M (KD) and 10<sup>−10 </sup>M (KD), in particular at least 10<sup>−8 </sup>M (KD).\nIn an embodiment, the anti-SIRPg antibody or antigen-binding fragment thereof or antigen-binding antibody mimetic has a KD value inferior to 10<sup>−8 </sup>M, preferably inferior to 10<sup>−9 </sup>M for SIRPg, particularly by Blitz analysis.\nThe invention is based on the unexpected observation made by the inventors that antagonist SIRPg antibodies can be useful for treating, preventing, thereby in particular encompassing inhibiting, slowing the progression of, or reducing the symptoms associated with a disease or a disorder in which T cells have deleterious effects, with an increase superior to 1 log, preferably superior to 2 log, more preferably superior to 3 log, most preferably superior to 4 log, of the KD value of CD47 in a SIRPg binding competitive assay by Blitz."
+    },
+    {
+        "molecule_name": "anti-SIRPg antibody or antigen-binding fragment thereof or antigen-binding antibody mimetic",
+        "protein_target_name": "SIRPg",
+        "binding_metric": "KD",
+        "value": "<10−8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAn “anti-SIRPg antibody” may also be defined as an antibody that exhibits appreciable binding affinity for SIRPg and that blocks the interaction between CD47 and SIRPg, with an affinity of about 10<sup>−8 </sup>M (KD) or stronger.\n“Appreciable affinity” or “specific binding” or “specifically bind to” includes binding with an affinity of about 10<sup>−8 </sup>M (KD) or stronger, preferably between 10<sup>−8 </sup>M (KD) and 10<sup>−12 </sup>M (KD), optionally between 10<sup>−8 </sup>M (KD) and 10<sup>−10 </sup>M (KD), in particular at least 10<sup>−8 </sup>M (KD).\nIn an embodiment, the anti-SIRPg antibody or antigen-binding fragment thereof or antigen-binding antibody mimetic has a KD value inferior to 10<sup>−8 </sup>M, preferably inferior to 10<sup>−9 </sup>M for SIRPg, particularly by Blitz analysis.\nThe invention is based on the unexpected observation made by the inventors that antagonist SIRPg antibodies can be useful for treating, preventing, thereby in particular encompassing inhibiting, slowing the progression of, or reducing the symptoms associated with a disease or a disorder in which T cells have deleterious effects, with an increase superior to 1 log, preferably superior to 2 log, more preferably superior to 3 log, most preferably superior to 4 log, of the KD value of CD47 in a SIRPg binding competitive assay by Blitz."
+    },
+    {
+        "molecule_name": "anti-SIRPg antibody or antigen-binding fragment thereof or antigen-binding antibody mimetic",
+        "protein_target_name": "SIRPg",
+        "binding_metric": "KD",
+        "value": "<10−9",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAn “anti-SIRPg antibody” may also be defined as an antibody that exhibits appreciable binding affinity for SIRPg and that blocks the interaction between CD47 and SIRPg, with an affinity of about 10<sup>−8 </sup>M (KD) or stronger.\n“Appreciable affinity” or “specific binding” or “specifically bind to” includes binding with an affinity of about 10<sup>−8 </sup>M (KD) or stronger, preferably between 10<sup>−8 </sup>M (KD) and 10<sup>−12 </sup>M (KD), optionally between 10<sup>−8 </sup>M (KD) and 10<sup>−10 </sup>M (KD), in particular at least 10<sup>−8 </sup>M (KD).\nIn an embodiment, the anti-SIRPg antibody or antigen-binding fragment thereof or antigen-binding antibody mimetic has a KD value inferior to 10<sup>−8 </sup>M, preferably inferior to 10<sup>−9 </sup>M for SIRPg, particularly by Blitz analysis.\nThe invention is based on the unexpected observation made by the inventors that antagonist SIRPg antibodies can be useful for treating, preventing, thereby in particular encompassing inhibiting, slowing the progression of, or reducing the symptoms associated with a disease or a disorder in which T cells have deleterious effects, with an increase superior to 1 log, preferably superior to 2 log, more preferably superior to 3 log, most preferably superior to 4 log, of the KD value of CD47 in a SIRPg binding competitive assay by Blitz."
+    },
+    {
+        "molecule_name": "antagonist SIRPg antibodies",
+        "protein_target_name": "CD47",
+        "binding_metric": "KD",
+        "value": ">1 log",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAn “anti-SIRPg antibody” may also be defined as an antibody that exhibits appreciable binding affinity for SIRPg and that blocks the interaction between CD47 and SIRPg, with an affinity of about 10<sup>−8 </sup>M (KD) or stronger.\n“Appreciable affinity” or “specific binding” or “specifically bind to” includes binding with an affinity of about 10<sup>−8 </sup>M (KD) or stronger, preferably between 10<sup>−8 </sup>M (KD) and 10<sup>−12 </sup>M (KD), optionally between 10<sup>−8 </sup>M (KD) and 10<sup>−10 </sup>M (KD), in particular at least 10<sup>−8 </sup>M (KD).\nIn an embodiment, the anti-SIRPg antibody or antigen-binding fragment thereof or antigen-binding antibody mimetic has a KD value inferior to 10<sup>−8 </sup>M, preferably inferior to 10<sup>−9 </sup>M for SIRPg, particularly by Blitz analysis.\nThe invention is based on the unexpected observation made by the inventors that antagonist SIRPg antibodies can be useful for treating, preventing, thereby in particular encompassing inhibiting, slowing the progression of, or reducing the symptoms associated with a disease or a disorder in which T cells have deleterious effects, with an increase superior to 1 log, preferably superior to 2 log, more preferably superior to 3 log, most preferably superior to 4 log, of the KD value of CD47 in a SIRPg binding competitive assay by Blitz."
+    },
+    {
+        "molecule_name": "antagonist SIRPg antibodies",
+        "protein_target_name": "CD47",
+        "binding_metric": "KD",
+        "value": ">2 log",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAn “anti-SIRPg antibody” may also be defined as an antibody that exhibits appreciable binding affinity for SIRPg and that blocks the interaction between CD47 and SIRPg, with an affinity of about 10<sup>−8 </sup>M (KD) or stronger.\n“Appreciable affinity” or “specific binding” or “specifically bind to” includes binding with an affinity of about 10<sup>−8 </sup>M (KD) or stronger, preferably between 10<sup>−8 </sup>M (KD) and 10<sup>−12 </sup>M (KD), optionally between 10<sup>−8 </sup>M (KD) and 10<sup>−10 </sup>M (KD), in particular at least 10<sup>−8 </sup>M (KD).\nIn an embodiment, the anti-SIRPg antibody or antigen-binding fragment thereof or antigen-binding antibody mimetic has a KD value inferior to 10<sup>−8 </sup>M, preferably inferior to 10<sup>−9 </sup>M for SIRPg, particularly by Blitz analysis.\nThe invention is based on the unexpected observation made by the inventors that antagonist SIRPg antibodies can be useful for treating, preventing, thereby in particular encompassing inhibiting, slowing the progression of, or reducing the symptoms associated with a disease or a disorder in which T cells have deleterious effects, with an increase superior to 1 log, preferably superior to 2 log, more preferably superior to 3 log, most preferably superior to 4 log, of the KD value of CD47 in a SIRPg binding competitive assay by Blitz."
+    },
+    {
+        "molecule_name": "antagonist SIRPg antibodies",
+        "protein_target_name": "CD47",
+        "binding_metric": "KD",
+        "value": ">3 log",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAn “anti-SIRPg antibody” may also be defined as an antibody that exhibits appreciable binding affinity for SIRPg and that blocks the interaction between CD47 and SIRPg, with an affinity of about 10<sup>−8 </sup>M (KD) or stronger.\n“Appreciable affinity” or “specific binding” or “specifically bind to” includes binding with an affinity of about 10<sup>−8 </sup>M (KD) or stronger, preferably between 10<sup>−8 </sup>M (KD) and 10<sup>−12 </sup>M (KD), optionally between 10<sup>−8 </sup>M (KD) and 10<sup>−10 </sup>M (KD), in particular at least 10<sup>−8 </sup>M (KD).\nIn an embodiment, the anti-SIRPg antibody or antigen-binding fragment thereof or antigen-binding antibody mimetic has a KD value inferior to 10<sup>−8 </sup>M, preferably inferior to 10<sup>−9 </sup>M for SIRPg, particularly by Blitz analysis.\nThe invention is based on the unexpected observation made by the inventors that antagonist SIRPg antibodies can be useful for treating, preventing, thereby in particular encompassing inhibiting, slowing the progression of, or reducing the symptoms associated with a disease or a disorder in which T cells have deleterious effects, with an increase superior to 1 log, preferably superior to 2 log, more preferably superior to 3 log, most preferably superior to 4 log, of the KD value of CD47 in a SIRPg binding competitive assay by Blitz."
+    },
+    {
+        "molecule_name": "antagonist SIRPg antibodies",
+        "protein_target_name": "CD47",
+        "binding_metric": "KD",
+        "value": ">4 log",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAn “anti-SIRPg antibody” may also be defined as an antibody that exhibits appreciable binding affinity for SIRPg and that blocks the interaction between CD47 and SIRPg, with an affinity of about 10<sup>−8 </sup>M (KD) or stronger.\n“Appreciable affinity” or “specific binding” or “specifically bind to” includes binding with an affinity of about 10<sup>−8 </sup>M (KD) or stronger, preferably between 10<sup>−8 </sup>M (KD) and 10<sup>−12 </sup>M (KD), optionally between 10<sup>−8 </sup>M (KD) and 10<sup>−10 </sup>M (KD), in particular at least 10<sup>−8 </sup>M (KD).\nIn an embodiment, the anti-SIRPg antibody or antigen-binding fragment thereof or antigen-binding antibody mimetic has a KD value inferior to 10<sup>−8 </sup>M, preferably inferior to 10<sup>−9 </sup>M for SIRPg, particularly by Blitz analysis.\nThe invention is based on the unexpected observation made by the inventors that antagonist SIRPg antibodies can be useful for treating, preventing, thereby in particular encompassing inhibiting, slowing the progression of, or reducing the symptoms associated with a disease or a disorder in which T cells have deleterious effects, with an increase superior to 1 log, preferably superior to 2 log, more preferably superior to 3 log, most preferably superior to 4 log, of the KD value of CD47 in a SIRPg binding competitive assay by Blitz."
+    },
+    {
+        "molecule_name": "anti-SIRPg antibody",
+        "protein_target_name": "SIRPg",
+        "binding_metric": "KD",
+        "value": "<10−8",
+        "unit": null,
+        "raw_mentions": "In a particular embodiment, the anti-SIRPg antibody or antigen-binding fragment thereof or antigen-binding mimetic has a KD value about 10−8 or inferior for SIRPg and a KD value superior to 10-8 for SIRPa."
+    },
+    {
+        "molecule_name": "anti-SIRPg antibody",
+        "protein_target_name": "SIRPa",
+        "binding_metric": "KD",
+        "value": ">10-8",
+        "unit": null,
+        "raw_mentions": "In a particular embodiment, the anti-SIRPg antibody or antigen-binding fragment thereof or antigen-binding mimetic has a KD value about 10−8 or inferior for SIRPg and a KD value superior to 10-8 for SIRPa."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "molecule_name": "alpha-synuclein",
+        "protein_target_name": "alpha-synuclein",
+        "binding_metric": "KD",
+        "value": "0.5-10",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\ni. a binding affinity (KD) for alpha-synuclein that is between 0.5-10nM, e.g., 1-5nM or 1-2nM;\nThe affinity corresponds to about 10 as determined by, for example, surface Plasmon Resonance (SPR) techniques in a 3000 or T200 instrument <sup>-7</sup> M or less (e.g., about 10) <sup>-8</sup> M or less, e.g. about 10 <sup>-9</sup> M or less) \nThe KD is at least ten-fold lower, such as at least 100-fold lower, e.g. at least 1,000-fold lower, such as at least 10,000-fold lower, e.g. at least 100,000-fold lower, than the affinity of the antibody for binding to a non-specific antigen (e.g. BSA, casein) other than the predetermined antigen or closely related antigen.\nThe binding affinity (KD) of α -synuclein can be determined using methods well known in the art (e.g., as described in example 2)."
+    },
+    {
+        "molecule_name": "alpha-synuclein",
+        "protein_target_name": "alpha-synuclein",
+        "binding_metric": "KD",
+        "value": "10",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\ni. a binding affinity (KD) for alpha-synuclein that is between 0.5-10nM, e.g., 1-5nM or 1-2nM;\nThe affinity corresponds to about 10 as determined by, for example, surface Plasmon Resonance (SPR) techniques in a 3000 or T200 instrument <sup>-7</sup> M or less (e.g., about 10) <sup>-8</sup> M or less, e.g. about 10 <sup>-9</sup> M or less) \nThe KD is at least ten-fold lower, such as at least 100-fold lower, e.g. at least 1,000-fold lower, such as at least 10,000-fold lower, e.g. at least 100,000-fold lower, than the affinity of the antibody for binding to a non-specific antigen (e.g. BSA, casein) other than the predetermined antigen or closely related antigen.\nThe binding affinity (KD) of α -synuclein can be determined using methods well known in the art (e.g., as described in example 2)."
+    },
+    {
+        "molecule_name": "antibody 37, 37v2 and antibody 285",
+        "protein_target_name": "alpha-synuclein",
+        "binding_metric": "EC50",
+        "value": "5",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAs can be seen in fig. 12C, antibodies 37, 37v2 and antibody 285 all reduced alpha-synuclein phosphorylation in neurons in a dose-dependent manner with similar maximal inhibition (around 70% -75%) of 37, 37v2 and 285 using an EC50 of about 5 nM.\nα -synuclein seeds were used at a concentration of 6.6nM (10 ng/well).\nDifferent concentrations of antibody and alpha-synuclein seeds were added together on DIV6 to obtain a dose response (starting from the highest antibody concentration of 133nM and dropping to 133 pM)."
+    }
+]

@@ -1,0 +1,2 @@
+{"raw_mentions": "The extremely high potency (IC50<1 nM) of these inhibitors appears to be due to the irreversible modification of the active site residue, His231, of hMetAP2 (Liu, et al. (1998) Science 282, 1324)."}
+{"final_json": [{"molecule_name": null, "protein_target_name": "hMetAP2", "binding_metric": "IC50", "value": "<1", "unit": "nM"}]}

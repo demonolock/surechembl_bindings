@@ -1,0 +1,106 @@
+[
+    {
+        "molecule_name": "PPARdelta",
+        "protein_target_name": "PPARgamma",
+        "binding_metric": "EC50",
+        "value": "10.06",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nPPARdeltaPPARgammaExampleEC50 (μM)EC50 (μM)\n10.060.026\n20.0670.647\n30.0011.804\n40.220.998\n50.779&gt;10"
+    },
+    {
+        "molecule_name": "PPARdelta",
+        "protein_target_name": "PPARgamma",
+        "binding_metric": "EC50",
+        "value": "0.026",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nPPARdeltaPPARgammaExampleEC50 (μM)EC50 (μM)\n10.060.026\n20.0670.647\n30.0011.804\n40.220.998\n50.779&gt;10"
+    },
+    {
+        "molecule_name": "PPARdelta",
+        "protein_target_name": "PPARgamma",
+        "binding_metric": "EC50",
+        "value": "20.06",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nPPARdeltaPPARgammaExampleEC50 (μM)EC50 (μM)\n10.060.026\n20.0670.647\n30.0011.804\n40.220.998\n50.779&gt;10"
+    },
+    {
+        "molecule_name": "PPARdelta",
+        "protein_target_name": "PPARgamma",
+        "binding_metric": "EC50",
+        "value": "0.067",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nPPARdeltaPPARgammaExampleEC50 (μM)EC50 (μM)\n10.060.026\n20.0670.647\n30.0011.804\n40.220.998\n50.779&gt;10"
+    },
+    {
+        "molecule_name": "PPARdelta",
+        "protein_target_name": "PPARgamma",
+        "binding_metric": "EC50",
+        "value": "20.06",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nPPARdeltaPPARgammaExampleEC50 (μM)EC50 (μM)\n10.060.026\n20.0670.647\n30.0011.804\n40.220.998\n50.779&gt;10"
+    },
+    {
+        "molecule_name": "PPARdelta",
+        "protein_target_name": "PPARgamma",
+        "binding_metric": "EC50",
+        "value": "0.647",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nPPARdeltaPPARgammaExampleEC50 (μM)EC50 (μM)\n10.060.026\n20.0670.647\n30.0011.804\n40.220.998\n50.779&gt;10"
+    },
+    {
+        "molecule_name": "PPARdelta",
+        "protein_target_name": "PPARgamma",
+        "binding_metric": "EC50",
+        "value": "30.00",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nPPARdeltaPPARgammaExampleEC50 (μM)EC50 (μM)\n10.060.026\n20.0670.647\n30.0011.804\n40.220.998\n50.779&gt;10"
+    },
+    {
+        "molecule_name": "PPARdelta",
+        "protein_target_name": "PPARgamma",
+        "binding_metric": "EC50",
+        "value": "0.001",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nPPARdeltaPPARgammaExampleEC50 (μM)EC50 (μM)\n10.060.026\n20.0670.647\n30.0011.804\n40.220.998\n50.779&gt;10"
+    },
+    {
+        "molecule_name": "PPARdelta",
+        "protein_target_name": "PPARgamma",
+        "binding_metric": "EC50",
+        "value": "1.804",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nPPARdeltaPPARgammaExampleEC50 (μM)EC50 (μM)\n10.060.026\n20.0670.647\n30.0011.804\n40.220.998\n50.779&gt;10"
+    },
+    {
+        "molecule_name": "PPARdelta",
+        "protein_target_name": "PPARgamma",
+        "binding_metric": "EC50",
+        "value": "40.22",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nPPARdeltaPPARgammaExampleEC50 (μM)EC50 (μM)\n10.060.026\n20.0670.647\n30.0011.804\n40.220.998\n50.779&gt;10"
+    },
+    {
+        "molecule_name": "PPARdelta",
+        "protein_target_name": "PPARgamma",
+        "binding_metric": "EC50",
+        "value": "0.998",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nPPARdeltaPPARgammaExampleEC50 (μM)EC50 (μM)\n10.060.026\n20.0670.647\n30.0011.804\n40.220.998\n50.779&gt;10"
+    },
+    {
+        "molecule_name": "PPARdelta",
+        "protein_target_name": "PPARgamma",
+        "binding_metric": "EC50",
+        "value": "50.779",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nPPARdeltaPPARgammaExampleEC50 (μM)EC50 (μM)\n10.060.026\n20.0670.647\n30.0011.804\n40.220.998\n50.779&gt;10"
+    },
+    {
+        "molecule_name": "PPARdelta",
+        "protein_target_name": "PPARgamma",
+        "binding_metric": "EC50",
+        "value": ">10",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nPPARdeltaPPARgammaExampleEC50 (μM)EC50 (μM)\n10.060.026\n20.0670.647\n30.0011.804\n40.220.998\n50.779&gt;10"
+    }
+]

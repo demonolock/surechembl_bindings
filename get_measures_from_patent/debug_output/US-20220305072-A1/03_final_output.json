@@ -1,0 +1,18 @@
+[
+    {
+        "molecule_name": "apatinib",
+        "protein_target_name": "SGLT1",
+        "binding_metric": "IC50",
+        "value": "< half",
+        "unit": null,
+        "raw_mentions": "The IC50 values of apatinib on each group of cells are measured by MTT method. \nThe results are shown in FIG. 5, knockdown of SGLT1 and of VEGFR2 consistently reduced the IC50 value of apatinib by more than half, while knockdown of SGLT2 had no such effect."
+    },
+    {
+        "molecule_name": "apatinib",
+        "protein_target_name": "VEGFR2",
+        "binding_metric": "IC50",
+        "value": "< half",
+        "unit": null,
+        "raw_mentions": "The IC50 values of apatinib on each group of cells are measured by MTT method. \nThe results are shown in FIG. 5, knockdown of SGLT1 and of VEGFR2 consistently reduced the IC50 value of apatinib by more than half, while knockdown of SGLT2 had no such effect."
+    }
+]

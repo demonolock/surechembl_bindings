@@ -1,0 +1,50 @@
+[
+    {
+        "molecule_name": "formula (I)",
+        "protein_target_name": "PTP",
+        "binding_metric": "IC50",
+        "value": "<20",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* The tested compounds according to formula (I) display an inhibition (illustrated by IC50 values) with regard to PTP of preferably less than 20 μM, more preferred less than 5 μM.\n* For instance, the compound of example 1 displays an IC50 value of 1.0 μM in respect of PTPIB, an IC50 value of 1.2 μM in respect of GLEPP-1, an IC50 value of 4.0 and 1.9 μM in respect of SHP-1 and SHP-2.\n* The inhibition is illustrated by IC50 values which denote the concentration of test compound necessary to achieve an inhibition of 50% of saidPTP's using the following concentration of the PTP substrate DiFMUP : \n* The PTP Enzyme Assay aims at determining the extent of inhibition of PTPs, e.g. of PTPIB, SHP-1, SHP-2, or GLEPP-1 in the presence of a test compound of formula (I)."
+    },
+    {
+        "molecule_name": "formula (I)",
+        "protein_target_name": "PTP",
+        "binding_metric": "IC50",
+        "value": "<5",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* The tested compounds according to formula (I) display an inhibition (illustrated by IC50 values) with regard to PTP of preferably less than 20 μM, more preferred less than 5 μM.\n* For instance, the compound of example 1 displays an IC50 value of 1.0 μM in respect of PTPIB, an IC50 value of 1.2 μM in respect of GLEPP-1, an IC50 value of 4.0 and 1.9 μM in respect of SHP-1 and SHP-2.\n* The inhibition is illustrated by IC50 values which denote the concentration of test compound necessary to achieve an inhibition of 50% of saidPTP's using the following concentration of the PTP substrate DiFMUP : \n* The PTP Enzyme Assay aims at determining the extent of inhibition of PTPs, e.g. of PTPIB, SHP-1, SHP-2, or GLEPP-1 in the presence of a test compound of formula (I)."
+    },
+    {
+        "molecule_name": "example 1",
+        "protein_target_name": "PTPIB",
+        "binding_metric": "IC50",
+        "value": "1.0",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* The tested compounds according to formula (I) display an inhibition (illustrated by IC50 values) with regard to PTP of preferably less than 20 μM, more preferred less than 5 μM.\n* For instance, the compound of example 1 displays an IC50 value of 1.0 μM in respect of PTPIB, an IC50 value of 1.2 μM in respect of GLEPP-1, an IC50 value of 4.0 and 1.9 μM in respect of SHP-1 and SHP-2.\n* The inhibition is illustrated by IC50 values which denote the concentration of test compound necessary to achieve an inhibition of 50% of saidPTP's using the following concentration of the PTP substrate DiFMUP : \n* The PTP Enzyme Assay aims at determining the extent of inhibition of PTPs, e.g. of PTPIB, SHP-1, SHP-2, or GLEPP-1 in the presence of a test compound of formula (I)."
+    },
+    {
+        "molecule_name": "example 1",
+        "protein_target_name": "GLEPP-1",
+        "binding_metric": "IC50",
+        "value": "1.2",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* The tested compounds according to formula (I) display an inhibition (illustrated by IC50 values) with regard to PTP of preferably less than 20 μM, more preferred less than 5 μM.\n* For instance, the compound of example 1 displays an IC50 value of 1.0 μM in respect of PTPIB, an IC50 value of 1.2 μM in respect of GLEPP-1, an IC50 value of 4.0 and 1.9 μM in respect of SHP-1 and SHP-2.\n* The inhibition is illustrated by IC50 values which denote the concentration of test compound necessary to achieve an inhibition of 50% of saidPTP's using the following concentration of the PTP substrate DiFMUP : \n* The PTP Enzyme Assay aims at determining the extent of inhibition of PTPs, e.g. of PTPIB, SHP-1, SHP-2, or GLEPP-1 in the presence of a test compound of formula (I)."
+    },
+    {
+        "molecule_name": "example 1",
+        "protein_target_name": "SHP-1",
+        "binding_metric": "IC50",
+        "value": "4.0",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* The tested compounds according to formula (I) display an inhibition (illustrated by IC50 values) with regard to PTP of preferably less than 20 μM, more preferred less than 5 μM.\n* For instance, the compound of example 1 displays an IC50 value of 1.0 μM in respect of PTPIB, an IC50 value of 1.2 μM in respect of GLEPP-1, an IC50 value of 4.0 and 1.9 μM in respect of SHP-1 and SHP-2.\n* The inhibition is illustrated by IC50 values which denote the concentration of test compound necessary to achieve an inhibition of 50% of saidPTP's using the following concentration of the PTP substrate DiFMUP : \n* The PTP Enzyme Assay aims at determining the extent of inhibition of PTPs, e.g. of PTPIB, SHP-1, SHP-2, or GLEPP-1 in the presence of a test compound of formula (I)."
+    },
+    {
+        "molecule_name": "example 1",
+        "protein_target_name": "SHP-2",
+        "binding_metric": "IC50",
+        "value": "1.9",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* The tested compounds according to formula (I) display an inhibition (illustrated by IC50 values) with regard to PTP of preferably less than 20 μM, more preferred less than 5 μM.\n* For instance, the compound of example 1 displays an IC50 value of 1.0 μM in respect of PTPIB, an IC50 value of 1.2 μM in respect of GLEPP-1, an IC50 value of 4.0 and 1.9 μM in respect of SHP-1 and SHP-2.\n* The inhibition is illustrated by IC50 values which denote the concentration of test compound necessary to achieve an inhibition of 50% of saidPTP's using the following concentration of the PTP substrate DiFMUP : \n* The PTP Enzyme Assay aims at determining the extent of inhibition of PTPs, e.g. of PTPIB, SHP-1, SHP-2, or GLEPP-1 in the presence of a test compound of formula (I)."
+    }
+]

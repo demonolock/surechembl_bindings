@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_name": "human α-CGRP",
+        "protein_target_name": "CGRP1 receptor",
+        "binding_metric": "KD",
+        "value": "8",
+        "unit": "pM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\n7E9, 8B6, 10A8, and 7D11) were affected by alanine replacement at this position with a Kd of 0.9 nM, 1.1 nM, 2.1 nM, and 4.4 nM respectively.\n7E91.00.9Yes2.58B61.11.2Yes4.010A82.13.0Yesn.d.7D114.45.4Yesn.d.\nThe reported IC50 value (in terms of IgG molecules) was converted to binding sites (by multiplying it by 2) so that it could be compared with the affinities (KD) determined by Biacore (see Table 2) with a KD of 8 pM for human α-CGRP to CGRP1 receptor.\nTable 2 shows the IC50 of murine antibodies 7E9, 8B6, 6H2 and 4901 with an IC50 of 1.0 nM, 1.1 nM, 9.3 nM, and 17.9 nM respectively.\n49013.4YesYes7E947YesYes6H254NoNo8B675YesYes7D11218YesYes10A8451Non.d.9B8876Non.d.14E10922Non.d.13C2>1000Non.d.14A9>1000Non.d.6D5>1000Non.d.1C5>1000Non.d.\nData indicate that antibodies that demonstrated antagonist activity in the assay generally have high affinity with a KD of about 80 nM or less to human α-CGRP or having KD of about 47 nM or less to rat α-CGRP."
+    }
+]

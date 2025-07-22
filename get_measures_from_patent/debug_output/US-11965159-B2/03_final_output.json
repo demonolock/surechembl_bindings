@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_name": "BRD7087",
+        "protein_target_name": "Cas9",
+        "binding_metric": "Kd",
+        "value": "˜160",
+        "unit": "nM",
+        "raw_mentions": "A 2:1 compound to Cas9 binding isotherm indicated a dissociation constant of ˜160 nM for BRD7087.\nUsing peak intensities obtained by fitting for these datapoints, the method of Shortridge et. al. indicates a binding constant Kd ˜2.2 μM for BRD7087."
+    }
+]

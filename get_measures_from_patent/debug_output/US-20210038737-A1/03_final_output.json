@@ -1,0 +1,514 @@
+[
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ domain",
+        "binding_metric": "Kd",
+        "value": "≤0.5",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "≤10,000",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 9,000",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 8,000",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 7,000",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 6,000",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 5,000",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 4,000",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 3,000",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 2,000",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 1,000",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 900",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 800",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 700",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 600",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 500",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 400",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 300",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 200",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 100",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 90",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 80",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 70",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 60",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 50",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 40",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 30",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 20",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 10",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 9",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 8",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 7",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 6",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 5",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 4",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 3",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 2",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 1",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 0.9",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 0.8",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 0.7",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 0.6",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 0.5",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 0.4",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 0.3",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 0.2",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 0.1",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "≤100",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide",
+        "protein_target_name": "CAL-PDZ",
+        "binding_metric": "IC50",
+        "value": "about 1",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIn some embodiments, the peptide has Kd of less than or equal to about 0.5 μM for the CAL-PDZ domain, e.g., less than or equal to about 0.4 μM, about 0.3 μM, about 0.2 μM, about 0.1 μM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, and about 1 nM, inclusive of all values and ranges therebetween.\nIn some embodiments, the peptides disclosed herein have an IC50 for CAL-PDZ of about 10,000 nM or less, e.g., about 9,000 nM, about 8,000 nM, about 7,000 nM, about 6,000 nM, about 5,000 nM, about 4,000 nM, about 3,000 nM, about 2,000 nM, about 1,000 nM, about 900 nM, about 800 nM, about 700 nM, about 600 nM, about 500 nM, about 400 nM, about 300 nM, about 200 nM, about 100 nM, about 90 nM, about 80 nM, about 70 nM, about 60 nM, about 50 nM, about 40 nM, about 30 nM, about 20 nM, about 10 nM, about 9 nM, about 8 nM, about 7 nM, about 6 nM, about 5 nM, about 4 nM, about 3 nM, about 2 nM, about 1 nM, about 0.9 nM, about 0.8 nM, about 0.7 nM, about 0.6 nM, about 0.5 nM, about 0.4 nM, about 0.3 nM, about 0.2 nM, about 0.1 nM, or less, inclusive of all values and ranges therebetween.\nIn particular embodiments, the peptide disclosed herein have an IC50 for CAL-PDZ in the range of from about 100 nM to about 1 nM."
+    },
+    {
+        "molecule_name": "peptide 16",
+        "protein_target_name": "CAL",
+        "binding_metric": "IC50",
+        "value": "680",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nIndeed, substitution of Pen also improved CAL binding by ˜2-fold (IC50=680 nM for peptide 16).\nThis substitution gave peptide 25, which is 1.5-fold more potent than peptide 24 in CAL binding (IC50=235 nM) and has >5-fold improvement in cell-permeability, most likely due to the greater hydrophobicity of the benzothienyl group relative to the indolyl ring of Trp.\nWhen labeled at the N-terminus with fluorescein and tested for binding to CAL PDZ domain by FA, a K<sub>D </sub>value of 49±3 nM was obtained (Table 1, peptide 26).\n  5Ac-Arg-Arg-Phe-Trp-Gln-Cys-Thr-Arg-Tle-OH (SEQ ID  1700<sup>a</sup>NDNO: 125, underlined portion only) \n  6FITC-Cys-Arg-Arg-Arg-Phe-Trp-Gln-Cys-Thr-Arg-Tle-OH996 ± 104ND(SEQ ID NO: 126, underlined portion only)(K<sub>D</sub>)<sup>c</sup> \n  1Ac-Arg-Arg-Phe-Trp-Gln-Cys-Thr-Arg-Val-OH (SEQ ID  4520<sup>a</sup>NDNO: 121, underlined portion only) \n  2Ac-Arg-Arg-Phe-Trp-Gln-Cys-Thr-Arg-Ile-OH (SEQ ID  3690<sup>a</sup>NDNO: 122, underlined portion only) \n  3Ac-Arg-Arg-Phe-Trp-Gln-Cys-Thr-Arg-Cha-OH (SEQ ID  7880<sup>a</sup>NDNO: 123, underlined portion only) \n  7Ac-Arg-Arg-Phe-Trp-Gln-Cys-Thr-Leu-Tle-OH (SEQ ID  2020<sup>a</sup>NDNO: 127, underlined portion only)"
+    },
+    {
+        "molecule_name": "peptide 25",
+        "protein_target_name": "CAL",
+        "binding_metric": "IC50",
+        "value": "235",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nIndeed, substitution of Pen also improved CAL binding by ˜2-fold (IC50=680 nM for peptide 16).\nThis substitution gave peptide 25, which is 1.5-fold more potent than peptide 24 in CAL binding (IC50=235 nM) and has >5-fold improvement in cell-permeability, most likely due to the greater hydrophobicity of the benzothienyl group relative to the indolyl ring of Trp.\nWhen labeled at the N-terminus with fluorescein and tested for binding to CAL PDZ domain by FA, a K<sub>D </sub>value of 49±3 nM was obtained (Table 1, peptide 26).\n  5Ac-Arg-Arg-Phe-Trp-Gln-Cys-Thr-Arg-Tle-OH (SEQ ID  1700<sup>a</sup>NDNO: 125, underlined portion only) \n  6FITC-Cys-Arg-Arg-Arg-Phe-Trp-Gln-Cys-Thr-Arg-Tle-OH996 ± 104ND(SEQ ID NO: 126, underlined portion only)(K<sub>D</sub>)<sup>c</sup> \n  1Ac-Arg-Arg-Phe-Trp-Gln-Cys-Thr-Arg-Val-OH (SEQ ID  4520<sup>a</sup>NDNO: 121, underlined portion only) \n  2Ac-Arg-Arg-Phe-Trp-Gln-Cys-Thr-Arg-Ile-OH (SEQ ID  3690<sup>a</sup>NDNO: 122, underlined portion only) \n  3Ac-Arg-Arg-Phe-Trp-Gln-Cys-Thr-Arg-Cha-OH (SEQ ID  7880<sup>a</sup>NDNO: 123, underlined portion only) \n  7Ac-Arg-Arg-Phe-Trp-Gln-Cys-Thr-Leu-Tle-OH (SEQ ID  2020<sup>a</sup>NDNO: 127, underlined portion only)"
+    },
+    {
+        "molecule_name": "peptide 26",
+        "protein_target_name": "CAL PDZ domain",
+        "binding_metric": "Kd",
+        "value": "49±3",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nIndeed, substitution of Pen also improved CAL binding by ˜2-fold (IC50=680 nM for peptide 16).\nThis substitution gave peptide 25, which is 1.5-fold more potent than peptide 24 in CAL binding (IC50=235 nM) and has >5-fold improvement in cell-permeability, most likely due to the greater hydrophobicity of the benzothienyl group relative to the indolyl ring of Trp.\nWhen labeled at the N-terminus with fluorescein and tested for binding to CAL PDZ domain by FA, a K<sub>D </sub>value of 49±3 nM was obtained (Table 1, peptide 26).\n  5Ac-Arg-Arg-Phe-Trp-Gln-Cys-Thr-Arg-Tle-OH (SEQ ID  1700<sup>a</sup>NDNO: 125, underlined portion only) \n  6FITC-Cys-Arg-Arg-Arg-Phe-Trp-Gln-Cys-Thr-Arg-Tle-OH996 ± 104ND(SEQ ID NO: 126, underlined portion only)(K<sub>D</sub>)<sup>c</sup> \n  1Ac-Arg-Arg-Phe-Trp-Gln-Cys-Thr-Arg-Val-OH (SEQ ID  4520<sup>a</sup>NDNO: 121, underlined portion only) \n  2Ac-Arg-Arg-Phe-Trp-Gln-Cys-Thr-Arg-Ile-OH (SEQ ID  3690<sup>a</sup>NDNO: 122, underlined portion only) \n  3Ac-Arg-Arg-Phe-Trp-Gln-Cys-Thr-Arg-Cha-OH (SEQ ID  7880<sup>a</sup>NDNO: 123, underlined portion only) \n  7Ac-Arg-Arg-Phe-Trp-Gln-Cys-Thr-Leu-Tle-OH (SEQ ID  2020<sup>a</sup>NDNO: 127, underlined portion only)"
+    },
+    {
+        "molecule_name": "peptide (26)",
+        "protein_target_name": "CAL PDZ domain",
+        "binding_metric": "Kd",
+        "value": "5",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nCondition B (denoted in table with superscript <sup>b</sup>): 100 nM probe (FAM-ANSRWPTSII-OH (SEQ ID NO:158, underlined portion)) was incubated with 500 nM CALP5-His in pH 7.4 PBS containing 5 mM DTT for 1 h.\nCondition C (denoted with superscript <sup>c</sup>): 50 nM labeled peptide was incubated with 2 mM TCEP in PBS at pH 7.4 containing 0.01% Triton-X100.\nPeptides were diluted to a final concentration of 5 μM in DMEM containing 10% FBS with 1% penicillin/streptomycin, added to each well and then incubated for 2 h at 37° C. and 5% CO<sub>2</sub>.\nWhen labeled with an N-terminal fluorescein (FAM), the resulting peptide (26) bound CAL PDZ domain with a K<sub>D </sub>value of \n5 μM treatment with each compound on primary cells."
+    },
+    {
+        "molecule_name": "Inhibitor 29",
+        "protein_target_name": "CAL PDZ domain",
+        "binding_metric": "Kd",
+        "value": "6.0±3.0",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nInhibitor 29 bound to the CAL PDZ domain with a K<sub>D </sub>of 6.0±3.0 nM, while its K<sub>D </sub>values for NHERF1/2 PDZ domains ranged from 780 to 7480 nM, representing ≥130-fold selectivity for the intended CAL PDZ domain (FIG. 5 and Table 9).\nIn comparison, an earlier generation, peptide 20, showed a K<sub>D </sub>of 110 nM and only 14- to 36-fold selectivity for CAL vs NHERF PDZ domains.\nK<sub>D </sub>(nM)CompoundCALPN1P1N2P1N2P220110 ± 10 1640 ± 1502980 ± 1504970 ± 89029-FITC6.0 ± 3.0780 ± 101370 ± 3807480 ± 580\nSubstitution of Ala for tert-leucine almost completely abolished CAL binding, whereas replacement of Pip with reduced the binding affinity by 537-fold (FIG. 6b)."
+    },
+    {
+        "molecule_name": "Inhibitor 29",
+        "protein_target_name": "NHERF1/2 PDZ domains",
+        "binding_metric": "Kd",
+        "value": "780 to 7480",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nInhibitor 29 bound to the CAL PDZ domain with a K<sub>D </sub>of 6.0±3.0 nM, while its K<sub>D </sub>values for NHERF1/2 PDZ domains ranged from 780 to 7480 nM, representing ≥130-fold selectivity for the intended CAL PDZ domain (FIG. 5 and Table 9).\nIn comparison, an earlier generation, peptide 20, showed a K<sub>D </sub>of 110 nM and only 14- to 36-fold selectivity for CAL vs NHERF PDZ domains.\nK<sub>D </sub>(nM)CompoundCALPN1P1N2P1N2P220110 ± 10 1640 ± 1502980 ± 1504970 ± 89029-FITC6.0 ± 3.0780 ± 101370 ± 3807480 ± 580\nSubstitution of Ala for tert-leucine almost completely abolished CAL binding, whereas replacement of Pip with reduced the binding affinity by 537-fold (FIG. 6b)."
+    },
+    {
+        "molecule_name": "peptide 20",
+        "protein_target_name": "CAL PDZ domain",
+        "binding_metric": "Kd",
+        "value": "110",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nInhibitor 29 bound to the CAL PDZ domain with a K<sub>D </sub>of 6.0±3.0 nM, while its K<sub>D </sub>values for NHERF1/2 PDZ domains ranged from 780 to 7480 nM, representing ≥130-fold selectivity for the intended CAL PDZ domain (FIG. 5 and Table 9).\nIn comparison, an earlier generation, peptide 20, showed a K<sub>D </sub>of 110 nM and only 14- to 36-fold selectivity for CAL vs NHERF PDZ domains.\nK<sub>D </sub>(nM)CompoundCALPN1P1N2P1N2P220110 ± 10 1640 ± 1502980 ± 1504970 ± 89029-FITC6.0 ± 3.0780 ± 101370 ± 3807480 ± 580\nSubstitution of Ala for tert-leucine almost completely abolished CAL binding, whereas replacement of Pip with reduced the binding affinity by 537-fold (FIG. 6b)."
+    },
+    {
+        "molecule_name": "Compound 20",
+        "protein_target_name": "CAL",
+        "binding_metric": "Kd",
+        "value": "110 ± 10",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nInhibitor 29 bound to the CAL PDZ domain with a K<sub>D </sub>of 6.0±3.0 nM, while its K<sub>D </sub>values for NHERF1/2 PDZ domains ranged from 780 to 7480 nM, representing ≥130-fold selectivity for the intended CAL PDZ domain (FIG. 5 and Table 9).\nIn comparison, an earlier generation, peptide 20, showed a K<sub>D </sub>of 110 nM and only 14- to 36-fold selectivity for CAL vs NHERF PDZ domains.\nK<sub>D </sub>(nM)CompoundCALPN1P1N2P1N2P220110 ± 10 1640 ± 1502980 ± 1504970 ± 89029-FITC6.0 ± 3.0780 ± 101370 ± 3807480 ± 580\nSubstitution of Ala for tert-leucine almost completely abolished CAL binding, whereas replacement of Pip with reduced the binding affinity by 537-fold (FIG. 6b)."
+    },
+    {
+        "molecule_name": "Compound 20",
+        "protein_target_name": "PN1P1",
+        "binding_metric": "Kd",
+        "value": "1640 ± 150",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nInhibitor 29 bound to the CAL PDZ domain with a K<sub>D </sub>of 6.0±3.0 nM, while its K<sub>D </sub>values for NHERF1/2 PDZ domains ranged from 780 to 7480 nM, representing ≥130-fold selectivity for the intended CAL PDZ domain (FIG. 5 and Table 9).\nIn comparison, an earlier generation, peptide 20, showed a K<sub>D </sub>of 110 nM and only 14- to 36-fold selectivity for CAL vs NHERF PDZ domains.\nK<sub>D </sub>(nM)CompoundCALPN1P1N2P1N2P220110 ± 10 1640 ± 1502980 ± 1504970 ± 89029-FITC6.0 ± 3.0780 ± 101370 ± 3807480 ± 580\nSubstitution of Ala for tert-leucine almost completely abolished CAL binding, whereas replacement of Pip with reduced the binding affinity by 537-fold (FIG. 6b)."
+    },
+    {
+        "molecule_name": "Compound 20",
+        "protein_target_name": "N2P1",
+        "binding_metric": "Kd",
+        "value": "2980 ± 150",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nInhibitor 29 bound to the CAL PDZ domain with a K<sub>D </sub>of 6.0±3.0 nM, while its K<sub>D </sub>values for NHERF1/2 PDZ domains ranged from 780 to 7480 nM, representing ≥130-fold selectivity for the intended CAL PDZ domain (FIG. 5 and Table 9).\nIn comparison, an earlier generation, peptide 20, showed a K<sub>D </sub>of 110 nM and only 14- to 36-fold selectivity for CAL vs NHERF PDZ domains.\nK<sub>D </sub>(nM)CompoundCALPN1P1N2P1N2P220110 ± 10 1640 ± 1502980 ± 1504970 ± 89029-FITC6.0 ± 3.0780 ± 101370 ± 3807480 ± 580\nSubstitution of Ala for tert-leucine almost completely abolished CAL binding, whereas replacement of Pip with reduced the binding affinity by 537-fold (FIG. 6b)."
+    },
+    {
+        "molecule_name": "Compound 20",
+        "protein_target_name": "N2P2",
+        "binding_metric": "Kd",
+        "value": "4970 ± 890",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nInhibitor 29 bound to the CAL PDZ domain with a K<sub>D </sub>of 6.0±3.0 nM, while its K<sub>D </sub>values for NHERF1/2 PDZ domains ranged from 780 to 7480 nM, representing ≥130-fold selectivity for the intended CAL PDZ domain (FIG. 5 and Table 9).\nIn comparison, an earlier generation, peptide 20, showed a K<sub>D </sub>of 110 nM and only 14- to 36-fold selectivity for CAL vs NHERF PDZ domains.\nK<sub>D </sub>(nM)CompoundCALPN1P1N2P1N2P220110 ± 10 1640 ± 1502980 ± 1504970 ± 89029-FITC6.0 ± 3.0780 ± 101370 ± 3807480 ± 580\nSubstitution of Ala for tert-leucine almost completely abolished CAL binding, whereas replacement of Pip with reduced the binding affinity by 537-fold (FIG. 6b)."
+    },
+    {
+        "molecule_name": "29-FITC",
+        "protein_target_name": "CAL",
+        "binding_metric": "Kd",
+        "value": "6.0 ± 3.0",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nInhibitor 29 bound to the CAL PDZ domain with a K<sub>D </sub>of 6.0±3.0 nM, while its K<sub>D </sub>values for NHERF1/2 PDZ domains ranged from 780 to 7480 nM, representing ≥130-fold selectivity for the intended CAL PDZ domain (FIG. 5 and Table 9).\nIn comparison, an earlier generation, peptide 20, showed a K<sub>D </sub>of 110 nM and only 14- to 36-fold selectivity for CAL vs NHERF PDZ domains.\nK<sub>D </sub>(nM)CompoundCALPN1P1N2P1N2P220110 ± 10 1640 ± 1502980 ± 1504970 ± 89029-FITC6.0 ± 3.0780 ± 101370 ± 3807480 ± 580\nSubstitution of Ala for tert-leucine almost completely abolished CAL binding, whereas replacement of Pip with reduced the binding affinity by 537-fold (FIG. 6b)."
+    },
+    {
+        "molecule_name": "29-FITC",
+        "protein_target_name": "PN1P1",
+        "binding_metric": "Kd",
+        "value": "780 ± 10",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nInhibitor 29 bound to the CAL PDZ domain with a K<sub>D </sub>of 6.0±3.0 nM, while its K<sub>D </sub>values for NHERF1/2 PDZ domains ranged from 780 to 7480 nM, representing ≥130-fold selectivity for the intended CAL PDZ domain (FIG. 5 and Table 9).\nIn comparison, an earlier generation, peptide 20, showed a K<sub>D </sub>of 110 nM and only 14- to 36-fold selectivity for CAL vs NHERF PDZ domains.\nK<sub>D </sub>(nM)CompoundCALPN1P1N2P1N2P220110 ± 10 1640 ± 1502980 ± 1504970 ± 89029-FITC6.0 ± 3.0780 ± 101370 ± 3807480 ± 580\nSubstitution of Ala for tert-leucine almost completely abolished CAL binding, whereas replacement of Pip with reduced the binding affinity by 537-fold (FIG. 6b)."
+    },
+    {
+        "molecule_name": "29-FITC",
+        "protein_target_name": "N2P1",
+        "binding_metric": "Kd",
+        "value": "1370 ± 380",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nInhibitor 29 bound to the CAL PDZ domain with a K<sub>D </sub>of 6.0±3.0 nM, while its K<sub>D </sub>values for NHERF1/2 PDZ domains ranged from 780 to 7480 nM, representing ≥130-fold selectivity for the intended CAL PDZ domain (FIG. 5 and Table 9).\nIn comparison, an earlier generation, peptide 20, showed a K<sub>D </sub>of 110 nM and only 14- to 36-fold selectivity for CAL vs NHERF PDZ domains.\nK<sub>D </sub>(nM)CompoundCALPN1P1N2P1N2P220110 ± 10 1640 ± 1502980 ± 1504970 ± 89029-FITC6.0 ± 3.0780 ± 101370 ± 3807480 ± 580\nSubstitution of Ala for tert-leucine almost completely abolished CAL binding, whereas replacement of Pip with reduced the binding affinity by 537-fold (FIG. 6b)."
+    },
+    {
+        "molecule_name": "29-FITC",
+        "protein_target_name": "N2P2",
+        "binding_metric": "Kd",
+        "value": "7480 ± 580",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nInhibitor 29 bound to the CAL PDZ domain with a K<sub>D </sub>of 6.0±3.0 nM, while its K<sub>D </sub>values for NHERF1/2 PDZ domains ranged from 780 to 7480 nM, representing ≥130-fold selectivity for the intended CAL PDZ domain (FIG. 5 and Table 9).\nIn comparison, an earlier generation, peptide 20, showed a K<sub>D </sub>of 110 nM and only 14- to 36-fold selectivity for CAL vs NHERF PDZ domains.\nK<sub>D </sub>(nM)CompoundCALPN1P1N2P1N2P220110 ± 10 1640 ± 1502980 ± 1504970 ± 89029-FITC6.0 ± 3.0780 ± 101370 ± 3807480 ± 580\nSubstitution of Ala for tert-leucine almost completely abolished CAL binding, whereas replacement of Pip with reduced the binding affinity by 537-fold (FIG. 6b)."
+    }
+]

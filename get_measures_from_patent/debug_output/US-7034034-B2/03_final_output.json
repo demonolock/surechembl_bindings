@@ -1,0 +1,26 @@
+[
+    {
+        "molecule_name": "substituted 2-cyclohexyl-4-phenyl-1H-imidazole derivatives",
+        "protein_target_name": "NPY5 receptor",
+        "binding_metric": "Ki",
+        "value": "<=1",
+        "unit": "micromolar",
+        "raw_mentions": "Within certain embodiments, substituted 2-cyclohexyl-4-phenyl-1H-imidazole derivatives provided herein exhibit a K<sub>i </sub>of 1 micromolar or less, 100 nanomolar or less, or 10 nanomolar or less in an NPY5 receptor ligand binding assay as provided in Example 11."
+    },
+    {
+        "molecule_name": "substituted 2-cyclohexyl-4-phenyl-1H-imidazole derivatives",
+        "protein_target_name": "NPY5 receptor",
+        "binding_metric": "Ki",
+        "value": "<=100",
+        "unit": "nanomolar",
+        "raw_mentions": "Within certain embodiments, substituted 2-cyclohexyl-4-phenyl-1H-imidazole derivatives provided herein exhibit a K<sub>i </sub>of 1 micromolar or less, 100 nanomolar or less, or 10 nanomolar or less in an NPY5 receptor ligand binding assay as provided in Example 11."
+    },
+    {
+        "molecule_name": "substituted 2-cyclohexyl-4-phenyl-1H-imidazole derivatives",
+        "protein_target_name": "NPY5 receptor",
+        "binding_metric": "Ki",
+        "value": "<=10",
+        "unit": "nanomolar",
+        "raw_mentions": "Within certain embodiments, substituted 2-cyclohexyl-4-phenyl-1H-imidazole derivatives provided herein exhibit a K<sub>i </sub>of 1 micromolar or less, 100 nanomolar or less, or 10 nanomolar or less in an NPY5 receptor ligand binding assay as provided in Example 11."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "molecule_name": "thioether dimer compounds",
+        "protein_target_name": "α4β7",
+        "binding_metric": "IC50",
+        "value": "<25",
+        "unit": "nM",
+        "raw_mentions": "These thioether dimer compounds further represent IC50 values of less than 25 nM in ELISA as well as cell adhesion assays, further demonstrating their high selectivity for α4β7.\nFor other peptides in FIG. 6, it is expected that they will have an IC50<50 nM in α4β7 ELISA or cell adhesion assays.\nThe thioether peptides shown in FIG. 7 represent a non-limiting, representative group of peptides with IC50 values less than 50 nM in ELISA assays.\nThe peptides further represent IC50 values of less than 300 nM in cell adhesion assays.\nFor other peptides with data not shown, it is expected that they will have an IC50<50 nM in α4β7 ELISA or cell adhesion assays."
+    },
+    {
+        "molecule_name": "peptides in FIG. 6",
+        "protein_target_name": "α4β7",
+        "binding_metric": "IC50",
+        "value": "<50",
+        "unit": "nM",
+        "raw_mentions": "These thioether dimer compounds further represent IC50 values of less than 25 nM in ELISA as well as cell adhesion assays, further demonstrating their high selectivity for α4β7.\nFor other peptides in FIG. 6, it is expected that they will have an IC50<50 nM in α4β7 ELISA or cell adhesion assays.\nThe thioether peptides shown in FIG. 7 represent a non-limiting, representative group of peptides with IC50 values less than 50 nM in ELISA assays.\nThe peptides further represent IC50 values of less than 300 nM in cell adhesion assays.\nFor other peptides with data not shown, it is expected that they will have an IC50<50 nM in α4β7 ELISA or cell adhesion assays."
+    },
+    {
+        "molecule_name": "peptides with data not shown",
+        "protein_target_name": "α4β7",
+        "binding_metric": "IC50",
+        "value": "<50",
+        "unit": "nM",
+        "raw_mentions": "These thioether dimer compounds further represent IC50 values of less than 25 nM in ELISA as well as cell adhesion assays, further demonstrating their high selectivity for α4β7.\nFor other peptides in FIG. 6, it is expected that they will have an IC50<50 nM in α4β7 ELISA or cell adhesion assays.\nThe thioether peptides shown in FIG. 7 represent a non-limiting, representative group of peptides with IC50 values less than 50 nM in ELISA assays.\nThe peptides further represent IC50 values of less than 300 nM in cell adhesion assays.\nFor other peptides with data not shown, it is expected that they will have an IC50<50 nM in α4β7 ELISA or cell adhesion assays."
+    }
+]

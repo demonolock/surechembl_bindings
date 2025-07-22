@@ -1,0 +1,82 @@
+[
+    {
+        "molecule_name": "compounds of formula (I)",
+        "protein_target_name": "GSK 3a",
+        "binding_metric": "IC50",
+        "value": ">1500",
+        "unit": "nM",
+        "raw_mentions": "In one embodiment the compounds of formula (I) exhibit very low inhibitory activity against GSK 3a, for example they have an IC<sub>50</sub> value against GSK 3a of 1500 nM or greater; such as 2,000, 3,000, 4,000, 5,000, 6,000, 7,000, 8,000, 9,000 or 10,000 nM or greater."
+    },
+    {
+        "molecule_name": "compounds of formula (I)",
+        "protein_target_name": "GSK 3a",
+        "binding_metric": "IC50",
+        "value": ">2000",
+        "unit": "nM",
+        "raw_mentions": "In one embodiment the compounds of formula (I) exhibit very low inhibitory activity against GSK 3a, for example they have an IC<sub>50</sub> value against GSK 3a of 1500 nM or greater; such as 2,000, 3,000, 4,000, 5,000, 6,000, 7,000, 8,000, 9,000 or 10,000 nM or greater."
+    },
+    {
+        "molecule_name": "compounds of formula (I)",
+        "protein_target_name": "GSK 3a",
+        "binding_metric": "IC50",
+        "value": ">3000",
+        "unit": "nM",
+        "raw_mentions": "In one embodiment the compounds of formula (I) exhibit very low inhibitory activity against GSK 3a, for example they have an IC<sub>50</sub> value against GSK 3a of 1500 nM or greater; such as 2,000, 3,000, 4,000, 5,000, 6,000, 7,000, 8,000, 9,000 or 10,000 nM or greater."
+    },
+    {
+        "molecule_name": "compounds of formula (I)",
+        "protein_target_name": "GSK 3a",
+        "binding_metric": "IC50",
+        "value": ">4000",
+        "unit": "nM",
+        "raw_mentions": "In one embodiment the compounds of formula (I) exhibit very low inhibitory activity against GSK 3a, for example they have an IC<sub>50</sub> value against GSK 3a of 1500 nM or greater; such as 2,000, 3,000, 4,000, 5,000, 6,000, 7,000, 8,000, 9,000 or 10,000 nM or greater."
+    },
+    {
+        "molecule_name": "compounds of formula (I)",
+        "protein_target_name": "GSK 3a",
+        "binding_metric": "IC50",
+        "value": ">5000",
+        "unit": "nM",
+        "raw_mentions": "In one embodiment the compounds of formula (I) exhibit very low inhibitory activity against GSK 3a, for example they have an IC<sub>50</sub> value against GSK 3a of 1500 nM or greater; such as 2,000, 3,000, 4,000, 5,000, 6,000, 7,000, 8,000, 9,000 or 10,000 nM or greater."
+    },
+    {
+        "molecule_name": "compounds of formula (I)",
+        "protein_target_name": "GSK 3a",
+        "binding_metric": "IC50",
+        "value": ">6000",
+        "unit": "nM",
+        "raw_mentions": "In one embodiment the compounds of formula (I) exhibit very low inhibitory activity against GSK 3a, for example they have an IC<sub>50</sub> value against GSK 3a of 1500 nM or greater; such as 2,000, 3,000, 4,000, 5,000, 6,000, 7,000, 8,000, 9,000 or 10,000 nM or greater."
+    },
+    {
+        "molecule_name": "compounds of formula (I)",
+        "protein_target_name": "GSK 3a",
+        "binding_metric": "IC50",
+        "value": ">7000",
+        "unit": "nM",
+        "raw_mentions": "In one embodiment the compounds of formula (I) exhibit very low inhibitory activity against GSK 3a, for example they have an IC<sub>50</sub> value against GSK 3a of 1500 nM or greater; such as 2,000, 3,000, 4,000, 5,000, 6,000, 7,000, 8,000, 9,000 or 10,000 nM or greater."
+    },
+    {
+        "molecule_name": "compounds of formula (I)",
+        "protein_target_name": "GSK 3a",
+        "binding_metric": "IC50",
+        "value": ">8000",
+        "unit": "nM",
+        "raw_mentions": "In one embodiment the compounds of formula (I) exhibit very low inhibitory activity against GSK 3a, for example they have an IC<sub>50</sub> value against GSK 3a of 1500 nM or greater; such as 2,000, 3,000, 4,000, 5,000, 6,000, 7,000, 8,000, 9,000 or 10,000 nM or greater."
+    },
+    {
+        "molecule_name": "compounds of formula (I)",
+        "protein_target_name": "GSK 3a",
+        "binding_metric": "IC50",
+        "value": ">9000",
+        "unit": "nM",
+        "raw_mentions": "In one embodiment the compounds of formula (I) exhibit very low inhibitory activity against GSK 3a, for example they have an IC<sub>50</sub> value against GSK 3a of 1500 nM or greater; such as 2,000, 3,000, 4,000, 5,000, 6,000, 7,000, 8,000, 9,000 or 10,000 nM or greater."
+    },
+    {
+        "molecule_name": "compounds of formula (I)",
+        "protein_target_name": "GSK 3a",
+        "binding_metric": "IC50",
+        "value": ">10000",
+        "unit": "nM",
+        "raw_mentions": "In one embodiment the compounds of formula (I) exhibit very low inhibitory activity against GSK 3a, for example they have an IC<sub>50</sub> value against GSK 3a of 1500 nM or greater; such as 2,000, 3,000, 4,000, 5,000, 6,000, 7,000, 8,000, 9,000 or 10,000 nM or greater."
+    }
+]

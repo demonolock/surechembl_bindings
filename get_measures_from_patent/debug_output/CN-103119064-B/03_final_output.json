@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_name": "Cetuximab",
+        "protein_target_name": "EGFR",
+        "binding_metric": "Kd",
+        "value": "913",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nCetuximab (present invention)Erbituxk<sub>a</sub>1[1/Ms]3,73e53,29e5k<sub>d</sub>1[1/s]3,35e-34,21e-3 \nk<sub>a</sub>2[1/RUs]0,5271,28k<sub>d</sub>2[1/s]0,2980,536K<sub>D</sub>=k<sub>d</sub>1/k<sub>a</sub>1[nM]913 \nIt is not about 25 and 100RU.With (2nM-1 μM) injection anti-EGFR-antibodies of extensive concentration range with calculations incorporated dynamics."
+    }
+]

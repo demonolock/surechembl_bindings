@@ -1,0 +1,4 @@
+{"raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nFLAP inhibitors can be identified as those compounds which have an IC50 in the \"FLAP Binding Assay\" that is less than or equal to 1 \u03bcM, and preferably 500 nM or less."}
+{"final_json": [{"molecule_name": null, "protein_target_name": "FLAP", "binding_metric": "IC50", "value": "<= 1", "unit": "\u03bcM"}, {"molecule_name": null, "protein_target_name": "FLAP", "binding_metric": "IC50", "value": "500", "unit": "nM"}]}
+{"raw_mentions": "Representative tested compounds of the invention were determined to have an IC50 &lt; 1 uM, and preferred compounds had IC50 &lt; 200 nM."}
+{"final_json": [{"molecule_name": null, "protein_target_name": null, "binding_metric": "IC50", "value": "< 1", "unit": "uM"}, {"molecule_name": null, "protein_target_name": null, "binding_metric": "IC50", "value": "< 200", "unit": "nM"}]}

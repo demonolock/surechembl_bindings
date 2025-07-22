@@ -1,0 +1,18 @@
+[
+    {
+        "molecule_name": "AKAP-IS (SEQ ID NO:9)",
+        "protein_target_name": "RII",
+        "binding_metric": "binding constant",
+        "value": "0.4",
+        "unit": "nM",
+        "raw_mentions": "Alto et al. (2003) performed a bioinformatic analysis of the AD sequence of various AKAP proteins to design an RII selective AD sequence called AKAP-IS (SEQ ID NO:9), with a binding constant for DDD of 0.4 nM.\nHundsrucker et al. (2006) developed still other peptide competitors for AKAP binding to PKA, with a binding constant as low as 0.4 nM to the DDD of the RII form of PKA."
+    },
+    {
+        "molecule_name": "peptide competitors",
+        "protein_target_name": "PKA",
+        "binding_metric": "binding constant",
+        "value": "0.4",
+        "unit": "nM",
+        "raw_mentions": "Alto et al. (2003) performed a bioinformatic analysis of the AD sequence of various AKAP proteins to design an RII selective AD sequence called AKAP-IS (SEQ ID NO:9), with a binding constant for DDD of 0.4 nM.\nHundsrucker et al. (2006) developed still other peptide competitors for AKAP binding to PKA, with a binding constant as low as 0.4 nM to the DDD of the RII form of PKA."
+    }
+]

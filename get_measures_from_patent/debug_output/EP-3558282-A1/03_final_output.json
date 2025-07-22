@@ -1,0 +1,18 @@
+[
+    {
+        "molecule_name": "Mito-Metio",
+        "protein_target_name": "mitochondrial complex l",
+        "binding_metric": "IC50",
+        "value": "0.43",
+        "unit": "μΜ",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nMito-Metio was 2,000-fold more effective than Met in inhibiting mitochondrial complex l-mediated oxygen consumption in MiaPaCa-2 cells (IC50 for Mito-Metio = 0.43 μΜ and IC50 for Met = 1,088 μΜ)."
+    },
+    {
+        "molecule_name": "Met",
+        "protein_target_name": "mitochondrial complex l",
+        "binding_metric": "IC50",
+        "value": "1,088",
+        "unit": "μΜ",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nMito-Metio was 2,000-fold more effective than Met in inhibiting mitochondrial complex l-mediated oxygen consumption in MiaPaCa-2 cells (IC50 for Mito-Metio = 0.43 μΜ and IC50 for Met = 1,088 μΜ)."
+    }
+]

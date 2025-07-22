@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_name": "mHMGB1",
+        "protein_target_name": "IHF_NTHI",
+        "binding_metric": "Kd",
+        "value": "579",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nNext, HMGB1 was tested for the possibility of mediating its anti-biofilm effect by binding to DNABII protein. For this purpose by BIACORE <sup>TM</sup> Surface Plasmon Resonance (SPR) analysis to measure equilibrium dissociation constant (K <sub>d</sub> ) As mHMGB1 and IHF <sub>NTHI</sub> And HU (HU) <sub>NTHI</sub> Measurement of binding affinity, finding mhmmgb 11 and IHF <sub>NTHI</sub> Bound K <sub>d</sub> 579nM, with HU <sub>NTHI</sub> K of (2) <sub>d</sub> 104nM (Table 1).\nSince full length HMGB1 has at least one order of magnitude higher affinity (K) than either of the two DNABII proteins <sub>d</sub> 10 nM) to HJ DNA (Xin et al Nucleic Acids Res,2000.28 (20): p.4044-50), together these results indicate that the HMGB1 anti-biofilm effect is mainly through direct binding to its high affinity HJ DNA target, thereby disrupting the stability of HJ, not through protein-protein interactions with DNABII protein."
+    }
+]

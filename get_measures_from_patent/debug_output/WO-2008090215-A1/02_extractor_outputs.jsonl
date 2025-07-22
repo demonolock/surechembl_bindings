@@ -1,4 +1,0 @@
-{"raw_mentions": "There are no sentences in the provided text that meet the specified criteria, as none of them contain a bioactivity metric (IC50, Ki, Kd, EC50) with a specific numeric value and a unit. The text primarily discusses the structure and function of FVII polypeptides, the definition of terms, and the description of methods, but does not provide concrete data points with the required metrics."}
-{"raw_mentions": "The Kd value for rFVIIa binding to glycocalicin was determined to approximately 70 nM (figure 4B)."}
-{"final_json": [{"molecule_name": "rFVIIa", "protein_target_name": "glycocalicin", "protein_uniprot_id": null, "protein_seq_id": null, "binding_metric": "Kd", "value": "70", "unit": "nM"}]}
-{"raw_mentions": "The rFVIIa variant should have improved binding affinity with at least 20 % lower Kd for binding to glycocalicin than that of wildtype rFVIIa"}

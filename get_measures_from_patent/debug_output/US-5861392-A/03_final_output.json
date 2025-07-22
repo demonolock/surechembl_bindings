@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_name": "NKA",
+        "protein_target_name": "MELM",
+        "binding_metric": "Kd",
+        "value": "1187",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nEquilibrium-competion experiments demonstated binding to high-affinity, high-density receptors with K<sub>D</sub> =1187 nM, B<sub>max</sub> =2229 fmol/mg protein.\nIn a typical preparation, binding of <sup>3</sup> H-NKA (2.5 nM) to MELM was highly specific (88±4%) and linearly dependent on the protein concentration, with significant binding detected as low as 26 μg protein/mL.\nNonspecific binding is routinely defined with 1 μM NKA.\nIn an initial use of this assay, the IC<sub>50</sub> measured for the standard compound L-659,877 was found to be 30 nM versus <sup>3</sup> H-NKA binding to MELM."
+    }
+]

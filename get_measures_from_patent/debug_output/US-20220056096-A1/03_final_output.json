@@ -1,0 +1,26 @@
+[
+    {
+        "molecule_name": "IL-2",
+        "protein_target_name": "IL-2Rα",
+        "binding_metric": "Kd",
+        "value": "10-8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIL-2 is captured by IL-2Rα through a large hydrophobic binding surface surrounded by a polar periphery that results in a relatively weak interaction (Kd 10-8 M) with rapid on-off binding kinetics.\nThe pseudo-high affinity of the IL-2/α/β trimeric complex (i.e. Kd ˜300 pM) clearly indicates that the trimeric complex is more stable than either IL-2 bound to the α chain alone (Kd=10 nM) or to the β chain alone (Kd=450 nM) as shown by Ciardelli's data.\nThe formation of the high-affinity quaternary IL-2-IL-2R complex leads to signal transduction through the tyrosine kinases Jak1 and Jak3, which are associated with IL-2Rβ and γc, respectively, and has a Kd of 10-11 M which is 10 pM)."
+    },
+    {
+        "molecule_name": "IL-2",
+        "protein_target_name": "α chain",
+        "binding_metric": "Kd",
+        "value": "10",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIL-2 is captured by IL-2Rα through a large hydrophobic binding surface surrounded by a polar periphery that results in a relatively weak interaction (Kd 10-8 M) with rapid on-off binding kinetics.\nThe pseudo-high affinity of the IL-2/α/β trimeric complex (i.e. Kd ˜300 pM) clearly indicates that the trimeric complex is more stable than either IL-2 bound to the α chain alone (Kd=10 nM) or to the β chain alone (Kd=450 nM) as shown by Ciardelli's data.\nThe formation of the high-affinity quaternary IL-2-IL-2R complex leads to signal transduction through the tyrosine kinases Jak1 and Jak3, which are associated with IL-2Rβ and γc, respectively, and has a Kd of 10-11 M which is 10 pM)."
+    },
+    {
+        "molecule_name": "IL-2",
+        "protein_target_name": "β chain",
+        "binding_metric": "Kd",
+        "value": "450",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIL-2 is captured by IL-2Rα through a large hydrophobic binding surface surrounded by a polar periphery that results in a relatively weak interaction (Kd 10-8 M) with rapid on-off binding kinetics.\nThe pseudo-high affinity of the IL-2/α/β trimeric complex (i.e. Kd ˜300 pM) clearly indicates that the trimeric complex is more stable than either IL-2 bound to the α chain alone (Kd=10 nM) or to the β chain alone (Kd=450 nM) as shown by Ciardelli's data.\nThe formation of the high-affinity quaternary IL-2-IL-2R complex leads to signal transduction through the tyrosine kinases Jak1 and Jak3, which are associated with IL-2Rβ and γc, respectively, and has a Kd of 10-11 M which is 10 pM)."
+    }
+]

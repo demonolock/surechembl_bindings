@@ -1,0 +1,42 @@
+[
+    {
+        "molecule_name": "Example 91",
+        "protein_target_name": "FXa",
+        "binding_metric": "Ki",
+        "value": "6.6",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe Ki values of the compounds obtained in Examples 91 and 93 against FXa were 6.6 nM and 10.9 nM, respectively.\nThe Ki values of the compounds obtained in Examples 91 and 93 against thrombin were 0.4 µM and 3.3 µM, respectively.\nThe compound of Example 92 showed a FXa 50% inhibitory concentration of 7.8 nM."
+    },
+    {
+        "molecule_name": "Example 93",
+        "protein_target_name": "FXa",
+        "binding_metric": "Ki",
+        "value": "10.9",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe Ki values of the compounds obtained in Examples 91 and 93 against FXa were 6.6 nM and 10.9 nM, respectively.\nThe Ki values of the compounds obtained in Examples 91 and 93 against thrombin were 0.4 µM and 3.3 µM, respectively.\nThe compound of Example 92 showed a FXa 50% inhibitory concentration of 7.8 nM."
+    },
+    {
+        "molecule_name": "Example 91",
+        "protein_target_name": "thrombin",
+        "binding_metric": "Ki",
+        "value": "0.4",
+        "unit": "µM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe Ki values of the compounds obtained in Examples 91 and 93 against FXa were 6.6 nM and 10.9 nM, respectively.\nThe Ki values of the compounds obtained in Examples 91 and 93 against thrombin were 0.4 µM and 3.3 µM, respectively.\nThe compound of Example 92 showed a FXa 50% inhibitory concentration of 7.8 nM."
+    },
+    {
+        "molecule_name": "Example 93",
+        "protein_target_name": "thrombin",
+        "binding_metric": "Ki",
+        "value": "3.3",
+        "unit": "µM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe Ki values of the compounds obtained in Examples 91 and 93 against FXa were 6.6 nM and 10.9 nM, respectively.\nThe Ki values of the compounds obtained in Examples 91 and 93 against thrombin were 0.4 µM and 3.3 µM, respectively.\nThe compound of Example 92 showed a FXa 50% inhibitory concentration of 7.8 nM."
+    },
+    {
+        "molecule_name": "Example 92",
+        "protein_target_name": "FXa",
+        "binding_metric": "IC50",
+        "value": "7.8",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe Ki values of the compounds obtained in Examples 91 and 93 against FXa were 6.6 nM and 10.9 nM, respectively.\nThe Ki values of the compounds obtained in Examples 91 and 93 against thrombin were 0.4 µM and 3.3 µM, respectively.\nThe compound of Example 92 showed a FXa 50% inhibitory concentration of 7.8 nM."
+    }
+]

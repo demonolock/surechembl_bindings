@@ -1,0 +1,58 @@
+[
+    {
+        "molecule_name": "peptide of the present invention",
+        "protein_target_name": "human IgG",
+        "binding_metric": "Kd",
+        "value": "1 × 10−1",
+        "unit": "M",
+        "raw_mentions": "The dissociation constant (Kd) relating to the binding between the peptide of the present invention and human IgG can be determined by surface plasmon resonance spectrum analysis (for example, using the BIACORE system), for example, 1 × 10 <sup>−1</sup> M to less than 1 × 10 <sup>−3</sup> M , Preferably less than 1 × 10 <sup>−4</sup> M, more preferably less than 1 × 10 <sup>−5</sup> M."
+    },
+    {
+        "molecule_name": "peptide of the present invention",
+        "protein_target_name": "human IgG",
+        "binding_metric": "Kd",
+        "value": "< 1 × 10−3",
+        "unit": "M",
+        "raw_mentions": "The dissociation constant (Kd) relating to the binding between the peptide of the present invention and human IgG can be determined by surface plasmon resonance spectrum analysis (for example, using the BIACORE system), for example, 1 × 10 <sup>−1</sup> M to less than 1 × 10 <sup>−3</sup> M , Preferably less than 1 × 10 <sup>−4</sup> M, more preferably less than 1 × 10 <sup>−5</sup> M."
+    },
+    {
+        "molecule_name": "peptide of the present invention",
+        "protein_target_name": "human IgG",
+        "binding_metric": "Kd",
+        "value": "< 1 × 10−4",
+        "unit": "M",
+        "raw_mentions": "The dissociation constant (Kd) relating to the binding between the peptide of the present invention and human IgG can be determined by surface plasmon resonance spectrum analysis (for example, using the BIACORE system), for example, 1 × 10 <sup>−1</sup> M to less than 1 × 10 <sup>−3</sup> M , Preferably less than 1 × 10 <sup>−4</sup> M, more preferably less than 1 × 10 <sup>−5</sup> M."
+    },
+    {
+        "molecule_name": "peptide of the present invention",
+        "protein_target_name": "human IgG",
+        "binding_metric": "Kd",
+        "value": "< 1 × 10−5",
+        "unit": "M",
+        "raw_mentions": "The dissociation constant (Kd) relating to the binding between the peptide of the present invention and human IgG can be determined by surface plasmon resonance spectrum analysis (for example, using the BIACORE system), for example, 1 × 10 <sup>−1</sup> M to less than 1 × 10 <sup>−3</sup> M , Preferably less than 1 × 10 <sup>−4</sup> M, more preferably less than 1 × 10 <sup>−5</sup> M."
+    },
+    {
+        "molecule_name": "Type I (R8K)",
+        "protein_target_name": "human IgG",
+        "binding_metric": "Kd",
+        "value": "131",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nThe affinity of human IgG for an IgG binding peptide (hereinafter also referred to as Type I (R8K)) in which the arginine at the 8th residue is replaced with lysine is 131 nM (Kd).\nWhen each cross-linking agent is bound to Type I (R8K) peptide, the affinity for human IgG is about 330 nM (Kd) and Type I (R8K) -DSS-OH for Type I (R8K) -DSG-OH.\nAbout 390 nM (Kd), and no significant decrease in affinity due to binding of the cross-linking agent was observed. \nAny peptide has an affinity of μM or less in Kd value, and thus it was considered that sufficiently specific labeling was possible."
+    },
+    {
+        "molecule_name": "Type I (R8K) peptide",
+        "protein_target_name": "human IgG",
+        "binding_metric": "Kd",
+        "value": "330",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nThe affinity of human IgG for an IgG binding peptide (hereinafter also referred to as Type I (R8K)) in which the arginine at the 8th residue is replaced with lysine is 131 nM (Kd).\nWhen each cross-linking agent is bound to Type I (R8K) peptide, the affinity for human IgG is about 330 nM (Kd) and Type I (R8K) -DSS-OH for Type I (R8K) -DSG-OH.\nAbout 390 nM (Kd), and no significant decrease in affinity due to binding of the cross-linking agent was observed. \nAny peptide has an affinity of μM or less in Kd value, and thus it was considered that sufficiently specific labeling was possible."
+    },
+    {
+        "molecule_name": "Type I (R8K) -DSS-OH",
+        "protein_target_name": "human IgG",
+        "binding_metric": "Kd",
+        "value": "390",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nThe affinity of human IgG for an IgG binding peptide (hereinafter also referred to as Type I (R8K)) in which the arginine at the 8th residue is replaced with lysine is 131 nM (Kd).\nWhen each cross-linking agent is bound to Type I (R8K) peptide, the affinity for human IgG is about 330 nM (Kd) and Type I (R8K) -DSS-OH for Type I (R8K) -DSG-OH.\nAbout 390 nM (Kd), and no significant decrease in affinity due to binding of the cross-linking agent was observed. \nAny peptide has an affinity of μM or less in Kd value, and thus it was considered that sufficiently specific labeling was possible."
+    }
+]

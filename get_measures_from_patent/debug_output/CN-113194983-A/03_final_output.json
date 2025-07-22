@@ -1,0 +1,18 @@
+[
+    {
+        "molecule_name": "albumin-binding peptides and conjugates",
+        "protein_target_name": "human serum albumin",
+        "binding_metric": "Kd",
+        "value": "<100",
+        "unit": "μΜ",
+        "raw_mentions": "Albumin-binding peptides and conjugates including albumin-binding peptides preferably bind albumin (e.g., human serum albumin) with an affinity characterized by a dissociation constant Kd of less than about 100 μΜ, preferably less than about 100nM, and most preferably does not substantially bind other plasma proteins."
+    },
+    {
+        "molecule_name": "albumin-binding peptides and conjugates",
+        "protein_target_name": "human serum albumin",
+        "binding_metric": "Kd",
+        "value": "<100",
+        "unit": "nM",
+        "raw_mentions": "Albumin-binding peptides and conjugates including albumin-binding peptides preferably bind albumin (e.g., human serum albumin) with an affinity characterized by a dissociation constant Kd of less than about 100 μΜ, preferably less than about 100nM, and most preferably does not substantially bind other plasma proteins."
+    }
+]

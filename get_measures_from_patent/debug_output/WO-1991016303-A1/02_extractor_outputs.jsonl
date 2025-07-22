@@ -1,0 +1,2 @@
+{"raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe compound of -t-Cs o LTB<sub>4</sub> IC50 LTC<sub>4</sub> the Example \u03bcM \u03bcM\n1 3.7 3.2"}
+{"final_json": [{"molecule_name": "LTB4", "protein_target_name": null, "binding_metric": "IC50", "value": "3.7", "unit": "\u03bcM"}, {"molecule_name": "LTC4", "protein_target_name": null, "binding_metric": "IC50", "value": "3.2", "unit": "\u03bcM"}]}

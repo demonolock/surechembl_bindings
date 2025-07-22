@@ -1,0 +1,90 @@
+[
+    {
+        "molecule_name": "human IgGl",
+        "protein_target_name": "FcγRIA",
+        "binding_metric": "Kd",
+        "value": "<10^10",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* In certain embodiments, a soluble FcγRIA polypeptide of the invention binds to human IgGl with an equilibrium dissociation constant (Kd) of less than 10^8 M, preferably less than 10^9 M, and more preferably less than 10^10 M.\n* In a specific variation, a soluble FcγRIA polypeptide of the invention binds to human IgGl with an equilibrium dissociation constant (Kd) of about 1.7 x 10^10 M.\n* A soluble FcγRIA polypeptide of the invention specifically binds if it binds to monomeric human IgG (e.g., human IgGl) with a binding affinity (Ka) of at least 10^6 M^1, preferably at least 10^7 M^1, more preferably at least 10^8 M^1, and most preferably at least 10^9 M^1.\n* In certain embodiments, a soluble FcγRIA polypeptide of the invention binds to monomeric human IgG with a binding affinity (Ka) of between 10^8 M^1 and 10^9 M^1."
+    },
+    {
+        "molecule_name": "human IgGl",
+        "protein_target_name": "FcγRIA",
+        "binding_metric": "Kd",
+        "value": "1.7 x 10^10",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* In certain embodiments, a soluble FcγRIA polypeptide of the invention binds to human IgGl with an equilibrium dissociation constant (Kd) of less than 10^8 M, preferably less than 10^9 M, and more preferably less than 10^10 M.\n* In a specific variation, a soluble FcγRIA polypeptide of the invention binds to human IgGl with an equilibrium dissociation constant (Kd) of about 1.7 x 10^10 M.\n* A soluble FcγRIA polypeptide of the invention specifically binds if it binds to monomeric human IgG (e.g., human IgGl) with a binding affinity (Ka) of at least 10^6 M^1, preferably at least 10^7 M^1, more preferably at least 10^8 M^1, and most preferably at least 10^9 M^1.\n* In certain embodiments, a soluble FcγRIA polypeptide of the invention binds to monomeric human IgG with a binding affinity (Ka) of between 10^8 M^1 and 10^9 M^1."
+    },
+    {
+        "molecule_name": "human IgGl",
+        "protein_target_name": "FcγRIA",
+        "binding_metric": "Ka",
+        "value": ">=10^6",
+        "unit": "M^1",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* In certain embodiments, a soluble FcγRIA polypeptide of the invention binds to human IgGl with an equilibrium dissociation constant (Kd) of less than 10^8 M, preferably less than 10^9 M, and more preferably less than 10^10 M.\n* In a specific variation, a soluble FcγRIA polypeptide of the invention binds to human IgGl with an equilibrium dissociation constant (Kd) of about 1.7 x 10^10 M.\n* A soluble FcγRIA polypeptide of the invention specifically binds if it binds to monomeric human IgG (e.g., human IgGl) with a binding affinity (Ka) of at least 10^6 M^1, preferably at least 10^7 M^1, more preferably at least 10^8 M^1, and most preferably at least 10^9 M^1.\n* In certain embodiments, a soluble FcγRIA polypeptide of the invention binds to monomeric human IgG with a binding affinity (Ka) of between 10^8 M^1 and 10^9 M^1."
+    },
+    {
+        "molecule_name": "human IgGl",
+        "protein_target_name": "FcγRIA",
+        "binding_metric": "Ka",
+        "value": ">=10^9",
+        "unit": "M^1",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* In certain embodiments, a soluble FcγRIA polypeptide of the invention binds to human IgGl with an equilibrium dissociation constant (Kd) of less than 10^8 M, preferably less than 10^9 M, and more preferably less than 10^10 M.\n* In a specific variation, a soluble FcγRIA polypeptide of the invention binds to human IgGl with an equilibrium dissociation constant (Kd) of about 1.7 x 10^10 M.\n* A soluble FcγRIA polypeptide of the invention specifically binds if it binds to monomeric human IgG (e.g., human IgGl) with a binding affinity (Ka) of at least 10^6 M^1, preferably at least 10^7 M^1, more preferably at least 10^8 M^1, and most preferably at least 10^9 M^1.\n* In certain embodiments, a soluble FcγRIA polypeptide of the invention binds to monomeric human IgG with a binding affinity (Ka) of between 10^8 M^1 and 10^9 M^1."
+    },
+    {
+        "molecule_name": "monomeric human IgG",
+        "protein_target_name": "FcγRIA",
+        "binding_metric": "Ka",
+        "value": "between 10^8 and 10^9",
+        "unit": "M^1",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* In certain embodiments, a soluble FcγRIA polypeptide of the invention binds to human IgGl with an equilibrium dissociation constant (Kd) of less than 10^8 M, preferably less than 10^9 M, and more preferably less than 10^10 M.\n* In a specific variation, a soluble FcγRIA polypeptide of the invention binds to human IgGl with an equilibrium dissociation constant (Kd) of about 1.7 x 10^10 M.\n* A soluble FcγRIA polypeptide of the invention specifically binds if it binds to monomeric human IgG (e.g., human IgGl) with a binding affinity (Ka) of at least 10^6 M^1, preferably at least 10^7 M^1, more preferably at least 10^8 M^1, and most preferably at least 10^9 M^1.\n* In certain embodiments, a soluble FcγRIA polypeptide of the invention binds to monomeric human IgG with a binding affinity (Ka) of between 10^8 M^1 and 10^9 M^1."
+    },
+    {
+        "molecule_name": "FcγRIA-CH6",
+        "protein_target_name": "IgGl",
+        "binding_metric": "Kd",
+        "value": "1.7 x 10",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nFcγRIA-CH6 bound to IgGl with association (k<sub>a</sub>) and dissociation (kj) rate constants of 2.8 x 10<sup>6</sup> M<sup>\"</sup>'s<sup>\"</sup>' and 4.6 x 10<sup>\"4</sup> s<sup>'1</sup>, respectively, yielding an equilibrium dissociation constant (K<sub>D</sub>) of 1.7 x 10<sup>\"</sup>'° M.\nBinding of FcγRIIIA-CH6 and FcγRIlA-CH6 to IgG 1 was saturable and of low affinity with estimated K<sub>D</sub>s of 0.63 x 10<sup>\"6</sup> M and 1.9 x 10<sup>\"6</sup> M, respectively."
+    },
+    {
+        "molecule_name": "FcγRIIIA-CH6",
+        "protein_target_name": "IgG 1",
+        "binding_metric": "Kd",
+        "value": "0.63 x 10",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nFcγRIA-CH6 bound to IgGl with association (k<sub>a</sub>) and dissociation (kj) rate constants of 2.8 x 10<sup>6</sup> M<sup>\"</sup>'s<sup>\"</sup>' and 4.6 x 10<sup>\"4</sup> s<sup>'1</sup>, respectively, yielding an equilibrium dissociation constant (K<sub>D</sub>) of 1.7 x 10<sup>\"</sup>'° M.\nBinding of FcγRIIIA-CH6 and FcγRIlA-CH6 to IgG 1 was saturable and of low affinity with estimated K<sub>D</sub>s of 0.63 x 10<sup>\"6</sup> M and 1.9 x 10<sup>\"6</sup> M, respectively."
+    },
+    {
+        "molecule_name": "FcγRIlA-CH6",
+        "protein_target_name": "IgG 1",
+        "binding_metric": "Kd",
+        "value": "1.9 x 10",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nFcγRIA-CH6 bound to IgGl with association (k<sub>a</sub>) and dissociation (kj) rate constants of 2.8 x 10<sup>6</sup> M<sup>\"</sup>'s<sup>\"</sup>' and 4.6 x 10<sup>\"4</sup> s<sup>'1</sup>, respectively, yielding an equilibrium dissociation constant (K<sub>D</sub>) of 1.7 x 10<sup>\"</sup>'° M.\nBinding of FcγRIIIA-CH6 and FcγRIlA-CH6 to IgG 1 was saturable and of low affinity with estimated K<sub>D</sub>s of 0.63 x 10<sup>\"6</sup> M and 1.9 x 10<sup>\"6</sup> M, respectively."
+    },
+    {
+        "molecule_name": "FcγRIA",
+        "protein_target_name": "IgGl",
+        "binding_metric": "equilibrium dissociation constant",
+        "value": "1.7 x 10^7",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nImmune complex precipitation was completely abolished by 1500 nM FcγRIA-CH6.\nFcγRIA rapidly bound to immobilized IgGl with rates of association and dissociation of 2.8 x 10^6 M^1s^1 and 4.6 x 10^4 s^1, respectively, values which yield a calculated equilibrium dissociation constant of 1.7 x 10^7 M."
+    },
+    {
+        "molecule_name": "FcγRIA",
+        "protein_target_name": "IgGl",
+        "binding_metric": "association rate",
+        "value": "2.8 x 10^6",
+        "unit": "M^1s^1",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nImmune complex precipitation was completely abolished by 1500 nM FcγRIA-CH6.\nFcγRIA rapidly bound to immobilized IgGl with rates of association and dissociation of 2.8 x 10^6 M^1s^1 and 4.6 x 10^4 s^1, respectively, values which yield a calculated equilibrium dissociation constant of 1.7 x 10^7 M."
+    },
+    {
+        "molecule_name": "FcγRIA",
+        "protein_target_name": "IgGl",
+        "binding_metric": "dissociation rate",
+        "value": "4.6 x 10^4",
+        "unit": "s^1",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nImmune complex precipitation was completely abolished by 1500 nM FcγRIA-CH6.\nFcγRIA rapidly bound to immobilized IgGl with rates of association and dissociation of 2.8 x 10^6 M^1s^1 and 4.6 x 10^4 s^1, respectively, values which yield a calculated equilibrium dissociation constant of 1.7 x 10^7 M."
+    }
+]

@@ -1,0 +1,4 @@
+{"raw_mentions": "These results are consistent with reported IC50 values for simvastatin and lovastatin (4 nmol/L and 19 nmol/L, respectively) (Van Vliet, A K et al., Biochem Pharmacol, 1996, 52:1387-1392)."}
+{"final_json": [{"molecule_name": "simvastatin", "protein_target_name": null, "binding_metric": "IC50", "value": "4", "unit": "nmol/L"}, {"molecule_name": "lovastatin", "protein_target_name": null, "binding_metric": "IC50", "value": "19", "unit": "nmol/L"}]}
+{"raw_mentions": "Because lovastatin has a higher IC50 value for HMG-CoA reductase compared to that of simvastatin, it was 10-fold less potent in upregulating ecNOS protein levels than simvastatin at equimolar concentrations."}
+{"final_json": [{"molecule_name": "lovastatin", "protein_target_name": "HMG-CoA reductase", "binding_metric": "IC50", "value": null, "unit": null}, {"molecule_name": "simvastatin", "protein_target_name": "HMG-CoA reductase", "binding_metric": "IC50", "value": null, "unit": null}]}
