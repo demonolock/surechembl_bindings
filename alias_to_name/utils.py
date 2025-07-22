@@ -76,7 +76,7 @@ def ask_llm(message, max_tokens=2000, temperature=0.3):
 def parse_llm_output(llm_output: str) -> dict[str, str]:
     alias_value = {}
     for line in llm_output.splitlines():
-        term = line.split(';;')
+        term = line.split(';; ')
         if len(term) == 2 and 'Not found' not in term[1]:
             alias_value[term[0]] = term[1]
         else:
@@ -104,9 +104,9 @@ def process_patent(SYSTEM_PROMPT, USER_PROMPT, content, aliases):
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": user_prompt}
         ]
-        print(f"Request to LLM: {message}")
+        print(f"Request to LLM:\n{message}")
         output = ask_llm(message=message)
-        print(f"Response LLM: {output}")
+        print(f"Response LLM:\n{output}")
         full_output += output + '\n'
         alias_value = parse_llm_output(output)
         for alias, value in alias_value.items():

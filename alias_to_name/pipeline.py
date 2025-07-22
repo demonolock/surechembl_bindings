@@ -12,6 +12,7 @@ dir_path = os.path.dirname(os.path.abspath(__file__))
 measures_file = os.path.join(dir_path, "output/final_json.json")
 patent_file = os.path.join(dir_path, "data/json/patent_EP-3068388-A2.json")
 
+print(measures_file)
 with open(measures_file, "r", encoding="utf‑8") as f:
     measures = json.load(f)
 
@@ -41,7 +42,7 @@ for patent_number in patent_numbers:
     try:
         print(patent_number)
         patent_data = fetch_patent(patent_number)
-        filtered_measures = [measure for measure in measures if measure['patent_number'] == patent_number]
+        filtered_measures = [measure for measure in measures if isinstance(measure, dict) and measure['patent_number'] == patent_number]
         content, aliases = get_alias_list(patent_data, filtered_measures)
 
         print("aliases")
