@@ -1,0 +1,12 @@
+[
+    {
+        "molecule_name": "[<sup>3</sup>H]LSD",
+        "protein_target_name": "human serotonin 5-HT6 receptor",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "2.9",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nThe dissociation constant, K<sub>D </sub>of the [<sup>3</sup>H]LSD at the human serotonin 5-HT6 receptor is 2.9 nM, as determined by saturation binding with increasing concentrations of [<sup>3</sup>H]LSD.\nClozapine6.0\nLoxapine41.4\nBromocriptine23.0\nMethiothepin8.3\nMianserin44.2\nOlanzepine19.5 \n\nNote that the table rows are included as they contain specific molecule names, bioactivity metrics (Ki), numeric values, and units (nM)."
+    }
+]

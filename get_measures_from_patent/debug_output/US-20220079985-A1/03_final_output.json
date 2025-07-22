@@ -1,0 +1,22 @@
+[
+    {
+        "molecule_name": "W6/32",
+        "protein_target_name": "HLA Class I",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "7",
+        "unit": "nM",
+        "raw_mentions": "For example, anti-HLA Class I monoclonal antibody (mAb) W6/32 (American Type Culture Collection No. HB-95; Parham et al. (1979) J. Immunol. 123:342), which has a K<sub>D </sub>of 7 nM, can be used."
+    },
+    {
+        "molecule_name": "T-Cell-MMP-epitope conjugate",
+        "protein_target_name": "T-cell receptor",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "<10",
+        "unit": "nM",
+        "raw_mentions": "In some cases, the EC50 of a T-Cell-MMP-epitope conjugate of the present disclosure for a target T-cell is in the nM range; and the EC50 of the T-Cell-MMP-epitope conjugate for a control T-cell (where a control T-cell expresses on its surface: i) a Co-MOD that binds the parental wild-type MOD; and ii) a T-cell receptor that does not bind to the epitope present in the T-Cell-MMP-epitope conjugate) is in the M range. \nThe MFI measured over a range of concentrations of the T-Cell-MMP-epitope conjugate (library member) provides a half maximal effective concentration (EC50) of the T-Cell-MMP-epitope conjugate."
+    }
+]

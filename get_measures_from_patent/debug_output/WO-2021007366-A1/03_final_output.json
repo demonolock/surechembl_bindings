@@ -1,0 +1,332 @@
+[
+    {
+        "molecule_name": "MP1202",
+        "protein_target_name": "Gi",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "ECso",
+        "value": "0.63",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nGi: MP1202, ECso = 0.63 (9.2±0.09) nM, Emax = 61±1.5 and DAMGO ECso = 6.31 (8.2±0.07) nM.\nArrestin: MP1202, ECso = 3140 (5.5±0.28) nM, E<sub>max</sub>  53 ± 1.6 and DAMGO ECso = 14 (6.9±0.15) nM.\nGi: MP1207, EC50 = 3.61 (8.44 ± 0.26) nM, E<sub>max</sub> = 42 : 2.6: MP1208, ECso 2.27 (8.64 ± 0.29) nM, E<sub>Wx</sub> = 41 . 3 and DAMGO, EC50 = 3.27(8.49±0.08) nM.\nGi: MP1305, EC 50 = 0.74(9.1 ± 0.12)nM, E<sub>max</sub> = 72±2 and DAMGO, ECso - 3.3(8.4±0.08) nM and MP1601, ECso = 2.2(8.6 ± 0.3)nM, E<sub>n</sub> = 49±3 and DAMGO, ECso = 0.9(9.0±0.1 ) nM.\nDAMGO, ECso =0.77(6.11 ±0.16) mM."
+    },
+    {
+        "molecule_name": "DAMGO",
+        "protein_target_name": "Gi",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "ECso",
+        "value": "6.31",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nGi: MP1202, ECso = 0.63 (9.2±0.09) nM, Emax = 61±1.5 and DAMGO ECso = 6.31 (8.2±0.07) nM.\nArrestin: MP1202, ECso = 3140 (5.5±0.28) nM, E<sub>max</sub>  53 ± 1.6 and DAMGO ECso = 14 (6.9±0.15) nM.\nGi: MP1207, EC50 = 3.61 (8.44 ± 0.26) nM, E<sub>max</sub> = 42 : 2.6: MP1208, ECso 2.27 (8.64 ± 0.29) nM, E<sub>Wx</sub> = 41 . 3 and DAMGO, EC50 = 3.27(8.49±0.08) nM.\nGi: MP1305, EC 50 = 0.74(9.1 ± 0.12)nM, E<sub>max</sub> = 72±2 and DAMGO, ECso - 3.3(8.4±0.08) nM and MP1601, ECso = 2.2(8.6 ± 0.3)nM, E<sub>n</sub> = 49±3 and DAMGO, ECso = 0.9(9.0±0.1 ) nM.\nDAMGO, ECso =0.77(6.11 ±0.16) mM."
+    },
+    {
+        "molecule_name": "MP1202",
+        "protein_target_name": "Arrestin",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "ECso",
+        "value": "3140",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nGi: MP1202, ECso = 0.63 (9.2±0.09) nM, Emax = 61±1.5 and DAMGO ECso = 6.31 (8.2±0.07) nM.\nArrestin: MP1202, ECso = 3140 (5.5±0.28) nM, E<sub>max</sub>  53 ± 1.6 and DAMGO ECso = 14 (6.9±0.15) nM.\nGi: MP1207, EC50 = 3.61 (8.44 ± 0.26) nM, E<sub>max</sub> = 42 : 2.6: MP1208, ECso 2.27 (8.64 ± 0.29) nM, E<sub>Wx</sub> = 41 . 3 and DAMGO, EC50 = 3.27(8.49±0.08) nM.\nGi: MP1305, EC 50 = 0.74(9.1 ± 0.12)nM, E<sub>max</sub> = 72±2 and DAMGO, ECso - 3.3(8.4±0.08) nM and MP1601, ECso = 2.2(8.6 ± 0.3)nM, E<sub>n</sub> = 49±3 and DAMGO, ECso = 0.9(9.0±0.1 ) nM.\nDAMGO, ECso =0.77(6.11 ±0.16) mM."
+    },
+    {
+        "molecule_name": "DAMGO",
+        "protein_target_name": "Arrestin",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "ECso",
+        "value": "14",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nGi: MP1202, ECso = 0.63 (9.2±0.09) nM, Emax = 61±1.5 and DAMGO ECso = 6.31 (8.2±0.07) nM.\nArrestin: MP1202, ECso = 3140 (5.5±0.28) nM, E<sub>max</sub>  53 ± 1.6 and DAMGO ECso = 14 (6.9±0.15) nM.\nGi: MP1207, EC50 = 3.61 (8.44 ± 0.26) nM, E<sub>max</sub> = 42 : 2.6: MP1208, ECso 2.27 (8.64 ± 0.29) nM, E<sub>Wx</sub> = 41 . 3 and DAMGO, EC50 = 3.27(8.49±0.08) nM.\nGi: MP1305, EC 50 = 0.74(9.1 ± 0.12)nM, E<sub>max</sub> = 72±2 and DAMGO, ECso - 3.3(8.4±0.08) nM and MP1601, ECso = 2.2(8.6 ± 0.3)nM, E<sub>n</sub> = 49±3 and DAMGO, ECso = 0.9(9.0±0.1 ) nM.\nDAMGO, ECso =0.77(6.11 ±0.16) mM."
+    },
+    {
+        "molecule_name": "MP1207",
+        "protein_target_name": "Gi",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "3.61",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nGi: MP1202, ECso = 0.63 (9.2±0.09) nM, Emax = 61±1.5 and DAMGO ECso = 6.31 (8.2±0.07) nM.\nArrestin: MP1202, ECso = 3140 (5.5±0.28) nM, E<sub>max</sub>  53 ± 1.6 and DAMGO ECso = 14 (6.9±0.15) nM.\nGi: MP1207, EC50 = 3.61 (8.44 ± 0.26) nM, E<sub>max</sub> = 42 : 2.6: MP1208, ECso 2.27 (8.64 ± 0.29) nM, E<sub>Wx</sub> = 41 . 3 and DAMGO, EC50 = 3.27(8.49±0.08) nM.\nGi: MP1305, EC 50 = 0.74(9.1 ± 0.12)nM, E<sub>max</sub> = 72±2 and DAMGO, ECso - 3.3(8.4±0.08) nM and MP1601, ECso = 2.2(8.6 ± 0.3)nM, E<sub>n</sub> = 49±3 and DAMGO, ECso = 0.9(9.0±0.1 ) nM.\nDAMGO, ECso =0.77(6.11 ±0.16) mM."
+    },
+    {
+        "molecule_name": "MP1208",
+        "protein_target_name": "Gi",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "ECso",
+        "value": "2.27",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nGi: MP1202, ECso = 0.63 (9.2±0.09) nM, Emax = 61±1.5 and DAMGO ECso = 6.31 (8.2±0.07) nM.\nArrestin: MP1202, ECso = 3140 (5.5±0.28) nM, E<sub>max</sub>  53 ± 1.6 and DAMGO ECso = 14 (6.9±0.15) nM.\nGi: MP1207, EC50 = 3.61 (8.44 ± 0.26) nM, E<sub>max</sub> = 42 : 2.6: MP1208, ECso 2.27 (8.64 ± 0.29) nM, E<sub>Wx</sub> = 41 . 3 and DAMGO, EC50 = 3.27(8.49±0.08) nM.\nGi: MP1305, EC 50 = 0.74(9.1 ± 0.12)nM, E<sub>max</sub> = 72±2 and DAMGO, ECso - 3.3(8.4±0.08) nM and MP1601, ECso = 2.2(8.6 ± 0.3)nM, E<sub>n</sub> = 49±3 and DAMGO, ECso = 0.9(9.0±0.1 ) nM.\nDAMGO, ECso =0.77(6.11 ±0.16) mM."
+    },
+    {
+        "molecule_name": "DAMGO",
+        "protein_target_name": "Gi",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "3.27",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nGi: MP1202, ECso = 0.63 (9.2±0.09) nM, Emax = 61±1.5 and DAMGO ECso = 6.31 (8.2±0.07) nM.\nArrestin: MP1202, ECso = 3140 (5.5±0.28) nM, E<sub>max</sub>  53 ± 1.6 and DAMGO ECso = 14 (6.9±0.15) nM.\nGi: MP1207, EC50 = 3.61 (8.44 ± 0.26) nM, E<sub>max</sub> = 42 : 2.6: MP1208, ECso 2.27 (8.64 ± 0.29) nM, E<sub>Wx</sub> = 41 . 3 and DAMGO, EC50 = 3.27(8.49±0.08) nM.\nGi: MP1305, EC 50 = 0.74(9.1 ± 0.12)nM, E<sub>max</sub> = 72±2 and DAMGO, ECso - 3.3(8.4±0.08) nM and MP1601, ECso = 2.2(8.6 ± 0.3)nM, E<sub>n</sub> = 49±3 and DAMGO, ECso = 0.9(9.0±0.1 ) nM.\nDAMGO, ECso =0.77(6.11 ±0.16) mM."
+    },
+    {
+        "molecule_name": "MP1305",
+        "protein_target_name": "Gi",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.74",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nGi: MP1202, ECso = 0.63 (9.2±0.09) nM, Emax = 61±1.5 and DAMGO ECso = 6.31 (8.2±0.07) nM.\nArrestin: MP1202, ECso = 3140 (5.5±0.28) nM, E<sub>max</sub>  53 ± 1.6 and DAMGO ECso = 14 (6.9±0.15) nM.\nGi: MP1207, EC50 = 3.61 (8.44 ± 0.26) nM, E<sub>max</sub> = 42 : 2.6: MP1208, ECso 2.27 (8.64 ± 0.29) nM, E<sub>Wx</sub> = 41 . 3 and DAMGO, EC50 = 3.27(8.49±0.08) nM.\nGi: MP1305, EC 50 = 0.74(9.1 ± 0.12)nM, E<sub>max</sub> = 72±2 and DAMGO, ECso - 3.3(8.4±0.08) nM and MP1601, ECso = 2.2(8.6 ± 0.3)nM, E<sub>n</sub> = 49±3 and DAMGO, ECso = 0.9(9.0±0.1 ) nM.\nDAMGO, ECso =0.77(6.11 ±0.16) mM."
+    },
+    {
+        "molecule_name": "DAMGO",
+        "protein_target_name": "Gi",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "ECso",
+        "value": "3.3",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nGi: MP1202, ECso = 0.63 (9.2±0.09) nM, Emax = 61±1.5 and DAMGO ECso = 6.31 (8.2±0.07) nM.\nArrestin: MP1202, ECso = 3140 (5.5±0.28) nM, E<sub>max</sub>  53 ± 1.6 and DAMGO ECso = 14 (6.9±0.15) nM.\nGi: MP1207, EC50 = 3.61 (8.44 ± 0.26) nM, E<sub>max</sub> = 42 : 2.6: MP1208, ECso 2.27 (8.64 ± 0.29) nM, E<sub>Wx</sub> = 41 . 3 and DAMGO, EC50 = 3.27(8.49±0.08) nM.\nGi: MP1305, EC 50 = 0.74(9.1 ± 0.12)nM, E<sub>max</sub> = 72±2 and DAMGO, ECso - 3.3(8.4±0.08) nM and MP1601, ECso = 2.2(8.6 ± 0.3)nM, E<sub>n</sub> = 49±3 and DAMGO, ECso = 0.9(9.0±0.1 ) nM.\nDAMGO, ECso =0.77(6.11 ±0.16) mM."
+    },
+    {
+        "molecule_name": "MP1601",
+        "protein_target_name": "Gi",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "ECso",
+        "value": "2.2",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nGi: MP1202, ECso = 0.63 (9.2±0.09) nM, Emax = 61±1.5 and DAMGO ECso = 6.31 (8.2±0.07) nM.\nArrestin: MP1202, ECso = 3140 (5.5±0.28) nM, E<sub>max</sub>  53 ± 1.6 and DAMGO ECso = 14 (6.9±0.15) nM.\nGi: MP1207, EC50 = 3.61 (8.44 ± 0.26) nM, E<sub>max</sub> = 42 : 2.6: MP1208, ECso 2.27 (8.64 ± 0.29) nM, E<sub>Wx</sub> = 41 . 3 and DAMGO, EC50 = 3.27(8.49±0.08) nM.\nGi: MP1305, EC 50 = 0.74(9.1 ± 0.12)nM, E<sub>max</sub> = 72±2 and DAMGO, ECso - 3.3(8.4±0.08) nM and MP1601, ECso = 2.2(8.6 ± 0.3)nM, E<sub>n</sub> = 49±3 and DAMGO, ECso = 0.9(9.0±0.1 ) nM.\nDAMGO, ECso =0.77(6.11 ±0.16) mM."
+    },
+    {
+        "molecule_name": "DAMGO",
+        "protein_target_name": "Gi",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "ECso",
+        "value": "0.9",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nGi: MP1202, ECso = 0.63 (9.2±0.09) nM, Emax = 61±1.5 and DAMGO ECso = 6.31 (8.2±0.07) nM.\nArrestin: MP1202, ECso = 3140 (5.5±0.28) nM, E<sub>max</sub>  53 ± 1.6 and DAMGO ECso = 14 (6.9±0.15) nM.\nGi: MP1207, EC50 = 3.61 (8.44 ± 0.26) nM, E<sub>max</sub> = 42 : 2.6: MP1208, ECso 2.27 (8.64 ± 0.29) nM, E<sub>Wx</sub> = 41 . 3 and DAMGO, EC50 = 3.27(8.49±0.08) nM.\nGi: MP1305, EC 50 = 0.74(9.1 ± 0.12)nM, E<sub>max</sub> = 72±2 and DAMGO, ECso - 3.3(8.4±0.08) nM and MP1601, ECso = 2.2(8.6 ± 0.3)nM, E<sub>n</sub> = 49±3 and DAMGO, ECso = 0.9(9.0±0.1 ) nM.\nDAMGO, ECso =0.77(6.11 ±0.16) mM."
+    },
+    {
+        "molecule_name": "IBNtxA",
+        "protein_target_name": "hMOR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.07",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Gi: ECso - 0.07(10.2 ± 0.006) nM, Emax = 95+2; \nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Arrestin: IBNtxA, ECso = 5.86(8.2±0.002) nM, E<sub>max</sub> = 29+0.02; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Gi: IBNtxA, ECso = 0.47 (12.3 ± 0.06)pM, E<sub>max</sub> = 106+0.7; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Arrestin: IBNtxA, ECso = 0.0 ! 3( i 0.9. 0.07) nM, \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Gi: ECso - 0.054(10.3 ± 0.02) nM, E<sub>max</sub> = 59±2.2; \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Arrestin: IBNtxA, ECso <sup>:::</sup> 1 1 .32(4.9 : 0 3 ) mM, E<sub>max</sub> = <sup>\"</sup>5 · 15.9; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Gi: IBNtxA, ECso = 0.064(10.2 ± 0.1) nM, E<sub>max</sub> - 101±2.3; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Arrestin: IBNtxA, ECso = 1.23(8.9±0.02) nM, E<sub>m</sub>a<sub>x</sub> = 133±7.3; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Gi : MP1207, EC 50 <sup>::::</sup> 0.1 1 (9.98 ± 0.07) nM, Emax = 90±1.7; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Arrestin: MP1207, ECso - 3 97(8 4 - 0. 1 8) nM, E<sub>ma</sub> = 37±2, \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) Gi: MP1207, ECso = 0.034 (10.47 ± 0.15) nM, E<sub>imK</sub> = 33±1.4; \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) MP1208, ECso = 0.008 (8.73 ± 0.12) nM, Ema = 42±1.3;"
+    },
+    {
+        "molecule_name": "IBNtxA",
+        "protein_target_name": "hMOR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "5.86",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Gi: ECso - 0.07(10.2 ± 0.006) nM, Emax = 95+2; \nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Arrestin: IBNtxA, ECso = 5.86(8.2±0.002) nM, E<sub>max</sub> = 29+0.02; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Gi: IBNtxA, ECso = 0.47 (12.3 ± 0.06)pM, E<sub>max</sub> = 106+0.7; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Arrestin: IBNtxA, ECso = 0.0 ! 3( i 0.9. 0.07) nM, \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Gi: ECso - 0.054(10.3 ± 0.02) nM, E<sub>max</sub> = 59±2.2; \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Arrestin: IBNtxA, ECso <sup>:::</sup> 1 1 .32(4.9 : 0 3 ) mM, E<sub>max</sub> = <sup>\"</sup>5 · 15.9; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Gi: IBNtxA, ECso = 0.064(10.2 ± 0.1) nM, E<sub>max</sub> - 101±2.3; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Arrestin: IBNtxA, ECso = 1.23(8.9±0.02) nM, E<sub>m</sub>a<sub>x</sub> = 133±7.3; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Gi : MP1207, EC 50 <sup>::::</sup> 0.1 1 (9.98 ± 0.07) nM, Emax = 90±1.7; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Arrestin: MP1207, ECso - 3 97(8 4 - 0. 1 8) nM, E<sub>ma</sub> = 37±2, \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) Gi: MP1207, ECso = 0.034 (10.47 ± 0.15) nM, E<sub>imK</sub> = 33±1.4; \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) MP1208, ECso = 0.008 (8.73 ± 0.12) nM, Ema = 42±1.3;"
+    },
+    {
+        "molecule_name": "IBNtxA",
+        "protein_target_name": "hKOR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.47",
+        "unit": "pM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Gi: ECso - 0.07(10.2 ± 0.006) nM, Emax = 95+2; \nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Arrestin: IBNtxA, ECso = 5.86(8.2±0.002) nM, E<sub>max</sub> = 29+0.02; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Gi: IBNtxA, ECso = 0.47 (12.3 ± 0.06)pM, E<sub>max</sub> = 106+0.7; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Arrestin: IBNtxA, ECso = 0.0 ! 3( i 0.9. 0.07) nM, \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Gi: ECso - 0.054(10.3 ± 0.02) nM, E<sub>max</sub> = 59±2.2; \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Arrestin: IBNtxA, ECso <sup>:::</sup> 1 1 .32(4.9 : 0 3 ) mM, E<sub>max</sub> = <sup>\"</sup>5 · 15.9; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Gi: IBNtxA, ECso = 0.064(10.2 ± 0.1) nM, E<sub>max</sub> - 101±2.3; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Arrestin: IBNtxA, ECso = 1.23(8.9±0.02) nM, E<sub>m</sub>a<sub>x</sub> = 133±7.3; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Gi : MP1207, EC 50 <sup>::::</sup> 0.1 1 (9.98 ± 0.07) nM, Emax = 90±1.7; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Arrestin: MP1207, ECso - 3 97(8 4 - 0. 1 8) nM, E<sub>ma</sub> = 37±2, \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) Gi: MP1207, ECso = 0.034 (10.47 ± 0.15) nM, E<sub>imK</sub> = 33±1.4; \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) MP1208, ECso = 0.008 (8.73 ± 0.12) nM, Ema = 42±1.3;"
+    },
+    {
+        "molecule_name": "IBNtxA",
+        "protein_target_name": "hKOR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.0",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Gi: ECso - 0.07(10.2 ± 0.006) nM, Emax = 95+2; \nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Arrestin: IBNtxA, ECso = 5.86(8.2±0.002) nM, E<sub>max</sub> = 29+0.02; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Gi: IBNtxA, ECso = 0.47 (12.3 ± 0.06)pM, E<sub>max</sub> = 106+0.7; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Arrestin: IBNtxA, ECso = 0.0 ! 3( i 0.9. 0.07) nM, \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Gi: ECso - 0.054(10.3 ± 0.02) nM, E<sub>max</sub> = 59±2.2; \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Arrestin: IBNtxA, ECso <sup>:::</sup> 1 1 .32(4.9 : 0 3 ) mM, E<sub>max</sub> = <sup>\"</sup>5 · 15.9; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Gi: IBNtxA, ECso = 0.064(10.2 ± 0.1) nM, E<sub>max</sub> - 101±2.3; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Arrestin: IBNtxA, ECso = 1.23(8.9±0.02) nM, E<sub>m</sub>a<sub>x</sub> = 133±7.3; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Gi : MP1207, EC 50 <sup>::::</sup> 0.1 1 (9.98 ± 0.07) nM, Emax = 90±1.7; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Arrestin: MP1207, ECso - 3 97(8 4 - 0. 1 8) nM, E<sub>ma</sub> = 37±2, \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) Gi: MP1207, ECso = 0.034 (10.47 ± 0.15) nM, E<sub>imK</sub> = 33±1.4; \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) MP1208, ECso = 0.008 (8.73 ± 0.12) nM, Ema = 42±1.3;"
+    },
+    {
+        "molecule_name": "IBNtxA",
+        "protein_target_name": "mMOR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.054",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Gi: ECso - 0.07(10.2 ± 0.006) nM, Emax = 95+2; \nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Arrestin: IBNtxA, ECso = 5.86(8.2±0.002) nM, E<sub>max</sub> = 29+0.02; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Gi: IBNtxA, ECso = 0.47 (12.3 ± 0.06)pM, E<sub>max</sub> = 106+0.7; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Arrestin: IBNtxA, ECso = 0.0 ! 3( i 0.9. 0.07) nM, \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Gi: ECso - 0.054(10.3 ± 0.02) nM, E<sub>max</sub> = 59±2.2; \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Arrestin: IBNtxA, ECso <sup>:::</sup> 1 1 .32(4.9 : 0 3 ) mM, E<sub>max</sub> = <sup>\"</sup>5 · 15.9; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Gi: IBNtxA, ECso = 0.064(10.2 ± 0.1) nM, E<sub>max</sub> - 101±2.3; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Arrestin: IBNtxA, ECso = 1.23(8.9±0.02) nM, E<sub>m</sub>a<sub>x</sub> = 133±7.3; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Gi : MP1207, EC 50 <sup>::::</sup> 0.1 1 (9.98 ± 0.07) nM, Emax = 90±1.7; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Arrestin: MP1207, ECso - 3 97(8 4 - 0. 1 8) nM, E<sub>ma</sub> = 37±2, \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) Gi: MP1207, ECso = 0.034 (10.47 ± 0.15) nM, E<sub>imK</sub> = 33±1.4; \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) MP1208, ECso = 0.008 (8.73 ± 0.12) nM, Ema = 42±1.3;"
+    },
+    {
+        "molecule_name": "IBNtxA",
+        "protein_target_name": "mMOR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "1.32",
+        "unit": "mM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Gi: ECso - 0.07(10.2 ± 0.006) nM, Emax = 95+2; \nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Arrestin: IBNtxA, ECso = 5.86(8.2±0.002) nM, E<sub>max</sub> = 29+0.02; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Gi: IBNtxA, ECso = 0.47 (12.3 ± 0.06)pM, E<sub>max</sub> = 106+0.7; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Arrestin: IBNtxA, ECso = 0.0 ! 3( i 0.9. 0.07) nM, \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Gi: ECso - 0.054(10.3 ± 0.02) nM, E<sub>max</sub> = 59±2.2; \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Arrestin: IBNtxA, ECso <sup>:::</sup> 1 1 .32(4.9 : 0 3 ) mM, E<sub>max</sub> = <sup>\"</sup>5 · 15.9; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Gi: IBNtxA, ECso = 0.064(10.2 ± 0.1) nM, E<sub>max</sub> - 101±2.3; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Arrestin: IBNtxA, ECso = 1.23(8.9±0.02) nM, E<sub>m</sub>a<sub>x</sub> = 133±7.3; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Gi : MP1207, EC 50 <sup>::::</sup> 0.1 1 (9.98 ± 0.07) nM, Emax = 90±1.7; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Arrestin: MP1207, ECso - 3 97(8 4 - 0. 1 8) nM, E<sub>ma</sub> = 37±2, \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) Gi: MP1207, ECso = 0.034 (10.47 ± 0.15) nM, E<sub>imK</sub> = 33±1.4; \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) MP1208, ECso = 0.008 (8.73 ± 0.12) nM, Ema = 42±1.3;"
+    },
+    {
+        "molecule_name": "IBNtxA",
+        "protein_target_name": "rKOR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.064",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Gi: ECso - 0.07(10.2 ± 0.006) nM, Emax = 95+2; \nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Arrestin: IBNtxA, ECso = 5.86(8.2±0.002) nM, E<sub>max</sub> = 29+0.02; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Gi: IBNtxA, ECso = 0.47 (12.3 ± 0.06)pM, E<sub>max</sub> = 106+0.7; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Arrestin: IBNtxA, ECso = 0.0 ! 3( i 0.9. 0.07) nM, \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Gi: ECso - 0.054(10.3 ± 0.02) nM, E<sub>max</sub> = 59±2.2; \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Arrestin: IBNtxA, ECso <sup>:::</sup> 1 1 .32(4.9 : 0 3 ) mM, E<sub>max</sub> = <sup>\"</sup>5 · 15.9; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Gi: IBNtxA, ECso = 0.064(10.2 ± 0.1) nM, E<sub>max</sub> - 101±2.3; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Arrestin: IBNtxA, ECso = 1.23(8.9±0.02) nM, E<sub>m</sub>a<sub>x</sub> = 133±7.3; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Gi : MP1207, EC 50 <sup>::::</sup> 0.1 1 (9.98 ± 0.07) nM, Emax = 90±1.7; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Arrestin: MP1207, ECso - 3 97(8 4 - 0. 1 8) nM, E<sub>ma</sub> = 37±2, \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) Gi: MP1207, ECso = 0.034 (10.47 ± 0.15) nM, E<sub>imK</sub> = 33±1.4; \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) MP1208, ECso = 0.008 (8.73 ± 0.12) nM, Ema = 42±1.3;"
+    },
+    {
+        "molecule_name": "IBNtxA",
+        "protein_target_name": "rKOR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "1.23",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Gi: ECso - 0.07(10.2 ± 0.006) nM, Emax = 95+2; \nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Arrestin: IBNtxA, ECso = 5.86(8.2±0.002) nM, E<sub>max</sub> = 29+0.02; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Gi: IBNtxA, ECso = 0.47 (12.3 ± 0.06)pM, E<sub>max</sub> = 106+0.7; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Arrestin: IBNtxA, ECso = 0.0 ! 3( i 0.9. 0.07) nM, \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Gi: ECso - 0.054(10.3 ± 0.02) nM, E<sub>max</sub> = 59±2.2; \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Arrestin: IBNtxA, ECso <sup>:::</sup> 1 1 .32(4.9 : 0 3 ) mM, E<sub>max</sub> = <sup>\"</sup>5 · 15.9; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Gi: IBNtxA, ECso = 0.064(10.2 ± 0.1) nM, E<sub>max</sub> - 101±2.3; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Arrestin: IBNtxA, ECso = 1.23(8.9±0.02) nM, E<sub>m</sub>a<sub>x</sub> = 133±7.3; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Gi : MP1207, EC 50 <sup>::::</sup> 0.1 1 (9.98 ± 0.07) nM, Emax = 90±1.7; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Arrestin: MP1207, ECso - 3 97(8 4 - 0. 1 8) nM, E<sub>ma</sub> = 37±2, \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) Gi: MP1207, ECso = 0.034 (10.47 ± 0.15) nM, E<sub>imK</sub> = 33±1.4; \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) MP1208, ECso = 0.008 (8.73 ± 0.12) nM, Ema = 42±1.3;"
+    },
+    {
+        "molecule_name": "MP1207",
+        "protein_target_name": "hKOR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.11",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Gi: ECso - 0.07(10.2 ± 0.006) nM, Emax = 95+2; \nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Arrestin: IBNtxA, ECso = 5.86(8.2±0.002) nM, E<sub>max</sub> = 29+0.02; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Gi: IBNtxA, ECso = 0.47 (12.3 ± 0.06)pM, E<sub>max</sub> = 106+0.7; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Arrestin: IBNtxA, ECso = 0.0 ! 3( i 0.9. 0.07) nM, \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Gi: ECso - 0.054(10.3 ± 0.02) nM, E<sub>max</sub> = 59±2.2; \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Arrestin: IBNtxA, ECso <sup>:::</sup> 1 1 .32(4.9 : 0 3 ) mM, E<sub>max</sub> = <sup>\"</sup>5 · 15.9; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Gi: IBNtxA, ECso = 0.064(10.2 ± 0.1) nM, E<sub>max</sub> - 101±2.3; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Arrestin: IBNtxA, ECso = 1.23(8.9±0.02) nM, E<sub>m</sub>a<sub>x</sub> = 133±7.3; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Gi : MP1207, EC 50 <sup>::::</sup> 0.1 1 (9.98 ± 0.07) nM, Emax = 90±1.7; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Arrestin: MP1207, ECso - 3 97(8 4 - 0. 1 8) nM, E<sub>ma</sub> = 37±2, \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) Gi: MP1207, ECso = 0.034 (10.47 ± 0.15) nM, E<sub>imK</sub> = 33±1.4; \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) MP1208, ECso = 0.008 (8.73 ± 0.12) nM, Ema = 42±1.3;"
+    },
+    {
+        "molecule_name": "MP1207",
+        "protein_target_name": "hKOR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "3.97",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Gi: ECso - 0.07(10.2 ± 0.006) nM, Emax = 95+2; \nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Arrestin: IBNtxA, ECso = 5.86(8.2±0.002) nM, E<sub>max</sub> = 29+0.02; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Gi: IBNtxA, ECso = 0.47 (12.3 ± 0.06)pM, E<sub>max</sub> = 106+0.7; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Arrestin: IBNtxA, ECso = 0.0 ! 3( i 0.9. 0.07) nM, \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Gi: ECso - 0.054(10.3 ± 0.02) nM, E<sub>max</sub> = 59±2.2; \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Arrestin: IBNtxA, ECso <sup>:::</sup> 1 1 .32(4.9 : 0 3 ) mM, E<sub>max</sub> = <sup>\"</sup>5 · 15.9; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Gi: IBNtxA, ECso = 0.064(10.2 ± 0.1) nM, E<sub>max</sub> - 101±2.3; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Arrestin: IBNtxA, ECso = 1.23(8.9±0.02) nM, E<sub>m</sub>a<sub>x</sub> = 133±7.3; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Gi : MP1207, EC 50 <sup>::::</sup> 0.1 1 (9.98 ± 0.07) nM, Emax = 90±1.7; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Arrestin: MP1207, ECso - 3 97(8 4 - 0. 1 8) nM, E<sub>ma</sub> = 37±2, \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) Gi: MP1207, ECso = 0.034 (10.47 ± 0.15) nM, E<sub>imK</sub> = 33±1.4; \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) MP1208, ECso = 0.008 (8.73 ± 0.12) nM, Ema = 42±1.3;"
+    },
+    {
+        "molecule_name": "MP1207",
+        "protein_target_name": "hMOR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.034",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Gi: ECso - 0.07(10.2 ± 0.006) nM, Emax = 95+2; \nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Arrestin: IBNtxA, ECso = 5.86(8.2±0.002) nM, E<sub>max</sub> = 29+0.02; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Gi: IBNtxA, ECso = 0.47 (12.3 ± 0.06)pM, E<sub>max</sub> = 106+0.7; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Arrestin: IBNtxA, ECso = 0.0 ! 3( i 0.9. 0.07) nM, \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Gi: ECso - 0.054(10.3 ± 0.02) nM, E<sub>max</sub> = 59±2.2; \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Arrestin: IBNtxA, ECso <sup>:::</sup> 1 1 .32(4.9 : 0 3 ) mM, E<sub>max</sub> = <sup>\"</sup>5 · 15.9; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Gi: IBNtxA, ECso = 0.064(10.2 ± 0.1) nM, E<sub>max</sub> - 101±2.3; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Arrestin: IBNtxA, ECso = 1.23(8.9±0.02) nM, E<sub>m</sub>a<sub>x</sub> = 133±7.3; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Gi : MP1207, EC 50 <sup>::::</sup> 0.1 1 (9.98 ± 0.07) nM, Emax = 90±1.7; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Arrestin: MP1207, ECso - 3 97(8 4 - 0. 1 8) nM, E<sub>ma</sub> = 37±2, \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) Gi: MP1207, ECso = 0.034 (10.47 ± 0.15) nM, E<sub>imK</sub> = 33±1.4; \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) MP1208, ECso = 0.008 (8.73 ± 0.12) nM, Ema = 42±1.3;"
+    },
+    {
+        "molecule_name": "MP1208",
+        "protein_target_name": "hMOR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.008",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Gi: ECso - 0.07(10.2 ± 0.006) nM, Emax = 95+2; \nAt hMOR, IBNtxA (square) is a G-protein biased agonist compared with DAMGO (circle) Arrestin: IBNtxA, ECso = 5.86(8.2±0.002) nM, E<sub>max</sub> = 29+0.02; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Gi: IBNtxA, ECso = 0.47 (12.3 ± 0.06)pM, E<sub>max</sub> = 106+0.7; \nAt hKOR, IBNtxA (circle) is a balanced agonist in cAMP inhibition and Tango-arrestin recruitment assays compared to U50,488H (square) Arrestin: IBNtxA, ECso = 0.0 ! 3( i 0.9. 0.07) nM, \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Gi: ECso - 0.054(10.3 ± 0.02) nM, E<sub>max</sub> = 59±2.2; \nHowever, at mMOR, it is a G-biased partial agonist compared to DAMGO (circle) in BRET assays with Arrestin: IBNtxA, ECso <sup>:::</sup> 1 1 .32(4.9 : 0 3 ) mM, E<sub>max</sub> = <sup>\"</sup>5 · 15.9; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Gi: IBNtxA, ECso = 0.064(10.2 ± 0.1) nM, E<sub>max</sub> - 101±2.3; \nIn BRET assays using rKOR, IBNtxA is a balanced agonist compared with U50,488H (square), Arrestin: IBNtxA, ECso = 1.23(8.9±0.02) nM, E<sub>m</sub>a<sub>x</sub> = 133±7.3; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Gi : MP1207, EC 50 <sup>::::</sup> 0.1 1 (9.98 ± 0.07) nM, Emax = 90±1.7; \nFIGS. 7A &amp; 7B Unlike MP1202, MP1207 (diamond) and MP1208 (triangle) are full G protein biased agonists at hKOR in cAMP inhibition and Tango- arrestin recruitment assays compared to U50, 488 (circle) Arrestin: MP1207, ECso - 3 97(8 4 - 0. 1 8) nM, E<sub>ma</sub> = 37±2, \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) Gi: MP1207, ECso = 0.034 (10.47 ± 0.15) nM, E<sub>imK</sub> = 33±1.4; \nFIGS. 7E &amp; 7F MP1207 (diamond) and MP1208 (triangle) are partial agonists at hMOR in cAMP inhibition and Tango-arrestin recruitment assays compared to DAMGO (circle) MP1208, ECso = 0.008 (8.73 ± 0.12) nM, Ema = 42±1.3;"
+    },
+    {
+        "molecule_name": "MP1207",
+        "protein_target_name": "mMOR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "0.23",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n1. In binding assays, both MP1207 ( -amine group) and MP1208 (rn~ guanidine group) showed similar affinities at mMOR ( K; 0.23 nM and 0.34 nM) and mKOR (Ki-0.39 and 0.28 nM) with substantial selectivity over mDQR (Kr=T5.62 and 19 28 nM) (Table 2).\n2. In [<sup>3,</sup>S]GTPyS binding assays both MP1207 and 1208 were partial agonists at both mKOR and mMOR, still maintaining very high potency at mKOR (ECso-l .S and 1 4nM) and at mMOR (ECscfH .3 and 1. InM).\n3. IBNtxA 0.43 (9.3 ± 0.03) 106 ±1 14.1(7.8 ±0.06) 224+5 \n4. DPDPE (CTRL.) 0.69 (9.1 ±0.07) 100+2 2.99(8.5 ± 0.04) 100±1.5 \n5. MP1104 0.40 (9.4 ± 0.04) 99 ±1.1 3.73 (8.4 ± 0.06) 189 ±5.5 \n6. DADLE (CTRL,) 0.66(9.2 ± 0.05) 100 + 1.3 0.349 (9.45 ±0.10) 100 ±3.2 \n7. MP12Q2 8.18(81 ±0.06) 99 ±2.2 18.14(7.7 ±0.25) 26 ±3.1 \n8. DADLE (CTRL.) I.45(8.8 ±0.06) 100+2 8.41(8.1 ±0.08) 100 ±2.7 \n\nNote that some of these rows may not have a clear molecule name, but they do contain a bioactivity metric, a numeric value, and a unit. If you would like me to be more strict with the molecule name requirement, I can re-extract the sentences/rows."
+    },
+    {
+        "molecule_name": "MP1207",
+        "protein_target_name": "mKOR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Ki",
+        "value": "0.39",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n1. In binding assays, both MP1207 ( -amine group) and MP1208 (rn~ guanidine group) showed similar affinities at mMOR ( K; 0.23 nM and 0.34 nM) and mKOR (Ki-0.39 and 0.28 nM) with substantial selectivity over mDQR (Kr=T5.62 and 19 28 nM) (Table 2).\n2. In [<sup>3,</sup>S]GTPyS binding assays both MP1207 and 1208 were partial agonists at both mKOR and mMOR, still maintaining very high potency at mKOR (ECso-l .S and 1 4nM) and at mMOR (ECscfH .3 and 1. InM).\n3. IBNtxA 0.43 (9.3 ± 0.03) 106 ±1 14.1(7.8 ±0.06) 224+5 \n4. DPDPE (CTRL.) 0.69 (9.1 ±0.07) 100+2 2.99(8.5 ± 0.04) 100±1.5 \n5. MP1104 0.40 (9.4 ± 0.04) 99 ±1.1 3.73 (8.4 ± 0.06) 189 ±5.5 \n6. DADLE (CTRL,) 0.66(9.2 ± 0.05) 100 + 1.3 0.349 (9.45 ±0.10) 100 ±3.2 \n7. MP12Q2 8.18(81 ±0.06) 99 ±2.2 18.14(7.7 ±0.25) 26 ±3.1 \n8. DADLE (CTRL.) I.45(8.8 ±0.06) 100+2 8.41(8.1 ±0.08) 100 ±2.7 \n\nNote that some of these rows may not have a clear molecule name, but they do contain a bioactivity metric, a numeric value, and a unit. If you would like me to be more strict with the molecule name requirement, I can re-extract the sentences/rows."
+    },
+    {
+        "molecule_name": "MP1208",
+        "protein_target_name": "mMOR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "0.34",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n1. In binding assays, both MP1207 ( -amine group) and MP1208 (rn~ guanidine group) showed similar affinities at mMOR ( K; 0.23 nM and 0.34 nM) and mKOR (Ki-0.39 and 0.28 nM) with substantial selectivity over mDQR (Kr=T5.62 and 19 28 nM) (Table 2).\n2. In [<sup>3,</sup>S]GTPyS binding assays both MP1207 and 1208 were partial agonists at both mKOR and mMOR, still maintaining very high potency at mKOR (ECso-l .S and 1 4nM) and at mMOR (ECscfH .3 and 1. InM).\n3. IBNtxA 0.43 (9.3 ± 0.03) 106 ±1 14.1(7.8 ±0.06) 224+5 \n4. DPDPE (CTRL.) 0.69 (9.1 ±0.07) 100+2 2.99(8.5 ± 0.04) 100±1.5 \n5. MP1104 0.40 (9.4 ± 0.04) 99 ±1.1 3.73 (8.4 ± 0.06) 189 ±5.5 \n6. DADLE (CTRL,) 0.66(9.2 ± 0.05) 100 + 1.3 0.349 (9.45 ±0.10) 100 ±3.2 \n7. MP12Q2 8.18(81 ±0.06) 99 ±2.2 18.14(7.7 ±0.25) 26 ±3.1 \n8. DADLE (CTRL.) I.45(8.8 ±0.06) 100+2 8.41(8.1 ±0.08) 100 ±2.7 \n\nNote that some of these rows may not have a clear molecule name, but they do contain a bioactivity metric, a numeric value, and a unit. If you would like me to be more strict with the molecule name requirement, I can re-extract the sentences/rows."
+    },
+    {
+        "molecule_name": "MP1208",
+        "protein_target_name": "mKOR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Ki",
+        "value": "0.28",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n1. In binding assays, both MP1207 ( -amine group) and MP1208 (rn~ guanidine group) showed similar affinities at mMOR ( K; 0.23 nM and 0.34 nM) and mKOR (Ki-0.39 and 0.28 nM) with substantial selectivity over mDQR (Kr=T5.62 and 19 28 nM) (Table 2).\n2. In [<sup>3,</sup>S]GTPyS binding assays both MP1207 and 1208 were partial agonists at both mKOR and mMOR, still maintaining very high potency at mKOR (ECso-l .S and 1 4nM) and at mMOR (ECscfH .3 and 1. InM).\n3. IBNtxA 0.43 (9.3 ± 0.03) 106 ±1 14.1(7.8 ±0.06) 224+5 \n4. DPDPE (CTRL.) 0.69 (9.1 ±0.07) 100+2 2.99(8.5 ± 0.04) 100±1.5 \n5. MP1104 0.40 (9.4 ± 0.04) 99 ±1.1 3.73 (8.4 ± 0.06) 189 ±5.5 \n6. DADLE (CTRL,) 0.66(9.2 ± 0.05) 100 + 1.3 0.349 (9.45 ±0.10) 100 ±3.2 \n7. MP12Q2 8.18(81 ±0.06) 99 ±2.2 18.14(7.7 ±0.25) 26 ±3.1 \n8. DADLE (CTRL.) I.45(8.8 ±0.06) 100+2 8.41(8.1 ±0.08) 100 ±2.7 \n\nNote that some of these rows may not have a clear molecule name, but they do contain a bioactivity metric, a numeric value, and a unit. If you would like me to be more strict with the molecule name requirement, I can re-extract the sentences/rows."
+    },
+    {
+        "molecule_name": "MP1207",
+        "protein_target_name": "mDQR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kr",
+        "value": "5.62",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n1. In binding assays, both MP1207 ( -amine group) and MP1208 (rn~ guanidine group) showed similar affinities at mMOR ( K; 0.23 nM and 0.34 nM) and mKOR (Ki-0.39 and 0.28 nM) with substantial selectivity over mDQR (Kr=T5.62 and 19 28 nM) (Table 2).\n2. In [<sup>3,</sup>S]GTPyS binding assays both MP1207 and 1208 were partial agonists at both mKOR and mMOR, still maintaining very high potency at mKOR (ECso-l .S and 1 4nM) and at mMOR (ECscfH .3 and 1. InM).\n3. IBNtxA 0.43 (9.3 ± 0.03) 106 ±1 14.1(7.8 ±0.06) 224+5 \n4. DPDPE (CTRL.) 0.69 (9.1 ±0.07) 100+2 2.99(8.5 ± 0.04) 100±1.5 \n5. MP1104 0.40 (9.4 ± 0.04) 99 ±1.1 3.73 (8.4 ± 0.06) 189 ±5.5 \n6. DADLE (CTRL,) 0.66(9.2 ± 0.05) 100 + 1.3 0.349 (9.45 ±0.10) 100 ±3.2 \n7. MP12Q2 8.18(81 ±0.06) 99 ±2.2 18.14(7.7 ±0.25) 26 ±3.1 \n8. DADLE (CTRL.) I.45(8.8 ±0.06) 100+2 8.41(8.1 ±0.08) 100 ±2.7 \n\nNote that some of these rows may not have a clear molecule name, but they do contain a bioactivity metric, a numeric value, and a unit. If you would like me to be more strict with the molecule name requirement, I can re-extract the sentences/rows."
+    },
+    {
+        "molecule_name": "MP1208",
+        "protein_target_name": "mDQR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kr",
+        "value": "19",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n1. In binding assays, both MP1207 ( -amine group) and MP1208 (rn~ guanidine group) showed similar affinities at mMOR ( K; 0.23 nM and 0.34 nM) and mKOR (Ki-0.39 and 0.28 nM) with substantial selectivity over mDQR (Kr=T5.62 and 19 28 nM) (Table 2).\n2. In [<sup>3,</sup>S]GTPyS binding assays both MP1207 and 1208 were partial agonists at both mKOR and mMOR, still maintaining very high potency at mKOR (ECso-l .S and 1 4nM) and at mMOR (ECscfH .3 and 1. InM).\n3. IBNtxA 0.43 (9.3 ± 0.03) 106 ±1 14.1(7.8 ±0.06) 224+5 \n4. DPDPE (CTRL.) 0.69 (9.1 ±0.07) 100+2 2.99(8.5 ± 0.04) 100±1.5 \n5. MP1104 0.40 (9.4 ± 0.04) 99 ±1.1 3.73 (8.4 ± 0.06) 189 ±5.5 \n6. DADLE (CTRL,) 0.66(9.2 ± 0.05) 100 + 1.3 0.349 (9.45 ±0.10) 100 ±3.2 \n7. MP12Q2 8.18(81 ±0.06) 99 ±2.2 18.14(7.7 ±0.25) 26 ±3.1 \n8. DADLE (CTRL.) I.45(8.8 ±0.06) 100+2 8.41(8.1 ±0.08) 100 ±2.7 \n\nNote that some of these rows may not have a clear molecule name, but they do contain a bioactivity metric, a numeric value, and a unit. If you would like me to be more strict with the molecule name requirement, I can re-extract the sentences/rows."
+    },
+    {
+        "molecule_name": "MP1207",
+        "protein_target_name": "mKOR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "1",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n1. In binding assays, both MP1207 ( -amine group) and MP1208 (rn~ guanidine group) showed similar affinities at mMOR ( K; 0.23 nM and 0.34 nM) and mKOR (Ki-0.39 and 0.28 nM) with substantial selectivity over mDQR (Kr=T5.62 and 19 28 nM) (Table 2).\n2. In [<sup>3,</sup>S]GTPyS binding assays both MP1207 and 1208 were partial agonists at both mKOR and mMOR, still maintaining very high potency at mKOR (ECso-l .S and 1 4nM) and at mMOR (ECscfH .3 and 1. InM).\n3. IBNtxA 0.43 (9.3 ± 0.03) 106 ±1 14.1(7.8 ±0.06) 224+5 \n4. DPDPE (CTRL.) 0.69 (9.1 ±0.07) 100+2 2.99(8.5 ± 0.04) 100±1.5 \n5. MP1104 0.40 (9.4 ± 0.04) 99 ±1.1 3.73 (8.4 ± 0.06) 189 ±5.5 \n6. DADLE (CTRL,) 0.66(9.2 ± 0.05) 100 + 1.3 0.349 (9.45 ±0.10) 100 ±3.2 \n7. MP12Q2 8.18(81 ±0.06) 99 ±2.2 18.14(7.7 ±0.25) 26 ±3.1 \n8. DADLE (CTRL.) I.45(8.8 ±0.06) 100+2 8.41(8.1 ±0.08) 100 ±2.7 \n\nNote that some of these rows may not have a clear molecule name, but they do contain a bioactivity metric, a numeric value, and a unit. If you would like me to be more strict with the molecule name requirement, I can re-extract the sentences/rows."
+    },
+    {
+        "molecule_name": "MP1208",
+        "protein_target_name": "mKOR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "1.4",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n1. In binding assays, both MP1207 ( -amine group) and MP1208 (rn~ guanidine group) showed similar affinities at mMOR ( K; 0.23 nM and 0.34 nM) and mKOR (Ki-0.39 and 0.28 nM) with substantial selectivity over mDQR (Kr=T5.62 and 19 28 nM) (Table 2).\n2. In [<sup>3,</sup>S]GTPyS binding assays both MP1207 and 1208 were partial agonists at both mKOR and mMOR, still maintaining very high potency at mKOR (ECso-l .S and 1 4nM) and at mMOR (ECscfH .3 and 1. InM).\n3. IBNtxA 0.43 (9.3 ± 0.03) 106 ±1 14.1(7.8 ±0.06) 224+5 \n4. DPDPE (CTRL.) 0.69 (9.1 ±0.07) 100+2 2.99(8.5 ± 0.04) 100±1.5 \n5. MP1104 0.40 (9.4 ± 0.04) 99 ±1.1 3.73 (8.4 ± 0.06) 189 ±5.5 \n6. DADLE (CTRL,) 0.66(9.2 ± 0.05) 100 + 1.3 0.349 (9.45 ±0.10) 100 ±3.2 \n7. MP12Q2 8.18(81 ±0.06) 99 ±2.2 18.14(7.7 ±0.25) 26 ±3.1 \n8. DADLE (CTRL.) I.45(8.8 ±0.06) 100+2 8.41(8.1 ±0.08) 100 ±2.7 \n\nNote that some of these rows may not have a clear molecule name, but they do contain a bioactivity metric, a numeric value, and a unit. If you would like me to be more strict with the molecule name requirement, I can re-extract the sentences/rows."
+    },
+    {
+        "molecule_name": "MP1207",
+        "protein_target_name": "mMOR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "1.3",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n1. In binding assays, both MP1207 ( -amine group) and MP1208 (rn~ guanidine group) showed similar affinities at mMOR ( K; 0.23 nM and 0.34 nM) and mKOR (Ki-0.39 and 0.28 nM) with substantial selectivity over mDQR (Kr=T5.62 and 19 28 nM) (Table 2).\n2. In [<sup>3,</sup>S]GTPyS binding assays both MP1207 and 1208 were partial agonists at both mKOR and mMOR, still maintaining very high potency at mKOR (ECso-l .S and 1 4nM) and at mMOR (ECscfH .3 and 1. InM).\n3. IBNtxA 0.43 (9.3 ± 0.03) 106 ±1 14.1(7.8 ±0.06) 224+5 \n4. DPDPE (CTRL.) 0.69 (9.1 ±0.07) 100+2 2.99(8.5 ± 0.04) 100±1.5 \n5. MP1104 0.40 (9.4 ± 0.04) 99 ±1.1 3.73 (8.4 ± 0.06) 189 ±5.5 \n6. DADLE (CTRL,) 0.66(9.2 ± 0.05) 100 + 1.3 0.349 (9.45 ±0.10) 100 ±3.2 \n7. MP12Q2 8.18(81 ±0.06) 99 ±2.2 18.14(7.7 ±0.25) 26 ±3.1 \n8. DADLE (CTRL.) I.45(8.8 ±0.06) 100+2 8.41(8.1 ±0.08) 100 ±2.7 \n\nNote that some of these rows may not have a clear molecule name, but they do contain a bioactivity metric, a numeric value, and a unit. If you would like me to be more strict with the molecule name requirement, I can re-extract the sentences/rows."
+    },
+    {
+        "molecule_name": "MP1208",
+        "protein_target_name": "mMOR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "1",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n1. In binding assays, both MP1207 ( -amine group) and MP1208 (rn~ guanidine group) showed similar affinities at mMOR ( K; 0.23 nM and 0.34 nM) and mKOR (Ki-0.39 and 0.28 nM) with substantial selectivity over mDQR (Kr=T5.62 and 19 28 nM) (Table 2).\n2. In [<sup>3,</sup>S]GTPyS binding assays both MP1207 and 1208 were partial agonists at both mKOR and mMOR, still maintaining very high potency at mKOR (ECso-l .S and 1 4nM) and at mMOR (ECscfH .3 and 1. InM).\n3. IBNtxA 0.43 (9.3 ± 0.03) 106 ±1 14.1(7.8 ±0.06) 224+5 \n4. DPDPE (CTRL.) 0.69 (9.1 ±0.07) 100+2 2.99(8.5 ± 0.04) 100±1.5 \n5. MP1104 0.40 (9.4 ± 0.04) 99 ±1.1 3.73 (8.4 ± 0.06) 189 ±5.5 \n6. DADLE (CTRL,) 0.66(9.2 ± 0.05) 100 + 1.3 0.349 (9.45 ±0.10) 100 ±3.2 \n7. MP12Q2 8.18(81 ±0.06) 99 ±2.2 18.14(7.7 ±0.25) 26 ±3.1 \n8. DADLE (CTRL.) I.45(8.8 ±0.06) 100+2 8.41(8.1 ±0.08) 100 ±2.7 \n\nNote that some of these rows may not have a clear molecule name, but they do contain a bioactivity metric, a numeric value, and a unit. If you would like me to be more strict with the molecule name requirement, I can re-extract the sentences/rows."
+    }
+]

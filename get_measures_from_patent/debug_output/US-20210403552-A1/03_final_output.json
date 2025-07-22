@@ -1,0 +1,622 @@
+[
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.018",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.069",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.026",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.041",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.036",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.186",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.034",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.059",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.121",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.091",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.179",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.068",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.053",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.043",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.150",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.038",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.035",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.135",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.041",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.033",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.142",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.040",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.032",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.146",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.034",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.026",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.097",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.028",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.026",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.092",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "1.22",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.816",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "6.54",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.092",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.041",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.714",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 antibody",
+        "protein_target_name": "CLDN18.1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "9",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 antibody was further obtained from the fitted curves, and the results were shown in Table 3, in which the reference antibody was 175D10 (Ganymed Pharmaceuticals AG), which was disclosed in, for example, CN101312989B and CN103509114B.\nTABLE 3Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.2.EC50 (μg/ml)HEK293-HEK293-OCUM1-AntibodyhCLDNA18.2mCLDN18.2hCLDN18.2HEK2931D100.0180.6910.026N.B.2F120.0410.0360.186N.B.3F20.0340.0590.121N.B.5F90.0910.1790.068N.B.9F30.0530.0430.150N.B.10B110.0380.0350.135N.B.27B50.0410.0330.142N.B.37B10.0400.0320.146N.B.44A80.0340.0260.097N.B.44F70.0280.0260.092N.B.175D101.220.816.54N.B.\nThe EC50 values of the binding activity of anti-CLDN18.2 antibody to CLDN18.1 were shown in Table 4. \nTABLE 4Measurement results of binding activityof anti-CLDN18.2 antibody to CLDN18.1EC50 μg/mlAntibodyCHOS-hCLDN18.1HEK293-hCLDN18.11D100.0920.0412F12N.B.N.B.3F2N.B.5F90.7149F3N.B.N.B.10B11N.B.N.B.27B5N.B.N.B.37B1N.B.N.B.44A8N.B.N.B.44F7N.B.N.B.175D10N.B.N.B."
+    },
+    {
+        "molecule_name": "3F2-chIgG",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "11.15",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nEC50 of anti-CLDN18.2 antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 9.\nTABLE 9Measurement results of activity ofchimeric antibody to induce CDCCDC EC50 μg/mlAntibodyHEK293T-hCLDN18.2KATO-III3F2-chIgG11.15F9-chIgG15.259F3-chIgG11.8610B11-chIgG11.6527B5-chIgG15.1737B1-chIgG11.9344A8-chIgG12.4044F7-chIgG10.600.18175D1018.1873.05"
+    },
+    {
+        "molecule_name": "11.15F9-chIgG",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "5.25",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nEC50 of anti-CLDN18.2 antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 9.\nTABLE 9Measurement results of activity ofchimeric antibody to induce CDCCDC EC50 μg/mlAntibodyHEK293T-hCLDN18.2KATO-III3F2-chIgG11.15F9-chIgG15.259F3-chIgG11.8610B11-chIgG11.6527B5-chIgG15.1737B1-chIgG11.9344A8-chIgG12.4044F7-chIgG10.600.18175D1018.1873.05"
+    },
+    {
+        "molecule_name": "5.259F3-chIgG",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "11.86",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nEC50 of anti-CLDN18.2 antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 9.\nTABLE 9Measurement results of activity ofchimeric antibody to induce CDCCDC EC50 μg/mlAntibodyHEK293T-hCLDN18.2KATO-III3F2-chIgG11.15F9-chIgG15.259F3-chIgG11.8610B11-chIgG11.6527B5-chIgG15.1737B1-chIgG11.9344A8-chIgG12.4044F7-chIgG10.600.18175D1018.1873.05"
+    },
+    {
+        "molecule_name": "10B11-chIgG",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "11.65",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nEC50 of anti-CLDN18.2 antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 9.\nTABLE 9Measurement results of activity ofchimeric antibody to induce CDCCDC EC50 μg/mlAntibodyHEK293T-hCLDN18.2KATO-III3F2-chIgG11.15F9-chIgG15.259F3-chIgG11.8610B11-chIgG11.6527B5-chIgG15.1737B1-chIgG11.9344A8-chIgG12.4044F7-chIgG10.600.18175D1018.1873.05"
+    },
+    {
+        "molecule_name": "27B5-chIgG",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "15.17",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nEC50 of anti-CLDN18.2 antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 9.\nTABLE 9Measurement results of activity ofchimeric antibody to induce CDCCDC EC50 μg/mlAntibodyHEK293T-hCLDN18.2KATO-III3F2-chIgG11.15F9-chIgG15.259F3-chIgG11.8610B11-chIgG11.6527B5-chIgG15.1737B1-chIgG11.9344A8-chIgG12.4044F7-chIgG10.600.18175D1018.1873.05"
+    },
+    {
+        "molecule_name": "37B1-chIgG",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "11.93",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nEC50 of anti-CLDN18.2 antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 9.\nTABLE 9Measurement results of activity ofchimeric antibody to induce CDCCDC EC50 μg/mlAntibodyHEK293T-hCLDN18.2KATO-III3F2-chIgG11.15F9-chIgG15.259F3-chIgG11.8610B11-chIgG11.6527B5-chIgG15.1737B1-chIgG11.9344A8-chIgG12.4044F7-chIgG10.600.18175D1018.1873.05"
+    },
+    {
+        "molecule_name": "44A8-chIgG",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "12.40",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nEC50 of anti-CLDN18.2 antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 9.\nTABLE 9Measurement results of activity ofchimeric antibody to induce CDCCDC EC50 μg/mlAntibodyHEK293T-hCLDN18.2KATO-III3F2-chIgG11.15F9-chIgG15.259F3-chIgG11.8610B11-chIgG11.6527B5-chIgG15.1737B1-chIgG11.9344A8-chIgG12.4044F7-chIgG10.600.18175D1018.1873.05"
+    },
+    {
+        "molecule_name": "44F7-chIgG",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "10.60",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nEC50 of anti-CLDN18.2 antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 9.\nTABLE 9Measurement results of activity ofchimeric antibody to induce CDCCDC EC50 μg/mlAntibodyHEK293T-hCLDN18.2KATO-III3F2-chIgG11.15F9-chIgG15.259F3-chIgG11.8610B11-chIgG11.6527B5-chIgG15.1737B1-chIgG11.9344A8-chIgG12.4044F7-chIgG10.600.18175D1018.1873.05"
+    },
+    {
+        "molecule_name": "0.18175D10",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "18.18",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nEC50 of anti-CLDN18.2 antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 9.\nTABLE 9Measurement results of activity ofchimeric antibody to induce CDCCDC EC50 μg/mlAntibodyHEK293T-hCLDN18.2KATO-III3F2-chIgG11.15F9-chIgG15.259F3-chIgG11.8610B11-chIgG11.6527B5-chIgG15.1737B1-chIgG11.9344A8-chIgG12.4044F7-chIgG10.600.18175D1018.1873.05"
+    },
+    {
+        "molecule_name": "73.05",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "73.05",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nEC50 of anti-CLDN18.2 antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 9.\nTABLE 9Measurement results of activity ofchimeric antibody to induce CDCCDC EC50 μg/mlAntibodyHEK293T-hCLDN18.2KATO-III3F2-chIgG11.15F9-chIgG15.259F3-chIgG11.8610B11-chIgG11.6527B5-chIgG15.1737B1-chIgG11.9344A8-chIgG12.4044F7-chIgG10.600.18175D1018.1873.05"
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 humanized antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.0517",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 humanized antibody was further obtained from the fitted curves, and the results were shown in Table 12.\nTABLE 12Measurement results of binding activityof humanized antibodies to CLDN18.2.EC50 (μg/ml)AntibodyHEK293-hCLDNA18.27004-09hu090.0517004-09hu100.0477004-09hu150.00844F7-chIgG10.012175D100.035\nThe EC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce ADCC was further obtained from the fitted curves, and the results were shown in Table 13.\nTABLE 13Measurement results of activity ofhumanized antibodies to induce ADCCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.00287004-09hu100.00337004-09hu150.006144F7-chIgG10.0117175D100.7884\nEC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 14.\nTABLE 14Measurement results of activity ofhumanized antibodies to induce CDCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.337004-09hu100.277004-09hu150.2744F7-chIgG10.52175D1034.83"
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 humanized antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.0477",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 humanized antibody was further obtained from the fitted curves, and the results were shown in Table 12.\nTABLE 12Measurement results of binding activityof humanized antibodies to CLDN18.2.EC50 (μg/ml)AntibodyHEK293-hCLDNA18.27004-09hu090.0517004-09hu100.0477004-09hu150.00844F7-chIgG10.012175D100.035\nThe EC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce ADCC was further obtained from the fitted curves, and the results were shown in Table 13.\nTABLE 13Measurement results of activity ofhumanized antibodies to induce ADCCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.00287004-09hu100.00337004-09hu150.006144F7-chIgG10.0117175D100.7884\nEC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 14.\nTABLE 14Measurement results of activity ofhumanized antibodies to induce CDCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.337004-09hu100.277004-09hu150.2744F7-chIgG10.52175D1034.83"
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 humanized antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.00844",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 humanized antibody was further obtained from the fitted curves, and the results were shown in Table 12.\nTABLE 12Measurement results of binding activityof humanized antibodies to CLDN18.2.EC50 (μg/ml)AntibodyHEK293-hCLDNA18.27004-09hu090.0517004-09hu100.0477004-09hu150.00844F7-chIgG10.012175D100.035\nThe EC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce ADCC was further obtained from the fitted curves, and the results were shown in Table 13.\nTABLE 13Measurement results of activity ofhumanized antibodies to induce ADCCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.00287004-09hu100.00337004-09hu150.006144F7-chIgG10.0117175D100.7884\nEC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 14.\nTABLE 14Measurement results of activity ofhumanized antibodies to induce CDCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.337004-09hu100.277004-09hu150.2744F7-chIgG10.52175D1034.83"
+    },
+    {
+        "molecule_name": "F7-chIgG1",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.0121",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 humanized antibody was further obtained from the fitted curves, and the results were shown in Table 12.\nTABLE 12Measurement results of binding activityof humanized antibodies to CLDN18.2.EC50 (μg/ml)AntibodyHEK293-hCLDNA18.27004-09hu090.0517004-09hu100.0477004-09hu150.00844F7-chIgG10.012175D100.035\nThe EC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce ADCC was further obtained from the fitted curves, and the results were shown in Table 13.\nTABLE 13Measurement results of activity ofhumanized antibodies to induce ADCCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.00287004-09hu100.00337004-09hu150.006144F7-chIgG10.0117175D100.7884\nEC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 14.\nTABLE 14Measurement results of activity ofhumanized antibodies to induce CDCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.337004-09hu100.277004-09hu150.2744F7-chIgG10.52175D1034.83"
+    },
+    {
+        "molecule_name": "175D1",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.035",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 humanized antibody was further obtained from the fitted curves, and the results were shown in Table 12.\nTABLE 12Measurement results of binding activityof humanized antibodies to CLDN18.2.EC50 (μg/ml)AntibodyHEK293-hCLDNA18.27004-09hu090.0517004-09hu100.0477004-09hu150.00844F7-chIgG10.012175D100.035\nThe EC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce ADCC was further obtained from the fitted curves, and the results were shown in Table 13.\nTABLE 13Measurement results of activity ofhumanized antibodies to induce ADCCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.00287004-09hu100.00337004-09hu150.006144F7-chIgG10.0117175D100.7884\nEC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 14.\nTABLE 14Measurement results of activity ofhumanized antibodies to induce CDCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.337004-09hu100.277004-09hu150.2744F7-chIgG10.52175D1034.83"
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 chimeric antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.00287",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 humanized antibody was further obtained from the fitted curves, and the results were shown in Table 12.\nTABLE 12Measurement results of binding activityof humanized antibodies to CLDN18.2.EC50 (μg/ml)AntibodyHEK293-hCLDNA18.27004-09hu090.0517004-09hu100.0477004-09hu150.00844F7-chIgG10.012175D100.035\nThe EC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce ADCC was further obtained from the fitted curves, and the results were shown in Table 13.\nTABLE 13Measurement results of activity ofhumanized antibodies to induce ADCCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.00287004-09hu100.00337004-09hu150.006144F7-chIgG10.0117175D100.7884\nEC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 14.\nTABLE 14Measurement results of activity ofhumanized antibodies to induce CDCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.337004-09hu100.277004-09hu150.2744F7-chIgG10.52175D1034.83"
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 chimeric antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.00337",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 humanized antibody was further obtained from the fitted curves, and the results were shown in Table 12.\nTABLE 12Measurement results of binding activityof humanized antibodies to CLDN18.2.EC50 (μg/ml)AntibodyHEK293-hCLDNA18.27004-09hu090.0517004-09hu100.0477004-09hu150.00844F7-chIgG10.012175D100.035\nThe EC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce ADCC was further obtained from the fitted curves, and the results were shown in Table 13.\nTABLE 13Measurement results of activity ofhumanized antibodies to induce ADCCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.00287004-09hu100.00337004-09hu150.006144F7-chIgG10.0117175D100.7884\nEC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 14.\nTABLE 14Measurement results of activity ofhumanized antibodies to induce CDCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.337004-09hu100.277004-09hu150.2744F7-chIgG10.52175D1034.83"
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 chimeric antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.00614",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 humanized antibody was further obtained from the fitted curves, and the results were shown in Table 12.\nTABLE 12Measurement results of binding activityof humanized antibodies to CLDN18.2.EC50 (μg/ml)AntibodyHEK293-hCLDNA18.27004-09hu090.0517004-09hu100.0477004-09hu150.00844F7-chIgG10.012175D100.035\nThe EC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce ADCC was further obtained from the fitted curves, and the results were shown in Table 13.\nTABLE 13Measurement results of activity ofhumanized antibodies to induce ADCCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.00287004-09hu100.00337004-09hu150.006144F7-chIgG10.0117175D100.7884\nEC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 14.\nTABLE 14Measurement results of activity ofhumanized antibodies to induce CDCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.337004-09hu100.277004-09hu150.2744F7-chIgG10.52175D1034.83"
+    },
+    {
+        "molecule_name": "F7-chIgG1",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.0117",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 humanized antibody was further obtained from the fitted curves, and the results were shown in Table 12.\nTABLE 12Measurement results of binding activityof humanized antibodies to CLDN18.2.EC50 (μg/ml)AntibodyHEK293-hCLDNA18.27004-09hu090.0517004-09hu100.0477004-09hu150.00844F7-chIgG10.012175D100.035\nThe EC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce ADCC was further obtained from the fitted curves, and the results were shown in Table 13.\nTABLE 13Measurement results of activity ofhumanized antibodies to induce ADCCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.00287004-09hu100.00337004-09hu150.006144F7-chIgG10.0117175D100.7884\nEC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 14.\nTABLE 14Measurement results of activity ofhumanized antibodies to induce CDCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.337004-09hu100.277004-09hu150.2744F7-chIgG10.52175D1034.83"
+    },
+    {
+        "molecule_name": "175D1",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.7884",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 humanized antibody was further obtained from the fitted curves, and the results were shown in Table 12.\nTABLE 12Measurement results of binding activityof humanized antibodies to CLDN18.2.EC50 (μg/ml)AntibodyHEK293-hCLDNA18.27004-09hu090.0517004-09hu100.0477004-09hu150.00844F7-chIgG10.012175D100.035\nThe EC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce ADCC was further obtained from the fitted curves, and the results were shown in Table 13.\nTABLE 13Measurement results of activity ofhumanized antibodies to induce ADCCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.00287004-09hu100.00337004-09hu150.006144F7-chIgG10.0117175D100.7884\nEC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 14.\nTABLE 14Measurement results of activity ofhumanized antibodies to induce CDCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.337004-09hu100.277004-09hu150.2744F7-chIgG10.52175D1034.83"
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 chimeric antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.337",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 humanized antibody was further obtained from the fitted curves, and the results were shown in Table 12.\nTABLE 12Measurement results of binding activityof humanized antibodies to CLDN18.2.EC50 (μg/ml)AntibodyHEK293-hCLDNA18.27004-09hu090.0517004-09hu100.0477004-09hu150.00844F7-chIgG10.012175D100.035\nThe EC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce ADCC was further obtained from the fitted curves, and the results were shown in Table 13.\nTABLE 13Measurement results of activity ofhumanized antibodies to induce ADCCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.00287004-09hu100.00337004-09hu150.006144F7-chIgG10.0117175D100.7884\nEC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 14.\nTABLE 14Measurement results of activity ofhumanized antibodies to induce CDCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.337004-09hu100.277004-09hu150.2744F7-chIgG10.52175D1034.83"
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 chimeric antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.277",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 humanized antibody was further obtained from the fitted curves, and the results were shown in Table 12.\nTABLE 12Measurement results of binding activityof humanized antibodies to CLDN18.2.EC50 (μg/ml)AntibodyHEK293-hCLDNA18.27004-09hu090.0517004-09hu100.0477004-09hu150.00844F7-chIgG10.012175D100.035\nThe EC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce ADCC was further obtained from the fitted curves, and the results were shown in Table 13.\nTABLE 13Measurement results of activity ofhumanized antibodies to induce ADCCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.00287004-09hu100.00337004-09hu150.006144F7-chIgG10.0117175D100.7884\nEC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 14.\nTABLE 14Measurement results of activity ofhumanized antibodies to induce CDCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.337004-09hu100.277004-09hu150.2744F7-chIgG10.52175D1034.83"
+    },
+    {
+        "molecule_name": "anti-CLDN18.2 chimeric antibody",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.274",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 humanized antibody was further obtained from the fitted curves, and the results were shown in Table 12.\nTABLE 12Measurement results of binding activityof humanized antibodies to CLDN18.2.EC50 (μg/ml)AntibodyHEK293-hCLDNA18.27004-09hu090.0517004-09hu100.0477004-09hu150.00844F7-chIgG10.012175D100.035\nThe EC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce ADCC was further obtained from the fitted curves, and the results were shown in Table 13.\nTABLE 13Measurement results of activity ofhumanized antibodies to induce ADCCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.00287004-09hu100.00337004-09hu150.006144F7-chIgG10.0117175D100.7884\nEC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 14.\nTABLE 14Measurement results of activity ofhumanized antibodies to induce CDCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.337004-09hu100.277004-09hu150.2744F7-chIgG10.52175D1034.83"
+    },
+    {
+        "molecule_name": "F7-chIgG1",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.521",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 humanized antibody was further obtained from the fitted curves, and the results were shown in Table 12.\nTABLE 12Measurement results of binding activityof humanized antibodies to CLDN18.2.EC50 (μg/ml)AntibodyHEK293-hCLDNA18.27004-09hu090.0517004-09hu100.0477004-09hu150.00844F7-chIgG10.012175D100.035\nThe EC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce ADCC was further obtained from the fitted curves, and the results were shown in Table 13.\nTABLE 13Measurement results of activity ofhumanized antibodies to induce ADCCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.00287004-09hu100.00337004-09hu150.006144F7-chIgG10.0117175D100.7884\nEC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 14.\nTABLE 14Measurement results of activity ofhumanized antibodies to induce CDCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.337004-09hu100.277004-09hu150.2744F7-chIgG10.52175D1034.83"
+    },
+    {
+        "molecule_name": "175D1",
+        "protein_target_name": "CLDN18.2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "34.83",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe EC50 of the antigen-binding activity of the anti-CLDN18.2 humanized antibody was further obtained from the fitted curves, and the results were shown in Table 12.\nTABLE 12Measurement results of binding activityof humanized antibodies to CLDN18.2.EC50 (μg/ml)AntibodyHEK293-hCLDNA18.27004-09hu090.0517004-09hu100.0477004-09hu150.00844F7-chIgG10.012175D100.035\nThe EC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce ADCC was further obtained from the fitted curves, and the results were shown in Table 13.\nTABLE 13Measurement results of activity ofhumanized antibodies to induce ADCCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.00287004-09hu100.00337004-09hu150.006144F7-chIgG10.0117175D100.7884\nEC50 of the activity of the anti-CLDN18.2 chimeric antibody to induce CDC was further obtained from the fitted curves, and the results were shown in Table 14.\nTABLE 14Measurement results of activity ofhumanized antibodies to induce CDCEC50 (μg/ml)AntibodyKATO-III7004-09hu090.337004-09hu100.277004-09hu150.2744F7-chIgG10.52175D1034.83"
+    }
+]

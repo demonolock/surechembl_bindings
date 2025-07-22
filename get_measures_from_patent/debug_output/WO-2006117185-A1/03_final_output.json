@@ -1,0 +1,32 @@
+[
+    {
+        "molecule_name": "Compound (II)",
+        "protein_target_name": "PDGFRα",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "<100",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nCompound (II) inhibited the proliferation of both Ba/F3 FIP-PDGFRα and Ba/F3 TeI- PDGFRβ cells with IC50 values of &lt;100 nM.\nCompound (II) inhibited Ba/F3 cells transformed by a TEL-PDGFRβ T6811 mutant with an IC50 of &lt;25 nM, similar to that of the non-mutated TEL-PDGFRβ fusion."
+    },
+    {
+        "molecule_name": "Compound (II)",
+        "protein_target_name": "PDGFRβ",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "<100",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nCompound (II) inhibited the proliferation of both Ba/F3 FIP-PDGFRα and Ba/F3 TeI- PDGFRβ cells with IC50 values of &lt;100 nM.\nCompound (II) inhibited Ba/F3 cells transformed by a TEL-PDGFRβ T6811 mutant with an IC50 of &lt;25 nM, similar to that of the non-mutated TEL-PDGFRβ fusion."
+    },
+    {
+        "molecule_name": "Compound (II)",
+        "protein_target_name": "TEL-PDGFRβ T6811 mutant",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "<25",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nCompound (II) inhibited the proliferation of both Ba/F3 FIP-PDGFRα and Ba/F3 TeI- PDGFRβ cells with IC50 values of &lt;100 nM.\nCompound (II) inhibited Ba/F3 cells transformed by a TEL-PDGFRβ T6811 mutant with an IC50 of &lt;25 nM, similar to that of the non-mutated TEL-PDGFRβ fusion."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "molecule_name": "Compounds of the present invention",
+        "protein_target_name": "B1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "<10",
+        "unit": "μm",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Compounds of the present invention showed binding IC50's of B1 at doses less than 10 μm.\n* The compounds of examples 1, 1a, 1d-1f, 1 h, 3, 3b-3f, 3h-3j, 3l, 4a, 5a, 8, 13, and 15, have binding Ki's to the hB1 receptor at a level below 100 nm.\n* The compounds of examples 1-15, have binding Ki's to the hB2 receptor at a level above 1 μM.\n* [<sup>3</sup>H] des-arg<sup>10 </sup>kallidin was diluted from stock into assay buffer to yield a final concentration of ˜0.3 nM in the assay but was adjusted as needed to ensure a concentration at or below the K<sub>d </sub>determined for each batch of receptor membranes.\n* [<sup>3</sup>H] bradykinin (NET706; Perkin Elmer Life Sciences) was used at a final concentration of ˜0.2 nM and non specific binding was defined with 2 μM bradykinin."
+    },
+    {
+        "molecule_name": "Compounds of examples 1, 1a, 1d-1f, 1h, 3, 3b-3f, 3h-3j, 3l, 4a, 5a, 8, 13, and 15",
+        "protein_target_name": "hB1 receptor",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Ki",
+        "value": "<100",
+        "unit": "nm",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Compounds of the present invention showed binding IC50's of B1 at doses less than 10 μm.\n* The compounds of examples 1, 1a, 1d-1f, 1 h, 3, 3b-3f, 3h-3j, 3l, 4a, 5a, 8, 13, and 15, have binding Ki's to the hB1 receptor at a level below 100 nm.\n* The compounds of examples 1-15, have binding Ki's to the hB2 receptor at a level above 1 μM.\n* [<sup>3</sup>H] des-arg<sup>10 </sup>kallidin was diluted from stock into assay buffer to yield a final concentration of ˜0.3 nM in the assay but was adjusted as needed to ensure a concentration at or below the K<sub>d </sub>determined for each batch of receptor membranes.\n* [<sup>3</sup>H] bradykinin (NET706; Perkin Elmer Life Sciences) was used at a final concentration of ˜0.2 nM and non specific binding was defined with 2 μM bradykinin."
+    },
+    {
+        "molecule_name": "Compounds of examples 1-15",
+        "protein_target_name": "hB2 receptor",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Ki",
+        "value": ">1",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Compounds of the present invention showed binding IC50's of B1 at doses less than 10 μm.\n* The compounds of examples 1, 1a, 1d-1f, 1 h, 3, 3b-3f, 3h-3j, 3l, 4a, 5a, 8, 13, and 15, have binding Ki's to the hB1 receptor at a level below 100 nm.\n* The compounds of examples 1-15, have binding Ki's to the hB2 receptor at a level above 1 μM.\n* [<sup>3</sup>H] des-arg<sup>10 </sup>kallidin was diluted from stock into assay buffer to yield a final concentration of ˜0.3 nM in the assay but was adjusted as needed to ensure a concentration at or below the K<sub>d </sub>determined for each batch of receptor membranes.\n* [<sup>3</sup>H] bradykinin (NET706; Perkin Elmer Life Sciences) was used at a final concentration of ˜0.2 nM and non specific binding was defined with 2 μM bradykinin."
+    }
+]

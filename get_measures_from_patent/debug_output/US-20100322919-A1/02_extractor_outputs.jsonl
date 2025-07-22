@@ -1,0 +1,4 @@
+{"raw_mentions": "None of the sentences in the provided text contain all four required components: a specific molecule name, ID or other identifier, a bioactivity metric, a specific numeric value for that metric, and a unit for that value. \n\nTherefore, there are no sentences to return."}
+{"raw_mentions": "There are no sentences that meet the specified criteria. The text does not contain specific molecule names, bioactivity metrics, numeric values, and units as required."}
+{"raw_mentions": "As shown in FIGS. 4A and 4B, the dissociation constant for VB1-204 was calculated to be 5\u00d710<sup>\u22129</sup>M."}
+{"final_json": [{"molecule_name": "VB1-204", "protein_target_name": null, "protein_uniprot_id": null, "protein_seq_id": null, "binding_metric": "Kd", "value": "5\u00d710\u22129", "unit": "M"}]}

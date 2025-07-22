@@ -1,0 +1,142 @@
+[
+    {
+        "molecule_name": "Antibody I",
+        "protein_target_name": "serum albumin",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "0.25",
+        "unit": "nM",
+        "raw_mentions": "KD is determined as 0.25, 4.4, 53, 44, 100, 20, and 460 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody I (Table 3).\nKD is determined as 0.4, 5.9, 42, 51, 99, 20 and 430 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody II (Table 4)."
+    },
+    {
+        "molecule_name": "Antibody I",
+        "protein_target_name": "serum albumin",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "4.4",
+        "unit": "nM",
+        "raw_mentions": "KD is determined as 0.25, 4.4, 53, 44, 100, 20, and 460 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody I (Table 3).\nKD is determined as 0.4, 5.9, 42, 51, 99, 20 and 430 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody II (Table 4)."
+    },
+    {
+        "molecule_name": "Antibody I",
+        "protein_target_name": "serum albumin",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "53",
+        "unit": "nM",
+        "raw_mentions": "KD is determined as 0.25, 4.4, 53, 44, 100, 20, and 460 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody I (Table 3).\nKD is determined as 0.4, 5.9, 42, 51, 99, 20 and 430 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody II (Table 4)."
+    },
+    {
+        "molecule_name": "Antibody I",
+        "protein_target_name": "serum albumin",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "44",
+        "unit": "nM",
+        "raw_mentions": "KD is determined as 0.25, 4.4, 53, 44, 100, 20, and 460 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody I (Table 3).\nKD is determined as 0.4, 5.9, 42, 51, 99, 20 and 430 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody II (Table 4)."
+    },
+    {
+        "molecule_name": "Antibody I",
+        "protein_target_name": "serum albumin",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "100",
+        "unit": "nM",
+        "raw_mentions": "KD is determined as 0.25, 4.4, 53, 44, 100, 20, and 460 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody I (Table 3).\nKD is determined as 0.4, 5.9, 42, 51, 99, 20 and 430 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody II (Table 4)."
+    },
+    {
+        "molecule_name": "Antibody I",
+        "protein_target_name": "serum albumin",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "20",
+        "unit": "nM",
+        "raw_mentions": "KD is determined as 0.25, 4.4, 53, 44, 100, 20, and 460 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody I (Table 3).\nKD is determined as 0.4, 5.9, 42, 51, 99, 20 and 430 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody II (Table 4)."
+    },
+    {
+        "molecule_name": "Antibody I",
+        "protein_target_name": "serum albumin",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "460",
+        "unit": "nM",
+        "raw_mentions": "KD is determined as 0.25, 4.4, 53, 44, 100, 20, and 460 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody I (Table 3).\nKD is determined as 0.4, 5.9, 42, 51, 99, 20 and 430 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody II (Table 4)."
+    },
+    {
+        "molecule_name": "Antibody II",
+        "protein_target_name": "serum albumin",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "0.4",
+        "unit": "nM",
+        "raw_mentions": "KD is determined as 0.25, 4.4, 53, 44, 100, 20, and 460 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody I (Table 3).\nKD is determined as 0.4, 5.9, 42, 51, 99, 20 and 430 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody II (Table 4)."
+    },
+    {
+        "molecule_name": "Antibody II",
+        "protein_target_name": "serum albumin",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "5.9",
+        "unit": "nM",
+        "raw_mentions": "KD is determined as 0.25, 4.4, 53, 44, 100, 20, and 460 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody I (Table 3).\nKD is determined as 0.4, 5.9, 42, 51, 99, 20 and 430 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody II (Table 4)."
+    },
+    {
+        "molecule_name": "Antibody II",
+        "protein_target_name": "serum albumin",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "42",
+        "unit": "nM",
+        "raw_mentions": "KD is determined as 0.25, 4.4, 53, 44, 100, 20, and 460 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody I (Table 3).\nKD is determined as 0.4, 5.9, 42, 51, 99, 20 and 430 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody II (Table 4)."
+    },
+    {
+        "molecule_name": "Antibody II",
+        "protein_target_name": "serum albumin",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "51",
+        "unit": "nM",
+        "raw_mentions": "KD is determined as 0.25, 4.4, 53, 44, 100, 20, and 460 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody I (Table 3).\nKD is determined as 0.4, 5.9, 42, 51, 99, 20 and 430 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody II (Table 4)."
+    },
+    {
+        "molecule_name": "Antibody II",
+        "protein_target_name": "serum albumin",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "99",
+        "unit": "nM",
+        "raw_mentions": "KD is determined as 0.25, 4.4, 53, 44, 100, 20, and 460 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody I (Table 3).\nKD is determined as 0.4, 5.9, 42, 51, 99, 20 and 430 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody II (Table 4)."
+    },
+    {
+        "molecule_name": "Antibody II",
+        "protein_target_name": "serum albumin",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "20",
+        "unit": "nM",
+        "raw_mentions": "KD is determined as 0.25, 4.4, 53, 44, 100, 20, and 460 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody I (Table 3).\nKD is determined as 0.4, 5.9, 42, 51, 99, 20 and 430 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody II (Table 4)."
+    },
+    {
+        "molecule_name": "Antibody II",
+        "protein_target_name": "serum albumin",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "430",
+        "unit": "nM",
+        "raw_mentions": "KD is determined as 0.25, 4.4, 53, 44, 100, 20, and 460 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody I (Table 3).\nKD is determined as 0.4, 5.9, 42, 51, 99, 20 and 430 nM for human, cynomolgus monkey, mouse, rat, pig, dog and cow serum albumin binding, respectively, with Antibody II (Table 4)."
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "molecule_name": "Aβ",
+        "protein_target_name": "β-amyloid",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Avidity for Binding to aggregated β-amyloid",
+        "value": "470",
+        "unit": "pM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nTABLE 17The ex vivo assay as predictor of in vivo efficacy.Avidity forBinding toaggregatedβ-amyloidEx vivoIn vivoAntibodyIsotypeAβ (pM)plaquesefficacyefficacymonoclonal3D6IgG2b470+++10D5IgG143+++16C11IgG190−−−21F12IgG2a500−−−TM2aIgG1—−−−polyclonal1-42mix600+++\n\n\nNote that only one table row meets the criteria, as it contains a specific molecule name (Aβ), a bioactivity metric (Avidity for Binding to aggregated β-amyloid), a specific numeric value for that metric (e.g. 470, 143, 190, 500, 600), and a unit for that value (pM)."
+    },
+    {
+        "molecule_name": "Aβ",
+        "protein_target_name": "β-amyloid",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Avidity for Binding to aggregated β-amyloid",
+        "value": "143",
+        "unit": "pM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nTABLE 17The ex vivo assay as predictor of in vivo efficacy.Avidity forBinding toaggregatedβ-amyloidEx vivoIn vivoAntibodyIsotypeAβ (pM)plaquesefficacyefficacymonoclonal3D6IgG2b470+++10D5IgG143+++16C11IgG190−−−21F12IgG2a500−−−TM2aIgG1—−−−polyclonal1-42mix600+++\n\n\nNote that only one table row meets the criteria, as it contains a specific molecule name (Aβ), a bioactivity metric (Avidity for Binding to aggregated β-amyloid), a specific numeric value for that metric (e.g. 470, 143, 190, 500, 600), and a unit for that value (pM)."
+    },
+    {
+        "molecule_name": "Aβ",
+        "protein_target_name": "β-amyloid",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Avidity for Binding to aggregated β-amyloid",
+        "value": "190",
+        "unit": "pM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nTABLE 17The ex vivo assay as predictor of in vivo efficacy.Avidity forBinding toaggregatedβ-amyloidEx vivoIn vivoAntibodyIsotypeAβ (pM)plaquesefficacyefficacymonoclonal3D6IgG2b470+++10D5IgG143+++16C11IgG190−−−21F12IgG2a500−−−TM2aIgG1—−−−polyclonal1-42mix600+++\n\n\nNote that only one table row meets the criteria, as it contains a specific molecule name (Aβ), a bioactivity metric (Avidity for Binding to aggregated β-amyloid), a specific numeric value for that metric (e.g. 470, 143, 190, 500, 600), and a unit for that value (pM)."
+    },
+    {
+        "molecule_name": "Aβ",
+        "protein_target_name": "β-amyloid",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Avidity for Binding to aggregated β-amyloid",
+        "value": "500",
+        "unit": "pM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nTABLE 17The ex vivo assay as predictor of in vivo efficacy.Avidity forBinding toaggregatedβ-amyloidEx vivoIn vivoAntibodyIsotypeAβ (pM)plaquesefficacyefficacymonoclonal3D6IgG2b470+++10D5IgG143+++16C11IgG190−−−21F12IgG2a500−−−TM2aIgG1—−−−polyclonal1-42mix600+++\n\n\nNote that only one table row meets the criteria, as it contains a specific molecule name (Aβ), a bioactivity metric (Avidity for Binding to aggregated β-amyloid), a specific numeric value for that metric (e.g. 470, 143, 190, 500, 600), and a unit for that value (pM)."
+    },
+    {
+        "molecule_name": "Aβ",
+        "protein_target_name": "β-amyloid",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Avidity for Binding to aggregated β-amyloid",
+        "value": "600",
+        "unit": "pM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nTABLE 17The ex vivo assay as predictor of in vivo efficacy.Avidity forBinding toaggregatedβ-amyloidEx vivoIn vivoAntibodyIsotypeAβ (pM)plaquesefficacyefficacymonoclonal3D6IgG2b470+++10D5IgG143+++16C11IgG190−−−21F12IgG2a500−−−TM2aIgG1—−−−polyclonal1-42mix600+++\n\n\nNote that only one table row meets the criteria, as it contains a specific molecule name (Aβ), a bioactivity metric (Avidity for Binding to aggregated β-amyloid), a specific numeric value for that metric (e.g. 470, 143, 190, 500, 600), and a unit for that value (pM)."
+    }
+]

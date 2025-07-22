@@ -1,0 +1,2 @@
+{"raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe potency of the test sample is determined by dividing the 50% effective concentration (EC50) of the Reference Standard by the EC50 of the test sample."}
+{"final_json": [{"molecule_name": null, "protein_target_name": null, "protein_uniprot_id": null, "protein_seq_id": null, "binding_metric": "EC50", "value": null, "unit": null}]}
