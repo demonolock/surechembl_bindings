@@ -42,9 +42,8 @@ def split_text_with_overlap(text, chunk_size=1000, overlap=300):
     return chunks
 
 def get_alias_list(patent_data, measures):
-    description = patent_data['data']['contents']['patentDocument']['descriptions'][0]['section']
-    content = description['content']
-    annotations = description['annotations']
+    content =  patent_data['content']
+    annotations =  patent_data['annotations']
     chemicals = []
     for a in annotations:
         if a['category'] == 'chemical' or a['category'] == 'target':
@@ -79,7 +78,8 @@ def parse_llm_output(llm_output: str) -> dict[str, str]:
         if len(term) == 2 and 'Not found' not in term[1]:
             alias_value[term[0]] = term[1]
         else:
-            print(f"Skip inconsistent llm out {line}\n")
+            pass
+            # print(f"Skip inconsistent llm out {line}\n")
     return alias_value
 
 
@@ -103,9 +103,9 @@ def process_patent(SYSTEM_PROMPT, USER_PROMPT, content, aliases):
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": user_prompt}
         ]
-        print(f"Request to LLM:\n{message}")
+        # print(f"Request to LLM:\n{message}")
         output = ask_llm(message=message)
-        print(f"Response LLM:\n{output}")
+        # print(f"Response LLM:\n{output}")
         full_output += output + '\n'
         alias_value = parse_llm_output(output)
         for alias, value in alias_value.items():
