@@ -28,7 +28,7 @@ CRITICAL: A sentence/row is only relevant if it contains ALL FOUR of the followi
 3. A specific numeric value for that metric (e.g., "10", "5.5", "<100").
 4. A unit for that value (e.g., "nM", "uM", "%").
 
-Extract enough contex to identify specific molecule, protein or metric. Do NOT include sentences that only describe methods or calculations in general terms.
+Extract enough contex to identify specific molecule, specific protein or metric. Do NOT include sentences that only describe methods or calculations in general terms.
 Return ONLY the raw sentences/lines, one per line.
 
 --- Text Snippet to Analyze ---
@@ -45,6 +45,8 @@ Rules:
 3. If a value for a field is not present in the text, the value for that key must be null.
 4. For "molecule_name", extract the most specific identifier available. If the text mentions both a general class and a specific ID, extract the specific ID.
 5. For protein information, be as specific as possible.
+6. Set "is_logarithmic" to true if the metric name starts with 'p' or 'log' (e.g., pIC50, logKi). Otherwise, set it to false.
+
 JSON format for each object:
 {{
     "molecule_name": "name, ID or other identifier of the molecule. If not found, use null.",
@@ -53,7 +55,8 @@ JSON format for each object:
     "protein_seq_id": "SEQ ID NO if available, else null",
     "binding_metric": "the metric type like IC50, Ki, Kd, EC50, pIC50, pEC50, pKi, pKd",
     "value": "the numeric value as a string",
-    "unit": "the unit for the value (e.g., nM, uM, pM, %). If not found, use null."
+    "unit": "the unit for the value (e.g., nM, uM, pM, %). If not found, use null.",
+    "is_logarithmic": "true if the metric is logarithmic (e.g., pIC50, logKi), otherwise false"
 }}
 
 --- Raw Sentences/Lines to Format ---
