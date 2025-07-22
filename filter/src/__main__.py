@@ -1,3 +1,4 @@
+import json
 from concurrent.futures import ProcessPoolExecutor, as_completed
 
 from patent_filter import patent_filter
@@ -5,7 +6,7 @@ from patent_filter import patent_filter
 from patent_parser import fetch_patent_description
 from get_patents import get_patents_ids
 
-patent_dirs = '/home/vshepard/hackaton_life/patents'
+patent_dirs = '/home/vshepard/hackaton_life/patents_json'
 def main():
     all_patent_numbers = get_patents_ids('data/patent_ids_dummy.txt')
     unfiltered_patents = get_patents_ids('out/patent_ids_unfiltered.txt')
@@ -29,7 +30,8 @@ def main():
                     print(f'Write {patent_number}')
                     with open('out/patent_ids_filtered.txt', 'a') as f:
                         f.write(patent_number + '\n')
-                    with open(f'{patent_dirs}/{patent_number}', 'w') as f:
+                    with open(f'{patent_dirs}/{patent_number}.json', 'w') as f:
+                        json.dump(descr, f)
                         f.write(descr)
                 else:
                     print(f'Unfilter {patent_number}')
