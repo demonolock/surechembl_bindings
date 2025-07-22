@@ -1,0 +1,22 @@
+[
+    {
+        "molecule_name": "Bob1 peptide antigen",
+        "protein_target_name": "Bob1-specific binding protein",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "<10−8 M",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* In certain embodiments, a Bob1-specific binding protein specifically binds to a Bob1 peptide antigen (or a Bob1 peptide antigen:HLA complex) with a Kd of less than about 10−8 M, less than about 10−9 M, less than about 10−10 M, less than about 10−11 M, less than about 10−12 M, or less than about 10−13 M, or with an affinity that is about the same as, at least about the same as, or is greater than at or about the affinity exhibited by an exemplary Bob1-specific binding protein provided herein, such as any of the Bob1-specific TCRs provided herein, for example, as measured by the same assay.\n* Alternatively, affinity can be defined as an equilibrium dissociation constant (Kd) of a particular binding interaction with units of M (e.g., 10−5 M to 10−13 M).\n* “High affinity” binding proteins or binding domains refer to those binding proteins or binding domains having a Ka of at least 10^7 M−1, at least 10^8 M−1, at least 10^9 M−1, at least 10^10 M−1, at least 10^11 M−1, at least 10^12 M−1, or at least 10^13 M−1.\n* “Low affinity” binding proteins or binding domains refer to those binding proteins or binding domains having a Ka of up to 10^7 M−1, up to 10^6 M−1, up to 10^5 M−1.\n* A binding protein (e.g., TCR receptor) or a binding domain (or fusion protein thereof) to a target molecule with an affinity or Ka (i.e., an equilibrium association constant of a particular binding interaction with units of 1/M) equal to or greater than 10^5 M−1 (which equals the ratio of the on-rate [kon] to the off-rate [koff] for this association reaction)."
+    },
+    {
+        "molecule_name": "target molecule",
+        "protein_target_name": "TCR receptor",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Ka",
+        "value": "10^5 M−1",
+        "unit": "M−1",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* In certain embodiments, a Bob1-specific binding protein specifically binds to a Bob1 peptide antigen (or a Bob1 peptide antigen:HLA complex) with a Kd of less than about 10−8 M, less than about 10−9 M, less than about 10−10 M, less than about 10−11 M, less than about 10−12 M, or less than about 10−13 M, or with an affinity that is about the same as, at least about the same as, or is greater than at or about the affinity exhibited by an exemplary Bob1-specific binding protein provided herein, such as any of the Bob1-specific TCRs provided herein, for example, as measured by the same assay.\n* Alternatively, affinity can be defined as an equilibrium dissociation constant (Kd) of a particular binding interaction with units of M (e.g., 10−5 M to 10−13 M).\n* “High affinity” binding proteins or binding domains refer to those binding proteins or binding domains having a Ka of at least 10^7 M−1, at least 10^8 M−1, at least 10^9 M−1, at least 10^10 M−1, at least 10^11 M−1, at least 10^12 M−1, or at least 10^13 M−1.\n* “Low affinity” binding proteins or binding domains refer to those binding proteins or binding domains having a Ka of up to 10^7 M−1, up to 10^6 M−1, up to 10^5 M−1.\n* A binding protein (e.g., TCR receptor) or a binding domain (or fusion protein thereof) to a target molecule with an affinity or Ka (i.e., an equilibrium association constant of a particular binding interaction with units of 1/M) equal to or greater than 10^5 M−1 (which equals the ratio of the on-rate [kon] to the off-rate [koff] for this association reaction)."
+    }
+]

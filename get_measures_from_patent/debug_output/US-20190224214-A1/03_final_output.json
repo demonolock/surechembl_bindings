@@ -1,0 +1,12 @@
+[
+    {
+        "molecule_name": "inhibitor",
+        "protein_target_name": "hGOAT",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "3×IC50",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nMembrane fraction was preincubated with 1 μM methoxy arachadonyl fluorophosphonate (MAFP) and inhibitor or vehicle as indicated in 50 mM HEPES pH 7.0 for 30 minutes at room temperature.\nUndiluted homogenized membrane protein fraction containing hGOAT (protein concentration ˜7 μg/μL) was incubated with 10 μM MAFP and 3×IC50 of inhibitor or equal volume vehicle (DMSO or ethanol) for 30 minutes at room temperature."
+    }
+]

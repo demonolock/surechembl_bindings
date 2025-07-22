@@ -1,0 +1,2 @@
+{"raw_mentions": "The IC50 values for the exemplified compounds range from sub nM to 10 \u03bcM in a 3 -concentration dose response curve."}
+{"final_json": [{"molecule_name": null, "protein_target_name": null, "binding_metric": "IC50", "value": "sub nM to 10 \u03bcM", "unit": "\u03bcM"}]}

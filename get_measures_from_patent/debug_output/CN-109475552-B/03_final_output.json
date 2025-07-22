@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_name": "Compound S3969",
+        "protein_target_name": "ENaC",
+        "binding_metric": "EC50",
+        "value": "1",
+        "unit": "mM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nCompound S3969, [ N- (2-hydroxyethyl) -4-methyl-2- (4-methyl-1H-indol-3-ylthio) ] pentanamide]Is a small molecule activator of human ENaC. Recently compound S3969 was reported to reversibly stimulate human ENaC in heterologous cell expression systems. The compound acts on ENaC to increase the channel opening rate and apparent affinity (EC)<sub>50</sub>) Was 1 mM. \n\nNote that there is only one sentence that meets the criteria, which mentions the molecule \"Compound S3969\", the bioactivity metric \"EC50\", a numeric value \"1\", and a unit \"mM\". The other sentences do not provide specific numeric values and units for the bioactivity metrics."
+    }
+]

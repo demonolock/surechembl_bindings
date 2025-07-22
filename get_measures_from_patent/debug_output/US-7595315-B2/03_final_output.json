@@ -1,0 +1,42 @@
+[
+    {
+        "molecule_name": "Compounds of formula (I)",
+        "protein_target_name": "norepinephrine transporter",
+        "binding_metric": "Ki",
+        "value": "<600",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nCompounds of formula (I) and their pharmaceutically acceptable salts preferably exhibit a K<sub>i </sub>value less than 600 nM at the norepinephrine transporter as determined using the scintillation proximity assay described below.\nMore preferred compounds of formula (I) and their pharmaceutically acceptable salts exhibit a K<sub>i </sub>value less than 100 nM at the norepinephrine transporter.\nMore preferred compounds of formula (I) and their pharmaceutically acceptable salts exhibit a K<sub>i </sub>value less than 50 nM at the norepinephrine transporter.\nEspecially preferred compounds of formula (I) and their pharmaceutically acceptable salts exhibit a K<sub>i </sub>value less than 20 nM at the norepinephrine transporter.\nAdvantageously, they have a reduced interaction (both as substrate and inhibitor) with the liver enzyme Cytochrome P450 (CYP2D6) and they preferably exhibit an IC50 of >6 μM according to the CYP2D6 inhibitor assay described below."
+    },
+    {
+        "molecule_name": "Compounds of formula (I)",
+        "protein_target_name": "norepinephrine transporter",
+        "binding_metric": "Ki",
+        "value": "<100",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nCompounds of formula (I) and their pharmaceutically acceptable salts preferably exhibit a K<sub>i </sub>value less than 600 nM at the norepinephrine transporter as determined using the scintillation proximity assay described below.\nMore preferred compounds of formula (I) and their pharmaceutically acceptable salts exhibit a K<sub>i </sub>value less than 100 nM at the norepinephrine transporter.\nMore preferred compounds of formula (I) and their pharmaceutically acceptable salts exhibit a K<sub>i </sub>value less than 50 nM at the norepinephrine transporter.\nEspecially preferred compounds of formula (I) and their pharmaceutically acceptable salts exhibit a K<sub>i </sub>value less than 20 nM at the norepinephrine transporter.\nAdvantageously, they have a reduced interaction (both as substrate and inhibitor) with the liver enzyme Cytochrome P450 (CYP2D6) and they preferably exhibit an IC50 of >6 μM according to the CYP2D6 inhibitor assay described below."
+    },
+    {
+        "molecule_name": "Compounds of formula (I)",
+        "protein_target_name": "norepinephrine transporter",
+        "binding_metric": "Ki",
+        "value": "<50",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nCompounds of formula (I) and their pharmaceutically acceptable salts preferably exhibit a K<sub>i </sub>value less than 600 nM at the norepinephrine transporter as determined using the scintillation proximity assay described below.\nMore preferred compounds of formula (I) and their pharmaceutically acceptable salts exhibit a K<sub>i </sub>value less than 100 nM at the norepinephrine transporter.\nMore preferred compounds of formula (I) and their pharmaceutically acceptable salts exhibit a K<sub>i </sub>value less than 50 nM at the norepinephrine transporter.\nEspecially preferred compounds of formula (I) and their pharmaceutically acceptable salts exhibit a K<sub>i </sub>value less than 20 nM at the norepinephrine transporter.\nAdvantageously, they have a reduced interaction (both as substrate and inhibitor) with the liver enzyme Cytochrome P450 (CYP2D6) and they preferably exhibit an IC50 of >6 μM according to the CYP2D6 inhibitor assay described below."
+    },
+    {
+        "molecule_name": "Compounds of formula (I)",
+        "protein_target_name": "norepinephrine transporter",
+        "binding_metric": "Ki",
+        "value": "<20",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nCompounds of formula (I) and their pharmaceutically acceptable salts preferably exhibit a K<sub>i </sub>value less than 600 nM at the norepinephrine transporter as determined using the scintillation proximity assay described below.\nMore preferred compounds of formula (I) and their pharmaceutically acceptable salts exhibit a K<sub>i </sub>value less than 100 nM at the norepinephrine transporter.\nMore preferred compounds of formula (I) and their pharmaceutically acceptable salts exhibit a K<sub>i </sub>value less than 50 nM at the norepinephrine transporter.\nEspecially preferred compounds of formula (I) and their pharmaceutically acceptable salts exhibit a K<sub>i </sub>value less than 20 nM at the norepinephrine transporter.\nAdvantageously, they have a reduced interaction (both as substrate and inhibitor) with the liver enzyme Cytochrome P450 (CYP2D6) and they preferably exhibit an IC50 of >6 μM according to the CYP2D6 inhibitor assay described below."
+    },
+    {
+        "molecule_name": "Compounds of formula (I)",
+        "protein_target_name": "Cytochrome P450 (CYP2D6)",
+        "binding_metric": "IC50",
+        "value": ">6",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences:\n\nCompounds of formula (I) and their pharmaceutically acceptable salts preferably exhibit a K<sub>i </sub>value less than 600 nM at the norepinephrine transporter as determined using the scintillation proximity assay described below.\nMore preferred compounds of formula (I) and their pharmaceutically acceptable salts exhibit a K<sub>i </sub>value less than 100 nM at the norepinephrine transporter.\nMore preferred compounds of formula (I) and their pharmaceutically acceptable salts exhibit a K<sub>i </sub>value less than 50 nM at the norepinephrine transporter.\nEspecially preferred compounds of formula (I) and their pharmaceutically acceptable salts exhibit a K<sub>i </sub>value less than 20 nM at the norepinephrine transporter.\nAdvantageously, they have a reduced interaction (both as substrate and inhibitor) with the liver enzyme Cytochrome P450 (CYP2D6) and they preferably exhibit an IC50 of >6 μM according to the CYP2D6 inhibitor assay described below."
+    }
+]

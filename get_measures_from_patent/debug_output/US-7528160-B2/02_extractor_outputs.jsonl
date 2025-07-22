@@ -1,0 +1,2 @@
+{"raw_mentions": "Here is the extracted sentence:\n\nAs used herein, the phrase \u201cselectively modulate\u201d means a compound whose EC50 for the stated PPAR receptor is at least ten fold lower than its EC50 for the other PPAR receptor subtypes."}
+{"final_json": [{"molecule_name": null, "protein_target_name": "PPAR receptor", "protein_uniprot_id": null, "protein_seq_id": null, "binding_metric": "EC50", "value": null, "unit": null}]}

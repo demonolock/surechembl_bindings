@@ -1,0 +1,338 @@
+[
+    {
+        "molecule_name": "PDGF aptamer",
+        "protein_target_name": "PDGF",
+        "binding_metric": "Kd",
+        "value": "<30",
+        "unit": "nM",
+        "raw_mentions": "The PDGF aptamer can be selected to have any suitable dissociation constant (Kd) for PDGF. \nIn some embodiments, a PDGF aptamer has a dissociation constant (Kd) for PDGF of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in any one of Tables 1, 2 or 6 to 9. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in Table 1 or Table 6."
+    },
+    {
+        "molecule_name": "PDGF aptamer",
+        "protein_target_name": "PDGF",
+        "binding_metric": "Kd",
+        "value": "<25",
+        "unit": "nM",
+        "raw_mentions": "The PDGF aptamer can be selected to have any suitable dissociation constant (Kd) for PDGF. \nIn some embodiments, a PDGF aptamer has a dissociation constant (Kd) for PDGF of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in any one of Tables 1, 2 or 6 to 9. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in Table 1 or Table 6."
+    },
+    {
+        "molecule_name": "PDGF aptamer",
+        "protein_target_name": "PDGF",
+        "binding_metric": "Kd",
+        "value": "<20",
+        "unit": "nM",
+        "raw_mentions": "The PDGF aptamer can be selected to have any suitable dissociation constant (Kd) for PDGF. \nIn some embodiments, a PDGF aptamer has a dissociation constant (Kd) for PDGF of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in any one of Tables 1, 2 or 6 to 9. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in Table 1 or Table 6."
+    },
+    {
+        "molecule_name": "PDGF aptamer",
+        "protein_target_name": "PDGF",
+        "binding_metric": "Kd",
+        "value": "<15",
+        "unit": "nM",
+        "raw_mentions": "The PDGF aptamer can be selected to have any suitable dissociation constant (Kd) for PDGF. \nIn some embodiments, a PDGF aptamer has a dissociation constant (Kd) for PDGF of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in any one of Tables 1, 2 or 6 to 9. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in Table 1 or Table 6."
+    },
+    {
+        "molecule_name": "PDGF aptamer",
+        "protein_target_name": "PDGF",
+        "binding_metric": "Kd",
+        "value": "<10",
+        "unit": "nM",
+        "raw_mentions": "The PDGF aptamer can be selected to have any suitable dissociation constant (Kd) for PDGF. \nIn some embodiments, a PDGF aptamer has a dissociation constant (Kd) for PDGF of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in any one of Tables 1, 2 or 6 to 9. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in Table 1 or Table 6."
+    },
+    {
+        "molecule_name": "PDGF aptamer",
+        "protein_target_name": "PDGF",
+        "binding_metric": "Kd",
+        "value": "<9",
+        "unit": "nM",
+        "raw_mentions": "The PDGF aptamer can be selected to have any suitable dissociation constant (Kd) for PDGF. \nIn some embodiments, a PDGF aptamer has a dissociation constant (Kd) for PDGF of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in any one of Tables 1, 2 or 6 to 9. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in Table 1 or Table 6."
+    },
+    {
+        "molecule_name": "PDGF aptamer",
+        "protein_target_name": "PDGF",
+        "binding_metric": "Kd",
+        "value": "<8",
+        "unit": "nM",
+        "raw_mentions": "The PDGF aptamer can be selected to have any suitable dissociation constant (Kd) for PDGF. \nIn some embodiments, a PDGF aptamer has a dissociation constant (Kd) for PDGF of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in any one of Tables 1, 2 or 6 to 9. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in Table 1 or Table 6."
+    },
+    {
+        "molecule_name": "PDGF aptamer",
+        "protein_target_name": "PDGF",
+        "binding_metric": "Kd",
+        "value": "<7",
+        "unit": "nM",
+        "raw_mentions": "The PDGF aptamer can be selected to have any suitable dissociation constant (Kd) for PDGF. \nIn some embodiments, a PDGF aptamer has a dissociation constant (Kd) for PDGF of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in any one of Tables 1, 2 or 6 to 9. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in Table 1 or Table 6."
+    },
+    {
+        "molecule_name": "PDGF aptamer",
+        "protein_target_name": "PDGF",
+        "binding_metric": "Kd",
+        "value": "<6",
+        "unit": "nM",
+        "raw_mentions": "The PDGF aptamer can be selected to have any suitable dissociation constant (Kd) for PDGF. \nIn some embodiments, a PDGF aptamer has a dissociation constant (Kd) for PDGF of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in any one of Tables 1, 2 or 6 to 9. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in Table 1 or Table 6."
+    },
+    {
+        "molecule_name": "PDGF aptamer",
+        "protein_target_name": "PDGF",
+        "binding_metric": "Kd",
+        "value": "<5",
+        "unit": "nM",
+        "raw_mentions": "The PDGF aptamer can be selected to have any suitable dissociation constant (Kd) for PDGF. \nIn some embodiments, a PDGF aptamer has a dissociation constant (Kd) for PDGF of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in any one of Tables 1, 2 or 6 to 9. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in Table 1 or Table 6."
+    },
+    {
+        "molecule_name": "PDGF aptamer",
+        "protein_target_name": "PDGF",
+        "binding_metric": "Kd",
+        "value": "<4",
+        "unit": "nM",
+        "raw_mentions": "The PDGF aptamer can be selected to have any suitable dissociation constant (Kd) for PDGF. \nIn some embodiments, a PDGF aptamer has a dissociation constant (Kd) for PDGF of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in any one of Tables 1, 2 or 6 to 9. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in Table 1 or Table 6."
+    },
+    {
+        "molecule_name": "PDGF aptamer",
+        "protein_target_name": "PDGF",
+        "binding_metric": "Kd",
+        "value": "<3",
+        "unit": "nM",
+        "raw_mentions": "The PDGF aptamer can be selected to have any suitable dissociation constant (Kd) for PDGF. \nIn some embodiments, a PDGF aptamer has a dissociation constant (Kd) for PDGF of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in any one of Tables 1, 2 or 6 to 9. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in Table 1 or Table 6."
+    },
+    {
+        "molecule_name": "PDGF aptamer",
+        "protein_target_name": "PDGF",
+        "binding_metric": "Kd",
+        "value": "<2",
+        "unit": "nM",
+        "raw_mentions": "The PDGF aptamer can be selected to have any suitable dissociation constant (Kd) for PDGF. \nIn some embodiments, a PDGF aptamer has a dissociation constant (Kd) for PDGF of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in any one of Tables 1, 2 or 6 to 9. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in Table 1 or Table 6."
+    },
+    {
+        "molecule_name": "PDGF aptamer",
+        "protein_target_name": "PDGF",
+        "binding_metric": "Kd",
+        "value": "<1",
+        "unit": "nM",
+        "raw_mentions": "The PDGF aptamer can be selected to have any suitable dissociation constant (Kd) for PDGF. \nIn some embodiments, a PDGF aptamer has a dissociation constant (Kd) for PDGF of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in any one of Tables 1, 2 or 6 to 9. \nIn some embodiments, the PDGF aptamer is an aptamer with a Kd that is less than or equal to the Kd of an aptamer shown in Table 1 or Table 6."
+    },
+    {
+        "molecule_name": "VEGF aptamer",
+        "protein_target_name": "VEGF",
+        "binding_metric": "Kd",
+        "value": "<10",
+        "unit": "nM",
+        "raw_mentions": "In some embodiments, the VEGF aptamer is selected from an aptamer that has similar binding characteristics and ability to treat VEGF associated atherosclerosis, macular degeneration, fibrosis, and cancer conditions as an aptamer shown in Tables 10 to 14 have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of VEGF-121 as an aptamer selected from the aptamers shown in Tables 10 to 14 that have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of a VEGF-121 as a VEGF aptamer shown in Table 10, 11, 12, 13 or 14 that have a K<sub>d </sub>of less than 10 nM.\nThe VEGF aptamer can be selected to have any suitable dissociation constant (K<sub>d</sub>) for VEGF. In some embodiments, a VEGF aptamer has a dissociation constant (K<sub>d</sub>) for VEGF-121 of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM.\nIn some embodiments, a VEGF aptamer construct binds VEGF with an affinity (K<sub>d</sub>) of less than 10 nM."
+    },
+    {
+        "molecule_name": "VEGF aptamer",
+        "protein_target_name": "VEGF-121",
+        "binding_metric": "Kd",
+        "value": "<10",
+        "unit": "nM",
+        "raw_mentions": "In some embodiments, the VEGF aptamer is selected from an aptamer that has similar binding characteristics and ability to treat VEGF associated atherosclerosis, macular degeneration, fibrosis, and cancer conditions as an aptamer shown in Tables 10 to 14 have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of VEGF-121 as an aptamer selected from the aptamers shown in Tables 10 to 14 that have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of a VEGF-121 as a VEGF aptamer shown in Table 10, 11, 12, 13 or 14 that have a K<sub>d </sub>of less than 10 nM.\nThe VEGF aptamer can be selected to have any suitable dissociation constant (K<sub>d</sub>) for VEGF. In some embodiments, a VEGF aptamer has a dissociation constant (K<sub>d</sub>) for VEGF-121 of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM.\nIn some embodiments, a VEGF aptamer construct binds VEGF with an affinity (K<sub>d</sub>) of less than 10 nM."
+    },
+    {
+        "molecule_name": "VEGF aptamer",
+        "protein_target_name": "VEGF-121",
+        "binding_metric": "Kd",
+        "value": "<10",
+        "unit": "nM",
+        "raw_mentions": "In some embodiments, the VEGF aptamer is selected from an aptamer that has similar binding characteristics and ability to treat VEGF associated atherosclerosis, macular degeneration, fibrosis, and cancer conditions as an aptamer shown in Tables 10 to 14 have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of VEGF-121 as an aptamer selected from the aptamers shown in Tables 10 to 14 that have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of a VEGF-121 as a VEGF aptamer shown in Table 10, 11, 12, 13 or 14 that have a K<sub>d </sub>of less than 10 nM.\nThe VEGF aptamer can be selected to have any suitable dissociation constant (K<sub>d</sub>) for VEGF. In some embodiments, a VEGF aptamer has a dissociation constant (K<sub>d</sub>) for VEGF-121 of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM.\nIn some embodiments, a VEGF aptamer construct binds VEGF with an affinity (K<sub>d</sub>) of less than 10 nM."
+    },
+    {
+        "molecule_name": "VEGF aptamer",
+        "protein_target_name": "VEGF-121",
+        "binding_metric": "Kd",
+        "value": "<30",
+        "unit": "nM",
+        "raw_mentions": "In some embodiments, the VEGF aptamer is selected from an aptamer that has similar binding characteristics and ability to treat VEGF associated atherosclerosis, macular degeneration, fibrosis, and cancer conditions as an aptamer shown in Tables 10 to 14 have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of VEGF-121 as an aptamer selected from the aptamers shown in Tables 10 to 14 that have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of a VEGF-121 as a VEGF aptamer shown in Table 10, 11, 12, 13 or 14 that have a K<sub>d </sub>of less than 10 nM.\nThe VEGF aptamer can be selected to have any suitable dissociation constant (K<sub>d</sub>) for VEGF. In some embodiments, a VEGF aptamer has a dissociation constant (K<sub>d</sub>) for VEGF-121 of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM.\nIn some embodiments, a VEGF aptamer construct binds VEGF with an affinity (K<sub>d</sub>) of less than 10 nM."
+    },
+    {
+        "molecule_name": "VEGF aptamer",
+        "protein_target_name": "VEGF-121",
+        "binding_metric": "Kd",
+        "value": "<25",
+        "unit": "nM",
+        "raw_mentions": "In some embodiments, the VEGF aptamer is selected from an aptamer that has similar binding characteristics and ability to treat VEGF associated atherosclerosis, macular degeneration, fibrosis, and cancer conditions as an aptamer shown in Tables 10 to 14 have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of VEGF-121 as an aptamer selected from the aptamers shown in Tables 10 to 14 that have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of a VEGF-121 as a VEGF aptamer shown in Table 10, 11, 12, 13 or 14 that have a K<sub>d </sub>of less than 10 nM.\nThe VEGF aptamer can be selected to have any suitable dissociation constant (K<sub>d</sub>) for VEGF. In some embodiments, a VEGF aptamer has a dissociation constant (K<sub>d</sub>) for VEGF-121 of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM.\nIn some embodiments, a VEGF aptamer construct binds VEGF with an affinity (K<sub>d</sub>) of less than 10 nM."
+    },
+    {
+        "molecule_name": "VEGF aptamer",
+        "protein_target_name": "VEGF-121",
+        "binding_metric": "Kd",
+        "value": "<20",
+        "unit": "nM",
+        "raw_mentions": "In some embodiments, the VEGF aptamer is selected from an aptamer that has similar binding characteristics and ability to treat VEGF associated atherosclerosis, macular degeneration, fibrosis, and cancer conditions as an aptamer shown in Tables 10 to 14 have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of VEGF-121 as an aptamer selected from the aptamers shown in Tables 10 to 14 that have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of a VEGF-121 as a VEGF aptamer shown in Table 10, 11, 12, 13 or 14 that have a K<sub>d </sub>of less than 10 nM.\nThe VEGF aptamer can be selected to have any suitable dissociation constant (K<sub>d</sub>) for VEGF. In some embodiments, a VEGF aptamer has a dissociation constant (K<sub>d</sub>) for VEGF-121 of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM.\nIn some embodiments, a VEGF aptamer construct binds VEGF with an affinity (K<sub>d</sub>) of less than 10 nM."
+    },
+    {
+        "molecule_name": "VEGF aptamer",
+        "protein_target_name": "VEGF-121",
+        "binding_metric": "Kd",
+        "value": "<15",
+        "unit": "nM",
+        "raw_mentions": "In some embodiments, the VEGF aptamer is selected from an aptamer that has similar binding characteristics and ability to treat VEGF associated atherosclerosis, macular degeneration, fibrosis, and cancer conditions as an aptamer shown in Tables 10 to 14 have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of VEGF-121 as an aptamer selected from the aptamers shown in Tables 10 to 14 that have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of a VEGF-121 as a VEGF aptamer shown in Table 10, 11, 12, 13 or 14 that have a K<sub>d </sub>of less than 10 nM.\nThe VEGF aptamer can be selected to have any suitable dissociation constant (K<sub>d</sub>) for VEGF. In some embodiments, a VEGF aptamer has a dissociation constant (K<sub>d</sub>) for VEGF-121 of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM.\nIn some embodiments, a VEGF aptamer construct binds VEGF with an affinity (K<sub>d</sub>) of less than 10 nM."
+    },
+    {
+        "molecule_name": "VEGF aptamer",
+        "protein_target_name": "VEGF-121",
+        "binding_metric": "Kd",
+        "value": "<10",
+        "unit": "nM",
+        "raw_mentions": "In some embodiments, the VEGF aptamer is selected from an aptamer that has similar binding characteristics and ability to treat VEGF associated atherosclerosis, macular degeneration, fibrosis, and cancer conditions as an aptamer shown in Tables 10 to 14 have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of VEGF-121 as an aptamer selected from the aptamers shown in Tables 10 to 14 that have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of a VEGF-121 as a VEGF aptamer shown in Table 10, 11, 12, 13 or 14 that have a K<sub>d </sub>of less than 10 nM.\nThe VEGF aptamer can be selected to have any suitable dissociation constant (K<sub>d</sub>) for VEGF. In some embodiments, a VEGF aptamer has a dissociation constant (K<sub>d</sub>) for VEGF-121 of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM.\nIn some embodiments, a VEGF aptamer construct binds VEGF with an affinity (K<sub>d</sub>) of less than 10 nM."
+    },
+    {
+        "molecule_name": "VEGF aptamer",
+        "protein_target_name": "VEGF-121",
+        "binding_metric": "Kd",
+        "value": "<9",
+        "unit": "nM",
+        "raw_mentions": "In some embodiments, the VEGF aptamer is selected from an aptamer that has similar binding characteristics and ability to treat VEGF associated atherosclerosis, macular degeneration, fibrosis, and cancer conditions as an aptamer shown in Tables 10 to 14 have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of VEGF-121 as an aptamer selected from the aptamers shown in Tables 10 to 14 that have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of a VEGF-121 as a VEGF aptamer shown in Table 10, 11, 12, 13 or 14 that have a K<sub>d </sub>of less than 10 nM.\nThe VEGF aptamer can be selected to have any suitable dissociation constant (K<sub>d</sub>) for VEGF. In some embodiments, a VEGF aptamer has a dissociation constant (K<sub>d</sub>) for VEGF-121 of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM.\nIn some embodiments, a VEGF aptamer construct binds VEGF with an affinity (K<sub>d</sub>) of less than 10 nM."
+    },
+    {
+        "molecule_name": "VEGF aptamer",
+        "protein_target_name": "VEGF-121",
+        "binding_metric": "Kd",
+        "value": "<8",
+        "unit": "nM",
+        "raw_mentions": "In some embodiments, the VEGF aptamer is selected from an aptamer that has similar binding characteristics and ability to treat VEGF associated atherosclerosis, macular degeneration, fibrosis, and cancer conditions as an aptamer shown in Tables 10 to 14 have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of VEGF-121 as an aptamer selected from the aptamers shown in Tables 10 to 14 that have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of a VEGF-121 as a VEGF aptamer shown in Table 10, 11, 12, 13 or 14 that have a K<sub>d </sub>of less than 10 nM.\nThe VEGF aptamer can be selected to have any suitable dissociation constant (K<sub>d</sub>) for VEGF. In some embodiments, a VEGF aptamer has a dissociation constant (K<sub>d</sub>) for VEGF-121 of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM.\nIn some embodiments, a VEGF aptamer construct binds VEGF with an affinity (K<sub>d</sub>) of less than 10 nM."
+    },
+    {
+        "molecule_name": "VEGF aptamer",
+        "protein_target_name": "VEGF-121",
+        "binding_metric": "Kd",
+        "value": "<7",
+        "unit": "nM",
+        "raw_mentions": "In some embodiments, the VEGF aptamer is selected from an aptamer that has similar binding characteristics and ability to treat VEGF associated atherosclerosis, macular degeneration, fibrosis, and cancer conditions as an aptamer shown in Tables 10 to 14 have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of VEGF-121 as an aptamer selected from the aptamers shown in Tables 10 to 14 that have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of a VEGF-121 as a VEGF aptamer shown in Table 10, 11, 12, 13 or 14 that have a K<sub>d </sub>of less than 10 nM.\nThe VEGF aptamer can be selected to have any suitable dissociation constant (K<sub>d</sub>) for VEGF. In some embodiments, a VEGF aptamer has a dissociation constant (K<sub>d</sub>) for VEGF-121 of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM.\nIn some embodiments, a VEGF aptamer construct binds VEGF with an affinity (K<sub>d</sub>) of less than 10 nM."
+    },
+    {
+        "molecule_name": "VEGF aptamer",
+        "protein_target_name": "VEGF-121",
+        "binding_metric": "Kd",
+        "value": "<6",
+        "unit": "nM",
+        "raw_mentions": "In some embodiments, the VEGF aptamer is selected from an aptamer that has similar binding characteristics and ability to treat VEGF associated atherosclerosis, macular degeneration, fibrosis, and cancer conditions as an aptamer shown in Tables 10 to 14 have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of VEGF-121 as an aptamer selected from the aptamers shown in Tables 10 to 14 that have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of a VEGF-121 as a VEGF aptamer shown in Table 10, 11, 12, 13 or 14 that have a K<sub>d </sub>of less than 10 nM.\nThe VEGF aptamer can be selected to have any suitable dissociation constant (K<sub>d</sub>) for VEGF. In some embodiments, a VEGF aptamer has a dissociation constant (K<sub>d</sub>) for VEGF-121 of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM.\nIn some embodiments, a VEGF aptamer construct binds VEGF with an affinity (K<sub>d</sub>) of less than 10 nM."
+    },
+    {
+        "molecule_name": "VEGF aptamer",
+        "protein_target_name": "VEGF-121",
+        "binding_metric": "Kd",
+        "value": "<5",
+        "unit": "nM",
+        "raw_mentions": "In some embodiments, the VEGF aptamer is selected from an aptamer that has similar binding characteristics and ability to treat VEGF associated atherosclerosis, macular degeneration, fibrosis, and cancer conditions as an aptamer shown in Tables 10 to 14 have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of VEGF-121 as an aptamer selected from the aptamers shown in Tables 10 to 14 that have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of a VEGF-121 as a VEGF aptamer shown in Table 10, 11, 12, 13 or 14 that have a K<sub>d </sub>of less than 10 nM.\nThe VEGF aptamer can be selected to have any suitable dissociation constant (K<sub>d</sub>) for VEGF. In some embodiments, a VEGF aptamer has a dissociation constant (K<sub>d</sub>) for VEGF-121 of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM.\nIn some embodiments, a VEGF aptamer construct binds VEGF with an affinity (K<sub>d</sub>) of less than 10 nM."
+    },
+    {
+        "molecule_name": "VEGF aptamer",
+        "protein_target_name": "VEGF-121",
+        "binding_metric": "Kd",
+        "value": "<4",
+        "unit": "nM",
+        "raw_mentions": "In some embodiments, the VEGF aptamer is selected from an aptamer that has similar binding characteristics and ability to treat VEGF associated atherosclerosis, macular degeneration, fibrosis, and cancer conditions as an aptamer shown in Tables 10 to 14 have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of VEGF-121 as an aptamer selected from the aptamers shown in Tables 10 to 14 that have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of a VEGF-121 as a VEGF aptamer shown in Table 10, 11, 12, 13 or 14 that have a K<sub>d </sub>of less than 10 nM.\nThe VEGF aptamer can be selected to have any suitable dissociation constant (K<sub>d</sub>) for VEGF. In some embodiments, a VEGF aptamer has a dissociation constant (K<sub>d</sub>) for VEGF-121 of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM.\nIn some embodiments, a VEGF aptamer construct binds VEGF with an affinity (K<sub>d</sub>) of less than 10 nM."
+    },
+    {
+        "molecule_name": "VEGF aptamer",
+        "protein_target_name": "VEGF-121",
+        "binding_metric": "Kd",
+        "value": "<3",
+        "unit": "nM",
+        "raw_mentions": "In some embodiments, the VEGF aptamer is selected from an aptamer that has similar binding characteristics and ability to treat VEGF associated atherosclerosis, macular degeneration, fibrosis, and cancer conditions as an aptamer shown in Tables 10 to 14 have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of VEGF-121 as an aptamer selected from the aptamers shown in Tables 10 to 14 that have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of a VEGF-121 as a VEGF aptamer shown in Table 10, 11, 12, 13 or 14 that have a K<sub>d </sub>of less than 10 nM.\nThe VEGF aptamer can be selected to have any suitable dissociation constant (K<sub>d</sub>) for VEGF. In some embodiments, a VEGF aptamer has a dissociation constant (K<sub>d</sub>) for VEGF-121 of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM.\nIn some embodiments, a VEGF aptamer construct binds VEGF with an affinity (K<sub>d</sub>) of less than 10 nM."
+    },
+    {
+        "molecule_name": "VEGF aptamer",
+        "protein_target_name": "VEGF-121",
+        "binding_metric": "Kd",
+        "value": "<2",
+        "unit": "nM",
+        "raw_mentions": "In some embodiments, the VEGF aptamer is selected from an aptamer that has similar binding characteristics and ability to treat VEGF associated atherosclerosis, macular degeneration, fibrosis, and cancer conditions as an aptamer shown in Tables 10 to 14 have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of VEGF-121 as an aptamer selected from the aptamers shown in Tables 10 to 14 that have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of a VEGF-121 as a VEGF aptamer shown in Table 10, 11, 12, 13 or 14 that have a K<sub>d </sub>of less than 10 nM.\nThe VEGF aptamer can be selected to have any suitable dissociation constant (K<sub>d</sub>) for VEGF. In some embodiments, a VEGF aptamer has a dissociation constant (K<sub>d</sub>) for VEGF-121 of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM.\nIn some embodiments, a VEGF aptamer construct binds VEGF with an affinity (K<sub>d</sub>) of less than 10 nM."
+    },
+    {
+        "molecule_name": "VEGF aptamer",
+        "protein_target_name": "VEGF-121",
+        "binding_metric": "Kd",
+        "value": "<1",
+        "unit": "nM",
+        "raw_mentions": "In some embodiments, the VEGF aptamer is selected from an aptamer that has similar binding characteristics and ability to treat VEGF associated atherosclerosis, macular degeneration, fibrosis, and cancer conditions as an aptamer shown in Tables 10 to 14 have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of VEGF-121 as an aptamer selected from the aptamers shown in Tables 10 to 14 that have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of a VEGF-121 as a VEGF aptamer shown in Table 10, 11, 12, 13 or 14 that have a K<sub>d </sub>of less than 10 nM.\nThe VEGF aptamer can be selected to have any suitable dissociation constant (K<sub>d</sub>) for VEGF. In some embodiments, a VEGF aptamer has a dissociation constant (K<sub>d</sub>) for VEGF-121 of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM.\nIn some embodiments, a VEGF aptamer construct binds VEGF with an affinity (K<sub>d</sub>) of less than 10 nM."
+    },
+    {
+        "molecule_name": "VEGF aptamer construct",
+        "protein_target_name": "VEGF",
+        "binding_metric": "Kd",
+        "value": "<10",
+        "unit": "nM",
+        "raw_mentions": "In some embodiments, the VEGF aptamer is selected from an aptamer that has similar binding characteristics and ability to treat VEGF associated atherosclerosis, macular degeneration, fibrosis, and cancer conditions as an aptamer shown in Tables 10 to 14 have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of VEGF-121 as an aptamer selected from the aptamers shown in Tables 10 to 14 that have a K<sub>d </sub>of less than 10 nM.\nIn some embodiments, a VEGF aptamer binds to the same region of a VEGF-121 as a VEGF aptamer shown in Table 10, 11, 12, 13 or 14 that have a K<sub>d </sub>of less than 10 nM.\nThe VEGF aptamer can be selected to have any suitable dissociation constant (K<sub>d</sub>) for VEGF. In some embodiments, a VEGF aptamer has a dissociation constant (K<sub>d</sub>) for VEGF-121 of less than 30 nM, less than 25 nM, less than 20 nM, less than 15 nM, less than 10 nM, less than 9 nM, less than 8 nM, less than 7 nM, less than 6 nM, less than 5 nM, less than 4 nM, less than 3 nM, less than 2 nM, or less than 1 nM.\nIn some embodiments, a VEGF aptamer construct binds VEGF with an affinity (K<sub>d</sub>) of less than 10 nM."
+    },
+    {
+        "molecule_name": "Aptamer 4149-8_260",
+        "protein_target_name": "PDGF-BB",
+        "binding_metric": "Kd",
+        "value": "20",
+        "unit": "pM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Aptamer 4149-8_260, which combined phenethyl-dU (Pe-dU) at nucleotide 17 and thiophene-dU (Th-dU) at nucleotide 18, showed excellent binding to both PDGF-BB and PDGF-AB (FIG. 6B), with the originally selected SOMAmer having a Kd=20 pM.\n* We have applied similar post-SELEX optimization strategies to other SOMAmers with weaker initial binding (e.g., Kd values ranging from 100 pM to >10 nM), and have observed affinity improvements of up to 100-fold.\n* The Kd values obtained in the Zorbax assay suggested that in the 5′ to 3′ configuration, a longer linker was desirable, and gave up to 10-fold improvement in binding affinity, as shown in Table 1a.\n* The originally selected SOMAmer was already so high (Kd=20 pM) that it approached the detection limit of the binding assay, so it is possible that the degree of affinity improvement is underestimated."
+    },
+    {
+        "molecule_name": "Aptamer 4149-8_260",
+        "protein_target_name": "PDGF-AB",
+        "binding_metric": "Kd",
+        "value": "20",
+        "unit": "pM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Aptamer 4149-8_260, which combined phenethyl-dU (Pe-dU) at nucleotide 17 and thiophene-dU (Th-dU) at nucleotide 18, showed excellent binding to both PDGF-BB and PDGF-AB (FIG. 6B), with the originally selected SOMAmer having a Kd=20 pM.\n* We have applied similar post-SELEX optimization strategies to other SOMAmers with weaker initial binding (e.g., Kd values ranging from 100 pM to >10 nM), and have observed affinity improvements of up to 100-fold.\n* The Kd values obtained in the Zorbax assay suggested that in the 5′ to 3′ configuration, a longer linker was desirable, and gave up to 10-fold improvement in binding affinity, as shown in Table 1a.\n* The originally selected SOMAmer was already so high (Kd=20 pM) that it approached the detection limit of the binding assay, so it is possible that the degree of affinity improvement is underestimated."
+    },
+    {
+        "molecule_name": "4867-31_43",
+        "protein_target_name": "VEGF",
+        "binding_metric": "IC50",
+        "value": "2.2",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\ne plot of the IC<sub>50 </sub>determination is shown in FIG. 17 for VEGF aptamers 4867-31_43 and 4867-31_192, with IC<sub>50 </sub>values of 2.2 nM and 2.1 nM, respectively.\nFor activity screening of variants of clone 4867-31, we have evaluated percent inhibition of VEGF-induced VEGF R2 phosphorylation in HUVECs, under the same conditions as described above but at a single concentration of SOMAmer variants (generally 20 nM).\nThe homodimers of 4149-8_379, 5169-4_26 and 4867-31_192 were tested in a competition binding assay, with a fixed concentration of radiolabeled ligand (1.0 nM) and varying concentrations of competitor aptamer (10<sup>−11 </sup>to 10<sup>−6 </sup>M).\nFor the 4149-8_379 based homodimers, the K<sub>i </sub>values obtained in the competition assay suggested that in the 5′ to 3′ configuration, a longer linker was desirable, since a greater than 10-fold improvement in binding affinity was measured \n\nNote that the last sentence does not contain a specific numeric value with a unit, but it mentions \"K<sub>i </sub>values\" which implies the presence of a bioactivity metric. However, without a specific value, it may not fully meet the criteria. If you want to exclude it, the revised list would be:\n\ne plot of the IC<sub>50 </sub>determination is shown in FIG. 17 for VEGF aptamers 4867-31_43 and 4867-31_192, with IC<sub>50 </sub>values of 2.2 nM and 2.1 nM, respectively.\nFor activity screening of variants of clone 4867-31, we have evaluated percent inhibition of VEGF-induced VEGF R2 phosphorylation in HUVECs, under the same conditions as described above but at a single concentration of SOMAmer variants (generally 20 nM).\nThe homodimers of 4149-8_379, 5169-4_26 and 4867-31_192 were tested in a competition binding assay, with a fixed concentration of radiolabeled ligand (1.0 nM) and varying concentrations of competitor aptamer (10<sup>−11 </sup>to 10<sup>−6 </sup>M)."
+    },
+    {
+        "molecule_name": "4867-31_192",
+        "protein_target_name": "VEGF",
+        "binding_metric": "IC50",
+        "value": "2.1",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\ne plot of the IC<sub>50 </sub>determination is shown in FIG. 17 for VEGF aptamers 4867-31_43 and 4867-31_192, with IC<sub>50 </sub>values of 2.2 nM and 2.1 nM, respectively.\nFor activity screening of variants of clone 4867-31, we have evaluated percent inhibition of VEGF-induced VEGF R2 phosphorylation in HUVECs, under the same conditions as described above but at a single concentration of SOMAmer variants (generally 20 nM).\nThe homodimers of 4149-8_379, 5169-4_26 and 4867-31_192 were tested in a competition binding assay, with a fixed concentration of radiolabeled ligand (1.0 nM) and varying concentrations of competitor aptamer (10<sup>−11 </sup>to 10<sup>−6 </sup>M).\nFor the 4149-8_379 based homodimers, the K<sub>i </sub>values obtained in the competition assay suggested that in the 5′ to 3′ configuration, a longer linker was desirable, since a greater than 10-fold improvement in binding affinity was measured \n\nNote that the last sentence does not contain a specific numeric value with a unit, but it mentions \"K<sub>i </sub>values\" which implies the presence of a bioactivity metric. However, without a specific value, it may not fully meet the criteria. If you want to exclude it, the revised list would be:\n\ne plot of the IC<sub>50 </sub>determination is shown in FIG. 17 for VEGF aptamers 4867-31_43 and 4867-31_192, with IC<sub>50 </sub>values of 2.2 nM and 2.1 nM, respectively.\nFor activity screening of variants of clone 4867-31, we have evaluated percent inhibition of VEGF-induced VEGF R2 phosphorylation in HUVECs, under the same conditions as described above but at a single concentration of SOMAmer variants (generally 20 nM).\nThe homodimers of 4149-8_379, 5169-4_26 and 4867-31_192 were tested in a competition binding assay, with a fixed concentration of radiolabeled ligand (1.0 nM) and varying concentrations of competitor aptamer (10<sup>−11 </sup>to 10<sup>−6 </sup>M)."
+    },
+    {
+        "molecule_name": "5169-4_93",
+        "protein_target_name": "PDGF",
+        "binding_metric": "Kd",
+        "value": "0.00020",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nKd (M)Aptamer ID. No. PDGF-BBVEGF121VEGF165E100304.7E−11NBNBOH-4149-8_3792.0E−11NBNBOH-4867-31_1925.7E−08 2.3E−114.1E−11N-4149-8_4015.6E−12 2.7E−112.5E−11OH-4149-8_4084.3E−11 4.4E−114.1E−11OH-4149-8_4096.0E−10 2.6E−112.9E−11OH-4149-8_4102.0E−11 2.6E−113.3E−11OH-4149-8_4117.2E−12 2.0E−114.5E−11OH-4149-8_4128.6E−12 2.0E−114.5E−11OH-4149-8_4131.0E−11 4.0E−116.3E−11OH-4149-8_4141.0E−11 2.3E−115.1E−11OH-4149-8_4158.1E−12 4.0E−113.0E−11OH-4149-8_4168.9E−12 4.1E−113.0E−11OH-4149-8_4171.1E−11 4.3E−116.5E−11\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_93C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</sup>-P-0.000200.052749A<sup>1</sup>-G<sup>1</sup>-G-A-P-P<sup>1</sup>-P-A-A-A-P-G<sup>1</sup>-G<sup>1</sup>-H-H-H-H-H-H-C-G-A-C-A-G-C-A-P-G-P-A-P-G-C-A-C-A-P-C-P\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_94C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</sup>-P-0.000500.066750A<sup>1</sup>-G<sup>1</sup>-G-A-P-P<sup>1</sup>-P-A-A-A-P-G<sup>1</sup>-G<sup>1</sup>-H-H-H-H-H-C-G-A-C-A-G-C-A-P-G-P-A-P-G-C-A-C-A-P-C-P\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_95C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</sup>-P-0.00120.043751A<sup>1</sup>-G<sup>1</sup>-G-A-P-P<sup>1</sup>-P-A-A-A-P-G<sup>1</sup>-G<sup>1</sup>-H-H-H-H-C-G-A-C-A-G-C-A-P-G-P-A-P-G-C-A-C-A-P-C-P\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_96C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</su"
+    },
+    {
+        "molecule_name": "5169-4_93",
+        "protein_target_name": "VEGF121",
+        "binding_metric": "Kd",
+        "value": "0.0527",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nKd (M)Aptamer ID. No. PDGF-BBVEGF121VEGF165E100304.7E−11NBNBOH-4149-8_3792.0E−11NBNBOH-4867-31_1925.7E−08 2.3E−114.1E−11N-4149-8_4015.6E−12 2.7E−112.5E−11OH-4149-8_4084.3E−11 4.4E−114.1E−11OH-4149-8_4096.0E−10 2.6E−112.9E−11OH-4149-8_4102.0E−11 2.6E−113.3E−11OH-4149-8_4117.2E−12 2.0E−114.5E−11OH-4149-8_4128.6E−12 2.0E−114.5E−11OH-4149-8_4131.0E−11 4.0E−116.3E−11OH-4149-8_4141.0E−11 2.3E−115.1E−11OH-4149-8_4158.1E−12 4.0E−113.0E−11OH-4149-8_4168.9E−12 4.1E−113.0E−11OH-4149-8_4171.1E−11 4.3E−116.5E−11\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_93C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</sup>-P-0.000200.052749A<sup>1</sup>-G<sup>1</sup>-G-A-P-P<sup>1</sup>-P-A-A-A-P-G<sup>1</sup>-G<sup>1</sup>-H-H-H-H-H-H-C-G-A-C-A-G-C-A-P-G-P-A-P-G-C-A-C-A-P-C-P\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_94C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</sup>-P-0.000500.066750A<sup>1</sup>-G<sup>1</sup>-G-A-P-P<sup>1</sup>-P-A-A-A-P-G<sup>1</sup>-G<sup>1</sup>-H-H-H-H-H-C-G-A-C-A-G-C-A-P-G-P-A-P-G-C-A-C-A-P-C-P\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_95C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</sup>-P-0.00120.043751A<sup>1</sup>-G<sup>1</sup>-G-A-P-P<sup>1</sup>-P-A-A-A-P-G<sup>1</sup>-G<sup>1</sup>-H-H-H-H-C-G-A-C-A-G-C-A-P-G-P-A-P-G-C-A-C-A-P-C-P\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_96C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</su"
+    },
+    {
+        "molecule_name": "5169-4_94",
+        "protein_target_name": "PDGF",
+        "binding_metric": "Kd",
+        "value": "0.00050",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nKd (M)Aptamer ID. No. PDGF-BBVEGF121VEGF165E100304.7E−11NBNBOH-4149-8_3792.0E−11NBNBOH-4867-31_1925.7E−08 2.3E−114.1E−11N-4149-8_4015.6E−12 2.7E−112.5E−11OH-4149-8_4084.3E−11 4.4E−114.1E−11OH-4149-8_4096.0E−10 2.6E−112.9E−11OH-4149-8_4102.0E−11 2.6E−113.3E−11OH-4149-8_4117.2E−12 2.0E−114.5E−11OH-4149-8_4128.6E−12 2.0E−114.5E−11OH-4149-8_4131.0E−11 4.0E−116.3E−11OH-4149-8_4141.0E−11 2.3E−115.1E−11OH-4149-8_4158.1E−12 4.0E−113.0E−11OH-4149-8_4168.9E−12 4.1E−113.0E−11OH-4149-8_4171.1E−11 4.3E−116.5E−11\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_93C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</sup>-P-0.000200.052749A<sup>1</sup>-G<sup>1</sup>-G-A-P-P<sup>1</sup>-P-A-A-A-P-G<sup>1</sup>-G<sup>1</sup>-H-H-H-H-H-H-C-G-A-C-A-G-C-A-P-G-P-A-P-G-C-A-C-A-P-C-P\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_94C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</sup>-P-0.000500.066750A<sup>1</sup>-G<sup>1</sup>-G-A-P-P<sup>1</sup>-P-A-A-A-P-G<sup>1</sup>-G<sup>1</sup>-H-H-H-H-H-C-G-A-C-A-G-C-A-P-G-P-A-P-G-C-A-C-A-P-C-P\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_95C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</sup>-P-0.00120.043751A<sup>1</sup>-G<sup>1</sup>-G-A-P-P<sup>1</sup>-P-A-A-A-P-G<sup>1</sup>-G<sup>1</sup>-H-H-H-H-C-G-A-C-A-G-C-A-P-G-P-A-P-G-C-A-C-A-P-C-P\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_96C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</su"
+    },
+    {
+        "molecule_name": "5169-4_94",
+        "protein_target_name": "VEGF121",
+        "binding_metric": "Kd",
+        "value": "0.0667",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nKd (M)Aptamer ID. No. PDGF-BBVEGF121VEGF165E100304.7E−11NBNBOH-4149-8_3792.0E−11NBNBOH-4867-31_1925.7E−08 2.3E−114.1E−11N-4149-8_4015.6E−12 2.7E−112.5E−11OH-4149-8_4084.3E−11 4.4E−114.1E−11OH-4149-8_4096.0E−10 2.6E−112.9E−11OH-4149-8_4102.0E−11 2.6E−113.3E−11OH-4149-8_4117.2E−12 2.0E−114.5E−11OH-4149-8_4128.6E−12 2.0E−114.5E−11OH-4149-8_4131.0E−11 4.0E−116.3E−11OH-4149-8_4141.0E−11 2.3E−115.1E−11OH-4149-8_4158.1E−12 4.0E−113.0E−11OH-4149-8_4168.9E−12 4.1E−113.0E−11OH-4149-8_4171.1E−11 4.3E−116.5E−11\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_93C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</sup>-P-0.000200.052749A<sup>1</sup>-G<sup>1</sup>-G-A-P-P<sup>1</sup>-P-A-A-A-P-G<sup>1</sup>-G<sup>1</sup>-H-H-H-H-H-H-C-G-A-C-A-G-C-A-P-G-P-A-P-G-C-A-C-A-P-C-P\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_94C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</sup>-P-0.000500.066750A<sup>1</sup>-G<sup>1</sup>-G-A-P-P<sup>1</sup>-P-A-A-A-P-G<sup>1</sup>-G<sup>1</sup>-H-H-H-H-H-C-G-A-C-A-G-C-A-P-G-P-A-P-G-C-A-C-A-P-C-P\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_95C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</sup>-P-0.00120.043751A<sup>1</sup>-G<sup>1</sup>-G-A-P-P<sup>1</sup>-P-A-A-A-P-G<sup>1</sup>-G<sup>1</sup>-H-H-H-H-C-G-A-C-A-G-C-A-P-G-P-A-P-G-C-A-C-A-P-C-P\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_96C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</su"
+    },
+    {
+        "molecule_name": "5169-4_95",
+        "protein_target_name": "PDGF",
+        "binding_metric": "Kd",
+        "value": "0.0012",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nKd (M)Aptamer ID. No. PDGF-BBVEGF121VEGF165E100304.7E−11NBNBOH-4149-8_3792.0E−11NBNBOH-4867-31_1925.7E−08 2.3E−114.1E−11N-4149-8_4015.6E−12 2.7E−112.5E−11OH-4149-8_4084.3E−11 4.4E−114.1E−11OH-4149-8_4096.0E−10 2.6E−112.9E−11OH-4149-8_4102.0E−11 2.6E−113.3E−11OH-4149-8_4117.2E−12 2.0E−114.5E−11OH-4149-8_4128.6E−12 2.0E−114.5E−11OH-4149-8_4131.0E−11 4.0E−116.3E−11OH-4149-8_4141.0E−11 2.3E−115.1E−11OH-4149-8_4158.1E−12 4.0E−113.0E−11OH-4149-8_4168.9E−12 4.1E−113.0E−11OH-4149-8_4171.1E−11 4.3E−116.5E−11\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_93C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</sup>-P-0.000200.052749A<sup>1</sup>-G<sup>1</sup>-G-A-P-P<sup>1</sup>-P-A-A-A-P-G<sup>1</sup>-G<sup>1</sup>-H-H-H-H-H-H-C-G-A-C-A-G-C-A-P-G-P-A-P-G-C-A-C-A-P-C-P\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_94C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</sup>-P-0.000500.066750A<sup>1</sup>-G<sup>1</sup>-G-A-P-P<sup>1</sup>-P-A-A-A-P-G<sup>1</sup>-G<sup>1</sup>-H-H-H-H-H-C-G-A-C-A-G-C-A-P-G-P-A-P-G-C-A-C-A-P-C-P\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_95C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</sup>-P-0.00120.043751A<sup>1</sup>-G<sup>1</sup>-G-A-P-P<sup>1</sup>-P-A-A-A-P-G<sup>1</sup>-G<sup>1</sup>-H-H-H-H-C-G-A-C-A-G-C-A-P-G-P-A-P-G-C-A-C-A-P-C-P\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_96C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</su"
+    },
+    {
+        "molecule_name": "5169-4_95",
+        "protein_target_name": "VEGF121",
+        "binding_metric": "Kd",
+        "value": "0.0437",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nKd (M)Aptamer ID. No. PDGF-BBVEGF121VEGF165E100304.7E−11NBNBOH-4149-8_3792.0E−11NBNBOH-4867-31_1925.7E−08 2.3E−114.1E−11N-4149-8_4015.6E−12 2.7E−112.5E−11OH-4149-8_4084.3E−11 4.4E−114.1E−11OH-4149-8_4096.0E−10 2.6E−112.9E−11OH-4149-8_4102.0E−11 2.6E−113.3E−11OH-4149-8_4117.2E−12 2.0E−114.5E−11OH-4149-8_4128.6E−12 2.0E−114.5E−11OH-4149-8_4131.0E−11 4.0E−116.3E−11OH-4149-8_4141.0E−11 2.3E−115.1E−11OH-4149-8_4158.1E−12 4.0E−113.0E−11OH-4149-8_4168.9E−12 4.1E−113.0E−11OH-4149-8_4171.1E−11 4.3E−116.5E−11\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_93C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</sup>-P-0.000200.052749A<sup>1</sup>-G<sup>1</sup>-G-A-P-P<sup>1</sup>-P-A-A-A-P-G<sup>1</sup>-G<sup>1</sup>-H-H-H-H-H-H-C-G-A-C-A-G-C-A-P-G-P-A-P-G-C-A-C-A-P-C-P\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_94C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</sup>-P-0.000500.066750A<sup>1</sup>-G<sup>1</sup>-G-A-P-P<sup>1</sup>-P-A-A-A-P-G<sup>1</sup>-G<sup>1</sup>-H-H-H-H-H-C-G-A-C-A-G-C-A-P-G-P-A-P-G-C-A-C-A-P-C-P\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_95C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</sup>-P-0.00120.043751A<sup>1</sup>-G<sup>1</sup>-G-A-P-P<sup>1</sup>-P-A-A-A-P-G<sup>1</sup>-G<sup>1</sup>-H-H-H-H-C-G-A-C-A-G-C-A-P-G-P-A-P-G-C-A-C-A-P-C-P\nAptamerK<sub>d</sub> (nM)K<sub>d</sub> (nM)Seq.ID. No.Sequence (5′→3′)PDGFVEGF121ID. NO.5169-4_96C-C-G-P-P-C<sup>1</sup>-A-A-G<sup>1</sup>-P-G-C<sup>1</sup>-P-P-G<sup>1</su"
+    }
+]

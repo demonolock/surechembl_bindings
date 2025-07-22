@@ -1,0 +1,74 @@
+[
+    {
+        "molecule_name": "XAC",
+        "protein_target_name": "human A1 receptor subtype",
+        "binding_metric": "Ki",
+        "value": "5.5",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nTABLE 5Ki values for membranes from yeast cells transformed withhuman A<sub>1 </sub>receptor subtypeLigandsK<sub>I </sub>(nM)XAC5.5DPCPX7.1CGS-159410.8NECA179.6(R)-PIA56.3IB-MECA606.5Alloxazine894.1Compound 60013.9Compound 10029.8\nTABLE 6Effect of N<sub>6</sub>-Substituent A1BindingYeastCompoundRKi (nM)IC50 (nM)60013.997.2 \n6011423>10.000 \n602483.5>10.000 \n603196.64442.0 \n604>10.000>10000 \n605>10000>10000 \n606297.9>10000"
+    },
+    {
+        "molecule_name": "DPCPX",
+        "protein_target_name": "human A1 receptor subtype",
+        "binding_metric": "Ki",
+        "value": "7.1",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nTABLE 5Ki values for membranes from yeast cells transformed withhuman A<sub>1 </sub>receptor subtypeLigandsK<sub>I </sub>(nM)XAC5.5DPCPX7.1CGS-159410.8NECA179.6(R)-PIA56.3IB-MECA606.5Alloxazine894.1Compound 60013.9Compound 10029.8\nTABLE 6Effect of N<sub>6</sub>-Substituent A1BindingYeastCompoundRKi (nM)IC50 (nM)60013.997.2 \n6011423>10.000 \n602483.5>10.000 \n603196.64442.0 \n604>10.000>10000 \n605>10000>10000 \n606297.9>10000"
+    },
+    {
+        "molecule_name": "CGS-15943",
+        "protein_target_name": "human A1 receptor subtype",
+        "binding_metric": "Ki",
+        "value": "10.8",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nTABLE 5Ki values for membranes from yeast cells transformed withhuman A<sub>1 </sub>receptor subtypeLigandsK<sub>I </sub>(nM)XAC5.5DPCPX7.1CGS-159410.8NECA179.6(R)-PIA56.3IB-MECA606.5Alloxazine894.1Compound 60013.9Compound 10029.8\nTABLE 6Effect of N<sub>6</sub>-Substituent A1BindingYeastCompoundRKi (nM)IC50 (nM)60013.997.2 \n6011423>10.000 \n602483.5>10.000 \n603196.64442.0 \n604>10.000>10000 \n605>10000>10000 \n606297.9>10000"
+    },
+    {
+        "molecule_name": "NECA",
+        "protein_target_name": "human A1 receptor subtype",
+        "binding_metric": "Ki",
+        "value": "179.6",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nTABLE 5Ki values for membranes from yeast cells transformed withhuman A<sub>1 </sub>receptor subtypeLigandsK<sub>I </sub>(nM)XAC5.5DPCPX7.1CGS-159410.8NECA179.6(R)-PIA56.3IB-MECA606.5Alloxazine894.1Compound 60013.9Compound 10029.8\nTABLE 6Effect of N<sub>6</sub>-Substituent A1BindingYeastCompoundRKi (nM)IC50 (nM)60013.997.2 \n6011423>10.000 \n602483.5>10.000 \n603196.64442.0 \n604>10.000>10000 \n605>10000>10000 \n606297.9>10000"
+    },
+    {
+        "molecule_name": "(R)-PIA",
+        "protein_target_name": "human A1 receptor subtype",
+        "binding_metric": "Ki",
+        "value": "56.3",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nTABLE 5Ki values for membranes from yeast cells transformed withhuman A<sub>1 </sub>receptor subtypeLigandsK<sub>I </sub>(nM)XAC5.5DPCPX7.1CGS-159410.8NECA179.6(R)-PIA56.3IB-MECA606.5Alloxazine894.1Compound 60013.9Compound 10029.8\nTABLE 6Effect of N<sub>6</sub>-Substituent A1BindingYeastCompoundRKi (nM)IC50 (nM)60013.997.2 \n6011423>10.000 \n602483.5>10.000 \n603196.64442.0 \n604>10.000>10000 \n605>10000>10000 \n606297.9>10000"
+    },
+    {
+        "molecule_name": "IB-MECA",
+        "protein_target_name": "human A1 receptor subtype",
+        "binding_metric": "Ki",
+        "value": "606.5",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nTABLE 5Ki values for membranes from yeast cells transformed withhuman A<sub>1 </sub>receptor subtypeLigandsK<sub>I </sub>(nM)XAC5.5DPCPX7.1CGS-159410.8NECA179.6(R)-PIA56.3IB-MECA606.5Alloxazine894.1Compound 60013.9Compound 10029.8\nTABLE 6Effect of N<sub>6</sub>-Substituent A1BindingYeastCompoundRKi (nM)IC50 (nM)60013.997.2 \n6011423>10.000 \n602483.5>10.000 \n603196.64442.0 \n604>10.000>10000 \n605>10000>10000 \n606297.9>10000"
+    },
+    {
+        "molecule_name": "Alloxazine",
+        "protein_target_name": "human A1 receptor subtype",
+        "binding_metric": "Ki",
+        "value": "894.1",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nTABLE 5Ki values for membranes from yeast cells transformed withhuman A<sub>1 </sub>receptor subtypeLigandsK<sub>I </sub>(nM)XAC5.5DPCPX7.1CGS-159410.8NECA179.6(R)-PIA56.3IB-MECA606.5Alloxazine894.1Compound 60013.9Compound 10029.8\nTABLE 6Effect of N<sub>6</sub>-Substituent A1BindingYeastCompoundRKi (nM)IC50 (nM)60013.997.2 \n6011423>10.000 \n602483.5>10.000 \n603196.64442.0 \n604>10.000>10000 \n605>10000>10000 \n606297.9>10000"
+    },
+    {
+        "molecule_name": "Compound 60013",
+        "protein_target_name": "human A1 receptor subtype",
+        "binding_metric": "Ki",
+        "value": "13.9",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nTABLE 5Ki values for membranes from yeast cells transformed withhuman A<sub>1 </sub>receptor subtypeLigandsK<sub>I </sub>(nM)XAC5.5DPCPX7.1CGS-159410.8NECA179.6(R)-PIA56.3IB-MECA606.5Alloxazine894.1Compound 60013.9Compound 10029.8\nTABLE 6Effect of N<sub>6</sub>-Substituent A1BindingYeastCompoundRKi (nM)IC50 (nM)60013.997.2 \n6011423>10.000 \n602483.5>10.000 \n603196.64442.0 \n604>10.000>10000 \n605>10000>10000 \n606297.9>10000"
+    },
+    {
+        "molecule_name": "Compound 10029",
+        "protein_target_name": "human A1 receptor subtype",
+        "binding_metric": "Ki",
+        "value": "29.8",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nTABLE 5Ki values for membranes from yeast cells transformed withhuman A<sub>1 </sub>receptor subtypeLigandsK<sub>I </sub>(nM)XAC5.5DPCPX7.1CGS-159410.8NECA179.6(R)-PIA56.3IB-MECA606.5Alloxazine894.1Compound 60013.9Compound 10029.8\nTABLE 6Effect of N<sub>6</sub>-Substituent A1BindingYeastCompoundRKi (nM)IC50 (nM)60013.997.2 \n6011423>10.000 \n602483.5>10.000 \n603196.64442.0 \n604>10.000>10000 \n605>10000>10000 \n606297.9>10000"
+    }
+]

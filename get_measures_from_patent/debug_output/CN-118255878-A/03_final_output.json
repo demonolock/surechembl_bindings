@@ -1,0 +1,50 @@
+[
+    {
+        "molecule_name": "nanobodies",
+        "protein_target_name": "WTRBD",
+        "binding_metric": "EC50",
+        "value": "0.26 to 23.8",
+        "unit": "ng/mL",
+        "raw_mentions": "Here are the extracted sentences with the required components:\n\nReferring to Table 3, the results show that all nanobodies bind strongly to WTRBD and that the EC50 values vary from 0.26 to 23.8 ng/mL.\nMost nanobodies (except B27) showed a stronger positive signal compared to ACE2, with EC50 values below 0.9 nanograms per milliliter.\nRemarkably, we found that most nanobodies (except B27) still had strong binding to ba.1rbd, with EC50 values below 107ng/mL.\nThe binding affinity (KD) is between 0.013 and 0.775 nM.\nNotably, a14 and B20 have strong binding affinities to the armin ba.1rbd with KD values of 0.065nM and 0.026nM, respectively (table 3)."
+    },
+    {
+        "molecule_name": "nanobodies",
+        "protein_target_name": "ACE2",
+        "binding_metric": "EC50",
+        "value": "below 0.9",
+        "unit": "nanograms per milliliter",
+        "raw_mentions": "Here are the extracted sentences with the required components:\n\nReferring to Table 3, the results show that all nanobodies bind strongly to WTRBD and that the EC50 values vary from 0.26 to 23.8 ng/mL.\nMost nanobodies (except B27) showed a stronger positive signal compared to ACE2, with EC50 values below 0.9 nanograms per milliliter.\nRemarkably, we found that most nanobodies (except B27) still had strong binding to ba.1rbd, with EC50 values below 107ng/mL.\nThe binding affinity (KD) is between 0.013 and 0.775 nM.\nNotably, a14 and B20 have strong binding affinities to the armin ba.1rbd with KD values of 0.065nM and 0.026nM, respectively (table 3)."
+    },
+    {
+        "molecule_name": "nanobodies",
+        "protein_target_name": "ba.1rbd",
+        "binding_metric": "EC50",
+        "value": "below 107",
+        "unit": "ng/mL",
+        "raw_mentions": "Here are the extracted sentences with the required components:\n\nReferring to Table 3, the results show that all nanobodies bind strongly to WTRBD and that the EC50 values vary from 0.26 to 23.8 ng/mL.\nMost nanobodies (except B27) showed a stronger positive signal compared to ACE2, with EC50 values below 0.9 nanograms per milliliter.\nRemarkably, we found that most nanobodies (except B27) still had strong binding to ba.1rbd, with EC50 values below 107ng/mL.\nThe binding affinity (KD) is between 0.013 and 0.775 nM.\nNotably, a14 and B20 have strong binding affinities to the armin ba.1rbd with KD values of 0.065nM and 0.026nM, respectively (table 3)."
+    },
+    {
+        "molecule_name": "a14",
+        "protein_target_name": "armin ba.1rbd",
+        "binding_metric": "KD",
+        "value": "0.065",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences with the required components:\n\nReferring to Table 3, the results show that all nanobodies bind strongly to WTRBD and that the EC50 values vary from 0.26 to 23.8 ng/mL.\nMost nanobodies (except B27) showed a stronger positive signal compared to ACE2, with EC50 values below 0.9 nanograms per milliliter.\nRemarkably, we found that most nanobodies (except B27) still had strong binding to ba.1rbd, with EC50 values below 107ng/mL.\nThe binding affinity (KD) is between 0.013 and 0.775 nM.\nNotably, a14 and B20 have strong binding affinities to the armin ba.1rbd with KD values of 0.065nM and 0.026nM, respectively (table 3)."
+    },
+    {
+        "molecule_name": "B20",
+        "protein_target_name": "armin ba.1rbd",
+        "binding_metric": "KD",
+        "value": "0.026",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences with the required components:\n\nReferring to Table 3, the results show that all nanobodies bind strongly to WTRBD and that the EC50 values vary from 0.26 to 23.8 ng/mL.\nMost nanobodies (except B27) showed a stronger positive signal compared to ACE2, with EC50 values below 0.9 nanograms per milliliter.\nRemarkably, we found that most nanobodies (except B27) still had strong binding to ba.1rbd, with EC50 values below 107ng/mL.\nThe binding affinity (KD) is between 0.013 and 0.775 nM.\nNotably, a14 and B20 have strong binding affinities to the armin ba.1rbd with KD values of 0.065nM and 0.026nM, respectively (table 3)."
+    },
+    {
+        "molecule_name": "A31-A31, B13-B13, A31-C2, B13-C2, B13-B13",
+        "protein_target_name": "SARS-CoV-2WT and HMG-Row BA.1 and BA.4/5",
+        "binding_metric": "IC50",
+        "value": "<24",
+        "unit": "nanograms/milliliter",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Notably, the two homodimers (A31-A31, B13-B13), the two heterodimers (A31-C2, B13-C2) and one homotrimer (B13-B13) exhibited high neutralizing efficacy against SARS-CoV-2WT and HMG-Row BA.1 and BA.4/5, with IC50 values below 24 nanograms/milliliter."
+    }
+]

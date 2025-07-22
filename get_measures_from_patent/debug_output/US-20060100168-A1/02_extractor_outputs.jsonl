@@ -1,0 +1,2 @@
+{"raw_mentions": "In accordance, the selective A3AR antagonist MRS1191 used at a concentration of up to 1 \u03bcM (greater than its Ki) did not abolish IB-MECA inhibitory effect on growth of MCF-7 cells (not shown)."}
+{"final_json": [{"molecule_name": "MRS1191", "protein_target_name": "A3AR", "protein_uniprot_id": null, "protein_seq_id": null, "binding_metric": "Ki", "value": "<1", "unit": "\u03bcM"}, {"molecule_name": "IB-MECA", "protein_target_name": null, "protein_uniprot_id": null, "protein_seq_id": null, "binding_metric": null, "value": null, "unit": null}]}

@@ -1,0 +1,2 @@
+{"raw_mentions": "The amount of Kexstatin which inhibits the activity of 1 \u03bcg of Kex2 proteinase by 50% (IC50) is calculated to be 1.4 \u03bcg."}
+{"final_json": [{"molecule_name": "Kexstatin", "protein_target_name": "Kex2 proteinase", "binding_metric": "IC50", "value": "1.4", "unit": "\u03bcg"}]}

@@ -1,0 +1,42 @@
+[
+    {
+        "molecule_name": "formula VII, Z25",
+        "protein_target_name": "R2WT",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.48",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe following table 8 demonstrates the interest of for instance C<sub>7+</sub> cycloalkyls or substituted cycloalkyls as evident from the EC50 value:  \nEC<sub>50</sub>EC<sub>50</sub>R2WT (μM)Cys188RT (μM)1.91ND \nEC<sub>50</sub>EC<sub>50</sub>R2WT (μM)Cys188RT (μM)0.776.5 \nEC<sub>50</sub>EC<sub>50</sub>R2WT (μM)Cys188RT (μM)0.483.28(formula VII, Z25) \nEC<sub>50</sub>EC<sub>50</sub>R2WT (μM)Cys188RT (μM)0.0430.006(formula II, Z37)ND, not determined \nReplacement of a cyclohexyl by a m,m-dimethyl-cyclohexyl leads to a 16-fold increase in antiviral potency."
+    },
+    {
+        "molecule_name": "formula VII, Z25",
+        "protein_target_name": "Cys188RT",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "3.28",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe following table 8 demonstrates the interest of for instance C<sub>7+</sub> cycloalkyls or substituted cycloalkyls as evident from the EC50 value:  \nEC<sub>50</sub>EC<sub>50</sub>R2WT (μM)Cys188RT (μM)1.91ND \nEC<sub>50</sub>EC<sub>50</sub>R2WT (μM)Cys188RT (μM)0.776.5 \nEC<sub>50</sub>EC<sub>50</sub>R2WT (μM)Cys188RT (μM)0.483.28(formula VII, Z25) \nEC<sub>50</sub>EC<sub>50</sub>R2WT (μM)Cys188RT (μM)0.0430.006(formula II, Z37)ND, not determined \nReplacement of a cyclohexyl by a m,m-dimethyl-cyclohexyl leads to a 16-fold increase in antiviral potency."
+    },
+    {
+        "molecule_name": "formula II, Z37",
+        "protein_target_name": "R2WT",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.043",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe following table 8 demonstrates the interest of for instance C<sub>7+</sub> cycloalkyls or substituted cycloalkyls as evident from the EC50 value:  \nEC<sub>50</sub>EC<sub>50</sub>R2WT (μM)Cys188RT (μM)1.91ND \nEC<sub>50</sub>EC<sub>50</sub>R2WT (μM)Cys188RT (μM)0.776.5 \nEC<sub>50</sub>EC<sub>50</sub>R2WT (μM)Cys188RT (μM)0.483.28(formula VII, Z25) \nEC<sub>50</sub>EC<sub>50</sub>R2WT (μM)Cys188RT (μM)0.0430.006(formula II, Z37)ND, not determined \nReplacement of a cyclohexyl by a m,m-dimethyl-cyclohexyl leads to a 16-fold increase in antiviral potency."
+    },
+    {
+        "molecule_name": "formula II, Z37",
+        "protein_target_name": "Cys188RT",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.006",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe following table 8 demonstrates the interest of for instance C<sub>7+</sub> cycloalkyls or substituted cycloalkyls as evident from the EC50 value:  \nEC<sub>50</sub>EC<sub>50</sub>R2WT (μM)Cys188RT (μM)1.91ND \nEC<sub>50</sub>EC<sub>50</sub>R2WT (μM)Cys188RT (μM)0.776.5 \nEC<sub>50</sub>EC<sub>50</sub>R2WT (μM)Cys188RT (μM)0.483.28(formula VII, Z25) \nEC<sub>50</sub>EC<sub>50</sub>R2WT (μM)Cys188RT (μM)0.0430.006(formula II, Z37)ND, not determined \nReplacement of a cyclohexyl by a m,m-dimethyl-cyclohexyl leads to a 16-fold increase in antiviral potency."
+    }
+]

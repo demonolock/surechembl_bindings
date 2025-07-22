@@ -1,0 +1,26 @@
+[
+    {
+        "molecule_name": "PHL 11n",
+        "protein_target_name": "LuxR",
+        "binding_metric": "EC50",
+        "value": "0.3",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The 4-iodo PHL 11j and 4-trifluoromethyl PHL 11s exhibited the lowest IC50 values in this study, with PHL 11s at least two-fold more active than control compound 2 (0.6 μM vs. 1.4 μM, respectively.\n2. For a more quantitative comparison of ligand activity, we determined EC50 values for our most active PHL agonists (11b, 11h, and 11n) and OHHL in V. fischeri (Δ-luxI). These studies identified 3-nitro PHL 11n as the most active LuxR agonist, exhibiting a ten-fold lower EC50 than OHHL (0.3 μM vs. 3 μM, respectively)."
+    },
+    {
+        "molecule_name": "OHHL",
+        "protein_target_name": "LuxR",
+        "binding_metric": "EC50",
+        "value": "3",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The 4-iodo PHL 11j and 4-trifluoromethyl PHL 11s exhibited the lowest IC50 values in this study, with PHL 11s at least two-fold more active than control compound 2 (0.6 μM vs. 1.4 μM, respectively.\n2. For a more quantitative comparison of ligand activity, we determined EC50 values for our most active PHL agonists (11b, 11h, and 11n) and OHHL in V. fischeri (Δ-luxI). These studies identified 3-nitro PHL 11n as the most active LuxR agonist, exhibiting a ten-fold lower EC50 than OHHL (0.3 μM vs. 3 μM, respectively)."
+    },
+    {
+        "molecule_name": "C18",
+        "protein_target_name": "QscR",
+        "binding_metric": "IC50",
+        "value": "30",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. These assays revealed that the control DDHL (2) and A4 exhibited the lowest EC50 values in this study (i.e., ˜5 nM), with OOHL (3) having the next lowest value; these trends were congruent with our primary agonism assay data.\n2. PHLs were also strong antagonists of QscR (i.e., the C# AHLs), with C18 the most active QscR antagonist uncovered in this study (IC50=30 nM.\n3. This PHL is only a weak LasR inhibitor (20%); however, PHLs C6, C8, C11, and C14 with meta-halogen or nitro groups are also moderate antagonists of LasR (˜50%). \n\nNote that there are limited sentences that meet the criteria, as most of the text describes general trends and methods rather than specific molecule-metric-value-unit combinations."
+    }
+]

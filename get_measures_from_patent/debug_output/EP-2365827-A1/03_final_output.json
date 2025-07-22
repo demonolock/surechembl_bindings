@@ -1,0 +1,62 @@
+[
+    {
+        "molecule_name": "influenza A M2e antigen conjugate",
+        "protein_target_name": "RNAse",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "<10 pM",
+        "unit": "pM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* The dissociation constants (Kd) between the antibodies and RNAse - influenza A M2e antigen conjugate was found to be in the low picomolar range.\n* In one aspect, the invention relates to a monoclonal antibody, preferably to an isolated monoclonal antibody, wherein said monoclonal antibody is specifically binding influenza M2e antigen, and wherein said monoclonal antibody is a human monoclonal antibody, preferably a fully human monoclonal antibody, wherein preferably the EC50 value and/or the dissociation constant (Kd) of said monoclonal antibody and said influenza M2e antigen is at most 1000 nM, preferably at most 100 nM, more preferably at most 10 nM, still more preferably at most 1 nM, still more preferably at most 100 pM, still more preferably at most 10 pM, and most preferably at most 1 pM."
+    },
+    {
+        "molecule_name": "M2e-specific scFv antibodies",
+        "protein_target_name": "M2e",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "2 to 10",
+        "unit": "ng/ml",
+        "raw_mentions": "In total, 53 ELISA-positive clones encoding M2e-specific scFv antibodies, each binding with an EC50 in the range of 2 to 10 ng/ml (approximately 18 to 90 pM), were sequenced as described (see WO 2008/055795 Al)."
+    },
+    {
+        "molecule_name": "M2e-specific scFv antibodies",
+        "protein_target_name": "M2e",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "18 to 90",
+        "unit": "pM",
+        "raw_mentions": "In total, 53 ELISA-positive clones encoding M2e-specific scFv antibodies, each binding with an EC50 in the range of 2 to 10 ng/ml (approximately 18 to 90 pM), were sequenced as described (see WO 2008/055795 Al)."
+    },
+    {
+        "molecule_name": "scFv-D005-msFcγ2c",
+        "protein_target_name": "M2-PR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.68",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe antibodies scFv-D005-msFcγ2c, scFv-E040-msFcγ2c and scFv-F052-msFcγ2c were found to bind native, cell surface-expressed M2-PR with a high affinity, with an EC50 of 0.68, 0.73 and 0.46 nM, respectively.\nTable 6. Inhibition of scFv-msFcγ2c binding to immobilized M2e by soluble M2 peptides. EC50 values (μM) of inhibition of binding are shown."
+    },
+    {
+        "molecule_name": "scFv-E040-msFcγ2c",
+        "protein_target_name": "M2-PR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.73",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe antibodies scFv-D005-msFcγ2c, scFv-E040-msFcγ2c and scFv-F052-msFcγ2c were found to bind native, cell surface-expressed M2-PR with a high affinity, with an EC50 of 0.68, 0.73 and 0.46 nM, respectively.\nTable 6. Inhibition of scFv-msFcγ2c binding to immobilized M2e by soluble M2 peptides. EC50 values (μM) of inhibition of binding are shown."
+    },
+    {
+        "molecule_name": "scFv-F052-msFcγ2c",
+        "protein_target_name": "M2-PR",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.46",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe antibodies scFv-D005-msFcγ2c, scFv-E040-msFcγ2c and scFv-F052-msFcγ2c were found to bind native, cell surface-expressed M2-PR with a high affinity, with an EC50 of 0.68, 0.73 and 0.46 nM, respectively.\nTable 6. Inhibition of scFv-msFcγ2c binding to immobilized M2e by soluble M2 peptides. EC50 values (μM) of inhibition of binding are shown."
+    }
+]

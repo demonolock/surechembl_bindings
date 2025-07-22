@@ -1,0 +1,194 @@
+[
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "beta klotho",
+        "binding_metric": "Kd",
+        "value": "≤10",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. In certain embodiments, an antibody that binds to beta klotho has a dissociation constant (Kd) of less than or equal to 10 nM, 5 nM, 4 nM, 3 nM, 2 nM, 1 nM, 0.9 nM, 0.8 nM, 0.7 nM, 0.6 nM, 0.5 nM, 0.4 nM, 0.3 nM, 0.2 nM, or 0.1 nM.\n2. The term “specific binding” or “specifically binds to” or is “specific for” a particular polypeptide or an epitope on a particular polypeptide target as used herein can be exhibited, for example, by a molecule having a Kd for the target of at least about 10<sup>−4</sup>M, alternatively at least about 10<sup>−5 </sup>M, alternatively at least about 10<sup>−6 </sup>M, alternatively at least about 10<sup>−7 </sup>M, alternatively at least about 10<sup>−8 </sup>M, alternatively at least about 10<sup>−9 </sup>M, alternatively at least about 10<sup>−19 </sup>M, alternatively at least about 10<sup>−11 </sup>M, alternatively at least about 10<sup>−12 </sup>M, or greater."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "beta klotho",
+        "binding_metric": "Kd",
+        "value": "<= 10",
+        "unit": "nM",
+        "raw_mentions": "In certain embodiments, an antibody that binds to beta klotho, as described herein has a dissociation constant (Kd) of less than or equal to 10 nM, 9 nM, 8 nM, 7 nM, 6 nM, 5 nM, 4 nM, 0.9 nM, 0.8 nM, 0.7 nM, 0.6 nM, 0.5 nM, 0.4 nM, 0.3 nM, 0.2 nM, or 0.1 nM, and/or is greater than or equal to 0.1 nM. \nUsually, when a competing antibodies protein is present in excess, it will inhibit specific binding of a reference antibodies to a common antigen by at least 23%, for example 40%, 45%, 50%, 55%, 60%, 65%, 70% or 75%. \nIn some instance, binding is inhibited by at least 80%, 85%, 90%, 95%, 96% or 97%, 98%, 99% or more. \nPreferably, the extent of binding of an anti-beta klotho antibody to an unrelated, non-beta klotho protein is less than about 10% of the binding of the antibody to beta klotho as measured, for example, by fluorescence activated cell sorting (FACS) analysis or an immunoassay such as a radioimmunoassay (RIA). \nThus, an antibody that is substantially free of cellular material includes preparations of antibody having less than about 30%, 25%, 20%, 15%, 10%, 5%, or 1% (by dry weight) of heterologous protein (also referred to herein as a “contaminating protein”). \nIn certain embodiments, when the antibody is recombinantly produced, it is substantially free of culture medium, e.g., culture medium represents less than about 20%, 15%, 10%, 5%, or 1% of the volume of the protein preparation."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "beta klotho",
+        "binding_metric": "Kd",
+        "value": "9",
+        "unit": "nM",
+        "raw_mentions": "In certain embodiments, an antibody that binds to beta klotho, as described herein has a dissociation constant (Kd) of less than or equal to 10 nM, 9 nM, 8 nM, 7 nM, 6 nM, 5 nM, 4 nM, 0.9 nM, 0.8 nM, 0.7 nM, 0.6 nM, 0.5 nM, 0.4 nM, 0.3 nM, 0.2 nM, or 0.1 nM, and/or is greater than or equal to 0.1 nM. \nUsually, when a competing antibodies protein is present in excess, it will inhibit specific binding of a reference antibodies to a common antigen by at least 23%, for example 40%, 45%, 50%, 55%, 60%, 65%, 70% or 75%. \nIn some instance, binding is inhibited by at least 80%, 85%, 90%, 95%, 96% or 97%, 98%, 99% or more. \nPreferably, the extent of binding of an anti-beta klotho antibody to an unrelated, non-beta klotho protein is less than about 10% of the binding of the antibody to beta klotho as measured, for example, by fluorescence activated cell sorting (FACS) analysis or an immunoassay such as a radioimmunoassay (RIA). \nThus, an antibody that is substantially free of cellular material includes preparations of antibody having less than about 30%, 25%, 20%, 15%, 10%, 5%, or 1% (by dry weight) of heterologous protein (also referred to herein as a “contaminating protein”). \nIn certain embodiments, when the antibody is recombinantly produced, it is substantially free of culture medium, e.g., culture medium represents less than about 20%, 15%, 10%, 5%, or 1% of the volume of the protein preparation."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "beta klotho",
+        "binding_metric": "Kd",
+        "value": "8",
+        "unit": "nM",
+        "raw_mentions": "In certain embodiments, an antibody that binds to beta klotho, as described herein has a dissociation constant (Kd) of less than or equal to 10 nM, 9 nM, 8 nM, 7 nM, 6 nM, 5 nM, 4 nM, 0.9 nM, 0.8 nM, 0.7 nM, 0.6 nM, 0.5 nM, 0.4 nM, 0.3 nM, 0.2 nM, or 0.1 nM, and/or is greater than or equal to 0.1 nM. \nUsually, when a competing antibodies protein is present in excess, it will inhibit specific binding of a reference antibodies to a common antigen by at least 23%, for example 40%, 45%, 50%, 55%, 60%, 65%, 70% or 75%. \nIn some instance, binding is inhibited by at least 80%, 85%, 90%, 95%, 96% or 97%, 98%, 99% or more. \nPreferably, the extent of binding of an anti-beta klotho antibody to an unrelated, non-beta klotho protein is less than about 10% of the binding of the antibody to beta klotho as measured, for example, by fluorescence activated cell sorting (FACS) analysis or an immunoassay such as a radioimmunoassay (RIA). \nThus, an antibody that is substantially free of cellular material includes preparations of antibody having less than about 30%, 25%, 20%, 15%, 10%, 5%, or 1% (by dry weight) of heterologous protein (also referred to herein as a “contaminating protein”). \nIn certain embodiments, when the antibody is recombinantly produced, it is substantially free of culture medium, e.g., culture medium represents less than about 20%, 15%, 10%, 5%, or 1% of the volume of the protein preparation."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "beta klotho",
+        "binding_metric": "Kd",
+        "value": "7",
+        "unit": "nM",
+        "raw_mentions": "In certain embodiments, an antibody that binds to beta klotho, as described herein has a dissociation constant (Kd) of less than or equal to 10 nM, 9 nM, 8 nM, 7 nM, 6 nM, 5 nM, 4 nM, 0.9 nM, 0.8 nM, 0.7 nM, 0.6 nM, 0.5 nM, 0.4 nM, 0.3 nM, 0.2 nM, or 0.1 nM, and/or is greater than or equal to 0.1 nM. \nUsually, when a competing antibodies protein is present in excess, it will inhibit specific binding of a reference antibodies to a common antigen by at least 23%, for example 40%, 45%, 50%, 55%, 60%, 65%, 70% or 75%. \nIn some instance, binding is inhibited by at least 80%, 85%, 90%, 95%, 96% or 97%, 98%, 99% or more. \nPreferably, the extent of binding of an anti-beta klotho antibody to an unrelated, non-beta klotho protein is less than about 10% of the binding of the antibody to beta klotho as measured, for example, by fluorescence activated cell sorting (FACS) analysis or an immunoassay such as a radioimmunoassay (RIA). \nThus, an antibody that is substantially free of cellular material includes preparations of antibody having less than about 30%, 25%, 20%, 15%, 10%, 5%, or 1% (by dry weight) of heterologous protein (also referred to herein as a “contaminating protein”). \nIn certain embodiments, when the antibody is recombinantly produced, it is substantially free of culture medium, e.g., culture medium represents less than about 20%, 15%, 10%, 5%, or 1% of the volume of the protein preparation."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "beta klotho",
+        "binding_metric": "Kd",
+        "value": "6",
+        "unit": "nM",
+        "raw_mentions": "In certain embodiments, an antibody that binds to beta klotho, as described herein has a dissociation constant (Kd) of less than or equal to 10 nM, 9 nM, 8 nM, 7 nM, 6 nM, 5 nM, 4 nM, 0.9 nM, 0.8 nM, 0.7 nM, 0.6 nM, 0.5 nM, 0.4 nM, 0.3 nM, 0.2 nM, or 0.1 nM, and/or is greater than or equal to 0.1 nM. \nUsually, when a competing antibodies protein is present in excess, it will inhibit specific binding of a reference antibodies to a common antigen by at least 23%, for example 40%, 45%, 50%, 55%, 60%, 65%, 70% or 75%. \nIn some instance, binding is inhibited by at least 80%, 85%, 90%, 95%, 96% or 97%, 98%, 99% or more. \nPreferably, the extent of binding of an anti-beta klotho antibody to an unrelated, non-beta klotho protein is less than about 10% of the binding of the antibody to beta klotho as measured, for example, by fluorescence activated cell sorting (FACS) analysis or an immunoassay such as a radioimmunoassay (RIA). \nThus, an antibody that is substantially free of cellular material includes preparations of antibody having less than about 30%, 25%, 20%, 15%, 10%, 5%, or 1% (by dry weight) of heterologous protein (also referred to herein as a “contaminating protein”). \nIn certain embodiments, when the antibody is recombinantly produced, it is substantially free of culture medium, e.g., culture medium represents less than about 20%, 15%, 10%, 5%, or 1% of the volume of the protein preparation."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "beta klotho",
+        "binding_metric": "Kd",
+        "value": "5",
+        "unit": "nM",
+        "raw_mentions": "In certain embodiments, an antibody that binds to beta klotho, as described herein has a dissociation constant (Kd) of less than or equal to 10 nM, 9 nM, 8 nM, 7 nM, 6 nM, 5 nM, 4 nM, 0.9 nM, 0.8 nM, 0.7 nM, 0.6 nM, 0.5 nM, 0.4 nM, 0.3 nM, 0.2 nM, or 0.1 nM, and/or is greater than or equal to 0.1 nM. \nUsually, when a competing antibodies protein is present in excess, it will inhibit specific binding of a reference antibodies to a common antigen by at least 23%, for example 40%, 45%, 50%, 55%, 60%, 65%, 70% or 75%. \nIn some instance, binding is inhibited by at least 80%, 85%, 90%, 95%, 96% or 97%, 98%, 99% or more. \nPreferably, the extent of binding of an anti-beta klotho antibody to an unrelated, non-beta klotho protein is less than about 10% of the binding of the antibody to beta klotho as measured, for example, by fluorescence activated cell sorting (FACS) analysis or an immunoassay such as a radioimmunoassay (RIA). \nThus, an antibody that is substantially free of cellular material includes preparations of antibody having less than about 30%, 25%, 20%, 15%, 10%, 5%, or 1% (by dry weight) of heterologous protein (also referred to herein as a “contaminating protein”). \nIn certain embodiments, when the antibody is recombinantly produced, it is substantially free of culture medium, e.g., culture medium represents less than about 20%, 15%, 10%, 5%, or 1% of the volume of the protein preparation."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "beta klotho",
+        "binding_metric": "Kd",
+        "value": "4",
+        "unit": "nM",
+        "raw_mentions": "In certain embodiments, an antibody that binds to beta klotho, as described herein has a dissociation constant (Kd) of less than or equal to 10 nM, 9 nM, 8 nM, 7 nM, 6 nM, 5 nM, 4 nM, 0.9 nM, 0.8 nM, 0.7 nM, 0.6 nM, 0.5 nM, 0.4 nM, 0.3 nM, 0.2 nM, or 0.1 nM, and/or is greater than or equal to 0.1 nM. \nUsually, when a competing antibodies protein is present in excess, it will inhibit specific binding of a reference antibodies to a common antigen by at least 23%, for example 40%, 45%, 50%, 55%, 60%, 65%, 70% or 75%. \nIn some instance, binding is inhibited by at least 80%, 85%, 90%, 95%, 96% or 97%, 98%, 99% or more. \nPreferably, the extent of binding of an anti-beta klotho antibody to an unrelated, non-beta klotho protein is less than about 10% of the binding of the antibody to beta klotho as measured, for example, by fluorescence activated cell sorting (FACS) analysis or an immunoassay such as a radioimmunoassay (RIA). \nThus, an antibody that is substantially free of cellular material includes preparations of antibody having less than about 30%, 25%, 20%, 15%, 10%, 5%, or 1% (by dry weight) of heterologous protein (also referred to herein as a “contaminating protein”). \nIn certain embodiments, when the antibody is recombinantly produced, it is substantially free of culture medium, e.g., culture medium represents less than about 20%, 15%, 10%, 5%, or 1% of the volume of the protein preparation."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "beta klotho",
+        "binding_metric": "Kd",
+        "value": "0.9",
+        "unit": "nM",
+        "raw_mentions": "In certain embodiments, an antibody that binds to beta klotho, as described herein has a dissociation constant (Kd) of less than or equal to 10 nM, 9 nM, 8 nM, 7 nM, 6 nM, 5 nM, 4 nM, 0.9 nM, 0.8 nM, 0.7 nM, 0.6 nM, 0.5 nM, 0.4 nM, 0.3 nM, 0.2 nM, or 0.1 nM, and/or is greater than or equal to 0.1 nM. \nUsually, when a competing antibodies protein is present in excess, it will inhibit specific binding of a reference antibodies to a common antigen by at least 23%, for example 40%, 45%, 50%, 55%, 60%, 65%, 70% or 75%. \nIn some instance, binding is inhibited by at least 80%, 85%, 90%, 95%, 96% or 97%, 98%, 99% or more. \nPreferably, the extent of binding of an anti-beta klotho antibody to an unrelated, non-beta klotho protein is less than about 10% of the binding of the antibody to beta klotho as measured, for example, by fluorescence activated cell sorting (FACS) analysis or an immunoassay such as a radioimmunoassay (RIA). \nThus, an antibody that is substantially free of cellular material includes preparations of antibody having less than about 30%, 25%, 20%, 15%, 10%, 5%, or 1% (by dry weight) of heterologous protein (also referred to herein as a “contaminating protein”). \nIn certain embodiments, when the antibody is recombinantly produced, it is substantially free of culture medium, e.g., culture medium represents less than about 20%, 15%, 10%, 5%, or 1% of the volume of the protein preparation."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "beta klotho",
+        "binding_metric": "Kd",
+        "value": "0.8",
+        "unit": "nM",
+        "raw_mentions": "In certain embodiments, an antibody that binds to beta klotho, as described herein has a dissociation constant (Kd) of less than or equal to 10 nM, 9 nM, 8 nM, 7 nM, 6 nM, 5 nM, 4 nM, 0.9 nM, 0.8 nM, 0.7 nM, 0.6 nM, 0.5 nM, 0.4 nM, 0.3 nM, 0.2 nM, or 0.1 nM, and/or is greater than or equal to 0.1 nM. \nUsually, when a competing antibodies protein is present in excess, it will inhibit specific binding of a reference antibodies to a common antigen by at least 23%, for example 40%, 45%, 50%, 55%, 60%, 65%, 70% or 75%. \nIn some instance, binding is inhibited by at least 80%, 85%, 90%, 95%, 96% or 97%, 98%, 99% or more. \nPreferably, the extent of binding of an anti-beta klotho antibody to an unrelated, non-beta klotho protein is less than about 10% of the binding of the antibody to beta klotho as measured, for example, by fluorescence activated cell sorting (FACS) analysis or an immunoassay such as a radioimmunoassay (RIA). \nThus, an antibody that is substantially free of cellular material includes preparations of antibody having less than about 30%, 25%, 20%, 15%, 10%, 5%, or 1% (by dry weight) of heterologous protein (also referred to herein as a “contaminating protein”). \nIn certain embodiments, when the antibody is recombinantly produced, it is substantially free of culture medium, e.g., culture medium represents less than about 20%, 15%, 10%, 5%, or 1% of the volume of the protein preparation."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "beta klotho",
+        "binding_metric": "Kd",
+        "value": "0.7",
+        "unit": "nM",
+        "raw_mentions": "In certain embodiments, an antibody that binds to beta klotho, as described herein has a dissociation constant (Kd) of less than or equal to 10 nM, 9 nM, 8 nM, 7 nM, 6 nM, 5 nM, 4 nM, 0.9 nM, 0.8 nM, 0.7 nM, 0.6 nM, 0.5 nM, 0.4 nM, 0.3 nM, 0.2 nM, or 0.1 nM, and/or is greater than or equal to 0.1 nM. \nUsually, when a competing antibodies protein is present in excess, it will inhibit specific binding of a reference antibodies to a common antigen by at least 23%, for example 40%, 45%, 50%, 55%, 60%, 65%, 70% or 75%. \nIn some instance, binding is inhibited by at least 80%, 85%, 90%, 95%, 96% or 97%, 98%, 99% or more. \nPreferably, the extent of binding of an anti-beta klotho antibody to an unrelated, non-beta klotho protein is less than about 10% of the binding of the antibody to beta klotho as measured, for example, by fluorescence activated cell sorting (FACS) analysis or an immunoassay such as a radioimmunoassay (RIA). \nThus, an antibody that is substantially free of cellular material includes preparations of antibody having less than about 30%, 25%, 20%, 15%, 10%, 5%, or 1% (by dry weight) of heterologous protein (also referred to herein as a “contaminating protein”). \nIn certain embodiments, when the antibody is recombinantly produced, it is substantially free of culture medium, e.g., culture medium represents less than about 20%, 15%, 10%, 5%, or 1% of the volume of the protein preparation."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "beta klotho",
+        "binding_metric": "Kd",
+        "value": "0.6",
+        "unit": "nM",
+        "raw_mentions": "In certain embodiments, an antibody that binds to beta klotho, as described herein has a dissociation constant (Kd) of less than or equal to 10 nM, 9 nM, 8 nM, 7 nM, 6 nM, 5 nM, 4 nM, 0.9 nM, 0.8 nM, 0.7 nM, 0.6 nM, 0.5 nM, 0.4 nM, 0.3 nM, 0.2 nM, or 0.1 nM, and/or is greater than or equal to 0.1 nM. \nUsually, when a competing antibodies protein is present in excess, it will inhibit specific binding of a reference antibodies to a common antigen by at least 23%, for example 40%, 45%, 50%, 55%, 60%, 65%, 70% or 75%. \nIn some instance, binding is inhibited by at least 80%, 85%, 90%, 95%, 96% or 97%, 98%, 99% or more. \nPreferably, the extent of binding of an anti-beta klotho antibody to an unrelated, non-beta klotho protein is less than about 10% of the binding of the antibody to beta klotho as measured, for example, by fluorescence activated cell sorting (FACS) analysis or an immunoassay such as a radioimmunoassay (RIA). \nThus, an antibody that is substantially free of cellular material includes preparations of antibody having less than about 30%, 25%, 20%, 15%, 10%, 5%, or 1% (by dry weight) of heterologous protein (also referred to herein as a “contaminating protein”). \nIn certain embodiments, when the antibody is recombinantly produced, it is substantially free of culture medium, e.g., culture medium represents less than about 20%, 15%, 10%, 5%, or 1% of the volume of the protein preparation."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "beta klotho",
+        "binding_metric": "Kd",
+        "value": "0.5",
+        "unit": "nM",
+        "raw_mentions": "In certain embodiments, an antibody that binds to beta klotho, as described herein has a dissociation constant (Kd) of less than or equal to 10 nM, 9 nM, 8 nM, 7 nM, 6 nM, 5 nM, 4 nM, 0.9 nM, 0.8 nM, 0.7 nM, 0.6 nM, 0.5 nM, 0.4 nM, 0.3 nM, 0.2 nM, or 0.1 nM, and/or is greater than or equal to 0.1 nM. \nUsually, when a competing antibodies protein is present in excess, it will inhibit specific binding of a reference antibodies to a common antigen by at least 23%, for example 40%, 45%, 50%, 55%, 60%, 65%, 70% or 75%. \nIn some instance, binding is inhibited by at least 80%, 85%, 90%, 95%, 96% or 97%, 98%, 99% or more. \nPreferably, the extent of binding of an anti-beta klotho antibody to an unrelated, non-beta klotho protein is less than about 10% of the binding of the antibody to beta klotho as measured, for example, by fluorescence activated cell sorting (FACS) analysis or an immunoassay such as a radioimmunoassay (RIA). \nThus, an antibody that is substantially free of cellular material includes preparations of antibody having less than about 30%, 25%, 20%, 15%, 10%, 5%, or 1% (by dry weight) of heterologous protein (also referred to herein as a “contaminating protein”). \nIn certain embodiments, when the antibody is recombinantly produced, it is substantially free of culture medium, e.g., culture medium represents less than about 20%, 15%, 10%, 5%, or 1% of the volume of the protein preparation."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "beta klotho",
+        "binding_metric": "Kd",
+        "value": "0.4",
+        "unit": "nM",
+        "raw_mentions": "In certain embodiments, an antibody that binds to beta klotho, as described herein has a dissociation constant (Kd) of less than or equal to 10 nM, 9 nM, 8 nM, 7 nM, 6 nM, 5 nM, 4 nM, 0.9 nM, 0.8 nM, 0.7 nM, 0.6 nM, 0.5 nM, 0.4 nM, 0.3 nM, 0.2 nM, or 0.1 nM, and/or is greater than or equal to 0.1 nM. \nUsually, when a competing antibodies protein is present in excess, it will inhibit specific binding of a reference antibodies to a common antigen by at least 23%, for example 40%, 45%, 50%, 55%, 60%, 65%, 70% or 75%. \nIn some instance, binding is inhibited by at least 80%, 85%, 90%, 95%, 96% or 97%, 98%, 99% or more. \nPreferably, the extent of binding of an anti-beta klotho antibody to an unrelated, non-beta klotho protein is less than about 10% of the binding of the antibody to beta klotho as measured, for example, by fluorescence activated cell sorting (FACS) analysis or an immunoassay such as a radioimmunoassay (RIA). \nThus, an antibody that is substantially free of cellular material includes preparations of antibody having less than about 30%, 25%, 20%, 15%, 10%, 5%, or 1% (by dry weight) of heterologous protein (also referred to herein as a “contaminating protein”). \nIn certain embodiments, when the antibody is recombinantly produced, it is substantially free of culture medium, e.g., culture medium represents less than about 20%, 15%, 10%, 5%, or 1% of the volume of the protein preparation."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "beta klotho",
+        "binding_metric": "Kd",
+        "value": "0.3",
+        "unit": "nM",
+        "raw_mentions": "In certain embodiments, an antibody that binds to beta klotho, as described herein has a dissociation constant (Kd) of less than or equal to 10 nM, 9 nM, 8 nM, 7 nM, 6 nM, 5 nM, 4 nM, 0.9 nM, 0.8 nM, 0.7 nM, 0.6 nM, 0.5 nM, 0.4 nM, 0.3 nM, 0.2 nM, or 0.1 nM, and/or is greater than or equal to 0.1 nM. \nUsually, when a competing antibodies protein is present in excess, it will inhibit specific binding of a reference antibodies to a common antigen by at least 23%, for example 40%, 45%, 50%, 55%, 60%, 65%, 70% or 75%. \nIn some instance, binding is inhibited by at least 80%, 85%, 90%, 95%, 96% or 97%, 98%, 99% or more. \nPreferably, the extent of binding of an anti-beta klotho antibody to an unrelated, non-beta klotho protein is less than about 10% of the binding of the antibody to beta klotho as measured, for example, by fluorescence activated cell sorting (FACS) analysis or an immunoassay such as a radioimmunoassay (RIA). \nThus, an antibody that is substantially free of cellular material includes preparations of antibody having less than about 30%, 25%, 20%, 15%, 10%, 5%, or 1% (by dry weight) of heterologous protein (also referred to herein as a “contaminating protein”). \nIn certain embodiments, when the antibody is recombinantly produced, it is substantially free of culture medium, e.g., culture medium represents less than about 20%, 15%, 10%, 5%, or 1% of the volume of the protein preparation."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "beta klotho",
+        "binding_metric": "Kd",
+        "value": "0.2",
+        "unit": "nM",
+        "raw_mentions": "In certain embodiments, an antibody that binds to beta klotho, as described herein has a dissociation constant (Kd) of less than or equal to 10 nM, 9 nM, 8 nM, 7 nM, 6 nM, 5 nM, 4 nM, 0.9 nM, 0.8 nM, 0.7 nM, 0.6 nM, 0.5 nM, 0.4 nM, 0.3 nM, 0.2 nM, or 0.1 nM, and/or is greater than or equal to 0.1 nM. \nUsually, when a competing antibodies protein is present in excess, it will inhibit specific binding of a reference antibodies to a common antigen by at least 23%, for example 40%, 45%, 50%, 55%, 60%, 65%, 70% or 75%. \nIn some instance, binding is inhibited by at least 80%, 85%, 90%, 95%, 96% or 97%, 98%, 99% or more. \nPreferably, the extent of binding of an anti-beta klotho antibody to an unrelated, non-beta klotho protein is less than about 10% of the binding of the antibody to beta klotho as measured, for example, by fluorescence activated cell sorting (FACS) analysis or an immunoassay such as a radioimmunoassay (RIA). \nThus, an antibody that is substantially free of cellular material includes preparations of antibody having less than about 30%, 25%, 20%, 15%, 10%, 5%, or 1% (by dry weight) of heterologous protein (also referred to herein as a “contaminating protein”). \nIn certain embodiments, when the antibody is recombinantly produced, it is substantially free of culture medium, e.g., culture medium represents less than about 20%, 15%, 10%, 5%, or 1% of the volume of the protein preparation."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "beta klotho",
+        "binding_metric": "Kd",
+        "value": "0.1",
+        "unit": "nM",
+        "raw_mentions": "In certain embodiments, an antibody that binds to beta klotho, as described herein has a dissociation constant (Kd) of less than or equal to 10 nM, 9 nM, 8 nM, 7 nM, 6 nM, 5 nM, 4 nM, 0.9 nM, 0.8 nM, 0.7 nM, 0.6 nM, 0.5 nM, 0.4 nM, 0.3 nM, 0.2 nM, or 0.1 nM, and/or is greater than or equal to 0.1 nM. \nUsually, when a competing antibodies protein is present in excess, it will inhibit specific binding of a reference antibodies to a common antigen by at least 23%, for example 40%, 45%, 50%, 55%, 60%, 65%, 70% or 75%. \nIn some instance, binding is inhibited by at least 80%, 85%, 90%, 95%, 96% or 97%, 98%, 99% or more. \nPreferably, the extent of binding of an anti-beta klotho antibody to an unrelated, non-beta klotho protein is less than about 10% of the binding of the antibody to beta klotho as measured, for example, by fluorescence activated cell sorting (FACS) analysis or an immunoassay such as a radioimmunoassay (RIA). \nThus, an antibody that is substantially free of cellular material includes preparations of antibody having less than about 30%, 25%, 20%, 15%, 10%, 5%, or 1% (by dry weight) of heterologous protein (also referred to herein as a “contaminating protein”). \nIn certain embodiments, when the antibody is recombinantly produced, it is substantially free of culture medium, e.g., culture medium represents less than about 20%, 15%, 10%, 5%, or 1% of the volume of the protein preparation."
+    },
+    {
+        "molecule_name": "mAb",
+        "protein_target_name": "huKLB/R1c",
+        "binding_metric": "EC50",
+        "value": "27.9",
+        "unit": "pM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTABLE 6\nHEK293 huKLB/R1c    reporter assay EC50    mAb    (pM)\nControl    27.9    377.63\nI13    332.8    1985\n\nTABLE 7\nHEK293 cynoKLB/R1c    reporter assay EC50    mAb    (pM)\nControl    178.43\nI13    4    37.8"
+    },
+    {
+        "molecule_name": "mAb",
+        "protein_target_name": "huKLB/R1c",
+        "binding_metric": "EC50",
+        "value": "332.8",
+        "unit": "pM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTABLE 6\nHEK293 huKLB/R1c    reporter assay EC50    mAb    (pM)\nControl    27.9    377.63\nI13    332.8    1985\n\nTABLE 7\nHEK293 cynoKLB/R1c    reporter assay EC50    mAb    (pM)\nControl    178.43\nI13    4    37.8"
+    },
+    {
+        "molecule_name": "mAb",
+        "protein_target_name": "huKLB/R1c",
+        "binding_metric": "EC50",
+        "value": "377.63",
+        "unit": "pM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTABLE 6\nHEK293 huKLB/R1c    reporter assay EC50    mAb    (pM)\nControl    27.9    377.63\nI13    332.8    1985\n\nTABLE 7\nHEK293 cynoKLB/R1c    reporter assay EC50    mAb    (pM)\nControl    178.43\nI13    4    37.8"
+    },
+    {
+        "molecule_name": "mAb",
+        "protein_target_name": "huKLB/R1c",
+        "binding_metric": "EC50",
+        "value": "1985",
+        "unit": "pM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTABLE 6\nHEK293 huKLB/R1c    reporter assay EC50    mAb    (pM)\nControl    27.9    377.63\nI13    332.8    1985\n\nTABLE 7\nHEK293 cynoKLB/R1c    reporter assay EC50    mAb    (pM)\nControl    178.43\nI13    4    37.8"
+    },
+    {
+        "molecule_name": "mAb",
+        "protein_target_name": "cynoKLB/R1c",
+        "binding_metric": "EC50",
+        "value": "178.43",
+        "unit": "pM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTABLE 6\nHEK293 huKLB/R1c    reporter assay EC50    mAb    (pM)\nControl    27.9    377.63\nI13    332.8    1985\n\nTABLE 7\nHEK293 cynoKLB/R1c    reporter assay EC50    mAb    (pM)\nControl    178.43\nI13    4    37.8"
+    },
+    {
+        "molecule_name": "mAb",
+        "protein_target_name": "cynoKLB/R1c",
+        "binding_metric": "EC50",
+        "value": "4",
+        "unit": "pM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTABLE 6\nHEK293 huKLB/R1c    reporter assay EC50    mAb    (pM)\nControl    27.9    377.63\nI13    332.8    1985\n\nTABLE 7\nHEK293 cynoKLB/R1c    reporter assay EC50    mAb    (pM)\nControl    178.43\nI13    4    37.8"
+    },
+    {
+        "molecule_name": "mAb",
+        "protein_target_name": "cynoKLB/R1c",
+        "binding_metric": "EC50",
+        "value": "37.8",
+        "unit": "pM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTABLE 6\nHEK293 huKLB/R1c    reporter assay EC50    mAb    (pM)\nControl    27.9    377.63\nI13    332.8    1985\n\nTABLE 7\nHEK293 cynoKLB/R1c    reporter assay EC50    mAb    (pM)\nControl    178.43\nI13    4    37.8"
+    }
+]

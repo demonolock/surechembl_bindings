@@ -1,6 +1,0 @@
-{"raw_mentions": "with a Kd in the micromolar range or higher"}
-{"final_json": [{"molecule_name": null, "protein_target_name": null, "protein_uniprot_id": null, "protein_seq_id": null, "binding_metric": "Kd", "value": ">1", "unit": "uM"}]}
-{"raw_mentions": "An agent, such as a synthetic compound, that binds a trimeric protein, such as a TNF family protein, may bind with low affinity (with a Kd in the micromolar range or higher) ."}
-{"final_json": [{"molecule_name": "synthetic compound", "protein_target_name": "TNF family protein", "protein_uniprot_id": null, "protein_seq_id": null, "binding_metric": "Kd", "value": "> micromolar range", "unit": null}]}
-{"raw_mentions": "There are no sentences that meet the specified criteria. The text does not contain any sentences with a bioactivity metric (IC50, Ki, Kd, EC50), a specific numeric value, and a unit for that value."}
-{"raw_mentions": "There are no sentences that meet the specified criteria. The text does not contain any sentences with a bioactivity metric (IC50, Ki, Kd, EC50), a specific numeric value, and a unit for that value."}

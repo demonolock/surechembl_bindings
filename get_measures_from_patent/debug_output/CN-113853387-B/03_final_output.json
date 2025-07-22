@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "cell surface antigen",
+        "binding_metric": "KD",
+        "value": "<10^-8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe dissociation equilibrium constant (KD) of M binds to TSLP, e.g., in the present disclosure the affinity of an antibody to a cell surface antigen is determined by FACS or Biacore methods for KD values.\nTypically, the antibody is administered at a rate of about less than 10 <sup>-8</sup> M, e.g. less than about 10 <sup>-9</sup> M、10 <sup>-</sup><sup>10</sup> M、10 <sup>-11</sup> M、10 <sup>-12</sup> M or less affinity (KD) binding.\nTypically, the antibodies of the present disclosure are administered at less than about 10 <sup>-7</sup> M, e.g. less than about 10 <sup>-8</sup> M or 10 <sup>-9</sup>"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_name": "HCQ",
+        "protein_target_name": "nav1.5 ion channel",
+        "binding_metric": "IC50",
+        "value": "36.42",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences:\n\nThe results show that although HCQ has a weak inhibitory effect on the nav1.5 ion channel (IC50 ═ 36.42 μ M) (fig. 2F-G), the effect on this ion channel was clinically insignificant when IC50 was greater than 20 μ M according to FDA guidelines.\nvalue after the drug is added, and the positive result is Verapami (Verapamil) with the concentration of 30 mu M.\nAmitriptyline (Amitriptyline) at 10. mu.M served as a positive control."
+    }
+]

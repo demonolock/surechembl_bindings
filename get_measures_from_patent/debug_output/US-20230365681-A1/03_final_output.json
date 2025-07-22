@@ -1,0 +1,42 @@
+[
+    {
+        "molecule_name": "TPP-1360",
+        "protein_target_name": "human CD47 ECD",
+        "binding_metric": "Kd",
+        "value": "1.7",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nTPP-1360 was measured to have an affinity for human CD47 ECD of 1.7 μM Kd, which reflects ˜350× decrease in affinity relative to the parental anti-CD47 binder.\nThe TPP-1360 affinity for the cynomolgus CD47 ECD was found to be 4.51 μM Kd.\nFor cell line OCI-Ly3 (a DLBCL cell line), TPP-1360 was found to have an EC50=1.30 nM.\nFor the Raji cell line (a B-lymphocyte Burkitt's lymphoma cell line) TPP-1360 was found to have an EC50=1.64 nM.\nThe parental anti-CD47, TPP-23, was found to have an IC50 of 0.11 nM for blocking human SIRPα binding to OCI-Ly3 cells as shown in FIG. 21.\nFor the OCI-Ly3 cell line, TPP-1360 was found to have an IC50=1.4 nM.\nFor the Raji cell line, TPP-1360 was found to have an IC50=1.8 nM."
+    },
+    {
+        "molecule_name": "TPP-1360",
+        "protein_target_name": "cynomolgus CD47 ECD",
+        "binding_metric": "Kd",
+        "value": "4.51",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nTPP-1360 was measured to have an affinity for human CD47 ECD of 1.7 μM Kd, which reflects ˜350× decrease in affinity relative to the parental anti-CD47 binder.\nThe TPP-1360 affinity for the cynomolgus CD47 ECD was found to be 4.51 μM Kd.\nFor cell line OCI-Ly3 (a DLBCL cell line), TPP-1360 was found to have an EC50=1.30 nM.\nFor the Raji cell line (a B-lymphocyte Burkitt's lymphoma cell line) TPP-1360 was found to have an EC50=1.64 nM.\nThe parental anti-CD47, TPP-23, was found to have an IC50 of 0.11 nM for blocking human SIRPα binding to OCI-Ly3 cells as shown in FIG. 21.\nFor the OCI-Ly3 cell line, TPP-1360 was found to have an IC50=1.4 nM.\nFor the Raji cell line, TPP-1360 was found to have an IC50=1.8 nM."
+    },
+    {
+        "molecule_name": "TPP-23",
+        "protein_target_name": "human SIRPα",
+        "binding_metric": "IC50",
+        "value": "0.11",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nTPP-1360 was measured to have an affinity for human CD47 ECD of 1.7 μM Kd, which reflects ˜350× decrease in affinity relative to the parental anti-CD47 binder.\nThe TPP-1360 affinity for the cynomolgus CD47 ECD was found to be 4.51 μM Kd.\nFor cell line OCI-Ly3 (a DLBCL cell line), TPP-1360 was found to have an EC50=1.30 nM.\nFor the Raji cell line (a B-lymphocyte Burkitt's lymphoma cell line) TPP-1360 was found to have an EC50=1.64 nM.\nThe parental anti-CD47, TPP-23, was found to have an IC50 of 0.11 nM for blocking human SIRPα binding to OCI-Ly3 cells as shown in FIG. 21.\nFor the OCI-Ly3 cell line, TPP-1360 was found to have an IC50=1.4 nM.\nFor the Raji cell line, TPP-1360 was found to have an IC50=1.8 nM."
+    },
+    {
+        "molecule_name": "TPP-1360",
+        "protein_target_name": "CD47",
+        "binding_metric": "EC50",
+        "value": "1.30",
+        "unit": "nM",
+        "raw_mentions": "TPP-1360 potently and blocked recombinant human SIRPα-Fc binding to human CD47 expressed on the surface of CD20+/CD47+ lymphoma cell lines OCI-Ly3 and Raji, with average EC50 values of 1.30 nM and 1.64 nM, respectively."
+    },
+    {
+        "molecule_name": "TPP-1360",
+        "protein_target_name": "CD47",
+        "binding_metric": "EC50",
+        "value": "1.64",
+        "unit": "nM",
+        "raw_mentions": "TPP-1360 potently and blocked recombinant human SIRPα-Fc binding to human CD47 expressed on the surface of CD20+/CD47+ lymphoma cell lines OCI-Ly3 and Raji, with average EC50 values of 1.30 nM and 1.64 nM, respectively."
+    }
+]

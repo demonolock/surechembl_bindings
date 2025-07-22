@@ -1,0 +1,32 @@
+[
+    {
+        "molecule_name": "Exemplary compounds of the invention",
+        "protein_target_name": "CRTH2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "> 15",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nExemplary compounds of the invention displayed IC50 values as shown in Table I in the above-described ligand binding assay.\nTABLE IExample of CRTH2 activity.Example #CRTH2 Binding IC501++2++3++4+5++10+++12+++17++18+++31+33++35+++36++63++64+++67+++70+++73+++75+++77+++ IC50 > 15 μM++ 15 μM > IC50 > 1 μM+++ IC50 < 1 μM"
+    },
+    {
+        "molecule_name": "Example #2",
+        "protein_target_name": "CRTH2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "> 1",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nExemplary compounds of the invention displayed IC50 values as shown in Table I in the above-described ligand binding assay.\nTABLE IExample of CRTH2 activity.Example #CRTH2 Binding IC501++2++3++4+5++10+++12+++17++18+++31+33++35+++36++63++64+++67+++70+++73+++75+++77+++ IC50 > 15 μM++ 15 μM > IC50 > 1 μM+++ IC50 < 1 μM"
+    },
+    {
+        "molecule_name": "Example #3",
+        "protein_target_name": "CRTH2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "< 1",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nExemplary compounds of the invention displayed IC50 values as shown in Table I in the above-described ligand binding assay.\nTABLE IExample of CRTH2 activity.Example #CRTH2 Binding IC501++2++3++4+5++10+++12+++17++18+++31+33++35+++36++63++64+++67+++70+++73+++75+++77+++ IC50 > 15 μM++ 15 μM > IC50 > 1 μM+++ IC50 < 1 μM"
+    }
+]

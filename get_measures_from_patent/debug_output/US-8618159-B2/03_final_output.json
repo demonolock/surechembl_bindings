@@ -1,0 +1,58 @@
+[
+    {
+        "molecule_name": "Example No. 1",
+        "protein_target_name": "rhesus H3",
+        "binding_metric": "Ki",
+        "value": "2.06",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThese compounds display rhesus H3 affinity constants (Ki) in the range of 1 μM to &lt;1 nM.\nThe observed binding data for a few of the representative compounds of this invention are summarized in Table 1.\nTABLE 1Affinity: ki inInverse Agonism: %Rhesus H3inhibition of Basal GTPγSExample No.membrane (nM)binding in Rhesus H372.06−31520.77−17730.78−15861.42−18\nTABLE 2Affinity: ki in Rhesus H3Example No.membrane (nM)37.35120.8112.512147.2\nIn general the compounds of this invention exhibited a rhesus H3 binding ki value in the range of from about 400 nM to less than 1 nM, whereas the percent inhibition of ligand binding at MCH-1 receptor was less than 40% at 10 μM concentration."
+    },
+    {
+        "molecule_name": "Example No. 2",
+        "protein_target_name": "rhesus H3",
+        "binding_metric": "Ki",
+        "value": "20.77",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThese compounds display rhesus H3 affinity constants (Ki) in the range of 1 μM to &lt;1 nM.\nThe observed binding data for a few of the representative compounds of this invention are summarized in Table 1.\nTABLE 1Affinity: ki inInverse Agonism: %Rhesus H3inhibition of Basal GTPγSExample No.membrane (nM)binding in Rhesus H372.06−31520.77−17730.78−15861.42−18\nTABLE 2Affinity: ki in Rhesus H3Example No.membrane (nM)37.35120.8112.512147.2\nIn general the compounds of this invention exhibited a rhesus H3 binding ki value in the range of from about 400 nM to less than 1 nM, whereas the percent inhibition of ligand binding at MCH-1 receptor was less than 40% at 10 μM concentration."
+    },
+    {
+        "molecule_name": "Example No. 3",
+        "protein_target_name": "rhesus H3",
+        "binding_metric": "Ki",
+        "value": "30.78",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThese compounds display rhesus H3 affinity constants (Ki) in the range of 1 μM to &lt;1 nM.\nThe observed binding data for a few of the representative compounds of this invention are summarized in Table 1.\nTABLE 1Affinity: ki inInverse Agonism: %Rhesus H3inhibition of Basal GTPγSExample No.membrane (nM)binding in Rhesus H372.06−31520.77−17730.78−15861.42−18\nTABLE 2Affinity: ki in Rhesus H3Example No.membrane (nM)37.35120.8112.512147.2\nIn general the compounds of this invention exhibited a rhesus H3 binding ki value in the range of from about 400 nM to less than 1 nM, whereas the percent inhibition of ligand binding at MCH-1 receptor was less than 40% at 10 μM concentration."
+    },
+    {
+        "molecule_name": "Example No. 4",
+        "protein_target_name": "rhesus H3",
+        "binding_metric": "Ki",
+        "value": "61.42",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThese compounds display rhesus H3 affinity constants (Ki) in the range of 1 μM to &lt;1 nM.\nThe observed binding data for a few of the representative compounds of this invention are summarized in Table 1.\nTABLE 1Affinity: ki inInverse Agonism: %Rhesus H3inhibition of Basal GTPγSExample No.membrane (nM)binding in Rhesus H372.06−31520.77−17730.78−15861.42−18\nTABLE 2Affinity: ki in Rhesus H3Example No.membrane (nM)37.35120.8112.512147.2\nIn general the compounds of this invention exhibited a rhesus H3 binding ki value in the range of from about 400 nM to less than 1 nM, whereas the percent inhibition of ligand binding at MCH-1 receptor was less than 40% at 10 μM concentration."
+    },
+    {
+        "molecule_name": "Example No. 5",
+        "protein_target_name": "rhesus H3",
+        "binding_metric": "Ki",
+        "value": "120.81",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThese compounds display rhesus H3 affinity constants (Ki) in the range of 1 μM to &lt;1 nM.\nThe observed binding data for a few of the representative compounds of this invention are summarized in Table 1.\nTABLE 1Affinity: ki inInverse Agonism: %Rhesus H3inhibition of Basal GTPγSExample No.membrane (nM)binding in Rhesus H372.06−31520.77−17730.78−15861.42−18\nTABLE 2Affinity: ki in Rhesus H3Example No.membrane (nM)37.35120.8112.512147.2\nIn general the compounds of this invention exhibited a rhesus H3 binding ki value in the range of from about 400 nM to less than 1 nM, whereas the percent inhibition of ligand binding at MCH-1 receptor was less than 40% at 10 μM concentration."
+    },
+    {
+        "molecule_name": "Example No. 6",
+        "protein_target_name": "rhesus H3",
+        "binding_metric": "Ki",
+        "value": "12.51",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThese compounds display rhesus H3 affinity constants (Ki) in the range of 1 μM to &lt;1 nM.\nThe observed binding data for a few of the representative compounds of this invention are summarized in Table 1.\nTABLE 1Affinity: ki inInverse Agonism: %Rhesus H3inhibition of Basal GTPγSExample No.membrane (nM)binding in Rhesus H372.06−31520.77−17730.78−15861.42−18\nTABLE 2Affinity: ki in Rhesus H3Example No.membrane (nM)37.35120.8112.512147.2\nIn general the compounds of this invention exhibited a rhesus H3 binding ki value in the range of from about 400 nM to less than 1 nM, whereas the percent inhibition of ligand binding at MCH-1 receptor was less than 40% at 10 μM concentration."
+    },
+    {
+        "molecule_name": "Example No. 7",
+        "protein_target_name": "rhesus H3",
+        "binding_metric": "Ki",
+        "value": "147.2",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThese compounds display rhesus H3 affinity constants (Ki) in the range of 1 μM to &lt;1 nM.\nThe observed binding data for a few of the representative compounds of this invention are summarized in Table 1.\nTABLE 1Affinity: ki inInverse Agonism: %Rhesus H3inhibition of Basal GTPγSExample No.membrane (nM)binding in Rhesus H372.06−31520.77−17730.78−15861.42−18\nTABLE 2Affinity: ki in Rhesus H3Example No.membrane (nM)37.35120.8112.512147.2\nIn general the compounds of this invention exhibited a rhesus H3 binding ki value in the range of from about 400 nM to less than 1 nM, whereas the percent inhibition of ligand binding at MCH-1 receptor was less than 40% at 10 μM concentration."
+    }
+]

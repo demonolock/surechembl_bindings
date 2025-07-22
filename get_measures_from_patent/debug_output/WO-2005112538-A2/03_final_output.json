@@ -1,0 +1,26 @@
+[
+    {
+        "molecule_name": "LASSBio 772",
+        "protein_target_name": "Hi receptors",
+        "binding_metric": "IC50",
+        "value": "309",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nHowever, the evaluation of this compound in comparison to the contractions induced by histamine (100 microM), Hi receptors agonist, the compound LASSBio 772 (3 nM - 30 microM), was able to significantly inhibit contractions, showing an IC50 = 309 nM (IC50 = concentration able to inhibit 50% of the effect).\nBesides the observed effect in comparison to Hi receptors, it is valid to stress that alpha-adrenergic antagonist evaluation yielded an IC50 0,26 nM, while its Hi anti-histaminergic effect yielded an IC50 309 nM, that gives a selectivity ratio of about 1000 times for the alpha-adrenergic antagonist effect in relation to the H1 antagonist effect.\nThe preliminary results demonstrated high affinity of LASSBio 772 for the prostatic tissue with antagonist potency, pKB 9.30 (0.5 nM), corroborating its potential use as an antagonist for the prostatic obstruc \nIn this experiment the compound was evaluated for its capability to inhibit the relaxation produced by salbutamol (10° - 3,3 x10°5 M), beta 2 adrenergic agonist, in strips of cobaio trachea pre-contracted with carbacol (10 microM)."
+    },
+    {
+        "molecule_name": "LASSBio 772",
+        "protein_target_name": "alpha-adrenergic",
+        "binding_metric": "IC50",
+        "value": "0,26",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nHowever, the evaluation of this compound in comparison to the contractions induced by histamine (100 microM), Hi receptors agonist, the compound LASSBio 772 (3 nM - 30 microM), was able to significantly inhibit contractions, showing an IC50 = 309 nM (IC50 = concentration able to inhibit 50% of the effect).\nBesides the observed effect in comparison to Hi receptors, it is valid to stress that alpha-adrenergic antagonist evaluation yielded an IC50 0,26 nM, while its Hi anti-histaminergic effect yielded an IC50 309 nM, that gives a selectivity ratio of about 1000 times for the alpha-adrenergic antagonist effect in relation to the H1 antagonist effect.\nThe preliminary results demonstrated high affinity of LASSBio 772 for the prostatic tissue with antagonist potency, pKB 9.30 (0.5 nM), corroborating its potential use as an antagonist for the prostatic obstruc \nIn this experiment the compound was evaluated for its capability to inhibit the relaxation produced by salbutamol (10° - 3,3 x10°5 M), beta 2 adrenergic agonist, in strips of cobaio trachea pre-contracted with carbacol (10 microM)."
+    },
+    {
+        "molecule_name": "LASSBio 772",
+        "protein_target_name": "Hi receptors",
+        "binding_metric": "IC50",
+        "value": "309",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences:\n\nHowever, the evaluation of this compound in comparison to the contractions induced by histamine (100 microM), Hi receptors agonist, the compound LASSBio 772 (3 nM - 30 microM), was able to significantly inhibit contractions, showing an IC50 = 309 nM (IC50 = concentration able to inhibit 50% of the effect).\nBesides the observed effect in comparison to Hi receptors, it is valid to stress that alpha-adrenergic antagonist evaluation yielded an IC50 0,26 nM, while its Hi anti-histaminergic effect yielded an IC50 309 nM, that gives a selectivity ratio of about 1000 times for the alpha-adrenergic antagonist effect in relation to the H1 antagonist effect.\nThe preliminary results demonstrated high affinity of LASSBio 772 for the prostatic tissue with antagonist potency, pKB 9.30 (0.5 nM), corroborating its potential use as an antagonist for the prostatic obstruc \nIn this experiment the compound was evaluated for its capability to inhibit the relaxation produced by salbutamol (10° - 3,3 x10°5 M), beta 2 adrenergic agonist, in strips of cobaio trachea pre-contracted with carbacol (10 microM)."
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "molecule_name": "[3H]GW559090",
+        "protein_target_name": "human J6 cells",
+        "binding_metric": "Kd",
+        "value": "0.19",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n[3H]GW559090 binding to human J6 cells was saturable and was described in these experiments by a single binding site with mean Kd of 0.19 nM (0.08-0.43) (geometric mean and 95% CL) derived from 4 separate experiments.\nA single high affinity binding site for [3H] GW559090 was also shown in rat RBL-2H3 cells which express rat α4β1 , mean Kd 1.04 nM (0.58-1.89).\nGW559090 inhibited J6 cell adhesion to VCAM-1 in a monophasic fashion with a mean IC50 of 7.72 nM (2.39 -24.9).\nGW559090 also inhibited J6 cell adhesion to CS-1 with a mean IC50 of 8.04 nM (3.05-21.2) \nGW559090 inhibited RPMI 8866 cell adhesion to MAdCAM with an IC50 of 23.0 nM (20.0-26.4).\nGW559090 also inhibited RPMI 8866 binding to VCAM-1 , and CS-1 in a simple monoph manner with respective IC50s of 4.81 nM (2.82-8.20) and 24.5 nM (identical duplicate values).\nBinding (Kd) Human α4β1 0.19 nM \nRat α4β1 1.04 nM \nInhibition of cell α4β1 - VCAM-1 7.72 nM \nadhesion (IC50) α4β1 - CS-1 8.04 nM \nα4β7 - MAdCAM 23.0 nM \nNo significant inhibition was observed by the compound of formula I (at 10 μΜ) in radioligand binding assays on 53 receptors and 4 transporters in an MDS Pharma screen."
+    },
+    {
+        "molecule_name": "[3H] GW559090",
+        "protein_target_name": "rat α4β1",
+        "binding_metric": "Kd",
+        "value": "1.04",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n[3H]GW559090 binding to human J6 cells was saturable and was described in these experiments by a single binding site with mean Kd of 0.19 nM (0.08-0.43) (geometric mean and 95% CL) derived from 4 separate experiments.\nA single high affinity binding site for [3H] GW559090 was also shown in rat RBL-2H3 cells which express rat α4β1 , mean Kd 1.04 nM (0.58-1.89).\nGW559090 inhibited J6 cell adhesion to VCAM-1 in a monophasic fashion with a mean IC50 of 7.72 nM (2.39 -24.9).\nGW559090 also inhibited J6 cell adhesion to CS-1 with a mean IC50 of 8.04 nM (3.05-21.2) \nGW559090 inhibited RPMI 8866 cell adhesion to MAdCAM with an IC50 of 23.0 nM (20.0-26.4).\nGW559090 also inhibited RPMI 8866 binding to VCAM-1 , and CS-1 in a simple monoph manner with respective IC50s of 4.81 nM (2.82-8.20) and 24.5 nM (identical duplicate values).\nBinding (Kd) Human α4β1 0.19 nM \nRat α4β1 1.04 nM \nInhibition of cell α4β1 - VCAM-1 7.72 nM \nadhesion (IC50) α4β1 - CS-1 8.04 nM \nα4β7 - MAdCAM 23.0 nM \nNo significant inhibition was observed by the compound of formula I (at 10 μΜ) in radioligand binding assays on 53 receptors and 4 transporters in an MDS Pharma screen."
+    },
+    {
+        "molecule_name": "GW559090",
+        "protein_target_name": "J6 cell adhesion to VCAM-1",
+        "binding_metric": "IC50",
+        "value": "7.72",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n[3H]GW559090 binding to human J6 cells was saturable and was described in these experiments by a single binding site with mean Kd of 0.19 nM (0.08-0.43) (geometric mean and 95% CL) derived from 4 separate experiments.\nA single high affinity binding site for [3H] GW559090 was also shown in rat RBL-2H3 cells which express rat α4β1 , mean Kd 1.04 nM (0.58-1.89).\nGW559090 inhibited J6 cell adhesion to VCAM-1 in a monophasic fashion with a mean IC50 of 7.72 nM (2.39 -24.9).\nGW559090 also inhibited J6 cell adhesion to CS-1 with a mean IC50 of 8.04 nM (3.05-21.2) \nGW559090 inhibited RPMI 8866 cell adhesion to MAdCAM with an IC50 of 23.0 nM (20.0-26.4).\nGW559090 also inhibited RPMI 8866 binding to VCAM-1 , and CS-1 in a simple monoph manner with respective IC50s of 4.81 nM (2.82-8.20) and 24.5 nM (identical duplicate values).\nBinding (Kd) Human α4β1 0.19 nM \nRat α4β1 1.04 nM \nInhibition of cell α4β1 - VCAM-1 7.72 nM \nadhesion (IC50) α4β1 - CS-1 8.04 nM \nα4β7 - MAdCAM 23.0 nM \nNo significant inhibition was observed by the compound of formula I (at 10 μΜ) in radioligand binding assays on 53 receptors and 4 transporters in an MDS Pharma screen."
+    },
+    {
+        "molecule_name": "GW559090",
+        "protein_target_name": "J6 cell adhesion to CS-1",
+        "binding_metric": "IC50",
+        "value": "8.04",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n[3H]GW559090 binding to human J6 cells was saturable and was described in these experiments by a single binding site with mean Kd of 0.19 nM (0.08-0.43) (geometric mean and 95% CL) derived from 4 separate experiments.\nA single high affinity binding site for [3H] GW559090 was also shown in rat RBL-2H3 cells which express rat α4β1 , mean Kd 1.04 nM (0.58-1.89).\nGW559090 inhibited J6 cell adhesion to VCAM-1 in a monophasic fashion with a mean IC50 of 7.72 nM (2.39 -24.9).\nGW559090 also inhibited J6 cell adhesion to CS-1 with a mean IC50 of 8.04 nM (3.05-21.2) \nGW559090 inhibited RPMI 8866 cell adhesion to MAdCAM with an IC50 of 23.0 nM (20.0-26.4).\nGW559090 also inhibited RPMI 8866 binding to VCAM-1 , and CS-1 in a simple monoph manner with respective IC50s of 4.81 nM (2.82-8.20) and 24.5 nM (identical duplicate values).\nBinding (Kd) Human α4β1 0.19 nM \nRat α4β1 1.04 nM \nInhibition of cell α4β1 - VCAM-1 7.72 nM \nadhesion (IC50) α4β1 - CS-1 8.04 nM \nα4β7 - MAdCAM 23.0 nM \nNo significant inhibition was observed by the compound of formula I (at 10 μΜ) in radioligand binding assays on 53 receptors and 4 transporters in an MDS Pharma screen."
+    },
+    {
+        "molecule_name": "GW559090",
+        "protein_target_name": "RPMI 8866 cell adhesion to MAdCAM",
+        "binding_metric": "IC50",
+        "value": "23.0",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n[3H]GW559090 binding to human J6 cells was saturable and was described in these experiments by a single binding site with mean Kd of 0.19 nM (0.08-0.43) (geometric mean and 95% CL) derived from 4 separate experiments.\nA single high affinity binding site for [3H] GW559090 was also shown in rat RBL-2H3 cells which express rat α4β1 , mean Kd 1.04 nM (0.58-1.89).\nGW559090 inhibited J6 cell adhesion to VCAM-1 in a monophasic fashion with a mean IC50 of 7.72 nM (2.39 -24.9).\nGW559090 also inhibited J6 cell adhesion to CS-1 with a mean IC50 of 8.04 nM (3.05-21.2) \nGW559090 inhibited RPMI 8866 cell adhesion to MAdCAM with an IC50 of 23.0 nM (20.0-26.4).\nGW559090 also inhibited RPMI 8866 binding to VCAM-1 , and CS-1 in a simple monoph manner with respective IC50s of 4.81 nM (2.82-8.20) and 24.5 nM (identical duplicate values).\nBinding (Kd) Human α4β1 0.19 nM \nRat α4β1 1.04 nM \nInhibition of cell α4β1 - VCAM-1 7.72 nM \nadhesion (IC50) α4β1 - CS-1 8.04 nM \nα4β7 - MAdCAM 23.0 nM \nNo significant inhibition was observed by the compound of formula I (at 10 μΜ) in radioligand binding assays on 53 receptors and 4 transporters in an MDS Pharma screen."
+    },
+    {
+        "molecule_name": "GW559090",
+        "protein_target_name": "RPMI 8866 binding to VCAM-1",
+        "binding_metric": "IC50",
+        "value": "4.81",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n[3H]GW559090 binding to human J6 cells was saturable and was described in these experiments by a single binding site with mean Kd of 0.19 nM (0.08-0.43) (geometric mean and 95% CL) derived from 4 separate experiments.\nA single high affinity binding site for [3H] GW559090 was also shown in rat RBL-2H3 cells which express rat α4β1 , mean Kd 1.04 nM (0.58-1.89).\nGW559090 inhibited J6 cell adhesion to VCAM-1 in a monophasic fashion with a mean IC50 of 7.72 nM (2.39 -24.9).\nGW559090 also inhibited J6 cell adhesion to CS-1 with a mean IC50 of 8.04 nM (3.05-21.2) \nGW559090 inhibited RPMI 8866 cell adhesion to MAdCAM with an IC50 of 23.0 nM (20.0-26.4).\nGW559090 also inhibited RPMI 8866 binding to VCAM-1 , and CS-1 in a simple monoph manner with respective IC50s of 4.81 nM (2.82-8.20) and 24.5 nM (identical duplicate values).\nBinding (Kd) Human α4β1 0.19 nM \nRat α4β1 1.04 nM \nInhibition of cell α4β1 - VCAM-1 7.72 nM \nadhesion (IC50) α4β1 - CS-1 8.04 nM \nα4β7 - MAdCAM 23.0 nM \nNo significant inhibition was observed by the compound of formula I (at 10 μΜ) in radioligand binding assays on 53 receptors and 4 transporters in an MDS Pharma screen."
+    },
+    {
+        "molecule_name": "GW559090",
+        "protein_target_name": "RPMI 8866 binding to CS-1",
+        "binding_metric": "IC50",
+        "value": "24.5",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n[3H]GW559090 binding to human J6 cells was saturable and was described in these experiments by a single binding site with mean Kd of 0.19 nM (0.08-0.43) (geometric mean and 95% CL) derived from 4 separate experiments.\nA single high affinity binding site for [3H] GW559090 was also shown in rat RBL-2H3 cells which express rat α4β1 , mean Kd 1.04 nM (0.58-1.89).\nGW559090 inhibited J6 cell adhesion to VCAM-1 in a monophasic fashion with a mean IC50 of 7.72 nM (2.39 -24.9).\nGW559090 also inhibited J6 cell adhesion to CS-1 with a mean IC50 of 8.04 nM (3.05-21.2) \nGW559090 inhibited RPMI 8866 cell adhesion to MAdCAM with an IC50 of 23.0 nM (20.0-26.4).\nGW559090 also inhibited RPMI 8866 binding to VCAM-1 , and CS-1 in a simple monoph manner with respective IC50s of 4.81 nM (2.82-8.20) and 24.5 nM (identical duplicate values).\nBinding (Kd) Human α4β1 0.19 nM \nRat α4β1 1.04 nM \nInhibition of cell α4β1 - VCAM-1 7.72 nM \nadhesion (IC50) α4β1 - CS-1 8.04 nM \nα4β7 - MAdCAM 23.0 nM \nNo significant inhibition was observed by the compound of formula I (at 10 μΜ) in radioligand binding assays on 53 receptors and 4 transporters in an MDS Pharma screen."
+    },
+    {
+        "molecule_name": "GW559090",
+        "protein_target_name": "Human α4β1",
+        "binding_metric": "Kd",
+        "value": "0.19",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n[3H]GW559090 binding to human J6 cells was saturable and was described in these experiments by a single binding site with mean Kd of 0.19 nM (0.08-0.43) (geometric mean and 95% CL) derived from 4 separate experiments.\nA single high affinity binding site for [3H] GW559090 was also shown in rat RBL-2H3 cells which express rat α4β1 , mean Kd 1.04 nM (0.58-1.89).\nGW559090 inhibited J6 cell adhesion to VCAM-1 in a monophasic fashion with a mean IC50 of 7.72 nM (2.39 -24.9).\nGW559090 also inhibited J6 cell adhesion to CS-1 with a mean IC50 of 8.04 nM (3.05-21.2) \nGW559090 inhibited RPMI 8866 cell adhesion to MAdCAM with an IC50 of 23.0 nM (20.0-26.4).\nGW559090 also inhibited RPMI 8866 binding to VCAM-1 , and CS-1 in a simple monoph manner with respective IC50s of 4.81 nM (2.82-8.20) and 24.5 nM (identical duplicate values).\nBinding (Kd) Human α4β1 0.19 nM \nRat α4β1 1.04 nM \nInhibition of cell α4β1 - VCAM-1 7.72 nM \nadhesion (IC50) α4β1 - CS-1 8.04 nM \nα4β7 - MAdCAM 23.0 nM \nNo significant inhibition was observed by the compound of formula I (at 10 μΜ) in radioligand binding assays on 53 receptors and 4 transporters in an MDS Pharma screen."
+    },
+    {
+        "molecule_name": "GW559090",
+        "protein_target_name": "Rat α4β1",
+        "binding_metric": "Kd",
+        "value": "1.04",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n[3H]GW559090 binding to human J6 cells was saturable and was described in these experiments by a single binding site with mean Kd of 0.19 nM (0.08-0.43) (geometric mean and 95% CL) derived from 4 separate experiments.\nA single high affinity binding site for [3H] GW559090 was also shown in rat RBL-2H3 cells which express rat α4β1 , mean Kd 1.04 nM (0.58-1.89).\nGW559090 inhibited J6 cell adhesion to VCAM-1 in a monophasic fashion with a mean IC50 of 7.72 nM (2.39 -24.9).\nGW559090 also inhibited J6 cell adhesion to CS-1 with a mean IC50 of 8.04 nM (3.05-21.2) \nGW559090 inhibited RPMI 8866 cell adhesion to MAdCAM with an IC50 of 23.0 nM (20.0-26.4).\nGW559090 also inhibited RPMI 8866 binding to VCAM-1 , and CS-1 in a simple monoph manner with respective IC50s of 4.81 nM (2.82-8.20) and 24.5 nM (identical duplicate values).\nBinding (Kd) Human α4β1 0.19 nM \nRat α4β1 1.04 nM \nInhibition of cell α4β1 - VCAM-1 7.72 nM \nadhesion (IC50) α4β1 - CS-1 8.04 nM \nα4β7 - MAdCAM 23.0 nM \nNo significant inhibition was observed by the compound of formula I (at 10 μΜ) in radioligand binding assays on 53 receptors and 4 transporters in an MDS Pharma screen."
+    },
+    {
+        "molecule_name": "GW559090",
+        "protein_target_name": "α4β1 - VCAM-1",
+        "binding_metric": "IC50",
+        "value": "7.72",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n[3H]GW559090 binding to human J6 cells was saturable and was described in these experiments by a single binding site with mean Kd of 0.19 nM (0.08-0.43) (geometric mean and 95% CL) derived from 4 separate experiments.\nA single high affinity binding site for [3H] GW559090 was also shown in rat RBL-2H3 cells which express rat α4β1 , mean Kd 1.04 nM (0.58-1.89).\nGW559090 inhibited J6 cell adhesion to VCAM-1 in a monophasic fashion with a mean IC50 of 7.72 nM (2.39 -24.9).\nGW559090 also inhibited J6 cell adhesion to CS-1 with a mean IC50 of 8.04 nM (3.05-21.2) \nGW559090 inhibited RPMI 8866 cell adhesion to MAdCAM with an IC50 of 23.0 nM (20.0-26.4).\nGW559090 also inhibited RPMI 8866 binding to VCAM-1 , and CS-1 in a simple monoph manner with respective IC50s of 4.81 nM (2.82-8.20) and 24.5 nM (identical duplicate values).\nBinding (Kd) Human α4β1 0.19 nM \nRat α4β1 1.04 nM \nInhibition of cell α4β1 - VCAM-1 7.72 nM \nadhesion (IC50) α4β1 - CS-1 8.04 nM \nα4β7 - MAdCAM 23.0 nM \nNo significant inhibition was observed by the compound of formula I (at 10 μΜ) in radioligand binding assays on 53 receptors and 4 transporters in an MDS Pharma screen."
+    },
+    {
+        "molecule_name": "GW559090",
+        "protein_target_name": "α4β1 - CS-1",
+        "binding_metric": "IC50",
+        "value": "8.04",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n[3H]GW559090 binding to human J6 cells was saturable and was described in these experiments by a single binding site with mean Kd of 0.19 nM (0.08-0.43) (geometric mean and 95% CL) derived from 4 separate experiments.\nA single high affinity binding site for [3H] GW559090 was also shown in rat RBL-2H3 cells which express rat α4β1 , mean Kd 1.04 nM (0.58-1.89).\nGW559090 inhibited J6 cell adhesion to VCAM-1 in a monophasic fashion with a mean IC50 of 7.72 nM (2.39 -24.9).\nGW559090 also inhibited J6 cell adhesion to CS-1 with a mean IC50 of 8.04 nM (3.05-21.2) \nGW559090 inhibited RPMI 8866 cell adhesion to MAdCAM with an IC50 of 23.0 nM (20.0-26.4).\nGW559090 also inhibited RPMI 8866 binding to VCAM-1 , and CS-1 in a simple monoph manner with respective IC50s of 4.81 nM (2.82-8.20) and 24.5 nM (identical duplicate values).\nBinding (Kd) Human α4β1 0.19 nM \nRat α4β1 1.04 nM \nInhibition of cell α4β1 - VCAM-1 7.72 nM \nadhesion (IC50) α4β1 - CS-1 8.04 nM \nα4β7 - MAdCAM 23.0 nM \nNo significant inhibition was observed by the compound of formula I (at 10 μΜ) in radioligand binding assays on 53 receptors and 4 transporters in an MDS Pharma screen."
+    },
+    {
+        "molecule_name": "GW559090",
+        "protein_target_name": "α4β7 - MAdCAM",
+        "binding_metric": "IC50",
+        "value": "23.0",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n[3H]GW559090 binding to human J6 cells was saturable and was described in these experiments by a single binding site with mean Kd of 0.19 nM (0.08-0.43) (geometric mean and 95% CL) derived from 4 separate experiments.\nA single high affinity binding site for [3H] GW559090 was also shown in rat RBL-2H3 cells which express rat α4β1 , mean Kd 1.04 nM (0.58-1.89).\nGW559090 inhibited J6 cell adhesion to VCAM-1 in a monophasic fashion with a mean IC50 of 7.72 nM (2.39 -24.9).\nGW559090 also inhibited J6 cell adhesion to CS-1 with a mean IC50 of 8.04 nM (3.05-21.2) \nGW559090 inhibited RPMI 8866 cell adhesion to MAdCAM with an IC50 of 23.0 nM (20.0-26.4).\nGW559090 also inhibited RPMI 8866 binding to VCAM-1 , and CS-1 in a simple monoph manner with respective IC50s of 4.81 nM (2.82-8.20) and 24.5 nM (identical duplicate values).\nBinding (Kd) Human α4β1 0.19 nM \nRat α4β1 1.04 nM \nInhibition of cell α4β1 - VCAM-1 7.72 nM \nadhesion (IC50) α4β1 - CS-1 8.04 nM \nα4β7 - MAdCAM 23.0 nM \nNo significant inhibition was observed by the compound of formula I (at 10 μΜ) in radioligand binding assays on 53 receptors and 4 transporters in an MDS Pharma screen."
+    }
+]

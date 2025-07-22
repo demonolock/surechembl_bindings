@@ -1,0 +1,92 @@
+[
+    {
+        "molecule_name": "compounds of this invention",
+        "protein_target_name": "AT1 receptor",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "pIC50",
+        "value": "7.0-10.0",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe compounds of this invention has AT <sub>1</sub> receptor antagonist activity and NEP suppress, so described compound also can be used as research tool with pIC <sub>50</sub> of about 7.0-10.0.\nOther compound of interest comprises that those have the AT <sub>1</sub> Receptors bind pK <sub>i</sub> With more than or equal to about 7.0 NEP enzyme pIC <sub>50</sub>."
+    },
+    {
+        "molecule_name": "Other compound of interest",
+        "protein_target_name": "AT1 Receptors",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "pKi",
+        "value": ">= 7.0",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe compounds of this invention has AT <sub>1</sub> receptor antagonist activity and NEP suppress, so described compound also can be used as research tool with pIC <sub>50</sub> of about 7.0-10.0.\nOther compound of interest comprises that those have the AT <sub>1</sub> Receptors bind pK <sub>i</sub> With more than or equal to about 7.0 NEP enzyme pIC <sub>50</sub>."
+    },
+    {
+        "molecule_name": "compound of this invention",
+        "protein_target_name": "AT1 Acceptor",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "pKi",
+        "value": ">=5.0",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe compounds of this invention of receptor antagonist activity and NEP enzyme inhibition activity, it comprises that those are to AT\n          <sub>1</sub>Acceptor presents the pK more than or equal to about 5.0\n          <sub>i</sub>And NEP is presented pIC more than or equal to about 5.0\n          <sub>50</sub>Compound.\nIn one embodiment, compound of interest is to AT\n          <sub>1</sub>Acceptor has 〉=about 6.0 pK\n          <sub>i</sub>, to AT\n          <sub>1</sub>Acceptor has 〉=about 7.0 pK\n          <sub>i</sub>, or to AT\n          <sub>1</sub>Acceptor has 〉=about 8.0 pK\n          <sub>i</sub>Compound of interest comprises that also those have pIC for NEP\n          <sub>50</sub>〉=about 6.0 or have pIC for NEP\n          <sub>50</sub>〉=about 7.0 compound."
+    },
+    {
+        "molecule_name": "compound of this invention",
+        "protein_target_name": "NEP",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "pIC50",
+        "value": ">=5.0",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe compounds of this invention of receptor antagonist activity and NEP enzyme inhibition activity, it comprises that those are to AT\n          <sub>1</sub>Acceptor presents the pK more than or equal to about 5.0\n          <sub>i</sub>And NEP is presented pIC more than or equal to about 5.0\n          <sub>50</sub>Compound.\nIn one embodiment, compound of interest is to AT\n          <sub>1</sub>Acceptor has 〉=about 6.0 pK\n          <sub>i</sub>, to AT\n          <sub>1</sub>Acceptor has 〉=about 7.0 pK\n          <sub>i</sub>, or to AT\n          <sub>1</sub>Acceptor has 〉=about 8.0 pK\n          <sub>i</sub>Compound of interest comprises that also those have pIC for NEP\n          <sub>50</sub>〉=about 6.0 or have pIC for NEP\n          <sub>50</sub>〉=about 7.0 compound."
+    },
+    {
+        "molecule_name": "compound of interest",
+        "protein_target_name": "AT1 Acceptor",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "pKi",
+        "value": ">=6.0",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe compounds of this invention of receptor antagonist activity and NEP enzyme inhibition activity, it comprises that those are to AT\n          <sub>1</sub>Acceptor presents the pK more than or equal to about 5.0\n          <sub>i</sub>And NEP is presented pIC more than or equal to about 5.0\n          <sub>50</sub>Compound.\nIn one embodiment, compound of interest is to AT\n          <sub>1</sub>Acceptor has 〉=about 6.0 pK\n          <sub>i</sub>, to AT\n          <sub>1</sub>Acceptor has 〉=about 7.0 pK\n          <sub>i</sub>, or to AT\n          <sub>1</sub>Acceptor has 〉=about 8.0 pK\n          <sub>i</sub>Compound of interest comprises that also those have pIC for NEP\n          <sub>50</sub>〉=about 6.0 or have pIC for NEP\n          <sub>50</sub>〉=about 7.0 compound."
+    },
+    {
+        "molecule_name": "compound of interest",
+        "protein_target_name": "AT1 Acceptor",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "pKi",
+        "value": ">=7.0",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe compounds of this invention of receptor antagonist activity and NEP enzyme inhibition activity, it comprises that those are to AT\n          <sub>1</sub>Acceptor presents the pK more than or equal to about 5.0\n          <sub>i</sub>And NEP is presented pIC more than or equal to about 5.0\n          <sub>50</sub>Compound.\nIn one embodiment, compound of interest is to AT\n          <sub>1</sub>Acceptor has 〉=about 6.0 pK\n          <sub>i</sub>, to AT\n          <sub>1</sub>Acceptor has 〉=about 7.0 pK\n          <sub>i</sub>, or to AT\n          <sub>1</sub>Acceptor has 〉=about 8.0 pK\n          <sub>i</sub>Compound of interest comprises that also those have pIC for NEP\n          <sub>50</sub>〉=about 6.0 or have pIC for NEP\n          <sub>50</sub>〉=about 7.0 compound."
+    },
+    {
+        "molecule_name": "compound of interest",
+        "protein_target_name": "AT1 Acceptor",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "pKi",
+        "value": ">=8.0",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe compounds of this invention of receptor antagonist activity and NEP enzyme inhibition activity, it comprises that those are to AT\n          <sub>1</sub>Acceptor presents the pK more than or equal to about 5.0\n          <sub>i</sub>And NEP is presented pIC more than or equal to about 5.0\n          <sub>50</sub>Compound.\nIn one embodiment, compound of interest is to AT\n          <sub>1</sub>Acceptor has 〉=about 6.0 pK\n          <sub>i</sub>, to AT\n          <sub>1</sub>Acceptor has 〉=about 7.0 pK\n          <sub>i</sub>, or to AT\n          <sub>1</sub>Acceptor has 〉=about 8.0 pK\n          <sub>i</sub>Compound of interest comprises that also those have pIC for NEP\n          <sub>50</sub>〉=about 6.0 or have pIC for NEP\n          <sub>50</sub>〉=about 7.0 compound."
+    },
+    {
+        "molecule_name": "compound of interest",
+        "protein_target_name": "NEP",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "pIC50",
+        "value": ">=6.0",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe compounds of this invention of receptor antagonist activity and NEP enzyme inhibition activity, it comprises that those are to AT\n          <sub>1</sub>Acceptor presents the pK more than or equal to about 5.0\n          <sub>i</sub>And NEP is presented pIC more than or equal to about 5.0\n          <sub>50</sub>Compound.\nIn one embodiment, compound of interest is to AT\n          <sub>1</sub>Acceptor has 〉=about 6.0 pK\n          <sub>i</sub>, to AT\n          <sub>1</sub>Acceptor has 〉=about 7.0 pK\n          <sub>i</sub>, or to AT\n          <sub>1</sub>Acceptor has 〉=about 8.0 pK\n          <sub>i</sub>Compound of interest comprises that also those have pIC for NEP\n          <sub>50</sub>〉=about 6.0 or have pIC for NEP\n          <sub>50</sub>〉=about 7.0 compound."
+    },
+    {
+        "molecule_name": "compound of interest",
+        "protein_target_name": "NEP",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "pIC50",
+        "value": ">=7.0",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe compounds of this invention of receptor antagonist activity and NEP enzyme inhibition activity, it comprises that those are to AT\n          <sub>1</sub>Acceptor presents the pK more than or equal to about 5.0\n          <sub>i</sub>And NEP is presented pIC more than or equal to about 5.0\n          <sub>50</sub>Compound.\nIn one embodiment, compound of interest is to AT\n          <sub>1</sub>Acceptor has 〉=about 6.0 pK\n          <sub>i</sub>, to AT\n          <sub>1</sub>Acceptor has 〉=about 7.0 pK\n          <sub>i</sub>, or to AT\n          <sub>1</sub>Acceptor has 〉=about 8.0 pK\n          <sub>i</sub>Compound of interest comprises that also those have pIC for NEP\n          <sub>50</sub>〉=about 6.0 or have pIC for NEP\n          <sub>50</sub>〉=about 7.0 compound."
+    }
+]

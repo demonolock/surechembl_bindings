@@ -1,0 +1,42 @@
+[
+    {
+        "molecule_name": "Example 10",
+        "protein_target_name": "dipeptidylpeptidase IV",
+        "binding_metric": "IC50",
+        "value": "2.5",
+        "unit": "nmol/L",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Example 10. 2 5\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Example 90. 48\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Example 100. 2 3\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Example 110. 1 3\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Compound A3. 3\nInhibition of plasma dipeptidylpeptidase IV activity by oral administrationTest compound% inhibitionExample 11 0 0\nInhibition of plasma dipeptidylpeptidase IV activity by oral administrationTest compound% inhibitionExample 99 4\nInhibition of plasma dipeptidylpeptidase IV activity by oral administrationTest compound% inhibitionExample 119 3\nInhibition of plasma dipeptidylpeptidase IV activity by oral administrationTest compound% inhibitionCompound A8 1"
+    },
+    {
+        "molecule_name": "Example 90",
+        "protein_target_name": "dipeptidylpeptidase IV",
+        "binding_metric": "IC50",
+        "value": "0.48",
+        "unit": "nmol/L",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Example 10. 2 5\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Example 90. 48\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Example 100. 2 3\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Example 110. 1 3\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Compound A3. 3\nInhibition of plasma dipeptidylpeptidase IV activity by oral administrationTest compound% inhibitionExample 11 0 0\nInhibition of plasma dipeptidylpeptidase IV activity by oral administrationTest compound% inhibitionExample 99 4\nInhibition of plasma dipeptidylpeptidase IV activity by oral administrationTest compound% inhibitionExample 119 3\nInhibition of plasma dipeptidylpeptidase IV activity by oral administrationTest compound% inhibitionCompound A8 1"
+    },
+    {
+        "molecule_name": "Example 100",
+        "protein_target_name": "dipeptidylpeptidase IV",
+        "binding_metric": "IC50",
+        "value": "0.23",
+        "unit": "nmol/L",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Example 10. 2 5\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Example 90. 48\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Example 100. 2 3\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Example 110. 1 3\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Compound A3. 3\nInhibition of plasma dipeptidylpeptidase IV activity by oral administrationTest compound% inhibitionExample 11 0 0\nInhibition of plasma dipeptidylpeptidase IV activity by oral administrationTest compound% inhibitionExample 99 4\nInhibition of plasma dipeptidylpeptidase IV activity by oral administrationTest compound% inhibitionExample 119 3\nInhibition of plasma dipeptidylpeptidase IV activity by oral administrationTest compound% inhibitionCompound A8 1"
+    },
+    {
+        "molecule_name": "Example 110",
+        "protein_target_name": "dipeptidylpeptidase IV",
+        "binding_metric": "IC50",
+        "value": "0.13",
+        "unit": "nmol/L",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Example 10. 2 5\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Example 90. 48\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Example 100. 2 3\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Example 110. 1 3\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Compound A3. 3\nInhibition of plasma dipeptidylpeptidase IV activity by oral administrationTest compound% inhibitionExample 11 0 0\nInhibition of plasma dipeptidylpeptidase IV activity by oral administrationTest compound% inhibitionExample 99 4\nInhibition of plasma dipeptidylpeptidase IV activity by oral administrationTest compound% inhibitionExample 119 3\nInhibition of plasma dipeptidylpeptidase IV activity by oral administrationTest compound% inhibitionCompound A8 1"
+    },
+    {
+        "molecule_name": "Compound A",
+        "protein_target_name": "dipeptidylpeptidase IV",
+        "binding_metric": "IC50",
+        "value": "3.3",
+        "unit": "nmol/L",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Example 10. 2 5\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Example 90. 48\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Example 100. 2 3\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Example 110. 1 3\nIn vitro dipeptidylpeptidase IV inhibitory activityTest compoundIC 5 0 (nmol/L)Compound A3. 3\nInhibition of plasma dipeptidylpeptidase IV activity by oral administrationTest compound% inhibitionExample 11 0 0\nInhibition of plasma dipeptidylpeptidase IV activity by oral administrationTest compound% inhibitionExample 99 4\nInhibition of plasma dipeptidylpeptidase IV activity by oral administrationTest compound% inhibitionExample 119 3\nInhibition of plasma dipeptidylpeptidase IV activity by oral administrationTest compound% inhibitionCompound A8 1"
+    }
+]

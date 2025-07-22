@@ -1,0 +1,115 @@
+import json
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import requests
+import shelve
+
+input_file = "input/final_json.json"
+output_file = "output/final_inchi_seq.json"
+
+# File paths for caches
+inchi_key_cache_file = "output/inchi_key_cache.db"
+sequence_cache_file = "output/sequence_cache.db"
+
+def skip_nulls(row):
+    return not (row.get('molecule_name') and
+                row.get('protein_target_name') and
+                row.get('binding_metric') and
+                row.get('value') and
+                row.get('unit') and
+                row.get('patent_number'))
+
+def wrong_metric(row):
+    metric = row.get('binding_metric', '').replace(' ', '').lower().strip()
+    return metric not in ['kd', 'ki', 'ic50', 'ec50']
+
+def name_to_inchi_key(name, inchi_key_cache):
+    if name in inchi_key_cache:
+        return inchi_key_cache[name]
+    url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/{name}/cids/JSON"
+    resp = requests.get(url)
+    if not resp.ok:
+        inchi_key_cache[name] = None
+        return None
+    cids = resp.json().get('IdentifierList', {}).get('CID', [])
+    if not cids:
+        inchi_key_cache[name] = None
+        return None
+    cid = cids[0]
+    url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/{cid}/property/InChIKey/JSON"
+    resp = requests.get(url)
+    if not resp.ok:
+        inchi_key_cache[name] = None
+        return None
+    props = resp.json()['PropertyTable']['Properties'][0]
+    inchi_key = props.get('InChIKey')
+    inchi_key_cache[name] = inchi_key
+    return inchi_key
+
+def get_sequence_uniprot(protein_name, sequence_cache):
+    if protein_name in sequence_cache:
+        return sequence_cache[protein_name]
+    url = f"https://rest.uniprot.org/uniprotkb/search?query={protein_name}&format=json&fields=accession"
+    resp = requests.get(url)
+    if not resp.ok or not resp.json().get("results"):
+        sequence_cache[protein_name] = None
+        return None
+    accession = resp.json()["results"][0]["primaryAccession"]
+    seq_url = f"https://rest.uniprot.org/uniprotkb/{accession}.fasta"
+    seq_resp = requests.get(seq_url)
+    if not seq_resp.ok:
+        sequence_cache[protein_name] = None
+        return None
+    fasta = seq_resp.text
+    lines = fasta.splitlines()
+    sequence = "".join(line.strip() for line in lines if not line.startswith(">"))
+    sequence_cache[protein_name] = sequence
+    return sequence
+
+def process_one(result, inchi_key_cache, sequence_cache):
+    inchi_key = None
+    sequence = None
+    molecule_name = result.get('molecule_name')
+    if molecule_name:
+        inchi_key = name_to_inchi_key(molecule_name, inchi_key_cache)
+    target_name = result.get('protein_target_name')
+    if target_name:
+        sequence = get_sequence_uniprot(target_name, sequence_cache)
+    result['Ligand InChI Key'] = inchi_key
+    result['Sequence'] = sequence
+    return result
+
+if __name__ == "__main__":
+    with open(input_file, 'r', encoding='utf-8') as f:
+        results = json.load(f)
+
+    max_workers = 16
+    updated_results = []
+
+    # Open shelve persistent caches
+    with shelve.open(inchi_key_cache_file, writeback=True) as inchi_key_cache, \
+         shelve.open(sequence_cache_file, writeback=True) as sequence_cache:
+
+        def process_wrapper(result):
+            return process_one(result, inchi_key_cache, sequence_cache)
+
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            futures = []
+            for result in results:
+                if not isinstance(result, dict) or skip_nulls(result) or wrong_metric(result):
+                    print(f"Skip the row: {result}")
+                    continue
+                futures.append(executor.submit(process_wrapper, result))
+            for future in as_completed(futures):
+                try:
+                    updated_result = future.result()
+                    updated_results.append(updated_result)
+                    print(f"Add the row: {updated_result}")
+                except Exception as e:
+                    print(f"Error processing result: {e}")
+
+        # Explicitly sync caches to disk
+        inchi_key_cache.sync()
+        sequence_cache.sync()
+
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(updated_results, f, ensure_ascii=False, indent=2)

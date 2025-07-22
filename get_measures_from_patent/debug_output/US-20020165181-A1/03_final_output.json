@@ -1,0 +1,32 @@
+[
+    {
+        "molecule_name": "ISIS 11159",
+        "protein_target_name": "Albumin",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "25",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe oligomers are presumably working by a direct binding RNase H independent mechanism is not relevant, however: \nTABLE VComparative Plasma Pharmacokinetic ParametersPK ParameterISIS 11159ISIS 18268ISIS 11158Cl<sub>p </sub>(ml/min)2.176.869.62T<sub>½</sub> distrib. (min)22128Albumin Kd* (μM)25280450Percent Excreted51348in Urine\nAlbumin Kd* (μM) for ISIS 11159 is 25 μM\nAlbumin Kd* (μM) for ISIS 18268 is 280 μM\nAlbumin Kd* (μM) for ISIS 11158 is 450 μM"
+    },
+    {
+        "molecule_name": "ISIS 18268",
+        "protein_target_name": "Albumin",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "280",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe oligomers are presumably working by a direct binding RNase H independent mechanism is not relevant, however: \nTABLE VComparative Plasma Pharmacokinetic ParametersPK ParameterISIS 11159ISIS 18268ISIS 11158Cl<sub>p </sub>(ml/min)2.176.869.62T<sub>½</sub> distrib. (min)22128Albumin Kd* (μM)25280450Percent Excreted51348in Urine\nAlbumin Kd* (μM) for ISIS 11159 is 25 μM\nAlbumin Kd* (μM) for ISIS 18268 is 280 μM\nAlbumin Kd* (μM) for ISIS 11158 is 450 μM"
+    },
+    {
+        "molecule_name": "ISIS 11158",
+        "protein_target_name": "Albumin",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "450",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe oligomers are presumably working by a direct binding RNase H independent mechanism is not relevant, however: \nTABLE VComparative Plasma Pharmacokinetic ParametersPK ParameterISIS 11159ISIS 18268ISIS 11158Cl<sub>p </sub>(ml/min)2.176.869.62T<sub>½</sub> distrib. (min)22128Albumin Kd* (μM)25280450Percent Excreted51348in Urine\nAlbumin Kd* (μM) for ISIS 11159 is 25 μM\nAlbumin Kd* (μM) for ISIS 18268 is 280 μM\nAlbumin Kd* (μM) for ISIS 11158 is 450 μM"
+    }
+]

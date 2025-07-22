@@ -1,0 +1,26 @@
+[
+    {
+        "molecule_name": "A83-01",
+        "protein_target_name": "TGF-β type I receptor ALK5 kinase",
+        "binding_metric": "IC50",
+        "value": "12",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nA83-01 available from Tocris Bioscience; a selective inhibitor of TGF-β type I receptor ALK5 kinase, type I activin/nodal receptor ALK4 and type I nodal receptor ALK7 (IC50 values can, e.g., be 12, 45 and 7.5 nM respectively)."
+    },
+    {
+        "molecule_name": "A83-01",
+        "protein_target_name": "type I activin/nodal receptor ALK4",
+        "binding_metric": "IC50",
+        "value": "45",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nA83-01 available from Tocris Bioscience; a selective inhibitor of TGF-β type I receptor ALK5 kinase, type I activin/nodal receptor ALK4 and type I nodal receptor ALK7 (IC50 values can, e.g., be 12, 45 and 7.5 nM respectively)."
+    },
+    {
+        "molecule_name": "A83-01",
+        "protein_target_name": "type I nodal receptor ALK7",
+        "binding_metric": "IC50",
+        "value": "7.5",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nA83-01 available from Tocris Bioscience; a selective inhibitor of TGF-β type I receptor ALK5 kinase, type I activin/nodal receptor ALK4 and type I nodal receptor ALK7 (IC50 values can, e.g., be 12, 45 and 7.5 nM respectively)."
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "molecule_name": "Example 1",
+        "protein_target_name": "5-HT1A Receptor",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KI",
+        "value": "5.45",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n5-HT<sub>1A </sub>Receptor Affinity5-HT<sub>1A </sub>FunctionCompoundKI (nM)IC<sub>50 </sub>(nM) (I<sub>max</sub>)Example 10.5453.0 (76%)\n5-HT<sub>1A </sub>Receptor Affinity5-HT<sub>1A </sub>FunctionCompoundKI (nM)IC<sub>50 </sub>(nM) (I<sub>max</sub>)Example 20.77—\n5-HT<sub>1A </sub>Receptor Affinity5-HT<sub>1A </sub>FunctionCompoundKI (nM)IC<sub>50 </sub>(nM) (I<sub>max</sub>)Example 33.7127.0 (95%)"
+    },
+    {
+        "molecule_name": "Example 1",
+        "protein_target_name": "5-HT1A Receptor",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "53.0",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n5-HT<sub>1A </sub>Receptor Affinity5-HT<sub>1A </sub>FunctionCompoundKI (nM)IC<sub>50 </sub>(nM) (I<sub>max</sub>)Example 10.5453.0 (76%)\n5-HT<sub>1A </sub>Receptor Affinity5-HT<sub>1A </sub>FunctionCompoundKI (nM)IC<sub>50 </sub>(nM) (I<sub>max</sub>)Example 20.77—\n5-HT<sub>1A </sub>Receptor Affinity5-HT<sub>1A </sub>FunctionCompoundKI (nM)IC<sub>50 </sub>(nM) (I<sub>max</sub>)Example 33.7127.0 (95%)"
+    },
+    {
+        "molecule_name": "Example 2",
+        "protein_target_name": "5-HT1A Receptor",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KI",
+        "value": "0.77",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n5-HT<sub>1A </sub>Receptor Affinity5-HT<sub>1A </sub>FunctionCompoundKI (nM)IC<sub>50 </sub>(nM) (I<sub>max</sub>)Example 10.5453.0 (76%)\n5-HT<sub>1A </sub>Receptor Affinity5-HT<sub>1A </sub>FunctionCompoundKI (nM)IC<sub>50 </sub>(nM) (I<sub>max</sub>)Example 20.77—\n5-HT<sub>1A </sub>Receptor Affinity5-HT<sub>1A </sub>FunctionCompoundKI (nM)IC<sub>50 </sub>(nM) (I<sub>max</sub>)Example 33.7127.0 (95%)"
+    },
+    {
+        "molecule_name": "Example 3",
+        "protein_target_name": "5-HT1A Receptor",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KI",
+        "value": "3.7",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n5-HT<sub>1A </sub>Receptor Affinity5-HT<sub>1A </sub>FunctionCompoundKI (nM)IC<sub>50 </sub>(nM) (I<sub>max</sub>)Example 10.5453.0 (76%)\n5-HT<sub>1A </sub>Receptor Affinity5-HT<sub>1A </sub>FunctionCompoundKI (nM)IC<sub>50 </sub>(nM) (I<sub>max</sub>)Example 20.77—\n5-HT<sub>1A </sub>Receptor Affinity5-HT<sub>1A </sub>FunctionCompoundKI (nM)IC<sub>50 </sub>(nM) (I<sub>max</sub>)Example 33.7127.0 (95%)"
+    },
+    {
+        "molecule_name": "Example 3",
+        "protein_target_name": "5-HT1A Receptor",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "27.0",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n5-HT<sub>1A </sub>Receptor Affinity5-HT<sub>1A </sub>FunctionCompoundKI (nM)IC<sub>50 </sub>(nM) (I<sub>max</sub>)Example 10.5453.0 (76%)\n5-HT<sub>1A </sub>Receptor Affinity5-HT<sub>1A </sub>FunctionCompoundKI (nM)IC<sub>50 </sub>(nM) (I<sub>max</sub>)Example 20.77—\n5-HT<sub>1A </sub>Receptor Affinity5-HT<sub>1A </sub>FunctionCompoundKI (nM)IC<sub>50 </sub>(nM) (I<sub>max</sub>)Example 33.7127.0 (95%)"
+    }
+]

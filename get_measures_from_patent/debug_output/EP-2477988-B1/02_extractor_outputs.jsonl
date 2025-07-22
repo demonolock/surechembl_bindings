@@ -1,2 +1,0 @@
-{"raw_mentions": "The best compounds have an EC50 of between 0.1 nM and 10 \u03bcM.\nFor example, compound # 2 showed an EC50 of 3 nM."}
-{"final_json": [{"molecule_name": "The best compounds", "protein_target_name": null, "protein_uniprot_id": null, "protein_seq_id": null, "binding_metric": "EC50", "value": "between 0.1 and 10", "unit": "nM and \u03bcM"}, {"molecule_name": "compound # 2", "protein_target_name": null, "protein_uniprot_id": null, "protein_seq_id": null, "binding_metric": "EC50", "value": "3", "unit": "nM"}]}

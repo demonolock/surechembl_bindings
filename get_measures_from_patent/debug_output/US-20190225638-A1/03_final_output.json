@@ -1,0 +1,18 @@
+[
+    {
+        "molecule_name": "lactose",
+        "protein_target_name": "galectin 3",
+        "binding_metric": "Kd",
+        "value": "91",
+        "unit": "μM",
+        "raw_mentions": "onstrated to be highly efficient inhibitors of galectin-3, with unprecedented IC<sub>50 </sub>values as low as 4.8 μM, which is a 20-fold improvement in comparison with the natural N-acetyllactosamine disaccharide (Sörme et al., 2002; Sörme et al., 2003b, 2005).\nThese inhibitors also displayed superior affinity for several galectins (down to Kd in the low nM range).\nThe beta-D-galactopyranosides were reported as having affinity in the same range or less than lactose, which has a Kd of about 91 μM towards galectin 3 and 190 μM towards galectin 1.\nIn recently published (T. Delaine, 2016, ChemBioChem 10.1002/cbic.201600285) is disclosed a TDG substituted with a thiophene triazole substituent in the C3 and C3′positions with high affinity (&lt;10 nM) to Galectin-1."
+    },
+    {
+        "molecule_name": "lactose",
+        "protein_target_name": "galectin 1",
+        "binding_metric": "Kd",
+        "value": "190",
+        "unit": "μM",
+        "raw_mentions": "onstrated to be highly efficient inhibitors of galectin-3, with unprecedented IC<sub>50 </sub>values as low as 4.8 μM, which is a 20-fold improvement in comparison with the natural N-acetyllactosamine disaccharide (Sörme et al., 2002; Sörme et al., 2003b, 2005).\nThese inhibitors also displayed superior affinity for several galectins (down to Kd in the low nM range).\nThe beta-D-galactopyranosides were reported as having affinity in the same range or less than lactose, which has a Kd of about 91 μM towards galectin 3 and 190 μM towards galectin 1.\nIn recently published (T. Delaine, 2016, ChemBioChem 10.1002/cbic.201600285) is disclosed a TDG substituted with a thiophene triazole substituent in the C3 and C3′positions with high affinity (&lt;10 nM) to Galectin-1."
+    }
+]

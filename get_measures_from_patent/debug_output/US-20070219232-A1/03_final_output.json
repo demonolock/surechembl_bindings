@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_name": "CRF receptor antagonists",
+        "protein_target_name": "CRF receptor",
+        "binding_metric": "Ki",
+        "value": "<10",
+        "unit": "μm",
+        "raw_mentions": "With reference to CRF receptor binding affinities, CRF receptor antagonists of this invention have a Ki less than 10 μm."
+    }
+]

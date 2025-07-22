@@ -1,0 +1,12 @@
+[
+    {
+        "molecule_name": "Example 1",
+        "protein_target_name": "hCRF1ANTAG",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "0.071",
+        "unit": "μm",
+        "raw_mentions": "The compound of Example 1 is 0.071 μm (hCRF1ANTAG/IC50 [μmol 1-1])."
+    }
+]

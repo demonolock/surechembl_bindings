@@ -1,0 +1,10 @@
+[
+    {
+        "molecule_name": "Kexstatin",
+        "protein_target_name": "Kex2 proteinase",
+        "binding_metric": "IC50",
+        "value": "1.4",
+        "unit": "μg",
+        "raw_mentions": "The amount of Kexstatin which inhibits the activity of 1 μg of Kex2 proteinase by 50% (IC50) is calculated to be 1.4 μg."
+    }
+]

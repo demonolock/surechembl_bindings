@@ -1,0 +1,2 @@
+{"raw_mentions": "Isoproterenol, a non-specific \u03b2 adrenoreceptor agonist, was used at 1 \u03bcM as a positive control.\nIsoproterenol, a non-specific \u03b2 adrenoreceptor, was used at 1 \u03bcM as a positive control."}
+{"final_json": [{"molecule_name": "Isoproterenol", "protein_target_name": "\u03b2 adrenoreceptor", "binding_metric": null, "value": "1", "unit": "\u03bcM"}, {"molecule_name": "Isoproterenol", "protein_target_name": "\u03b2 adrenoreceptor", "binding_metric": null, "value": "1", "unit": "\u03bcM"}]}

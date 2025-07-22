@@ -1,4 +1,0 @@
-{"raw_mentions": "None of the provided sentences contain all the required elements: a bioactivity metric (IC50, Ki, Kd, EC50), a specific numeric value associated with that metric, and a unit for that value. Therefore, there are no sentences to extract based on the given criteria."}
-{"raw_mentions": "The molar concentration of compound that causes 50% inhibition of radioligand binding. The IC50 value is generated for each test compound by nonlinear regression using an iterative curve fitting program (Graph PAD Inplot, San Diego, CA) ."}
-{"final_json": [{"molecule_name": null, "protein_target_name": null, "protein_uniprot_id": null, "protein_seq_id": null, "binding_metric": "IC50", "value": null, "unit": null}]}
-{"raw_mentions": "None"}

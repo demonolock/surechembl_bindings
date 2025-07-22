@@ -1,0 +1,42 @@
+[
+    {
+        "molecule_name": "AZD1152 HQPA",
+        "protein_target_name": "aurora kinase",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Ki",
+        "value": "1369 ± 419.2",
+        "unit": "nM",
+        "raw_mentions": "AZD1152 HQPA is the ATP-competitiveness and the reversible inhibitor of aurora kinase, and (the Ki value is respectively 1369 ± 419.2nM, 0.359 ± 0.386nM and 17.03 ± 12.2nM) to have the strong activity of resisting aurora A, B-INCENP and C-INCENP."
+    },
+    {
+        "molecule_name": "AZD1152 HQPA",
+        "protein_target_name": "aurora A",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Ki",
+        "value": "0.359 ± 0.386",
+        "unit": "nM",
+        "raw_mentions": "AZD1152 HQPA is the ATP-competitiveness and the reversible inhibitor of aurora kinase, and (the Ki value is respectively 1369 ± 419.2nM, 0.359 ± 0.386nM and 17.03 ± 12.2nM) to have the strong activity of resisting aurora A, B-INCENP and C-INCENP."
+    },
+    {
+        "molecule_name": "AZD1152 HQPA",
+        "protein_target_name": "aurora B-INCENP",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Ki",
+        "value": "17.03 ± 12.2",
+        "unit": "nM",
+        "raw_mentions": "AZD1152 HQPA is the ATP-competitiveness and the reversible inhibitor of aurora kinase, and (the Ki value is respectively 1369 ± 419.2nM, 0.359 ± 0.386nM and 17.03 ± 12.2nM) to have the strong activity of resisting aurora A, B-INCENP and C-INCENP."
+    },
+    {
+        "molecule_name": "AZD1152 HQPA",
+        "protein_target_name": "aurora C-INCENP",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Ki",
+        "value": "17.03 ± 12.2",
+        "unit": "nM",
+        "raw_mentions": "AZD1152 HQPA is the ATP-competitiveness and the reversible inhibitor of aurora kinase, and (the Ki value is respectively 1369 ± 419.2nM, 0.359 ± 0.386nM and 17.03 ± 12.2nM) to have the strong activity of resisting aurora A, B-INCENP and C-INCENP."
+    }
+]

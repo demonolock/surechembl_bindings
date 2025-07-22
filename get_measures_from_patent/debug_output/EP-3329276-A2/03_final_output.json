@@ -1,0 +1,26 @@
+[
+    {
+        "molecule_name": "RhuMAb Beta7 (etrolizumab)",
+        "protein_target_name": "β7 subunit of the integrin heterodimer",
+        "binding_metric": "Kd",
+        "value": "116",
+        "unit": "pM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[00278] RhuMAb Beta7 (etrolizumab) is a humanized monoclonal antibody based on the human IgGl subgroup III VH, K subgroup-I VL consensus sequences and is directed specifically against the β7 subunit of the integrin heterodimer. See Figs. 1 A and B. It has been shown to bind with high affinity to α4β7 (Kd of about 116 pM) and αΕβ7 (Kd of about 1800 pM)."
+    },
+    {
+        "molecule_name": "RhuMAb Beta7 (etrolizumab)",
+        "protein_target_name": "αΕβ7",
+        "binding_metric": "Kd",
+        "value": "1800",
+        "unit": "pM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[00278] RhuMAb Beta7 (etrolizumab) is a humanized monoclonal antibody based on the human IgGl subgroup III VH, K subgroup-I VL consensus sequences and is directed specifically against the β7 subunit of the integrin heterodimer. See Figs. 1 A and B. It has been shown to bind with high affinity to α4β7 (Kd of about 116 pM) and αΕβ7 (Kd of about 1800 pM)."
+    },
+    {
+        "molecule_name": "RhuMAb Beta7 (etrolizumab)",
+        "protein_target_name": "α4β7",
+        "binding_metric": "Kd",
+        "value": "116",
+        "unit": "pM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[00278] RhuMAb Beta7 (etrolizumab) is a humanized monoclonal antibody based on the human IgGl subgroup III VH, K subgroup-I VL consensus sequences and is directed specifically against the β7 subunit of the integrin heterodimer. See Figs. 1 A and B. It has been shown to bind with high affinity to α4β7 (Kd of about 116 pM) and αΕβ7 (Kd of about 1800 pM)."
+    }
+]

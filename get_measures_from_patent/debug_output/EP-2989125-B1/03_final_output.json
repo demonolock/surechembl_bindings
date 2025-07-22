@@ -1,0 +1,122 @@
+[
+    {
+        "molecule_name": "Mab 2F11",
+        "protein_target_name": "CSF-1R",
+        "binding_metric": "IC50",
+        "value": "19.3",
+        "unit": "ng/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 1:Calculated IC50 values for the inhibition of the CSF-1/CSF-1R interactionCSF-1R MabIC50 CSF-1 /CSF-1R Inhibition [ng/ml]Mab 2F1119.3\nMab 2E1020.6\nMab 2H718.2\nMab 1G1011.8\nSC-2-4A535.2\n\nNote that these rows are from Table 1 and contain the molecule name (e.g. Mab 2F11), bioactivity metric (IC50), numeric value (e.g. 19.3), and unit (ng/ml)."
+    },
+    {
+        "molecule_name": "Mab 2E10",
+        "protein_target_name": "CSF-1R",
+        "binding_metric": "IC50",
+        "value": "20.6",
+        "unit": "ng/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 1:Calculated IC50 values for the inhibition of the CSF-1/CSF-1R interactionCSF-1R MabIC50 CSF-1 /CSF-1R Inhibition [ng/ml]Mab 2F1119.3\nMab 2E1020.6\nMab 2H718.2\nMab 1G1011.8\nSC-2-4A535.2\n\nNote that these rows are from Table 1 and contain the molecule name (e.g. Mab 2F11), bioactivity metric (IC50), numeric value (e.g. 19.3), and unit (ng/ml)."
+    },
+    {
+        "molecule_name": "Mab 2H7",
+        "protein_target_name": "CSF-1R",
+        "binding_metric": "IC50",
+        "value": "18.2",
+        "unit": "ng/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 1:Calculated IC50 values for the inhibition of the CSF-1/CSF-1R interactionCSF-1R MabIC50 CSF-1 /CSF-1R Inhibition [ng/ml]Mab 2F1119.3\nMab 2E1020.6\nMab 2H718.2\nMab 1G1011.8\nSC-2-4A535.2\n\nNote that these rows are from Table 1 and contain the molecule name (e.g. Mab 2F11), bioactivity metric (IC50), numeric value (e.g. 19.3), and unit (ng/ml)."
+    },
+    {
+        "molecule_name": "Mab 1G10",
+        "protein_target_name": "CSF-1R",
+        "binding_metric": "IC50",
+        "value": "11.8",
+        "unit": "ng/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 1:Calculated IC50 values for the inhibition of the CSF-1/CSF-1R interactionCSF-1R MabIC50 CSF-1 /CSF-1R Inhibition [ng/ml]Mab 2F1119.3\nMab 2E1020.6\nMab 2H718.2\nMab 1G1011.8\nSC-2-4A535.2\n\nNote that these rows are from Table 1 and contain the molecule name (e.g. Mab 2F11), bioactivity metric (IC50), numeric value (e.g. 19.3), and unit (ng/ml)."
+    },
+    {
+        "molecule_name": "SC-2-4A5",
+        "protein_target_name": "CSF-1R",
+        "binding_metric": "IC50",
+        "value": "35.2",
+        "unit": "ng/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 1:Calculated IC50 values for the inhibition of the CSF-1/CSF-1R interactionCSF-1R MabIC50 CSF-1 /CSF-1R Inhibition [ng/ml]Mab 2F1119.3\nMab 2E1020.6\nMab 2H718.2\nMab 1G1011.8\nSC-2-4A535.2\n\nNote that these rows are from Table 1 and contain the molecule name (e.g. Mab 2F11), bioactivity metric (IC50), numeric value (e.g. 19.3), and unit (ng/ml)."
+    },
+    {
+        "molecule_name": "Mab 2F11",
+        "protein_target_name": "CSF-1R",
+        "binding_metric": "IC50",
+        "value": "19.4",
+        "unit": "ng/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]Mab 2F11219.4\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]Mab 2E10752.0\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]Mab 2H7703.4\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]Mab 1G1056.6\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]SC-2-4A51006.6\n\nNote that these rows are from Table 2, which contains the calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation. Each row includes a specific molecule name (e.g. Mab 2F11), a bioactivity metric (IC50), a numeric value (e.g. 19.4), and a unit (ng/ml)."
+    },
+    {
+        "molecule_name": "Mab 2E10",
+        "protein_target_name": "CSF-1R",
+        "binding_metric": "IC50",
+        "value": "7.52",
+        "unit": "ng/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]Mab 2F11219.4\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]Mab 2E10752.0\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]Mab 2H7703.4\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]Mab 1G1056.6\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]SC-2-4A51006.6\n\nNote that these rows are from Table 2, which contains the calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation. Each row includes a specific molecule name (e.g. Mab 2F11), a bioactivity metric (IC50), a numeric value (e.g. 19.4), and a unit (ng/ml)."
+    },
+    {
+        "molecule_name": "Mab 2H7",
+        "protein_target_name": "CSF-1R",
+        "binding_metric": "IC50",
+        "value": "0.7034",
+        "unit": "ng/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]Mab 2F11219.4\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]Mab 2E10752.0\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]Mab 2H7703.4\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]Mab 1G1056.6\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]SC-2-4A51006.6\n\nNote that these rows are from Table 2, which contains the calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation. Each row includes a specific molecule name (e.g. Mab 2F11), a bioactivity metric (IC50), a numeric value (e.g. 19.4), and a unit (ng/ml)."
+    },
+    {
+        "molecule_name": "Mab 1G10",
+        "protein_target_name": "CSF-1R",
+        "binding_metric": "IC50",
+        "value": "5.66",
+        "unit": "ng/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]Mab 2F11219.4\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]Mab 2E10752.0\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]Mab 2H7703.4\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]Mab 1G1056.6\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]SC-2-4A51006.6\n\nNote that these rows are from Table 2, which contains the calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation. Each row includes a specific molecule name (e.g. Mab 2F11), a bioactivity metric (IC50), a numeric value (e.g. 19.4), and a unit (ng/ml)."
+    },
+    {
+        "molecule_name": "SC-2-4A5",
+        "protein_target_name": "CSF-1R",
+        "binding_metric": "IC50",
+        "value": "10.066",
+        "unit": "ng/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]Mab 2F11219.4\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]Mab 2E10752.0\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]Mab 2H7703.4\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]Mab 1G1056.6\nTable 2:Calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation.CSF-1R MabIC50 CSF-1R Phosphorylation [ng/ml]SC-2-4A51006.6\n\nNote that these rows are from Table 2, which contains the calculated IC50 values for the inhibition of CSF-1 receptor phosphorylation. Each row includes a specific molecule name (e.g. Mab 2F11), a bioactivity metric (IC50), a numeric value (e.g. 19.4), and a unit (ng/ml)."
+    },
+    {
+        "molecule_name": "Mab 2F11",
+        "protein_target_name": "CSF-1R",
+        "binding_metric": "IC50",
+        "value": "0.08",
+        "unit": "µg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nMab 2F11 showed an IC50 value of 0.08 µg/ml.\nMab 2E10 showed an IC50 value of 0.06 µg/ml.\nMab 2H7 showed an IC50 value of 0.03 µg/ml.\nMab 1G10 showed an IC50 value of 0.06 µg/ml.\nSC 2-4A5 showed an IC50 value of 0.36 µg/ml.\nhMab 2F11-c11 showed an IC50 value of 0.07 µg/ml.\nhMab 2F11-d8 showed an IC50 value of 0.07 µg/ml.\nhMab 2F11-e7 showed an IC50 value of 0.04 µg/ml.\nhMab 2F11-f12 showed an IC50 value of 0.09 µg/ml.\nTable 7:CSF-1R MabIC50 [µg/ml]Mab 2F110.08Mab 2E100.06Mab 2H70.03Mab 1G100.06SC 2-4A50.36\nIn a separate test series humanized versions of Mab 2 F11, e.g. hMab 2F11-c11, hMab 2F11-d8, hMab 2F11-e7, hMab 2F11-f12, showed IC50 values of 0.07 µg/ml (hMab 2F11-c11), 0.07 µg/ml (hMab 2F11-d8), 0.04 µg/ml (hMab 2F11-e7) and 0.09 µg/ml (hMab 2F11-f12)."
+    },
+    {
+        "molecule_name": "Mab 2E10",
+        "protein_target_name": "CSF-1R",
+        "binding_metric": "IC50",
+        "value": "0.06",
+        "unit": "µg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nMab 2F11 showed an IC50 value of 0.08 µg/ml.\nMab 2E10 showed an IC50 value of 0.06 µg/ml.\nMab 2H7 showed an IC50 value of 0.03 µg/ml.\nMab 1G10 showed an IC50 value of 0.06 µg/ml.\nSC 2-4A5 showed an IC50 value of 0.36 µg/ml.\nhMab 2F11-c11 showed an IC50 value of 0.07 µg/ml.\nhMab 2F11-d8 showed an IC50 value of 0.07 µg/ml.\nhMab 2F11-e7 showed an IC50 value of 0.04 µg/ml.\nhMab 2F11-f12 showed an IC50 value of 0.09 µg/ml.\nTable 7:CSF-1R MabIC50 [µg/ml]Mab 2F110.08Mab 2E100.06Mab 2H70.03Mab 1G100.06SC 2-4A50.36\nIn a separate test series humanized versions of Mab 2 F11, e.g. hMab 2F11-c11, hMab 2F11-d8, hMab 2F11-e7, hMab 2F11-f12, showed IC50 values of 0.07 µg/ml (hMab 2F11-c11), 0.07 µg/ml (hMab 2F11-d8), 0.04 µg/ml (hMab 2F11-e7) and 0.09 µg/ml (hMab 2F11-f12)."
+    },
+    {
+        "molecule_name": "Mab 2H7",
+        "protein_target_name": "CSF-1R",
+        "binding_metric": "IC50",
+        "value": "0.03",
+        "unit": "µg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nMab 2F11 showed an IC50 value of 0.08 µg/ml.\nMab 2E10 showed an IC50 value of 0.06 µg/ml.\nMab 2H7 showed an IC50 value of 0.03 µg/ml.\nMab 1G10 showed an IC50 value of 0.06 µg/ml.\nSC 2-4A5 showed an IC50 value of 0.36 µg/ml.\nhMab 2F11-c11 showed an IC50 value of 0.07 µg/ml.\nhMab 2F11-d8 showed an IC50 value of 0.07 µg/ml.\nhMab 2F11-e7 showed an IC50 value of 0.04 µg/ml.\nhMab 2F11-f12 showed an IC50 value of 0.09 µg/ml.\nTable 7:CSF-1R MabIC50 [µg/ml]Mab 2F110.08Mab 2E100.06Mab 2H70.03Mab 1G100.06SC 2-4A50.36\nIn a separate test series humanized versions of Mab 2 F11, e.g. hMab 2F11-c11, hMab 2F11-d8, hMab 2F11-e7, hMab 2F11-f12, showed IC50 values of 0.07 µg/ml (hMab 2F11-c11), 0.07 µg/ml (hMab 2F11-d8), 0.04 µg/ml (hMab 2F11-e7) and 0.09 µg/ml (hMab 2F11-f12)."
+    },
+    {
+        "molecule_name": "Mab 1G10",
+        "protein_target_name": "CSF-1R",
+        "binding_metric": "IC50",
+        "value": "0.06",
+        "unit": "µg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nMab 2F11 showed an IC50 value of 0.08 µg/ml.\nMab 2E10 showed an IC50 value of 0.06 µg/ml.\nMab 2H7 showed an IC50 value of 0.03 µg/ml.\nMab 1G10 showed an IC50 value of 0.06 µg/ml.\nSC 2-4A5 showed an IC50 value of 0.36 µg/ml.\nhMab 2F11-c11 showed an IC50 value of 0.07 µg/ml.\nhMab 2F11-d8 showed an IC50 value of 0.07 µg/ml.\nhMab 2F11-e7 showed an IC50 value of 0.04 µg/ml.\nhMab 2F11-f12 showed an IC50 value of 0.09 µg/ml.\nTable 7:CSF-1R MabIC50 [µg/ml]Mab 2F110.08Mab 2E100.06Mab 2H70.03Mab 1G100.06SC 2-4A50.36\nIn a separate test series humanized versions of Mab 2 F11, e.g. hMab 2F11-c11, hMab 2F11-d8, hMab 2F11-e7, hMab 2F11-f12, showed IC50 values of 0.07 µg/ml (hMab 2F11-c11), 0.07 µg/ml (hMab 2F11-d8), 0.04 µg/ml (hMab 2F11-e7) and 0.09 µg/ml (hMab 2F11-f12)."
+    },
+    {
+        "molecule_name": "SC 2-4A5",
+        "protein_target_name": "CSF-1R",
+        "binding_metric": "IC50",
+        "value": "0.36",
+        "unit": "µg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nMab 2F11 showed an IC50 value of 0.08 µg/ml.\nMab 2E10 showed an IC50 value of 0.06 µg/ml.\nMab 2H7 showed an IC50 value of 0.03 µg/ml.\nMab 1G10 showed an IC50 value of 0.06 µg/ml.\nSC 2-4A5 showed an IC50 value of 0.36 µg/ml.\nhMab 2F11-c11 showed an IC50 value of 0.07 µg/ml.\nhMab 2F11-d8 showed an IC50 value of 0.07 µg/ml.\nhMab 2F11-e7 showed an IC50 value of 0.04 µg/ml.\nhMab 2F11-f12 showed an IC50 value of 0.09 µg/ml.\nTable 7:CSF-1R MabIC50 [µg/ml]Mab 2F110.08Mab 2E100.06Mab 2H70.03Mab 1G100.06SC 2-4A50.36\nIn a separate test series humanized versions of Mab 2 F11, e.g. hMab 2F11-c11, hMab 2F11-d8, hMab 2F11-e7, hMab 2F11-f12, showed IC50 values of 0.07 µg/ml (hMab 2F11-c11), 0.07 µg/ml (hMab 2F11-d8), 0.04 µg/ml (hMab 2F11-e7) and 0.09 µg/ml (hMab 2F11-f12)."
+    }
+]
