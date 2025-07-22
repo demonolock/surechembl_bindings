@@ -31,8 +31,7 @@ def main():
                     with open('out/patent_ids_filtered.txt', 'a') as f:
                         f.write(patent_number + '\n')
                     with open(f'{patent_dirs}/{patent_number}.json', 'w') as f:
-                        json.dump(descr, f)
-                        f.write(descr)
+                        f.write(json.dumps(descr, ensure_ascii=False, indent=2))
                 else:
                     print(f'Unfilter {patent_number}')
                     with open('out/patent_ids_unfiltered.txt', 'a') as f:
