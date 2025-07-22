@@ -17,6 +17,8 @@ for root, dirs, files in os.walk(os.path.join(dir_path, subpath)):
                     patent_number = root.split("/")[-1]
                     if 'final_json' in data:
                         for i, item in enumerate(data['final_json']):
+                            if not isinstance(item, dict):
+                                continue
                             item['patent_number'] = patent_number
                         final += data['final_json']
 
