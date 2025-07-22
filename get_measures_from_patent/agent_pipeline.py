@@ -47,7 +47,7 @@ def process_single_patent(patent_number, output_dir, timeout=40):
             debug_dir = os.path.join(output_dir, patent_number)
             os.makedirs(debug_dir, exist_ok=True)
             replaced_extracted_data = filter_and_convert_molecula_alias_to_name(patent_text, patent_number, extracted_data)
-            final_output_path = os.path.join(debug_dir, "patent_number.json")
+            final_output_path = os.path.join(debug_dir, "03_final_output.json")
             with open(final_output_path, "w", encoding="utf-8") as f:
                 json.dump(replaced_extracted_data, f, indent=4, ensure_ascii=False)
             logging.info(f"Сохранен результат для {patent_number}: {len(replaced_extracted_data)} записей.")
