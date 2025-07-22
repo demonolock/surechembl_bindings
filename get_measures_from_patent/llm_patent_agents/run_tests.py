@@ -3,13 +3,10 @@ import os
 from .patent_processor import process_patent_text
 from . import config
 
-def main():
+def run_single_test(patent_id, patent_file_path):
     """
-    Main function to run a single test case for the patent processor.
+    Runs the processing for a single patent file.
     """
-    patent_id = "patent1"
-    patent_file_path = os.path.join("get_measures_from_patent", "llm_patent_agents", "tests", "patents", f"{patent_id}.txt")
-
     print(f"--- Running Test for {patent_id} ---")
 
     # 1. Read the full patent text
@@ -33,7 +30,7 @@ def main():
 
     # 3. Print the final result
     print("\n--- Final Extracted Data ---")
-    print(json.dumps(extracted_data, indent=4))
+    print(json.dumps(extracted_data, indent=4, ensure_ascii=False))
     print(f"\nTotal data points extracted: {len(extracted_data)}")
 
     # 4. Check for debug files
@@ -61,7 +58,32 @@ def main():
     else:
         print("WARNING: Debug directory not found.")
 
-    print("\n--- Test Run Finished ---")
+    print(f"\n--- Test for {patent_id} Finished ---\n")
+
+def main():
+    """
+    Main function to find all patent tests and run them.
+    """
+    patents_dir = os.path.join("get_measures_from_patent", "llm_patent_agents", "tests", "patents")
+
+    if not os.path.isdir(patents_dir):
+        print(f"ERROR: Test patents directory not found at '{patents_dir}'")
+        return
+
+    patent_files = [f for f in os.listdir(patents_dir) if f.endswith('.txt')]
+
+    if not patent_files:
+        print(f"WARNING: No patent test files (.txt) found in '{patents_dir}'")
+        return
+    
+    print(f"Found {len(patent_files)} patent(s) to test.")
+
+    for patent_filename in patent_files:
+        patent_id = os.path.splitext(patent_filename)[0]
+        patent_file_path = os.path.join(patents_dir, patent_filename)
+        run_single_test(patent_id, patent_file_path)
+
+    print("--- All Test Runs Finished ---")
 
 if __name__ == "__main__":
     main()

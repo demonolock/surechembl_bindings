@@ -1,0 +1,42 @@
+[
+    {
+        "molecule_name": "trans-2-arylcyclopropylamine analogues",
+        "protein_target_name": "LSD1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Ki",
+        "value": "188-566",
+        "unit": "micromolar",
+        "raw_mentions": "Gooden et al. reported trans-2-arylcyclopropylamine analogues that inhibit LSD1 with Ki values in the range of 188-566 micromolar.\nUeda et al. ((2009) J. Am. Chem Soc. 131(48):17536-17537) reported cyclopropylamine analogs selective for LSD1 over MAO-A and MAO-B that were designed based on reported X-ray crystal structures of these enzymes with a phenylcyclopropylamine-FAD adduct and a FAD-N-propargyl lysine peptide; the reported IC50 values for phenylcyclopropylamine were about 32 micromolar for LSD1 whereas compounds 1 and 2 had values of 2.5 and 1.9 micromolar respectively."
+    },
+    {
+        "molecule_name": "phenylcyclopropylamine",
+        "protein_target_name": "LSD1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "32",
+        "unit": "micromolar",
+        "raw_mentions": "Gooden et al. reported trans-2-arylcyclopropylamine analogues that inhibit LSD1 with Ki values in the range of 188-566 micromolar.\nUeda et al. ((2009) J. Am. Chem Soc. 131(48):17536-17537) reported cyclopropylamine analogs selective for LSD1 over MAO-A and MAO-B that were designed based on reported X-ray crystal structures of these enzymes with a phenylcyclopropylamine-FAD adduct and a FAD-N-propargyl lysine peptide; the reported IC50 values for phenylcyclopropylamine were about 32 micromolar for LSD1 whereas compounds 1 and 2 had values of 2.5 and 1.9 micromolar respectively."
+    },
+    {
+        "molecule_name": "compound 1",
+        "protein_target_name": "LSD1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "2.5",
+        "unit": "micromolar",
+        "raw_mentions": "Gooden et al. reported trans-2-arylcyclopropylamine analogues that inhibit LSD1 with Ki values in the range of 188-566 micromolar.\nUeda et al. ((2009) J. Am. Chem Soc. 131(48):17536-17537) reported cyclopropylamine analogs selective for LSD1 over MAO-A and MAO-B that were designed based on reported X-ray crystal structures of these enzymes with a phenylcyclopropylamine-FAD adduct and a FAD-N-propargyl lysine peptide; the reported IC50 values for phenylcyclopropylamine were about 32 micromolar for LSD1 whereas compounds 1 and 2 had values of 2.5 and 1.9 micromolar respectively."
+    },
+    {
+        "molecule_name": "compound 2",
+        "protein_target_name": "LSD1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "1.9",
+        "unit": "micromolar",
+        "raw_mentions": "Gooden et al. reported trans-2-arylcyclopropylamine analogues that inhibit LSD1 with Ki values in the range of 188-566 micromolar.\nUeda et al. ((2009) J. Am. Chem Soc. 131(48):17536-17537) reported cyclopropylamine analogs selective for LSD1 over MAO-A and MAO-B that were designed based on reported X-ray crystal structures of these enzymes with a phenylcyclopropylamine-FAD adduct and a FAD-N-propargyl lysine peptide; the reported IC50 values for phenylcyclopropylamine were about 32 micromolar for LSD1 whereas compounds 1 and 2 had values of 2.5 and 1.9 micromolar respectively."
+    }
+]
