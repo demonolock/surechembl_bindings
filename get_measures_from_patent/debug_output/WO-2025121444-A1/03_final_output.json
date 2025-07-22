@@ -1,0 +1,12 @@
+[
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "VEGFR2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "between about 100 nM and about 1 pM",
+        "unit": null,
+        "raw_mentions": "In some embodiments, the antibody binds VEGFR2 with a Kd value of between about 100 nM and about 1 pM. \nIn one embodiment, Kd is measured by a RIA performed with an anti- VEGFR2 Ab, preferably ramucirumab."
+    }
+]

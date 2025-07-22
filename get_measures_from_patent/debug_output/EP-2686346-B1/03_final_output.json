@@ -1,0 +1,12 @@
+[
+    {
+        "molecule_name": "AßGlu(11)",
+        "protein_target_name": "A(3 peptides",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "10-7",
+        "unit": "M",
+        "raw_mentions": "Here is the extracted sentence:\n\nThe present invention pertains in particular to a monoclonal antibody, characterised in that it binds to A(3 peptides starting with amino acid 11 and having a pyroglutamate at the N-terminus (AßGlu(11)) with high affinity, wherein said high affinity means a dissociation constant (KD) value of 10-7 M or better, \n\nNote that there is only one sentence that meets the criteria, as the rest of the text does not provide specific numeric values with units for bioactivity metrics."
+    }
+]

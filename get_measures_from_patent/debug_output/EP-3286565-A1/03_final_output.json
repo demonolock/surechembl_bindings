@@ -1,0 +1,142 @@
+[
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "STEAP-1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "< 1",
+        "unit": "μΜ",
+        "raw_mentions": "In certain embodiments, an antibody that binds to STEAP-1 has a dissociation constant (Kd) of < 1 μΜ, < 100 nM, < 10 nM, < 1 nM, < 0.1 nM, < 0.01 nM, or < 0.001 nM (e.g. 10^\"8 M or less, e.g. from 10^\"8 M to 10^~13 M, e.g. , from 10^\"9 M to 10^~13 M)."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "STEAP-1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "< 100",
+        "unit": "nM",
+        "raw_mentions": "In certain embodiments, an antibody that binds to STEAP-1 has a dissociation constant (Kd) of < 1 μΜ, < 100 nM, < 10 nM, < 1 nM, < 0.1 nM, < 0.01 nM, or < 0.001 nM (e.g. 10^\"8 M or less, e.g. from 10^\"8 M to 10^~13 M, e.g. , from 10^\"9 M to 10^~13 M)."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "STEAP-1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "< 10",
+        "unit": "nM",
+        "raw_mentions": "In certain embodiments, an antibody that binds to STEAP-1 has a dissociation constant (Kd) of < 1 μΜ, < 100 nM, < 10 nM, < 1 nM, < 0.1 nM, < 0.01 nM, or < 0.001 nM (e.g. 10^\"8 M or less, e.g. from 10^\"8 M to 10^~13 M, e.g. , from 10^\"9 M to 10^~13 M)."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "STEAP-1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "< 1",
+        "unit": "nM",
+        "raw_mentions": "In certain embodiments, an antibody that binds to STEAP-1 has a dissociation constant (Kd) of < 1 μΜ, < 100 nM, < 10 nM, < 1 nM, < 0.1 nM, < 0.01 nM, or < 0.001 nM (e.g. 10^\"8 M or less, e.g. from 10^\"8 M to 10^~13 M, e.g. , from 10^\"9 M to 10^~13 M)."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "STEAP-1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "< 0.1",
+        "unit": "nM",
+        "raw_mentions": "In certain embodiments, an antibody that binds to STEAP-1 has a dissociation constant (Kd) of < 1 μΜ, < 100 nM, < 10 nM, < 1 nM, < 0.1 nM, < 0.01 nM, or < 0.001 nM (e.g. 10^\"8 M or less, e.g. from 10^\"8 M to 10^~13 M, e.g. , from 10^\"9 M to 10^~13 M)."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "STEAP-1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "< 0.01",
+        "unit": "nM",
+        "raw_mentions": "In certain embodiments, an antibody that binds to STEAP-1 has a dissociation constant (Kd) of < 1 μΜ, < 100 nM, < 10 nM, < 1 nM, < 0.1 nM, < 0.01 nM, or < 0.001 nM (e.g. 10^\"8 M or less, e.g. from 10^\"8 M to 10^~13 M, e.g. , from 10^\"9 M to 10^~13 M)."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "STEAP-1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "< 0.001",
+        "unit": "nM",
+        "raw_mentions": "In certain embodiments, an antibody that binds to STEAP-1 has a dissociation constant (Kd) of < 1 μΜ, < 100 nM, < 10 nM, < 1 nM, < 0.1 nM, < 0.01 nM, or < 0.001 nM (e.g. 10^\"8 M or less, e.g. from 10^\"8 M to 10^~13 M, e.g. , from 10^\"9 M to 10^~13 M)."
+    },
+    {
+        "molecule_name": "antibodies",
+        "protein_target_name": "STEAP-1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "≤ 1000 nM",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[00112] In certain embodiments, the antibodies provided herein has a dissociation constant (Kd) to STEAP-1 of≤ 1000 nM,≤ 100 nM,≤ 10 nM,≤ 1 nM,≤ 0.1 nM,≤ 0.01 nM, or≤ 0.001 nM (e.g. 10^\"8 M or less, e.g. from 10^\"8 M to 10^\"13 M, e.g. , from 10^\"9 M to 10^\"13 M).\n[00114] According to another embodiment, Kd is measured using surface plasmon resonance assays using a BIACORE^-2000 or a BIACORE^-3000 (BIAcore, Inc., Piscataway, NJ) at 25°C with immobilized antigen CM5 chips at -10 response units (RU).\nFor kinetics measurements, two-fold serial dilutions of Fab (0.78 nM to 500 nM) are injected in PBS with 0.05% polysorbate 20 (TWEEN-20^) surfactant (PBST) at 25°C at a flow rate of \n[00115] Kinetic binding measurements can also be performed on an Octet Red instrument (ForteBio, Menlo Park, CA, USA). For example, all washes, dilutions and measurements are performed in Octet buffer (0.2% dodecyimaltoside, or DDM, - PBS) with the plate shaking at 1000 rpm. Streptavidin biosensors are equilibrated in Octet buffer for 10 min and then loaded with biotinylated STEAP-1 (from viral iysate in 1 % DDM, diluted 1 :8 in Octet Buffer) for 5 min and washed for 10 min. For the association phase, the ligand-coated streptavidin tips are immersed in anti-STEAP-1 antibody fragments for 10 min (eight serial two-fold dilutions, starting at 500 or 50 nM)."
+    },
+    {
+        "molecule_name": "antibodies",
+        "protein_target_name": "STEAP-1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "≤ 100 nM",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[00112] In certain embodiments, the antibodies provided herein has a dissociation constant (Kd) to STEAP-1 of≤ 1000 nM,≤ 100 nM,≤ 10 nM,≤ 1 nM,≤ 0.1 nM,≤ 0.01 nM, or≤ 0.001 nM (e.g. 10^\"8 M or less, e.g. from 10^\"8 M to 10^\"13 M, e.g. , from 10^\"9 M to 10^\"13 M).\n[00114] According to another embodiment, Kd is measured using surface plasmon resonance assays using a BIACORE^-2000 or a BIACORE^-3000 (BIAcore, Inc., Piscataway, NJ) at 25°C with immobilized antigen CM5 chips at -10 response units (RU).\nFor kinetics measurements, two-fold serial dilutions of Fab (0.78 nM to 500 nM) are injected in PBS with 0.05% polysorbate 20 (TWEEN-20^) surfactant (PBST) at 25°C at a flow rate of \n[00115] Kinetic binding measurements can also be performed on an Octet Red instrument (ForteBio, Menlo Park, CA, USA). For example, all washes, dilutions and measurements are performed in Octet buffer (0.2% dodecyimaltoside, or DDM, - PBS) with the plate shaking at 1000 rpm. Streptavidin biosensors are equilibrated in Octet buffer for 10 min and then loaded with biotinylated STEAP-1 (from viral iysate in 1 % DDM, diluted 1 :8 in Octet Buffer) for 5 min and washed for 10 min. For the association phase, the ligand-coated streptavidin tips are immersed in anti-STEAP-1 antibody fragments for 10 min (eight serial two-fold dilutions, starting at 500 or 50 nM)."
+    },
+    {
+        "molecule_name": "antibodies",
+        "protein_target_name": "STEAP-1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "≤ 10 nM",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[00112] In certain embodiments, the antibodies provided herein has a dissociation constant (Kd) to STEAP-1 of≤ 1000 nM,≤ 100 nM,≤ 10 nM,≤ 1 nM,≤ 0.1 nM,≤ 0.01 nM, or≤ 0.001 nM (e.g. 10^\"8 M or less, e.g. from 10^\"8 M to 10^\"13 M, e.g. , from 10^\"9 M to 10^\"13 M).\n[00114] According to another embodiment, Kd is measured using surface plasmon resonance assays using a BIACORE^-2000 or a BIACORE^-3000 (BIAcore, Inc., Piscataway, NJ) at 25°C with immobilized antigen CM5 chips at -10 response units (RU).\nFor kinetics measurements, two-fold serial dilutions of Fab (0.78 nM to 500 nM) are injected in PBS with 0.05% polysorbate 20 (TWEEN-20^) surfactant (PBST) at 25°C at a flow rate of \n[00115] Kinetic binding measurements can also be performed on an Octet Red instrument (ForteBio, Menlo Park, CA, USA). For example, all washes, dilutions and measurements are performed in Octet buffer (0.2% dodecyimaltoside, or DDM, - PBS) with the plate shaking at 1000 rpm. Streptavidin biosensors are equilibrated in Octet buffer for 10 min and then loaded with biotinylated STEAP-1 (from viral iysate in 1 % DDM, diluted 1 :8 in Octet Buffer) for 5 min and washed for 10 min. For the association phase, the ligand-coated streptavidin tips are immersed in anti-STEAP-1 antibody fragments for 10 min (eight serial two-fold dilutions, starting at 500 or 50 nM)."
+    },
+    {
+        "molecule_name": "antibodies",
+        "protein_target_name": "STEAP-1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "≤ 1 nM",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[00112] In certain embodiments, the antibodies provided herein has a dissociation constant (Kd) to STEAP-1 of≤ 1000 nM,≤ 100 nM,≤ 10 nM,≤ 1 nM,≤ 0.1 nM,≤ 0.01 nM, or≤ 0.001 nM (e.g. 10^\"8 M or less, e.g. from 10^\"8 M to 10^\"13 M, e.g. , from 10^\"9 M to 10^\"13 M).\n[00114] According to another embodiment, Kd is measured using surface plasmon resonance assays using a BIACORE^-2000 or a BIACORE^-3000 (BIAcore, Inc., Piscataway, NJ) at 25°C with immobilized antigen CM5 chips at -10 response units (RU).\nFor kinetics measurements, two-fold serial dilutions of Fab (0.78 nM to 500 nM) are injected in PBS with 0.05% polysorbate 20 (TWEEN-20^) surfactant (PBST) at 25°C at a flow rate of \n[00115] Kinetic binding measurements can also be performed on an Octet Red instrument (ForteBio, Menlo Park, CA, USA). For example, all washes, dilutions and measurements are performed in Octet buffer (0.2% dodecyimaltoside, or DDM, - PBS) with the plate shaking at 1000 rpm. Streptavidin biosensors are equilibrated in Octet buffer for 10 min and then loaded with biotinylated STEAP-1 (from viral iysate in 1 % DDM, diluted 1 :8 in Octet Buffer) for 5 min and washed for 10 min. For the association phase, the ligand-coated streptavidin tips are immersed in anti-STEAP-1 antibody fragments for 10 min (eight serial two-fold dilutions, starting at 500 or 50 nM)."
+    },
+    {
+        "molecule_name": "antibodies",
+        "protein_target_name": "STEAP-1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "≤ 0.1 nM",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[00112] In certain embodiments, the antibodies provided herein has a dissociation constant (Kd) to STEAP-1 of≤ 1000 nM,≤ 100 nM,≤ 10 nM,≤ 1 nM,≤ 0.1 nM,≤ 0.01 nM, or≤ 0.001 nM (e.g. 10^\"8 M or less, e.g. from 10^\"8 M to 10^\"13 M, e.g. , from 10^\"9 M to 10^\"13 M).\n[00114] According to another embodiment, Kd is measured using surface plasmon resonance assays using a BIACORE^-2000 or a BIACORE^-3000 (BIAcore, Inc., Piscataway, NJ) at 25°C with immobilized antigen CM5 chips at -10 response units (RU).\nFor kinetics measurements, two-fold serial dilutions of Fab (0.78 nM to 500 nM) are injected in PBS with 0.05% polysorbate 20 (TWEEN-20^) surfactant (PBST) at 25°C at a flow rate of \n[00115] Kinetic binding measurements can also be performed on an Octet Red instrument (ForteBio, Menlo Park, CA, USA). For example, all washes, dilutions and measurements are performed in Octet buffer (0.2% dodecyimaltoside, or DDM, - PBS) with the plate shaking at 1000 rpm. Streptavidin biosensors are equilibrated in Octet buffer for 10 min and then loaded with biotinylated STEAP-1 (from viral iysate in 1 % DDM, diluted 1 :8 in Octet Buffer) for 5 min and washed for 10 min. For the association phase, the ligand-coated streptavidin tips are immersed in anti-STEAP-1 antibody fragments for 10 min (eight serial two-fold dilutions, starting at 500 or 50 nM)."
+    },
+    {
+        "molecule_name": "antibodies",
+        "protein_target_name": "STEAP-1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "≤ 0.01 nM",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[00112] In certain embodiments, the antibodies provided herein has a dissociation constant (Kd) to STEAP-1 of≤ 1000 nM,≤ 100 nM,≤ 10 nM,≤ 1 nM,≤ 0.1 nM,≤ 0.01 nM, or≤ 0.001 nM (e.g. 10^\"8 M or less, e.g. from 10^\"8 M to 10^\"13 M, e.g. , from 10^\"9 M to 10^\"13 M).\n[00114] According to another embodiment, Kd is measured using surface plasmon resonance assays using a BIACORE^-2000 or a BIACORE^-3000 (BIAcore, Inc., Piscataway, NJ) at 25°C with immobilized antigen CM5 chips at -10 response units (RU).\nFor kinetics measurements, two-fold serial dilutions of Fab (0.78 nM to 500 nM) are injected in PBS with 0.05% polysorbate 20 (TWEEN-20^) surfactant (PBST) at 25°C at a flow rate of \n[00115] Kinetic binding measurements can also be performed on an Octet Red instrument (ForteBio, Menlo Park, CA, USA). For example, all washes, dilutions and measurements are performed in Octet buffer (0.2% dodecyimaltoside, or DDM, - PBS) with the plate shaking at 1000 rpm. Streptavidin biosensors are equilibrated in Octet buffer for 10 min and then loaded with biotinylated STEAP-1 (from viral iysate in 1 % DDM, diluted 1 :8 in Octet Buffer) for 5 min and washed for 10 min. For the association phase, the ligand-coated streptavidin tips are immersed in anti-STEAP-1 antibody fragments for 10 min (eight serial two-fold dilutions, starting at 500 or 50 nM)."
+    },
+    {
+        "molecule_name": "antibodies",
+        "protein_target_name": "STEAP-1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "≤ 0.001 nM",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[00112] In certain embodiments, the antibodies provided herein has a dissociation constant (Kd) to STEAP-1 of≤ 1000 nM,≤ 100 nM,≤ 10 nM,≤ 1 nM,≤ 0.1 nM,≤ 0.01 nM, or≤ 0.001 nM (e.g. 10^\"8 M or less, e.g. from 10^\"8 M to 10^\"13 M, e.g. , from 10^\"9 M to 10^\"13 M).\n[00114] According to another embodiment, Kd is measured using surface plasmon resonance assays using a BIACORE^-2000 or a BIACORE^-3000 (BIAcore, Inc., Piscataway, NJ) at 25°C with immobilized antigen CM5 chips at -10 response units (RU).\nFor kinetics measurements, two-fold serial dilutions of Fab (0.78 nM to 500 nM) are injected in PBS with 0.05% polysorbate 20 (TWEEN-20^) surfactant (PBST) at 25°C at a flow rate of \n[00115] Kinetic binding measurements can also be performed on an Octet Red instrument (ForteBio, Menlo Park, CA, USA). For example, all washes, dilutions and measurements are performed in Octet buffer (0.2% dodecyimaltoside, or DDM, - PBS) with the plate shaking at 1000 rpm. Streptavidin biosensors are equilibrated in Octet buffer for 10 min and then loaded with biotinylated STEAP-1 (from viral iysate in 1 % DDM, diluted 1 :8 in Octet Buffer) for 5 min and washed for 10 min. For the association phase, the ligand-coated streptavidin tips are immersed in anti-STEAP-1 antibody fragments for 10 min (eight serial two-fold dilutions, starting at 500 or 50 nM)."
+    }
+]

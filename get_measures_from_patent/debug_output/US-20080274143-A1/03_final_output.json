@@ -1,0 +1,12 @@
+[
+    {
+        "molecule_name": "Spectinomycin",
+        "protein_target_name": "70S ribosome",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "10",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nSpectinomycin binds the 70S ribosome and inhibits translocation of peptidal tRNA's from the A site to the P site during protein synthesis with an IC50 of 10 μM.\nNo sentence with the required information was found, however, one sentence with a unit was found: \nThe bombarded leaves were allowed to incubate in dark for 48 hours to recover from tissue damage and then were placed on RMOP medium containing 500 μg/ml spectinomycin for two rounds of selection on plates and subsequently moved to jars with MSO medium containing 500 μg/ml spectinomycin"
+    }
+]

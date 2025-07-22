@@ -1,0 +1,252 @@
+[
+    {
+        "molecule_name": "anti-HLA-G antibody",
+        "protein_target_name": "human HLA-G antigen",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "5.0×10−8",
+        "unit": "mol/l",
+        "raw_mentions": "As used herein, an antibody “binding to human HLA-G”, “specifically binding to human HLA-G”, “that binds to human HLA-G” or “anti-HLA-G antibody” refers to an antibody specifically binding to the human HLA-G antigen or its extracellular domain (ECD) with a binding affinity of a K<sub>D</sub>-value of 5.0×10<sup>−8 </sup>mol/l or lower, in one embodiment of a K<sub>D</sub>-value of 1.0×10<sup>−9 </sup>mol/1 or lower, in one embodiment of a K<sub>D</sub>-value of 5.0×10<sup>−8 </sup>mol/1 to 1.0×10<sup>−13 </sup>mol/l."
+    },
+    {
+        "molecule_name": "anti-HLA-G antibody",
+        "protein_target_name": "human HLA-G antigen",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "1.0×10−9",
+        "unit": "mol/1",
+        "raw_mentions": "As used herein, an antibody “binding to human HLA-G”, “specifically binding to human HLA-G”, “that binds to human HLA-G” or “anti-HLA-G antibody” refers to an antibody specifically binding to the human HLA-G antigen or its extracellular domain (ECD) with a binding affinity of a K<sub>D</sub>-value of 5.0×10<sup>−8 </sup>mol/l or lower, in one embodiment of a K<sub>D</sub>-value of 1.0×10<sup>−9 </sup>mol/1 or lower, in one embodiment of a K<sub>D</sub>-value of 5.0×10<sup>−8 </sup>mol/1 to 1.0×10<sup>−13 </sup>mol/l."
+    },
+    {
+        "molecule_name": "anti-HLA-G antibody",
+        "protein_target_name": "human HLA-G antigen",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "5.0×10−8",
+        "unit": "mol/1",
+        "raw_mentions": "As used herein, an antibody “binding to human HLA-G”, “specifically binding to human HLA-G”, “that binds to human HLA-G” or “anti-HLA-G antibody” refers to an antibody specifically binding to the human HLA-G antigen or its extracellular domain (ECD) with a binding affinity of a K<sub>D</sub>-value of 5.0×10<sup>−8 </sup>mol/l or lower, in one embodiment of a K<sub>D</sub>-value of 1.0×10<sup>−9 </sup>mol/1 or lower, in one embodiment of a K<sub>D</sub>-value of 5.0×10<sup>−8 </sup>mol/1 to 1.0×10<sup>−13 </sup>mol/l."
+    },
+    {
+        "molecule_name": "anti-HLA-G antibody",
+        "protein_target_name": "human HLA-G antigen",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "1.0×10−13",
+        "unit": "mol/l",
+        "raw_mentions": "As used herein, an antibody “binding to human HLA-G”, “specifically binding to human HLA-G”, “that binds to human HLA-G” or “anti-HLA-G antibody” refers to an antibody specifically binding to the human HLA-G antigen or its extracellular domain (ECD) with a binding affinity of a K<sub>D</sub>-value of 5.0×10<sup>−8 </sup>mol/l or lower, in one embodiment of a K<sub>D</sub>-value of 1.0×10<sup>−9 </sup>mol/1 or lower, in one embodiment of a K<sub>D</sub>-value of 5.0×10<sup>−8 </sup>mol/1 to 1.0×10<sup>−13 </sup>mol/l."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "HLA-G ß2M MHC I complex",
+        "protein_uniprot_id": null,
+        "protein_seq_id": "SEQ ID NO: 43",
+        "binding_metric": "KD",
+        "value": "<=0.001",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nand wherein the antibody binds to HLA-G ß2M MHC I complex comprising SEQ ID NO: 43 with a binding affinity which is substantially the same as (in one embodiment with a KD value of the binding affinity is reduced at most 10-fold compared to, in one embodiment with a KD value of the binding affinity is reduced at most 5-fold compared to) an antibody comprising a VH sequence of SEQ ID NO:31 and a VL sequence of SEQ ID NO:32 (as determined in surface plasmon resonance assay).\n\nIn certain embodiments, an antibody provided herein has a dissociation constant KD of ≤1 μM, ≤100 nM, ≤10 nM, ≤1 nM, ≤0.1 nM, ≤0.01 nM, or ≤0.001 nM (e.g., 10^{−8 } M or less, e.g., from 10^{−8 } M to 10^{−13 } M, e.g., from 10^{−9 } M to 10^{−13 } M)."
+    },
+    {
+        "molecule_name": "HLA-G-003",
+        "protein_target_name": "HLA-G",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "17.19",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nWt HLA-G was injected (30 μl/min) at a concentration of 500 nM for 90 seconds.\nTABLEBinding of HLA-G antibodies to recombinant soluble HLA-G MHC class 1 complex, in its monomeric, dimeric and trimeric form (ELISA)HLA-GHLA-GHLA-GMonomerDimerTrimerantibodyEC50 [nM]EC50 [nM]EC50 [nM]HLA-G-00317.191.871.86HLA-G-00397.354.105.29HLA-G-00414.955.314.87HLA-G-0090n.a.n.a.n.a.\nHLA-G wt versus HLA-G degraft binding ELISA:wt HLA-G HLA-A consensus on (SEQ ID NO: 43)HLA-G degraft (monomer)(SEQ ID NO: 44)EC50 relEC50 relAntibody[ng/ml]Max. OD[ng/ml]Max. ODHLA-G-00317.191.6—0.13HLA-G-00397.351.4—0.13HLA-G-00418.602.3—0.15HLA-G-009010.373.4—0.2\nwt HLA-G (SEQ ID NO: 25)HLA-A consensus on HLA-G degraft(monomer)(SEQ ID NO: 26)kakd t 1/2kakdt 1/2Anti-body(1/Ms)(1/s)(min)KD (M)(1/Ms)(1/s)(min)KD (M)HLA-G-4.9E+043.7E−0337.5E−08————0031HLA-G-8.3E+04 2.0E−0362.4E−080031-0104(humanized)HLA-G- 4.6E+054.4E−04279.5E−10————0039HLA-G-3.8E+054.9E−04231.3E−09————0041HLA-G- 2.3E+058.5E−04143.6E−09————0090\nNon-biotinylated HLA-G molecules were injected for 180 s at 30 μl/min with concentrations from 2.5 up to 800 nM (2×1:2 and 4×1:3 dilution series) onto the surface (association phase)."
+    },
+    {
+        "molecule_name": "HLA-G-003",
+        "protein_target_name": "HLA-G",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "1.87",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nWt HLA-G was injected (30 μl/min) at a concentration of 500 nM for 90 seconds.\nTABLEBinding of HLA-G antibodies to recombinant soluble HLA-G MHC class 1 complex, in its monomeric, dimeric and trimeric form (ELISA)HLA-GHLA-GHLA-GMonomerDimerTrimerantibodyEC50 [nM]EC50 [nM]EC50 [nM]HLA-G-00317.191.871.86HLA-G-00397.354.105.29HLA-G-00414.955.314.87HLA-G-0090n.a.n.a.n.a.\nHLA-G wt versus HLA-G degraft binding ELISA:wt HLA-G HLA-A consensus on (SEQ ID NO: 43)HLA-G degraft (monomer)(SEQ ID NO: 44)EC50 relEC50 relAntibody[ng/ml]Max. OD[ng/ml]Max. ODHLA-G-00317.191.6—0.13HLA-G-00397.351.4—0.13HLA-G-00418.602.3—0.15HLA-G-009010.373.4—0.2\nwt HLA-G (SEQ ID NO: 25)HLA-A consensus on HLA-G degraft(monomer)(SEQ ID NO: 26)kakd t 1/2kakdt 1/2Anti-body(1/Ms)(1/s)(min)KD (M)(1/Ms)(1/s)(min)KD (M)HLA-G-4.9E+043.7E−0337.5E−08————0031HLA-G-8.3E+04 2.0E−0362.4E−080031-0104(humanized)HLA-G- 4.6E+054.4E−04279.5E−10————0039HLA-G-3.8E+054.9E−04231.3E−09————0041HLA-G- 2.3E+058.5E−04143.6E−09————0090\nNon-biotinylated HLA-G molecules were injected for 180 s at 30 μl/min with concentrations from 2.5 up to 800 nM (2×1:2 and 4×1:3 dilution series) onto the surface (association phase)."
+    },
+    {
+        "molecule_name": "HLA-G-003",
+        "protein_target_name": "HLA-G",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "1.86",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nWt HLA-G was injected (30 μl/min) at a concentration of 500 nM for 90 seconds.\nTABLEBinding of HLA-G antibodies to recombinant soluble HLA-G MHC class 1 complex, in its monomeric, dimeric and trimeric form (ELISA)HLA-GHLA-GHLA-GMonomerDimerTrimerantibodyEC50 [nM]EC50 [nM]EC50 [nM]HLA-G-00317.191.871.86HLA-G-00397.354.105.29HLA-G-00414.955.314.87HLA-G-0090n.a.n.a.n.a.\nHLA-G wt versus HLA-G degraft binding ELISA:wt HLA-G HLA-A consensus on (SEQ ID NO: 43)HLA-G degraft (monomer)(SEQ ID NO: 44)EC50 relEC50 relAntibody[ng/ml]Max. OD[ng/ml]Max. ODHLA-G-00317.191.6—0.13HLA-G-00397.351.4—0.13HLA-G-00418.602.3—0.15HLA-G-009010.373.4—0.2\nwt HLA-G (SEQ ID NO: 25)HLA-A consensus on HLA-G degraft(monomer)(SEQ ID NO: 26)kakd t 1/2kakdt 1/2Anti-body(1/Ms)(1/s)(min)KD (M)(1/Ms)(1/s)(min)KD (M)HLA-G-4.9E+043.7E−0337.5E−08————0031HLA-G-8.3E+04 2.0E−0362.4E−080031-0104(humanized)HLA-G- 4.6E+054.4E−04279.5E−10————0039HLA-G-3.8E+054.9E−04231.3E−09————0041HLA-G- 2.3E+058.5E−04143.6E−09————0090\nNon-biotinylated HLA-G molecules were injected for 180 s at 30 μl/min with concentrations from 2.5 up to 800 nM (2×1:2 and 4×1:3 dilution series) onto the surface (association phase)."
+    },
+    {
+        "molecule_name": "HLA-G-003",
+        "protein_target_name": "HLA-G",
+        "protein_uniprot_id": null,
+        "protein_seq_id": "43",
+        "binding_metric": "EC50 rel",
+        "value": "17.19",
+        "unit": "ng/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nWt HLA-G was injected (30 μl/min) at a concentration of 500 nM for 90 seconds.\nTABLEBinding of HLA-G antibodies to recombinant soluble HLA-G MHC class 1 complex, in its monomeric, dimeric and trimeric form (ELISA)HLA-GHLA-GHLA-GMonomerDimerTrimerantibodyEC50 [nM]EC50 [nM]EC50 [nM]HLA-G-00317.191.871.86HLA-G-00397.354.105.29HLA-G-00414.955.314.87HLA-G-0090n.a.n.a.n.a.\nHLA-G wt versus HLA-G degraft binding ELISA:wt HLA-G HLA-A consensus on (SEQ ID NO: 43)HLA-G degraft (monomer)(SEQ ID NO: 44)EC50 relEC50 relAntibody[ng/ml]Max. OD[ng/ml]Max. ODHLA-G-00317.191.6—0.13HLA-G-00397.351.4—0.13HLA-G-00418.602.3—0.15HLA-G-009010.373.4—0.2\nwt HLA-G (SEQ ID NO: 25)HLA-A consensus on HLA-G degraft(monomer)(SEQ ID NO: 26)kakd t 1/2kakdt 1/2Anti-body(1/Ms)(1/s)(min)KD (M)(1/Ms)(1/s)(min)KD (M)HLA-G-4.9E+043.7E−0337.5E−08————0031HLA-G-8.3E+04 2.0E−0362.4E−080031-0104(humanized)HLA-G- 4.6E+054.4E−04279.5E−10————0039HLA-G-3.8E+054.9E−04231.3E−09————0041HLA-G- 2.3E+058.5E−04143.6E−09————0090\nNon-biotinylated HLA-G molecules were injected for 180 s at 30 μl/min with concentrations from 2.5 up to 800 nM (2×1:2 and 4×1:3 dilution series) onto the surface (association phase)."
+    },
+    {
+        "molecule_name": "HLA-G-003",
+        "protein_target_name": "HLA-G",
+        "protein_uniprot_id": null,
+        "protein_seq_id": "43",
+        "binding_metric": "Max. OD",
+        "value": "1.6",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nWt HLA-G was injected (30 μl/min) at a concentration of 500 nM for 90 seconds.\nTABLEBinding of HLA-G antibodies to recombinant soluble HLA-G MHC class 1 complex, in its monomeric, dimeric and trimeric form (ELISA)HLA-GHLA-GHLA-GMonomerDimerTrimerantibodyEC50 [nM]EC50 [nM]EC50 [nM]HLA-G-00317.191.871.86HLA-G-00397.354.105.29HLA-G-00414.955.314.87HLA-G-0090n.a.n.a.n.a.\nHLA-G wt versus HLA-G degraft binding ELISA:wt HLA-G HLA-A consensus on (SEQ ID NO: 43)HLA-G degraft (monomer)(SEQ ID NO: 44)EC50 relEC50 relAntibody[ng/ml]Max. OD[ng/ml]Max. ODHLA-G-00317.191.6—0.13HLA-G-00397.351.4—0.13HLA-G-00418.602.3—0.15HLA-G-009010.373.4—0.2\nwt HLA-G (SEQ ID NO: 25)HLA-A consensus on HLA-G degraft(monomer)(SEQ ID NO: 26)kakd t 1/2kakdt 1/2Anti-body(1/Ms)(1/s)(min)KD (M)(1/Ms)(1/s)(min)KD (M)HLA-G-4.9E+043.7E−0337.5E−08————0031HLA-G-8.3E+04 2.0E−0362.4E−080031-0104(humanized)HLA-G- 4.6E+054.4E−04279.5E−10————0039HLA-G-3.8E+054.9E−04231.3E−09————0041HLA-G- 2.3E+058.5E−04143.6E−09————0090\nNon-biotinylated HLA-G molecules were injected for 180 s at 30 μl/min with concentrations from 2.5 up to 800 nM (2×1:2 and 4×1:3 dilution series) onto the surface (association phase)."
+    },
+    {
+        "molecule_name": "HLA-G-003",
+        "protein_target_name": "HLA-G",
+        "protein_uniprot_id": null,
+        "protein_seq_id": "44",
+        "binding_metric": "EC50 rel",
+        "value": "0.13",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nWt HLA-G was injected (30 μl/min) at a concentration of 500 nM for 90 seconds.\nTABLEBinding of HLA-G antibodies to recombinant soluble HLA-G MHC class 1 complex, in its monomeric, dimeric and trimeric form (ELISA)HLA-GHLA-GHLA-GMonomerDimerTrimerantibodyEC50 [nM]EC50 [nM]EC50 [nM]HLA-G-00317.191.871.86HLA-G-00397.354.105.29HLA-G-00414.955.314.87HLA-G-0090n.a.n.a.n.a.\nHLA-G wt versus HLA-G degraft binding ELISA:wt HLA-G HLA-A consensus on (SEQ ID NO: 43)HLA-G degraft (monomer)(SEQ ID NO: 44)EC50 relEC50 relAntibody[ng/ml]Max. OD[ng/ml]Max. ODHLA-G-00317.191.6—0.13HLA-G-00397.351.4—0.13HLA-G-00418.602.3—0.15HLA-G-009010.373.4—0.2\nwt HLA-G (SEQ ID NO: 25)HLA-A consensus on HLA-G degraft(monomer)(SEQ ID NO: 26)kakd t 1/2kakdt 1/2Anti-body(1/Ms)(1/s)(min)KD (M)(1/Ms)(1/s)(min)KD (M)HLA-G-4.9E+043.7E−0337.5E−08————0031HLA-G-8.3E+04 2.0E−0362.4E−080031-0104(humanized)HLA-G- 4.6E+054.4E−04279.5E−10————0039HLA-G-3.8E+054.9E−04231.3E−09————0041HLA-G- 2.3E+058.5E−04143.6E−09————0090\nNon-biotinylated HLA-G molecules were injected for 180 s at 30 μl/min with concentrations from 2.5 up to 800 nM (2×1:2 and 4×1:3 dilution series) onto the surface (association phase)."
+    },
+    {
+        "molecule_name": "HLA-G-003",
+        "protein_target_name": "HLA-G",
+        "protein_uniprot_id": null,
+        "protein_seq_id": "25",
+        "binding_metric": "ka",
+        "value": "4.9E+04",
+        "unit": "1/Ms",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nWt HLA-G was injected (30 μl/min) at a concentration of 500 nM for 90 seconds.\nTABLEBinding of HLA-G antibodies to recombinant soluble HLA-G MHC class 1 complex, in its monomeric, dimeric and trimeric form (ELISA)HLA-GHLA-GHLA-GMonomerDimerTrimerantibodyEC50 [nM]EC50 [nM]EC50 [nM]HLA-G-00317.191.871.86HLA-G-00397.354.105.29HLA-G-00414.955.314.87HLA-G-0090n.a.n.a.n.a.\nHLA-G wt versus HLA-G degraft binding ELISA:wt HLA-G HLA-A consensus on (SEQ ID NO: 43)HLA-G degraft (monomer)(SEQ ID NO: 44)EC50 relEC50 relAntibody[ng/ml]Max. OD[ng/ml]Max. ODHLA-G-00317.191.6—0.13HLA-G-00397.351.4—0.13HLA-G-00418.602.3—0.15HLA-G-009010.373.4—0.2\nwt HLA-G (SEQ ID NO: 25)HLA-A consensus on HLA-G degraft(monomer)(SEQ ID NO: 26)kakd t 1/2kakdt 1/2Anti-body(1/Ms)(1/s)(min)KD (M)(1/Ms)(1/s)(min)KD (M)HLA-G-4.9E+043.7E−0337.5E−08————0031HLA-G-8.3E+04 2.0E−0362.4E−080031-0104(humanized)HLA-G- 4.6E+054.4E−04279.5E−10————0039HLA-G-3.8E+054.9E−04231.3E−09————0041HLA-G- 2.3E+058.5E−04143.6E−09————0090\nNon-biotinylated HLA-G molecules were injected for 180 s at 30 μl/min with concentrations from 2.5 up to 800 nM (2×1:2 and 4×1:3 dilution series) onto the surface (association phase)."
+    },
+    {
+        "molecule_name": "HLA-G-003",
+        "protein_target_name": "HLA-G",
+        "protein_uniprot_id": null,
+        "protein_seq_id": "25",
+        "binding_metric": "kd",
+        "value": "3.7E−03",
+        "unit": "1/s",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nWt HLA-G was injected (30 μl/min) at a concentration of 500 nM for 90 seconds.\nTABLEBinding of HLA-G antibodies to recombinant soluble HLA-G MHC class 1 complex, in its monomeric, dimeric and trimeric form (ELISA)HLA-GHLA-GHLA-GMonomerDimerTrimerantibodyEC50 [nM]EC50 [nM]EC50 [nM]HLA-G-00317.191.871.86HLA-G-00397.354.105.29HLA-G-00414.955.314.87HLA-G-0090n.a.n.a.n.a.\nHLA-G wt versus HLA-G degraft binding ELISA:wt HLA-G HLA-A consensus on (SEQ ID NO: 43)HLA-G degraft (monomer)(SEQ ID NO: 44)EC50 relEC50 relAntibody[ng/ml]Max. OD[ng/ml]Max. ODHLA-G-00317.191.6—0.13HLA-G-00397.351.4—0.13HLA-G-00418.602.3—0.15HLA-G-009010.373.4—0.2\nwt HLA-G (SEQ ID NO: 25)HLA-A consensus on HLA-G degraft(monomer)(SEQ ID NO: 26)kakd t 1/2kakdt 1/2Anti-body(1/Ms)(1/s)(min)KD (M)(1/Ms)(1/s)(min)KD (M)HLA-G-4.9E+043.7E−0337.5E−08————0031HLA-G-8.3E+04 2.0E−0362.4E−080031-0104(humanized)HLA-G- 4.6E+054.4E−04279.5E−10————0039HLA-G-3.8E+054.9E−04231.3E−09————0041HLA-G- 2.3E+058.5E−04143.6E−09————0090\nNon-biotinylated HLA-G molecules were injected for 180 s at 30 μl/min with concentrations from 2.5 up to 800 nM (2×1:2 and 4×1:3 dilution series) onto the surface (association phase)."
+    },
+    {
+        "molecule_name": "HLA-G-003",
+        "protein_target_name": "HLA-G",
+        "protein_uniprot_id": null,
+        "protein_seq_id": "25",
+        "binding_metric": "t 1/2",
+        "value": "37.5E−08",
+        "unit": "min",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nWt HLA-G was injected (30 μl/min) at a concentration of 500 nM for 90 seconds.\nTABLEBinding of HLA-G antibodies to recombinant soluble HLA-G MHC class 1 complex, in its monomeric, dimeric and trimeric form (ELISA)HLA-GHLA-GHLA-GMonomerDimerTrimerantibodyEC50 [nM]EC50 [nM]EC50 [nM]HLA-G-00317.191.871.86HLA-G-00397.354.105.29HLA-G-00414.955.314.87HLA-G-0090n.a.n.a.n.a.\nHLA-G wt versus HLA-G degraft binding ELISA:wt HLA-G HLA-A consensus on (SEQ ID NO: 43)HLA-G degraft (monomer)(SEQ ID NO: 44)EC50 relEC50 relAntibody[ng/ml]Max. OD[ng/ml]Max. ODHLA-G-00317.191.6—0.13HLA-G-00397.351.4—0.13HLA-G-00418.602.3—0.15HLA-G-009010.373.4—0.2\nwt HLA-G (SEQ ID NO: 25)HLA-A consensus on HLA-G degraft(monomer)(SEQ ID NO: 26)kakd t 1/2kakdt 1/2Anti-body(1/Ms)(1/s)(min)KD (M)(1/Ms)(1/s)(min)KD (M)HLA-G-4.9E+043.7E−0337.5E−08————0031HLA-G-8.3E+04 2.0E−0362.4E−080031-0104(humanized)HLA-G- 4.6E+054.4E−04279.5E−10————0039HLA-G-3.8E+054.9E−04231.3E−09————0041HLA-G- 2.3E+058.5E−04143.6E−09————0090\nNon-biotinylated HLA-G molecules were injected for 180 s at 30 μl/min with concentrations from 2.5 up to 800 nM (2×1:2 and 4×1:3 dilution series) onto the surface (association phase)."
+    },
+    {
+        "molecule_name": "HLA-G-003",
+        "protein_target_name": "HLA-G",
+        "protein_uniprot_id": null,
+        "protein_seq_id": "25",
+        "binding_metric": "KD",
+        "value": "———",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nWt HLA-G was injected (30 μl/min) at a concentration of 500 nM for 90 seconds.\nTABLEBinding of HLA-G antibodies to recombinant soluble HLA-G MHC class 1 complex, in its monomeric, dimeric and trimeric form (ELISA)HLA-GHLA-GHLA-GMonomerDimerTrimerantibodyEC50 [nM]EC50 [nM]EC50 [nM]HLA-G-00317.191.871.86HLA-G-00397.354.105.29HLA-G-00414.955.314.87HLA-G-0090n.a.n.a.n.a.\nHLA-G wt versus HLA-G degraft binding ELISA:wt HLA-G HLA-A consensus on (SEQ ID NO: 43)HLA-G degraft (monomer)(SEQ ID NO: 44)EC50 relEC50 relAntibody[ng/ml]Max. OD[ng/ml]Max. ODHLA-G-00317.191.6—0.13HLA-G-00397.351.4—0.13HLA-G-00418.602.3—0.15HLA-G-009010.373.4—0.2\nwt HLA-G (SEQ ID NO: 25)HLA-A consensus on HLA-G degraft(monomer)(SEQ ID NO: 26)kakd t 1/2kakdt 1/2Anti-body(1/Ms)(1/s)(min)KD (M)(1/Ms)(1/s)(min)KD (M)HLA-G-4.9E+043.7E−0337.5E−08————0031HLA-G-8.3E+04 2.0E−0362.4E−080031-0104(humanized)HLA-G- 4.6E+054.4E−04279.5E−10————0039HLA-G-3.8E+054.9E−04231.3E−09————0041HLA-G- 2.3E+058.5E−04143.6E−09————0090\nNon-biotinylated HLA-G molecules were injected for 180 s at 30 μl/min with concentrations from 2.5 up to 800 nM (2×1:2 and 4×1:3 dilution series) onto the surface (association phase)."
+    },
+    {
+        "molecule_name": "HLA-G-031",
+        "protein_target_name": "HLA-G",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "7.35",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nWt HLA-G was injected (30 μl/min) at a concentration of 500 nM for 90 seconds.\nTABLEBinding of HLA-G antibodies to recombinant soluble HLA-G MHC class 1 complex, in its monomeric, dimeric and trimeric form (ELISA)HLA-GHLA-GHLA-GMonomerDimerTrimerantibodyEC50 [nM]EC50 [nM]EC50 [nM]HLA-G-00317.191.871.86HLA-G-00397.354.105.29HLA-G-00414.955.314.87HLA-G-0090n.a.n.a.n.a.\nHLA-G wt versus HLA-G degraft binding ELISA:wt HLA-G HLA-A consensus on (SEQ ID NO: 43)HLA-G degraft (monomer)(SEQ ID NO: 44)EC50 relEC50 relAntibody[ng/ml]Max. OD[ng/ml]Max. ODHLA-G-00317.191.6—0.13HLA-G-00397.351.4—0.13HLA-G-00418.602.3—0.15HLA-G-009010.373.4—0.2\nwt HLA-G (SEQ ID NO: 25)HLA-A consensus on HLA-G degraft(monomer)(SEQ ID NO: 26)kakd t 1/2kakdt 1/2Anti-body(1/Ms)(1/s)(min)KD (M)(1/Ms)(1/s)(min)KD (M)HLA-G-4.9E+043.7E−0337.5E−08————0031HLA-G-8.3E+04 2.0E−0362.4E−080031-0104(humanized)HLA-G- 4.6E+054.4E−04279.5E−10————0039HLA-G-3.8E+054.9E−04231.3E−09————0041HLA-G- 2.3E+058.5E−04143.6E−09————0090\nNon-biotinylated HLA-G molecules were injected for 180 s at 30 μl/min with concentrations from 2.5 up to 800 nM (2×1:2 and 4×1:3 dilution series) onto the surface (association phase)."
+    },
+    {
+        "molecule_name": "HLA-G-031",
+        "protein_target_name": "HLA-G",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "4.10",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nWt HLA-G was injected (30 μl/min) at a concentration of 500 nM for 90 seconds.\nTABLEBinding of HLA-G antibodies to recombinant soluble HLA-G MHC class 1 complex, in its monomeric, dimeric and trimeric form (ELISA)HLA-GHLA-GHLA-GMonomerDimerTrimerantibodyEC50 [nM]EC50 [nM]EC50 [nM]HLA-G-00317.191.871.86HLA-G-00397.354.105.29HLA-G-00414.955.314.87HLA-G-0090n.a.n.a.n.a.\nHLA-G wt versus HLA-G degraft binding ELISA:wt HLA-G HLA-A consensus on (SEQ ID NO: 43)HLA-G degraft (monomer)(SEQ ID NO: 44)EC50 relEC50 relAntibody[ng/ml]Max. OD[ng/ml]Max. ODHLA-G-00317.191.6—0.13HLA-G-00397.351.4—0.13HLA-G-00418.602.3—0.15HLA-G-009010.373.4—0.2\nwt HLA-G (SEQ ID NO: 25)HLA-A consensus on HLA-G degraft(monomer)(SEQ ID NO: 26)kakd t 1/2kakdt 1/2Anti-body(1/Ms)(1/s)(min)KD (M)(1/Ms)(1/s)(min)KD (M)HLA-G-4.9E+043.7E−0337.5E−08————0031HLA-G-8.3E+04 2.0E−0362.4E−080031-0104(humanized)HLA-G- 4.6E+054.4E−04279.5E−10————0039HLA-G-3.8E+054.9E−04231.3E−09————0041HLA-G- 2.3E+058.5E−04143.6E−09————0090\nNon-biotinylated HLA-G molecules were injected for 180 s at 30 μl/min with concentrations from 2.5 up to 800 nM (2×1:2 and 4×1:3 dilution series) onto the surface (association phase)."
+    },
+    {
+        "molecule_name": "HLA-G-031",
+        "protein_target_name": "HLA-G",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "5.29",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nWt HLA-G was injected (30 μl/min) at a concentration of 500 nM for 90 seconds.\nTABLEBinding of HLA-G antibodies to recombinant soluble HLA-G MHC class 1 complex, in its monomeric, dimeric and trimeric form (ELISA)HLA-GHLA-GHLA-GMonomerDimerTrimerantibodyEC50 [nM]EC50 [nM]EC50 [nM]HLA-G-00317.191.871.86HLA-G-00397.354.105.29HLA-G-00414.955.314.87HLA-G-0090n.a.n.a.n.a.\nHLA-G wt versus HLA-G degraft binding ELISA:wt HLA-G HLA-A consensus on (SEQ ID NO: 43)HLA-G degraft (monomer)(SEQ ID NO: 44)EC50 relEC50 relAntibody[ng/ml]Max. OD[ng/ml]Max. ODHLA-G-00317.191.6—0.13HLA-G-00397.351.4—0.13HLA-G-00418.602.3—0.15HLA-G-009010.373.4—0.2\nwt HLA-G (SEQ ID NO: 25)HLA-A consensus on HLA-G degraft(monomer)(SEQ ID NO: 26)kakd t 1/2kakdt 1/2Anti-body(1/Ms)(1/s)(min)KD (M)(1/Ms)(1/s)(min)KD (M)HLA-G-4.9E+043.7E−0337.5E−08————0031HLA-G-8.3E+04 2.0E−0362.4E−080031-0104(humanized)HLA-G- 4.6E+054.4E−04279.5E−10————0039HLA-G-3.8E+054.9E−04231.3E−09————0041HLA-G- 2.3E+058.5E−04143.6E−09————0090\nNon-biotinylated HLA-G molecules were injected for 180 s at 30 μl/min with concentrations from 2.5 up to 800 nM (2×1:2 and 4×1:3 dilution series) onto the surface (association phase)."
+    },
+    {
+        "molecule_name": "HLA-G-004",
+        "protein_target_name": "HLA-G",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "4.95",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nWt HLA-G was injected (30 μl/min) at a concentration of 500 nM for 90 seconds.\nTABLEBinding of HLA-G antibodies to recombinant soluble HLA-G MHC class 1 complex, in its monomeric, dimeric and trimeric form (ELISA)HLA-GHLA-GHLA-GMonomerDimerTrimerantibodyEC50 [nM]EC50 [nM]EC50 [nM]HLA-G-00317.191.871.86HLA-G-00397.354.105.29HLA-G-00414.955.314.87HLA-G-0090n.a.n.a.n.a.\nHLA-G wt versus HLA-G degraft binding ELISA:wt HLA-G HLA-A consensus on (SEQ ID NO: 43)HLA-G degraft (monomer)(SEQ ID NO: 44)EC50 relEC50 relAntibody[ng/ml]Max. OD[ng/ml]Max. ODHLA-G-00317.191.6—0.13HLA-G-00397.351.4—0.13HLA-G-00418.602.3—0.15HLA-G-009010.373.4—0.2\nwt HLA-G (SEQ ID NO: 25)HLA-A consensus on HLA-G degraft(monomer)(SEQ ID NO: 26)kakd t 1/2kakdt 1/2Anti-body(1/Ms)(1/s)(min)KD (M)(1/Ms)(1/s)(min)KD (M)HLA-G-4.9E+043.7E−0337.5E−08————0031HLA-G-8.3E+04 2.0E−0362.4E−080031-0104(humanized)HLA-G- 4.6E+054.4E−04279.5E−10————0039HLA-G-3.8E+054.9E−04231.3E−09————0041HLA-G- 2.3E+058.5E−04143.6E−09————0090\nNon-biotinylated HLA-G molecules were injected for 180 s at 30 μl/min with concentrations from 2.5 up to 800 nM (2×1:2 and 4×1:3 dilution series) onto the surface (association phase)."
+    },
+    {
+        "molecule_name": "HLA-G-004",
+        "protein_target_name": "HLA-G",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "5.31",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nWt HLA-G was injected (30 μl/min) at a concentration of 500 nM for 90 seconds.\nTABLEBinding of HLA-G antibodies to recombinant soluble HLA-G MHC class 1 complex, in its monomeric, dimeric and trimeric form (ELISA)HLA-GHLA-GHLA-GMonomerDimerTrimerantibodyEC50 [nM]EC50 [nM]EC50 [nM]HLA-G-00317.191.871.86HLA-G-00397.354.105.29HLA-G-00414.955.314.87HLA-G-0090n.a.n.a.n.a.\nHLA-G wt versus HLA-G degraft binding ELISA:wt HLA-G HLA-A consensus on (SEQ ID NO: 43)HLA-G degraft (monomer)(SEQ ID NO: 44)EC50 relEC50 relAntibody[ng/ml]Max. OD[ng/ml]Max. ODHLA-G-00317.191.6—0.13HLA-G-00397.351.4—0.13HLA-G-00418.602.3—0.15HLA-G-009010.373.4—0.2\nwt HLA-G (SEQ ID NO: 25)HLA-A consensus on HLA-G degraft(monomer)(SEQ ID NO: 26)kakd t 1/2kakdt 1/2Anti-body(1/Ms)(1/s)(min)KD (M)(1/Ms)(1/s)(min)KD (M)HLA-G-4.9E+043.7E−0337.5E−08————0031HLA-G-8.3E+04 2.0E−0362.4E−080031-0104(humanized)HLA-G- 4.6E+054.4E−04279.5E−10————0039HLA-G-3.8E+054.9E−04231.3E−09————0041HLA-G- 2.3E+058.5E−04143.6E−09————0090\nNon-biotinylated HLA-G molecules were injected for 180 s at 30 μl/min with concentrations from 2.5 up to 800 nM (2×1:2 and 4×1:3 dilution series) onto the surface (association phase)."
+    },
+    {
+        "molecule_name": "HLA-G-004",
+        "protein_target_name": "HLA-G",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "4.87",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nWt HLA-G was injected (30 μl/min) at a concentration of 500 nM for 90 seconds.\nTABLEBinding of HLA-G antibodies to recombinant soluble HLA-G MHC class 1 complex, in its monomeric, dimeric and trimeric form (ELISA)HLA-GHLA-GHLA-GMonomerDimerTrimerantibodyEC50 [nM]EC50 [nM]EC50 [nM]HLA-G-00317.191.871.86HLA-G-00397.354.105.29HLA-G-00414.955.314.87HLA-G-0090n.a.n.a.n.a.\nHLA-G wt versus HLA-G degraft binding ELISA:wt HLA-G HLA-A consensus on (SEQ ID NO: 43)HLA-G degraft (monomer)(SEQ ID NO: 44)EC50 relEC50 relAntibody[ng/ml]Max. OD[ng/ml]Max. ODHLA-G-00317.191.6—0.13HLA-G-00397.351.4—0.13HLA-G-00418.602.3—0.15HLA-G-009010.373.4—0.2\nwt HLA-G (SEQ ID NO: 25)HLA-A consensus on HLA-G degraft(monomer)(SEQ ID NO: 26)kakd t 1/2kakdt 1/2Anti-body(1/Ms)(1/s)(min)KD (M)(1/Ms)(1/s)(min)KD (M)HLA-G-4.9E+043.7E−0337.5E−08————0031HLA-G-8.3E+04 2.0E−0362.4E−080031-0104(humanized)HLA-G- 4.6E+054.4E−04279.5E−10————0039HLA-G-3.8E+054.9E−04231.3E−09————0041HLA-G- 2.3E+058.5E−04143.6E−09————0090\nNon-biotinylated HLA-G molecules were injected for 180 s at 30 μl/min with concentrations from 2.5 up to 800 nM (2×1:2 and 4×1:3 dilution series) onto the surface (association phase)."
+    },
+    {
+        "molecule_name": "HLA-G-009",
+        "protein_target_name": "HLA-G",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "n.a.",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nWt HLA-G was injected (30 μl/min) at a concentration of 500 nM for 90 seconds.\nTABLEBinding of HLA-G antibodies to recombinant soluble HLA-G MHC class 1 complex, in its monomeric, dimeric and trimeric form (ELISA)HLA-GHLA-GHLA-GMonomerDimerTrimerantibodyEC50 [nM]EC50 [nM]EC50 [nM]HLA-G-00317.191.871.86HLA-G-00397.354.105.29HLA-G-00414.955.314.87HLA-G-0090n.a.n.a.n.a.\nHLA-G wt versus HLA-G degraft binding ELISA:wt HLA-G HLA-A consensus on (SEQ ID NO: 43)HLA-G degraft (monomer)(SEQ ID NO: 44)EC50 relEC50 relAntibody[ng/ml]Max. OD[ng/ml]Max. ODHLA-G-00317.191.6—0.13HLA-G-00397.351.4—0.13HLA-G-00418.602.3—0.15HLA-G-009010.373.4—0.2\nwt HLA-G (SEQ ID NO: 25)HLA-A consensus on HLA-G degraft(monomer)(SEQ ID NO: 26)kakd t 1/2kakdt 1/2Anti-body(1/Ms)(1/s)(min)KD (M)(1/Ms)(1/s)(min)KD (M)HLA-G-4.9E+043.7E−0337.5E−08————0031HLA-G-8.3E+04 2.0E−0362.4E−080031-0104(humanized)HLA-G- 4.6E+054.4E−04279.5E−10————0039HLA-G-3.8E+054.9E−04231.3E−09————0041HLA-G- 2.3E+058.5E−04143.6E−09————0090\nNon-biotinylated HLA-G molecules were injected for 180 s at 30 μl/min with concentrations from 2.5 up to 800 nM (2×1:2 and 4×1:3 dilution series) onto the surface (association phase)."
+    },
+    {
+        "molecule_name": "MEM/G9",
+        "protein_target_name": "wt human HLA-G MHC I complex",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "7.7E−09",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nkakdt 1/2KDAntigenAntibody(1/Ms)(1/s)(Min)(M)wt HLA-GMEM/G91.5E+051.1E−03107.7E−09(SEQ ID87G————NO: 43)G2331.8E+053.7E−0332.0E−08(monomer)2A12————4H84————5A6G7————6D463————9-1F10————MEM-G/1 ————MEM-G/117.4E+048.5E−04141.2E−08MEM-G/2 ————MEM-G/4 ————HLA-AMEM/G91.2E+053.6E−020.33.0E−07consensus on87G————HLA-G degraftG233————(SEQ ID2A12————NO: 44)4H84————5A6G7————6D463————9-1F10————MEM-G/1 ————MEM-G/118.9E+041.2E−03101.3E−08MEM-G/2 ————MEM-G/4 ————\nOnly antibody MEM/G9 with a KD value of the binding affinity of 7.7E−09 M, antibody G233 with a KD value of 2.0E−08 M and MEM-G/11 with a KD value of the binding affinity of 1.2E−08 M showed binding to monomeric wt human HLA-G MHC I complex. \nStreptavidin coated plates (NUNC™, MicroCoat #11974998001) were coated with 25 μl/well biotinylated human wt HLA-G at a concentration of 500-1000 ng/ml and incubated at 4° C. overnight."
+    },
+    {
+        "molecule_name": "G233",
+        "protein_target_name": "wt human HLA-G MHC I complex",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "2.0E−08",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nkakdt 1/2KDAntigenAntibody(1/Ms)(1/s)(Min)(M)wt HLA-GMEM/G91.5E+051.1E−03107.7E−09(SEQ ID87G————NO: 43)G2331.8E+053.7E−0332.0E−08(monomer)2A12————4H84————5A6G7————6D463————9-1F10————MEM-G/1 ————MEM-G/117.4E+048.5E−04141.2E−08MEM-G/2 ————MEM-G/4 ————HLA-AMEM/G91.2E+053.6E−020.33.0E−07consensus on87G————HLA-G degraftG233————(SEQ ID2A12————NO: 44)4H84————5A6G7————6D463————9-1F10————MEM-G/1 ————MEM-G/118.9E+041.2E−03101.3E−08MEM-G/2 ————MEM-G/4 ————\nOnly antibody MEM/G9 with a KD value of the binding affinity of 7.7E−09 M, antibody G233 with a KD value of 2.0E−08 M and MEM-G/11 with a KD value of the binding affinity of 1.2E−08 M showed binding to monomeric wt human HLA-G MHC I complex. \nStreptavidin coated plates (NUNC™, MicroCoat #11974998001) were coated with 25 μl/well biotinylated human wt HLA-G at a concentration of 500-1000 ng/ml and incubated at 4° C. overnight."
+    },
+    {
+        "molecule_name": "MEM-G/11",
+        "protein_target_name": "wt human HLA-G MHC I complex",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "1.2E−08",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nkakdt 1/2KDAntigenAntibody(1/Ms)(1/s)(Min)(M)wt HLA-GMEM/G91.5E+051.1E−03107.7E−09(SEQ ID87G————NO: 43)G2331.8E+053.7E−0332.0E−08(monomer)2A12————4H84————5A6G7————6D463————9-1F10————MEM-G/1 ————MEM-G/117.4E+048.5E−04141.2E−08MEM-G/2 ————MEM-G/4 ————HLA-AMEM/G91.2E+053.6E−020.33.0E−07consensus on87G————HLA-G degraftG233————(SEQ ID2A12————NO: 44)4H84————5A6G7————6D463————9-1F10————MEM-G/1 ————MEM-G/118.9E+041.2E−03101.3E−08MEM-G/2 ————MEM-G/4 ————\nOnly antibody MEM/G9 with a KD value of the binding affinity of 7.7E−09 M, antibody G233 with a KD value of 2.0E−08 M and MEM-G/11 with a KD value of the binding affinity of 1.2E−08 M showed binding to monomeric wt human HLA-G MHC I complex. \nStreptavidin coated plates (NUNC™, MicroCoat #11974998001) were coated with 25 μl/well biotinylated human wt HLA-G at a concentration of 500-1000 ng/ml and incubated at 4° C. overnight."
+    }
+]

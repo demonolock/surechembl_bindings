@@ -1,0 +1,22 @@
+[
+    {
+        "molecule_name": "Gadd45 β",
+        "protein_target_name": "MKK7",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "4.0 + -. 0.7",
+        "unit": "nM",
+        "raw_mentions": "As can be seen in FIG. 21A, Gadd45 β binds to immobilized MKK7 with a dissociation constant (Kd) of 4.0 + -. 0.7nM.\nSimilarly, MKK7 was repeatedly injected into the Gadd45 β channel, providing a dose-response binding and dissociation curve (FIG. 21B), and determining Kd of 3.4 + -. 0.6 nM.\nFIG. 21D shows that the peptide induces Gadd45 β/MKK7 when mDTP3 is injected at low concentrations of 10nM or 100nM, and at higher concentrations (i.e., 1 μM) of mDTP3 injection, dose-response binding and dissociation curves were recorded, indicating that mDTP3 binds to Gadd45 β and/or MKK7 with a Kd value that can be determined from the curve."
+    },
+    {
+        "molecule_name": "Gadd45 β",
+        "protein_target_name": "MKK7",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "3.4 + -. 0.6",
+        "unit": "nM",
+        "raw_mentions": "As can be seen in FIG. 21A, Gadd45 β binds to immobilized MKK7 with a dissociation constant (Kd) of 4.0 + -. 0.7nM.\nSimilarly, MKK7 was repeatedly injected into the Gadd45 β channel, providing a dose-response binding and dissociation curve (FIG. 21B), and determining Kd of 3.4 + -. 0.6 nM.\nFIG. 21D shows that the peptide induces Gadd45 β/MKK7 when mDTP3 is injected at low concentrations of 10nM or 100nM, and at higher concentrations (i.e., 1 μM) of mDTP3 injection, dose-response binding and dissociation curves were recorded, indicating that mDTP3 binds to Gadd45 β and/or MKK7 with a Kd value that can be determined from the curve."
+    }
+]

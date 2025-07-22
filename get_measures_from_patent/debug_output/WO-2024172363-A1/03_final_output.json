@@ -1,0 +1,32 @@
+[
+    {
+        "molecule_name": "anti-CNTN4 antibody",
+        "protein_target_name": "CNTN4 protein",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "5Х10^-8",
+        "unit": "M",
+        "raw_mentions": "The term \"specifically binds to a CNTN4 protein\" as used herein may mean an antibody that binds to CNTN4 protein with an equilibrium dissociation constant (K <sub>D</sub> ) of 5Х10 <sup>-8</sup> M or less, preferably 1Х10 <sup>-8</sup> M or less, more preferably 5Х10 <sup>-9</sup> M or less.\nAccordingly, the anti-CNTN4 antibody or antigen-binding fragment thereof of the present invention may bind to CNTN4 protein, such as human CNTN4 protein, with an equilibrium dissociation constant (K <sub>D</sub> ) of 5Х10 <sup>-8</sup> M or less, preferably, with a K <sub>D</sub> of 1Х10 <sup>-8</sup> M or less, more preferably, 5Х10 <sup>-9</sup> M or less."
+    },
+    {
+        "molecule_name": "anti-CNTN4 antibody",
+        "protein_target_name": "CNTN4 protein",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "1Х10^-8",
+        "unit": "M",
+        "raw_mentions": "The term \"specifically binds to a CNTN4 protein\" as used herein may mean an antibody that binds to CNTN4 protein with an equilibrium dissociation constant (K <sub>D</sub> ) of 5Х10 <sup>-8</sup> M or less, preferably 1Х10 <sup>-8</sup> M or less, more preferably 5Х10 <sup>-9</sup> M or less.\nAccordingly, the anti-CNTN4 antibody or antigen-binding fragment thereof of the present invention may bind to CNTN4 protein, such as human CNTN4 protein, with an equilibrium dissociation constant (K <sub>D</sub> ) of 5Х10 <sup>-8</sup> M or less, preferably, with a K <sub>D</sub> of 1Х10 <sup>-8</sup> M or less, more preferably, 5Х10 <sup>-9</sup> M or less."
+    },
+    {
+        "molecule_name": "anti-CNTN4 antibody",
+        "protein_target_name": "CNTN4 protein",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "5Х10^-9",
+        "unit": "M",
+        "raw_mentions": "The term \"specifically binds to a CNTN4 protein\" as used herein may mean an antibody that binds to CNTN4 protein with an equilibrium dissociation constant (K <sub>D</sub> ) of 5Х10 <sup>-8</sup> M or less, preferably 1Х10 <sup>-8</sup> M or less, more preferably 5Х10 <sup>-9</sup> M or less.\nAccordingly, the anti-CNTN4 antibody or antigen-binding fragment thereof of the present invention may bind to CNTN4 protein, such as human CNTN4 protein, with an equilibrium dissociation constant (K <sub>D</sub> ) of 5Х10 <sup>-8</sup> M or less, preferably, with a K <sub>D</sub> of 1Х10 <sup>-8</sup> M or less, more preferably, 5Х10 <sup>-9</sup> M or less."
+    }
+]

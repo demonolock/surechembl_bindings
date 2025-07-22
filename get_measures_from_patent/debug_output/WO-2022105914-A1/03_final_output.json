@@ -1,0 +1,62 @@
+[
+    {
+        "molecule_name": "Hab003.22a",
+        "protein_target_name": "CD70 and CD27",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "0.159",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe experimental results show that the CD70 antibodies Hab003.22a, Hab035.31a, Hab055.13, Hab077.12 and Hab095.21 of the present disclosure can significantly inhibit the binding activity of CD70 and CD27 proteins expressed on the tumor cell line 786-0, IC50 The value was comparable or better than that of the positive control antibody 41D12 (see Table 28), indicating that the antibody of the present invention has a good ability to inhibit the binding of CD70 and CD27, and compared with the positive control 41D12, the effect is better or basically equivalent.\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab003.22a0.159\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab035.31a0.09358\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab055.130.05731\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab077.120.06909\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab095.210.11564\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)41D120.09268"
+    },
+    {
+        "molecule_name": "Hab035.31a",
+        "protein_target_name": "CD70 and CD27",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "0.09358",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe experimental results show that the CD70 antibodies Hab003.22a, Hab035.31a, Hab055.13, Hab077.12 and Hab095.21 of the present disclosure can significantly inhibit the binding activity of CD70 and CD27 proteins expressed on the tumor cell line 786-0, IC50 The value was comparable or better than that of the positive control antibody 41D12 (see Table 28), indicating that the antibody of the present invention has a good ability to inhibit the binding of CD70 and CD27, and compared with the positive control 41D12, the effect is better or basically equivalent.\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab003.22a0.159\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab035.31a0.09358\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab055.130.05731\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab077.120.06909\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab095.210.11564\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)41D120.09268"
+    },
+    {
+        "molecule_name": "Hab055.13",
+        "protein_target_name": "CD70 and CD27",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "0.05731",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe experimental results show that the CD70 antibodies Hab003.22a, Hab035.31a, Hab055.13, Hab077.12 and Hab095.21 of the present disclosure can significantly inhibit the binding activity of CD70 and CD27 proteins expressed on the tumor cell line 786-0, IC50 The value was comparable or better than that of the positive control antibody 41D12 (see Table 28), indicating that the antibody of the present invention has a good ability to inhibit the binding of CD70 and CD27, and compared with the positive control 41D12, the effect is better or basically equivalent.\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab003.22a0.159\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab035.31a0.09358\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab055.130.05731\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab077.120.06909\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab095.210.11564\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)41D120.09268"
+    },
+    {
+        "molecule_name": "Hab077.12",
+        "protein_target_name": "CD70 and CD27",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "0.06909",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe experimental results show that the CD70 antibodies Hab003.22a, Hab035.31a, Hab055.13, Hab077.12 and Hab095.21 of the present disclosure can significantly inhibit the binding activity of CD70 and CD27 proteins expressed on the tumor cell line 786-0, IC50 The value was comparable or better than that of the positive control antibody 41D12 (see Table 28), indicating that the antibody of the present invention has a good ability to inhibit the binding of CD70 and CD27, and compared with the positive control 41D12, the effect is better or basically equivalent.\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab003.22a0.159\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab035.31a0.09358\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab055.130.05731\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab077.120.06909\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab095.210.11564\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)41D120.09268"
+    },
+    {
+        "molecule_name": "Hab095.21",
+        "protein_target_name": "CD70 and CD27",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "0.11564",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe experimental results show that the CD70 antibodies Hab003.22a, Hab035.31a, Hab055.13, Hab077.12 and Hab095.21 of the present disclosure can significantly inhibit the binding activity of CD70 and CD27 proteins expressed on the tumor cell line 786-0, IC50 The value was comparable or better than that of the positive control antibody 41D12 (see Table 28), indicating that the antibody of the present invention has a good ability to inhibit the binding of CD70 and CD27, and compared with the positive control 41D12, the effect is better or basically equivalent.\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab003.22a0.159\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab035.31a0.09358\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab055.130.05731\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab077.120.06909\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab095.210.11564\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)41D120.09268"
+    },
+    {
+        "molecule_name": "41D12",
+        "protein_target_name": "CD70 and CD27",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "0.09268",
+        "unit": "μg/ml",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe experimental results show that the CD70 antibodies Hab003.22a, Hab035.31a, Hab055.13, Hab077.12 and Hab095.21 of the present disclosure can significantly inhibit the binding activity of CD70 and CD27 proteins expressed on the tumor cell line 786-0, IC50 The value was comparable or better than that of the positive control antibody 41D12 (see Table 28), indicating that the antibody of the present invention has a good ability to inhibit the binding of CD70 and CD27, and compared with the positive control 41D12, the effect is better or basically equivalent.\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab003.22a0.159\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab035.31a0.09358\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab055.130.05731\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab077.120.06909\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)Hab095.210.11564\nTest sample786-O cell enzyme activity inhibition experiment IC50 (μg/ml)41D120.09268"
+    }
+]

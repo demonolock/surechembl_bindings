@@ -1,0 +1,22 @@
+[
+    {
+        "molecule_name": "Compound 1",
+        "protein_target_name": "Thromboxane A2 (TXA2) receptor",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Ki",
+        "value": "˜3",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n* Binding activity was observed only for the Thromboxane A2 (TXA2) receptor (TP receptor) with a Ki of ˜3 μM.\n* In an in vitro functional assay of TP receptor function using rat aorta, Compound 1 was demonstrated to be a TP receptor antagonist with an IC50 between 1 and 10 μM.\n* There was no evidence of a hERG IC50 value below 30 μM in any of these assays, consistent with the lack of hERG channel competitive binding (4% inhibition of 3H-astemizole binding at 10 μM).\n* TABLE 1 Mean Values for Selected Non-Compartmental Toxicokinetic.Parameters for Compound 1 at the MTD/NOAEL for AcuteOral Toxicity Study in Mice and Rats at 2000 mg/kg: Mice 2000 Female 2899 (μg * hr/mL) 32 (μg/mL) 1 (hr)\n* TABLE 1 Mean Values for Selected Non-Compartmental Toxicokinetic.Parameters for Compound 1 at the MTD/NOAEL for AcuteOral Toxicity Study in Mice and Rats at 2000 mg/kg: Mice 2000 Male 2678 (μg * hr/mL) 26 (μg/mL) 1 (hr)\n* TABLE 1 Mean Values for Selected Non-Compartmental Toxicokinetic.Parameters for Compound 1 at the MTD/NOAEL for AcuteOral Toxicity Study in Mice and Rats at 2000 mg/kg: Rats 2000 Female 6750 (μg * hr/mL) 30 (μg/mL) 5 (hr)\n* TABLE 1 Mean Values for Selected Non-Compartmental Toxicokinetic.Parameters for Compound 1 at the MTD/NOAEL for AcuteOral Toxicity Study in Mice and Rats at 2000 mg/kg: Rats 2000 Male 6106 (μg * hr/mL) 30 (μg/mL) 6 (hr)\n* Compound 1 was well absorbed in mice with time to reach maximum plasma concentrations (tmax) ranging from 0.5 to 2.0 hr."
+    },
+    {
+        "molecule_name": "Compound 1",
+        "protein_target_name": "TP receptor",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "between 1 and 10",
+        "unit": "μM",
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n* Binding activity was observed only for the Thromboxane A2 (TXA2) receptor (TP receptor) with a Ki of ˜3 μM.\n* In an in vitro functional assay of TP receptor function using rat aorta, Compound 1 was demonstrated to be a TP receptor antagonist with an IC50 between 1 and 10 μM.\n* There was no evidence of a hERG IC50 value below 30 μM in any of these assays, consistent with the lack of hERG channel competitive binding (4% inhibition of 3H-astemizole binding at 10 μM).\n* TABLE 1 Mean Values for Selected Non-Compartmental Toxicokinetic.Parameters for Compound 1 at the MTD/NOAEL for AcuteOral Toxicity Study in Mice and Rats at 2000 mg/kg: Mice 2000 Female 2899 (μg * hr/mL) 32 (μg/mL) 1 (hr)\n* TABLE 1 Mean Values for Selected Non-Compartmental Toxicokinetic.Parameters for Compound 1 at the MTD/NOAEL for AcuteOral Toxicity Study in Mice and Rats at 2000 mg/kg: Mice 2000 Male 2678 (μg * hr/mL) 26 (μg/mL) 1 (hr)\n* TABLE 1 Mean Values for Selected Non-Compartmental Toxicokinetic.Parameters for Compound 1 at the MTD/NOAEL for AcuteOral Toxicity Study in Mice and Rats at 2000 mg/kg: Rats 2000 Female 6750 (μg * hr/mL) 30 (μg/mL) 5 (hr)\n* TABLE 1 Mean Values for Selected Non-Compartmental Toxicokinetic.Parameters for Compound 1 at the MTD/NOAEL for AcuteOral Toxicity Study in Mice and Rats at 2000 mg/kg: Rats 2000 Male 6106 (μg * hr/mL) 30 (μg/mL) 6 (hr)\n* Compound 1 was well absorbed in mice with time to reach maximum plasma concentrations (tmax) ranging from 0.5 to 2.0 hr."
+    }
+]

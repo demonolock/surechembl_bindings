@@ -1,94 +1,103 @@
 import json
 import os
+import time
+import argparse
+import logging
+import concurrent.futures
+
 from llm_patent_agents.patent_processor import process_patent_text
 from filter.src.patent_parser import fetch_patent_description
-import time
 from filter.src.get_patents import get_patents_ids
 
-from_cache = True
-# Тут результат выгрузки filter/__main__.py
-patent_dir = "/home/vshepard/hackaton_life/patents"
+# Настройка логирования
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-dir_path = os.path.dirname(os.path.abspath(__file__))
-processed_patents_file = os.path.join(dir_path, 'output', 'processed_patents.json')
-# Get processed patent_number list
-if os.path.exists(processed_patents_file):
-    with open(processed_patents_file, "r", encoding="utf-8") as f:
-        try:
-            processed_patents = set(json.load(f))
-        except Exception:
-            processed_patents = set()
-else:
-    processed_patents = set()
+def process_single_patent(patent_number, output_dir, timeout=40):
+    """Обрабатывает один патент: скачивает и извлекает данные."""
+    try:
+        logging.info(f'Начинаю обработку патента: {patent_number}')
+        patent_text = None
+        start_time = time.time()
 
-def save_processed_patents():
-    with open(processed_patents_file, "w", encoding="utf-8") as f:
-        json.dump(list(processed_patents), f, indent=2, ensure_ascii=False)
+        # Попытка скачать текст патента
+        while not patent_text and time.time() - start_time < timeout:
+            patent_text = fetch_patent_description(patent_number)
+            if not patent_text:
+                time.sleep(4)
 
-def process_description(patent_text, patent_number, output_dir):
-    if patent_number in processed_patents:
-        print(f"{patent_number} already processed, skipping.")
-        return
+        if not patent_text:
+            logging.warning(f'Не удалось скачать патент {patent_number} за {timeout} секунд.')
+            with open('patent_ids_download_error.txt', 'a') as f:
+                f.write(patent_number + '\n')
+            return
 
-    print(f'End download {patent_number}')
-    extracted_data = process_patent_text(
-        patent_text=patent_text,
-        associated_molecules=[],
-        patent_id=patent_number,
-        debug=True,
-        debug_output_dir=output_dir
-    )
+        logging.info(f'Патент {patent_number} успешно скачан.')
 
-    # Save the final JSON output
-    if extracted_data:
-        debug_dir = os.path.join(output_dir, patent_number)
-        os.makedirs(debug_dir, exist_ok=True)
-        final_output_path = os.path.join(debug_dir, "03_final_output.json")
-        with open(final_output_path, "w", encoding="utf-8") as f:
-            json.dump(extracted_data, f, indent=4, ensure_ascii=False)
-        print(f"- Saved final output to: {final_output_path}")
+        # Обработка текста и извлечение данных
+        extracted_data = process_patent_text(
+            patent_text=patent_text,
+            associated_molecules=[],
+            patent_id=patent_number,
+            debug=True,
+            debug_output_dir=output_dir
+        )
 
-    # Print the final result
-    res = json.dumps(extracted_data, indent=4)
-    print("\n--- Final Extracted Data ---")
-    print(res)
-    print(f"\nTotal data points extracted: {len(extracted_data)}")
+        # Сохранение результата
+        if extracted_data:
+            debug_dir = os.path.join(output_dir, patent_number)
+            os.makedirs(debug_dir, exist_ok=True)
+            final_output_path = os.path.join(debug_dir, "03_final_output.json")
+            with open(final_output_path, "w", encoding="utf-8") as f:
+                json.dump(extracted_data, f, indent=4, ensure_ascii=False)
+            logging.info(f"Сохранен результат для {patent_number}: {len(extracted_data)} записей.")
+        else:
+            logging.info(f"Для патента {patent_number} не найдено данных.")
 
-    # Mark this patent as processed, save immediately, and print confirmation
-    processed_patents.add(patent_number)
-    save_processed_patents()
-    print(f"Patent {patent_number} added to {processed_patents_file} and saved.")
+    except Exception as e:
+        logging.error(f'Произошла ошибка при обработке патента {patent_number}: {e}', exc_info=True)
+        with open('patent_ids_processing_error.txt', 'a') as f:
+            f.write(patent_number + '\n')
 
 def main():
+    """Основная функция для запуска пайплайна обработки патентов."""
+    parser = argparse.ArgumentParser(description="Пайплайн для извлечения данных из патентов.")
+    parser.add_argument(
+        "input_file",
+        type=str,
+        help="Путь к текстовому файлу со списком ID патентов."
+    )
+    parser.add_argument(
+        "--workers",
+        type=int,
+        default=10,
+        help="Количество параллельных потоков для обработки патентов."
+    )
+    parser.add_argument(
+        "--timeout",
+        type=int,
+        default=40,
+        help="Таймаут в секундах для скачивания одного патента."
+    )
+    args = parser.parse_args()
+
+    patent_numbers = get_patents_ids(args.input_file)
     output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "debug_output")
-    if from_cache:
-        for filename in os.listdir(patent_dir):
-            file_path = os.path.join(patent_dir, filename)
-            if os.path.isfile(file_path):
-                with open(file_path, "r", encoding="utf-8") as f:
-                    patent_text = f.read()
-                patent_number = os.path.splitext(filename)[0]  # remove if there any file extension
-                if not patent_text:
-                    print(f'No data in {file_path}')
-                    continue
-                process_description(patent_text, patent_number, output_dir)
-    else:
-        patent_numbers = get_patents_ids('filter/src/out/patent_ids_filtered_1.txt')
 
-        for patent_number in patent_numbers:
-            print(f'Start {patent_number}')
-            patent_text = None
+    logging.info(f"Начинаю обработку {len(patent_numbers)} патентов с {args.workers} воркерами.")
 
-            start_time = time.time()
-            print(f'Start download {patent_number}')
-            while not patent_text and time.time() - start_time < 40:
-                patent_text = fetch_patent_description(patent_number)
-                time.sleep(4)
-            if patent_text:
-                process_description(patent_text, patent_number, output_dir)
-            else:
-                print(f'FAILED download {patent_number} after 40 sec')
-                with open('patent_ids_error.txt', 'a') as f:
-                    f.write(patent_number + '\n')
+    with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as executor:
+        # Передаем каждому воркеру функцию и ее аргументы
+        future_to_patent = {executor.submit(process_single_patent, pn, output_dir, args.timeout): pn for pn in patent_numbers}
+        
+        # Обрабатываем результаты по мере их завершения
+        for future in concurrent.futures.as_completed(future_to_patent):
+            patent_number = future_to_patent[future]
+            try:
+                future.result()  # Проверяем на наличие исключений во время выполнения
+            except Exception as exc:
+                logging.error(f'{patent_number} сгенерировал исключение: {exc}')
 
-main()
+    logging.info("Обработка всех патентов завершена.")
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,22 @@
+[
+    {
+        "molecule_name": "25-[3H]-OHC",
+        "protein_target_name": "RORa",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "6.10",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThis analysis gave a dissociation constant (Kd) of 6.10 nM and a total number of binding sites (Bmax) of 100 fmol/mg of protein for RORa, and 6.67 nM and 410 fmol/mg of protein for RORy.\nFig. 12C shows in vitro competitive radio-ligand binding assay indicating the direct binding of nobiletin (NOB) (C) but not naringin (NAR) to RORa-LBD and RORy- LBD within the indicated dose range, however no specific values are given in this sentence, Fig. 12B provides the necessary context.\nFig. 12B shows Scatchard plots for the saturation curve results from Fig. 12A for 25-[3H]-OHC for RORa-LBD (top) and RORy-LBD (bottom) corresponding to n = 3, this sentence does not contain the necessary information on its own, however when combined with the information from the following sentence it can be used to extract the relevant information: This analysis gave a dissociation constant (Kd) of 6.10 nM and a total number of binding sites (Bmax) of 100 fmol/mg of protein for RORa, and 6.67 nM and 410 fmol/mg of protein for RORy.\nFig. l lC shows RORa (Left) and RORy (Right) mRNA expression in Hepal-6 cells treated with control (Ctrl) or mouse RORa/γ siRNA, and vehicle (DMSO) or NOB (3 μΜ, 12 h) (n=4), this sentence contains a molecule and a concentration but does not contain a bioactivity metric."
+    },
+    {
+        "molecule_name": "25-[3H]-OHC",
+        "protein_target_name": "RORy",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "6.67",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThis analysis gave a dissociation constant (Kd) of 6.10 nM and a total number of binding sites (Bmax) of 100 fmol/mg of protein for RORa, and 6.67 nM and 410 fmol/mg of protein for RORy.\nFig. 12C shows in vitro competitive radio-ligand binding assay indicating the direct binding of nobiletin (NOB) (C) but not naringin (NAR) to RORa-LBD and RORy- LBD within the indicated dose range, however no specific values are given in this sentence, Fig. 12B provides the necessary context.\nFig. 12B shows Scatchard plots for the saturation curve results from Fig. 12A for 25-[3H]-OHC for RORa-LBD (top) and RORy-LBD (bottom) corresponding to n = 3, this sentence does not contain the necessary information on its own, however when combined with the information from the following sentence it can be used to extract the relevant information: This analysis gave a dissociation constant (Kd) of 6.10 nM and a total number of binding sites (Bmax) of 100 fmol/mg of protein for RORa, and 6.67 nM and 410 fmol/mg of protein for RORy.\nFig. l lC shows RORa (Left) and RORy (Right) mRNA expression in Hepal-6 cells treated with control (Ctrl) or mouse RORa/γ siRNA, and vehicle (DMSO) or NOB (3 μΜ, 12 h) (n=4), this sentence contains a molecule and a concentration but does not contain a bioactivity metric."
+    }
+]

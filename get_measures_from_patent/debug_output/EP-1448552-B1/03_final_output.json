@@ -1,0 +1,22 @@
+[
+    {
+        "molecule_name": "Example 1",
+        "protein_target_name": "MMP-3",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": ">100",
+        "unit": "uM",
+        "raw_mentions": "Here are the extracted sentences:\n\nThe compound of Example 1 showed an IC50 value of 0.06uM\nThe compound of Example 1 showed an IC50 value of 100uM in procedure 2.\nThe compound of Example 1 showed an IC50 value of >100uM vs MMP-3, and 6.0uM vs MMP-13."
+    },
+    {
+        "molecule_name": "Example 1",
+        "protein_target_name": "MMP-13",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "IC50",
+        "value": "6.0",
+        "unit": "uM",
+        "raw_mentions": "Here are the extracted sentences:\n\nThe compound of Example 1 showed an IC50 value of 0.06uM\nThe compound of Example 1 showed an IC50 value of 100uM in procedure 2.\nThe compound of Example 1 showed an IC50 value of >100uM vs MMP-3, and 6.0uM vs MMP-13."
+    }
+]

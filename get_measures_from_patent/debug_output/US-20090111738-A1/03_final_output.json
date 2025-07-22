@@ -1,0 +1,512 @@
+[
+    {
+        "molecule_name": "TGF-β1",
+        "protein_target_name": "FN",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "5.3×10−8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBriefly, radiolabeled GFs bound intact FN with the following KDs as judged by non linear regression: TGF-β1, KD=5.3×10<sup>−8 </sup>M; PDGF-BB, KD=4.9×10<sup>−</sup>M, FGF-2, KD=4.4×10<sup>−8 </sup>M.\nAs determined by plasmon resonance modulation, all GFs, except EGF, bound to the composite heparinII-binding and variably-spliced IIICS domains (FNIII<sub>12-V15</sub>) with the following order of affinities: VEGF (KD=6.0×10<sup>−10 </sup>M)&gt;TGF-β1 (KD=2.5×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=1.7×10<sup>−8 </sup>M)&gt;FGF-2 (KD=3.7×10<sup>−8 </sup>M).\nSimilar rank orders of affinities were observed with GF binding to the heparinII-binding domain (FNIII<sub>12-15 </sub>and FNIII<sub>12-14</sub>): PDGF-BB (KD=6.8×10<sup>−8 </sup>M)≧TGF-β1 (KD=1.6×10<sup>−8 </sup>M)&gt;FGF-2 (KD=1.7×10<sup>−7 </sup>M); TGF-β1 (KD=7.6×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=5.5×10<sup>−8 </sup>M), respectively.\nVEGF, TGF-β1, PDGF-BB and FGF-2 bound IIICS with similar affinities (KD=10<sup>−7 </sup>M).\nOur equilibrium binding experiments indicate binding affinities of 1.3×10<sup>−7 </sup>M, 2.7×10<sup>−7 </sup>M, 1.4×10<sup>−7 </sup>M and 1×10<sup>−7 </sup>M, respectively.\nPeptide 1 also binds PDGF-BB (KD=2.5×10<sup>−7 </sup>M) while a scrambled control does not.\nFurther analysis of peptide 1 demonstrated that QPSHISKYILRWRPK (peptide 1A; SEQ ID NO:______) and ILRWRPKNSVGRWK (peptide 1B; SEQ ID NO:______) bound TGF-β1 with affinities of 4.4×10<sup>−7 </sup>M and 4.0×10<sup>−7 </sup>M, respectively, while QPSHISKY (SEQ ID NO:______) had minimal binding activity."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "FN",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "4.9×10−",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBriefly, radiolabeled GFs bound intact FN with the following KDs as judged by non linear regression: TGF-β1, KD=5.3×10<sup>−8 </sup>M; PDGF-BB, KD=4.9×10<sup>−</sup>M, FGF-2, KD=4.4×10<sup>−8 </sup>M.\nAs determined by plasmon resonance modulation, all GFs, except EGF, bound to the composite heparinII-binding and variably-spliced IIICS domains (FNIII<sub>12-V15</sub>) with the following order of affinities: VEGF (KD=6.0×10<sup>−10 </sup>M)&gt;TGF-β1 (KD=2.5×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=1.7×10<sup>−8 </sup>M)&gt;FGF-2 (KD=3.7×10<sup>−8 </sup>M).\nSimilar rank orders of affinities were observed with GF binding to the heparinII-binding domain (FNIII<sub>12-15 </sub>and FNIII<sub>12-14</sub>): PDGF-BB (KD=6.8×10<sup>−8 </sup>M)≧TGF-β1 (KD=1.6×10<sup>−8 </sup>M)&gt;FGF-2 (KD=1.7×10<sup>−7 </sup>M); TGF-β1 (KD=7.6×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=5.5×10<sup>−8 </sup>M), respectively.\nVEGF, TGF-β1, PDGF-BB and FGF-2 bound IIICS with similar affinities (KD=10<sup>−7 </sup>M).\nOur equilibrium binding experiments indicate binding affinities of 1.3×10<sup>−7 </sup>M, 2.7×10<sup>−7 </sup>M, 1.4×10<sup>−7 </sup>M and 1×10<sup>−7 </sup>M, respectively.\nPeptide 1 also binds PDGF-BB (KD=2.5×10<sup>−7 </sup>M) while a scrambled control does not.\nFurther analysis of peptide 1 demonstrated that QPSHISKYILRWRPK (peptide 1A; SEQ ID NO:______) and ILRWRPKNSVGRWK (peptide 1B; SEQ ID NO:______) bound TGF-β1 with affinities of 4.4×10<sup>−7 </sup>M and 4.0×10<sup>−7 </sup>M, respectively, while QPSHISKY (SEQ ID NO:______) had minimal binding activity."
+    },
+    {
+        "molecule_name": "FGF-2",
+        "protein_target_name": "FN",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "4.4×10−8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBriefly, radiolabeled GFs bound intact FN with the following KDs as judged by non linear regression: TGF-β1, KD=5.3×10<sup>−8 </sup>M; PDGF-BB, KD=4.9×10<sup>−</sup>M, FGF-2, KD=4.4×10<sup>−8 </sup>M.\nAs determined by plasmon resonance modulation, all GFs, except EGF, bound to the composite heparinII-binding and variably-spliced IIICS domains (FNIII<sub>12-V15</sub>) with the following order of affinities: VEGF (KD=6.0×10<sup>−10 </sup>M)&gt;TGF-β1 (KD=2.5×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=1.7×10<sup>−8 </sup>M)&gt;FGF-2 (KD=3.7×10<sup>−8 </sup>M).\nSimilar rank orders of affinities were observed with GF binding to the heparinII-binding domain (FNIII<sub>12-15 </sub>and FNIII<sub>12-14</sub>): PDGF-BB (KD=6.8×10<sup>−8 </sup>M)≧TGF-β1 (KD=1.6×10<sup>−8 </sup>M)&gt;FGF-2 (KD=1.7×10<sup>−7 </sup>M); TGF-β1 (KD=7.6×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=5.5×10<sup>−8 </sup>M), respectively.\nVEGF, TGF-β1, PDGF-BB and FGF-2 bound IIICS with similar affinities (KD=10<sup>−7 </sup>M).\nOur equilibrium binding experiments indicate binding affinities of 1.3×10<sup>−7 </sup>M, 2.7×10<sup>−7 </sup>M, 1.4×10<sup>−7 </sup>M and 1×10<sup>−7 </sup>M, respectively.\nPeptide 1 also binds PDGF-BB (KD=2.5×10<sup>−7 </sup>M) while a scrambled control does not.\nFurther analysis of peptide 1 demonstrated that QPSHISKYILRWRPK (peptide 1A; SEQ ID NO:______) and ILRWRPKNSVGRWK (peptide 1B; SEQ ID NO:______) bound TGF-β1 with affinities of 4.4×10<sup>−7 </sup>M and 4.0×10<sup>−7 </sup>M, respectively, while QPSHISKY (SEQ ID NO:______) had minimal binding activity."
+    },
+    {
+        "molecule_name": "VEGF",
+        "protein_target_name": "FNIII12-V15",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "6.0×10−10",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBriefly, radiolabeled GFs bound intact FN with the following KDs as judged by non linear regression: TGF-β1, KD=5.3×10<sup>−8 </sup>M; PDGF-BB, KD=4.9×10<sup>−</sup>M, FGF-2, KD=4.4×10<sup>−8 </sup>M.\nAs determined by plasmon resonance modulation, all GFs, except EGF, bound to the composite heparinII-binding and variably-spliced IIICS domains (FNIII<sub>12-V15</sub>) with the following order of affinities: VEGF (KD=6.0×10<sup>−10 </sup>M)&gt;TGF-β1 (KD=2.5×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=1.7×10<sup>−8 </sup>M)&gt;FGF-2 (KD=3.7×10<sup>−8 </sup>M).\nSimilar rank orders of affinities were observed with GF binding to the heparinII-binding domain (FNIII<sub>12-15 </sub>and FNIII<sub>12-14</sub>): PDGF-BB (KD=6.8×10<sup>−8 </sup>M)≧TGF-β1 (KD=1.6×10<sup>−8 </sup>M)&gt;FGF-2 (KD=1.7×10<sup>−7 </sup>M); TGF-β1 (KD=7.6×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=5.5×10<sup>−8 </sup>M), respectively.\nVEGF, TGF-β1, PDGF-BB and FGF-2 bound IIICS with similar affinities (KD=10<sup>−7 </sup>M).\nOur equilibrium binding experiments indicate binding affinities of 1.3×10<sup>−7 </sup>M, 2.7×10<sup>−7 </sup>M, 1.4×10<sup>−7 </sup>M and 1×10<sup>−7 </sup>M, respectively.\nPeptide 1 also binds PDGF-BB (KD=2.5×10<sup>−7 </sup>M) while a scrambled control does not.\nFurther analysis of peptide 1 demonstrated that QPSHISKYILRWRPK (peptide 1A; SEQ ID NO:______) and ILRWRPKNSVGRWK (peptide 1B; SEQ ID NO:______) bound TGF-β1 with affinities of 4.4×10<sup>−7 </sup>M and 4.0×10<sup>−7 </sup>M, respectively, while QPSHISKY (SEQ ID NO:______) had minimal binding activity."
+    },
+    {
+        "molecule_name": "TGF-β1",
+        "protein_target_name": "FNIII12-V15",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "2.5×10−9",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBriefly, radiolabeled GFs bound intact FN with the following KDs as judged by non linear regression: TGF-β1, KD=5.3×10<sup>−8 </sup>M; PDGF-BB, KD=4.9×10<sup>−</sup>M, FGF-2, KD=4.4×10<sup>−8 </sup>M.\nAs determined by plasmon resonance modulation, all GFs, except EGF, bound to the composite heparinII-binding and variably-spliced IIICS domains (FNIII<sub>12-V15</sub>) with the following order of affinities: VEGF (KD=6.0×10<sup>−10 </sup>M)&gt;TGF-β1 (KD=2.5×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=1.7×10<sup>−8 </sup>M)&gt;FGF-2 (KD=3.7×10<sup>−8 </sup>M).\nSimilar rank orders of affinities were observed with GF binding to the heparinII-binding domain (FNIII<sub>12-15 </sub>and FNIII<sub>12-14</sub>): PDGF-BB (KD=6.8×10<sup>−8 </sup>M)≧TGF-β1 (KD=1.6×10<sup>−8 </sup>M)&gt;FGF-2 (KD=1.7×10<sup>−7 </sup>M); TGF-β1 (KD=7.6×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=5.5×10<sup>−8 </sup>M), respectively.\nVEGF, TGF-β1, PDGF-BB and FGF-2 bound IIICS with similar affinities (KD=10<sup>−7 </sup>M).\nOur equilibrium binding experiments indicate binding affinities of 1.3×10<sup>−7 </sup>M, 2.7×10<sup>−7 </sup>M, 1.4×10<sup>−7 </sup>M and 1×10<sup>−7 </sup>M, respectively.\nPeptide 1 also binds PDGF-BB (KD=2.5×10<sup>−7 </sup>M) while a scrambled control does not.\nFurther analysis of peptide 1 demonstrated that QPSHISKYILRWRPK (peptide 1A; SEQ ID NO:______) and ILRWRPKNSVGRWK (peptide 1B; SEQ ID NO:______) bound TGF-β1 with affinities of 4.4×10<sup>−7 </sup>M and 4.0×10<sup>−7 </sup>M, respectively, while QPSHISKY (SEQ ID NO:______) had minimal binding activity."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "FNIII12-V15",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "1.7×10−8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBriefly, radiolabeled GFs bound intact FN with the following KDs as judged by non linear regression: TGF-β1, KD=5.3×10<sup>−8 </sup>M; PDGF-BB, KD=4.9×10<sup>−</sup>M, FGF-2, KD=4.4×10<sup>−8 </sup>M.\nAs determined by plasmon resonance modulation, all GFs, except EGF, bound to the composite heparinII-binding and variably-spliced IIICS domains (FNIII<sub>12-V15</sub>) with the following order of affinities: VEGF (KD=6.0×10<sup>−10 </sup>M)&gt;TGF-β1 (KD=2.5×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=1.7×10<sup>−8 </sup>M)&gt;FGF-2 (KD=3.7×10<sup>−8 </sup>M).\nSimilar rank orders of affinities were observed with GF binding to the heparinII-binding domain (FNIII<sub>12-15 </sub>and FNIII<sub>12-14</sub>): PDGF-BB (KD=6.8×10<sup>−8 </sup>M)≧TGF-β1 (KD=1.6×10<sup>−8 </sup>M)&gt;FGF-2 (KD=1.7×10<sup>−7 </sup>M); TGF-β1 (KD=7.6×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=5.5×10<sup>−8 </sup>M), respectively.\nVEGF, TGF-β1, PDGF-BB and FGF-2 bound IIICS with similar affinities (KD=10<sup>−7 </sup>M).\nOur equilibrium binding experiments indicate binding affinities of 1.3×10<sup>−7 </sup>M, 2.7×10<sup>−7 </sup>M, 1.4×10<sup>−7 </sup>M and 1×10<sup>−7 </sup>M, respectively.\nPeptide 1 also binds PDGF-BB (KD=2.5×10<sup>−7 </sup>M) while a scrambled control does not.\nFurther analysis of peptide 1 demonstrated that QPSHISKYILRWRPK (peptide 1A; SEQ ID NO:______) and ILRWRPKNSVGRWK (peptide 1B; SEQ ID NO:______) bound TGF-β1 with affinities of 4.4×10<sup>−7 </sup>M and 4.0×10<sup>−7 </sup>M, respectively, while QPSHISKY (SEQ ID NO:______) had minimal binding activity."
+    },
+    {
+        "molecule_name": "FGF-2",
+        "protein_target_name": "FNIII12-V15",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "3.7×10−8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBriefly, radiolabeled GFs bound intact FN with the following KDs as judged by non linear regression: TGF-β1, KD=5.3×10<sup>−8 </sup>M; PDGF-BB, KD=4.9×10<sup>−</sup>M, FGF-2, KD=4.4×10<sup>−8 </sup>M.\nAs determined by plasmon resonance modulation, all GFs, except EGF, bound to the composite heparinII-binding and variably-spliced IIICS domains (FNIII<sub>12-V15</sub>) with the following order of affinities: VEGF (KD=6.0×10<sup>−10 </sup>M)&gt;TGF-β1 (KD=2.5×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=1.7×10<sup>−8 </sup>M)&gt;FGF-2 (KD=3.7×10<sup>−8 </sup>M).\nSimilar rank orders of affinities were observed with GF binding to the heparinII-binding domain (FNIII<sub>12-15 </sub>and FNIII<sub>12-14</sub>): PDGF-BB (KD=6.8×10<sup>−8 </sup>M)≧TGF-β1 (KD=1.6×10<sup>−8 </sup>M)&gt;FGF-2 (KD=1.7×10<sup>−7 </sup>M); TGF-β1 (KD=7.6×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=5.5×10<sup>−8 </sup>M), respectively.\nVEGF, TGF-β1, PDGF-BB and FGF-2 bound IIICS with similar affinities (KD=10<sup>−7 </sup>M).\nOur equilibrium binding experiments indicate binding affinities of 1.3×10<sup>−7 </sup>M, 2.7×10<sup>−7 </sup>M, 1.4×10<sup>−7 </sup>M and 1×10<sup>−7 </sup>M, respectively.\nPeptide 1 also binds PDGF-BB (KD=2.5×10<sup>−7 </sup>M) while a scrambled control does not.\nFurther analysis of peptide 1 demonstrated that QPSHISKYILRWRPK (peptide 1A; SEQ ID NO:______) and ILRWRPKNSVGRWK (peptide 1B; SEQ ID NO:______) bound TGF-β1 with affinities of 4.4×10<sup>−7 </sup>M and 4.0×10<sup>−7 </sup>M, respectively, while QPSHISKY (SEQ ID NO:______) had minimal binding activity."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "FNIII12-15",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "6.8×10−8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBriefly, radiolabeled GFs bound intact FN with the following KDs as judged by non linear regression: TGF-β1, KD=5.3×10<sup>−8 </sup>M; PDGF-BB, KD=4.9×10<sup>−</sup>M, FGF-2, KD=4.4×10<sup>−8 </sup>M.\nAs determined by plasmon resonance modulation, all GFs, except EGF, bound to the composite heparinII-binding and variably-spliced IIICS domains (FNIII<sub>12-V15</sub>) with the following order of affinities: VEGF (KD=6.0×10<sup>−10 </sup>M)&gt;TGF-β1 (KD=2.5×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=1.7×10<sup>−8 </sup>M)&gt;FGF-2 (KD=3.7×10<sup>−8 </sup>M).\nSimilar rank orders of affinities were observed with GF binding to the heparinII-binding domain (FNIII<sub>12-15 </sub>and FNIII<sub>12-14</sub>): PDGF-BB (KD=6.8×10<sup>−8 </sup>M)≧TGF-β1 (KD=1.6×10<sup>−8 </sup>M)&gt;FGF-2 (KD=1.7×10<sup>−7 </sup>M); TGF-β1 (KD=7.6×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=5.5×10<sup>−8 </sup>M), respectively.\nVEGF, TGF-β1, PDGF-BB and FGF-2 bound IIICS with similar affinities (KD=10<sup>−7 </sup>M).\nOur equilibrium binding experiments indicate binding affinities of 1.3×10<sup>−7 </sup>M, 2.7×10<sup>−7 </sup>M, 1.4×10<sup>−7 </sup>M and 1×10<sup>−7 </sup>M, respectively.\nPeptide 1 also binds PDGF-BB (KD=2.5×10<sup>−7 </sup>M) while a scrambled control does not.\nFurther analysis of peptide 1 demonstrated that QPSHISKYILRWRPK (peptide 1A; SEQ ID NO:______) and ILRWRPKNSVGRWK (peptide 1B; SEQ ID NO:______) bound TGF-β1 with affinities of 4.4×10<sup>−7 </sup>M and 4.0×10<sup>−7 </sup>M, respectively, while QPSHISKY (SEQ ID NO:______) had minimal binding activity."
+    },
+    {
+        "molecule_name": "TGF-β1",
+        "protein_target_name": "FNIII12-15",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "1.6×10−8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBriefly, radiolabeled GFs bound intact FN with the following KDs as judged by non linear regression: TGF-β1, KD=5.3×10<sup>−8 </sup>M; PDGF-BB, KD=4.9×10<sup>−</sup>M, FGF-2, KD=4.4×10<sup>−8 </sup>M.\nAs determined by plasmon resonance modulation, all GFs, except EGF, bound to the composite heparinII-binding and variably-spliced IIICS domains (FNIII<sub>12-V15</sub>) with the following order of affinities: VEGF (KD=6.0×10<sup>−10 </sup>M)&gt;TGF-β1 (KD=2.5×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=1.7×10<sup>−8 </sup>M)&gt;FGF-2 (KD=3.7×10<sup>−8 </sup>M).\nSimilar rank orders of affinities were observed with GF binding to the heparinII-binding domain (FNIII<sub>12-15 </sub>and FNIII<sub>12-14</sub>): PDGF-BB (KD=6.8×10<sup>−8 </sup>M)≧TGF-β1 (KD=1.6×10<sup>−8 </sup>M)&gt;FGF-2 (KD=1.7×10<sup>−7 </sup>M); TGF-β1 (KD=7.6×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=5.5×10<sup>−8 </sup>M), respectively.\nVEGF, TGF-β1, PDGF-BB and FGF-2 bound IIICS with similar affinities (KD=10<sup>−7 </sup>M).\nOur equilibrium binding experiments indicate binding affinities of 1.3×10<sup>−7 </sup>M, 2.7×10<sup>−7 </sup>M, 1.4×10<sup>−7 </sup>M and 1×10<sup>−7 </sup>M, respectively.\nPeptide 1 also binds PDGF-BB (KD=2.5×10<sup>−7 </sup>M) while a scrambled control does not.\nFurther analysis of peptide 1 demonstrated that QPSHISKYILRWRPK (peptide 1A; SEQ ID NO:______) and ILRWRPKNSVGRWK (peptide 1B; SEQ ID NO:______) bound TGF-β1 with affinities of 4.4×10<sup>−7 </sup>M and 4.0×10<sup>−7 </sup>M, respectively, while QPSHISKY (SEQ ID NO:______) had minimal binding activity."
+    },
+    {
+        "molecule_name": "FGF-2",
+        "protein_target_name": "FNIII12-15",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "1.7×10−7",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBriefly, radiolabeled GFs bound intact FN with the following KDs as judged by non linear regression: TGF-β1, KD=5.3×10<sup>−8 </sup>M; PDGF-BB, KD=4.9×10<sup>−</sup>M, FGF-2, KD=4.4×10<sup>−8 </sup>M.\nAs determined by plasmon resonance modulation, all GFs, except EGF, bound to the composite heparinII-binding and variably-spliced IIICS domains (FNIII<sub>12-V15</sub>) with the following order of affinities: VEGF (KD=6.0×10<sup>−10 </sup>M)&gt;TGF-β1 (KD=2.5×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=1.7×10<sup>−8 </sup>M)&gt;FGF-2 (KD=3.7×10<sup>−8 </sup>M).\nSimilar rank orders of affinities were observed with GF binding to the heparinII-binding domain (FNIII<sub>12-15 </sub>and FNIII<sub>12-14</sub>): PDGF-BB (KD=6.8×10<sup>−8 </sup>M)≧TGF-β1 (KD=1.6×10<sup>−8 </sup>M)&gt;FGF-2 (KD=1.7×10<sup>−7 </sup>M); TGF-β1 (KD=7.6×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=5.5×10<sup>−8 </sup>M), respectively.\nVEGF, TGF-β1, PDGF-BB and FGF-2 bound IIICS with similar affinities (KD=10<sup>−7 </sup>M).\nOur equilibrium binding experiments indicate binding affinities of 1.3×10<sup>−7 </sup>M, 2.7×10<sup>−7 </sup>M, 1.4×10<sup>−7 </sup>M and 1×10<sup>−7 </sup>M, respectively.\nPeptide 1 also binds PDGF-BB (KD=2.5×10<sup>−7 </sup>M) while a scrambled control does not.\nFurther analysis of peptide 1 demonstrated that QPSHISKYILRWRPK (peptide 1A; SEQ ID NO:______) and ILRWRPKNSVGRWK (peptide 1B; SEQ ID NO:______) bound TGF-β1 with affinities of 4.4×10<sup>−7 </sup>M and 4.0×10<sup>−7 </sup>M, respectively, while QPSHISKY (SEQ ID NO:______) had minimal binding activity."
+    },
+    {
+        "molecule_name": "TGF-β1",
+        "protein_target_name": "FNIII12-14",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "7.6×10−9",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBriefly, radiolabeled GFs bound intact FN with the following KDs as judged by non linear regression: TGF-β1, KD=5.3×10<sup>−8 </sup>M; PDGF-BB, KD=4.9×10<sup>−</sup>M, FGF-2, KD=4.4×10<sup>−8 </sup>M.\nAs determined by plasmon resonance modulation, all GFs, except EGF, bound to the composite heparinII-binding and variably-spliced IIICS domains (FNIII<sub>12-V15</sub>) with the following order of affinities: VEGF (KD=6.0×10<sup>−10 </sup>M)&gt;TGF-β1 (KD=2.5×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=1.7×10<sup>−8 </sup>M)&gt;FGF-2 (KD=3.7×10<sup>−8 </sup>M).\nSimilar rank orders of affinities were observed with GF binding to the heparinII-binding domain (FNIII<sub>12-15 </sub>and FNIII<sub>12-14</sub>): PDGF-BB (KD=6.8×10<sup>−8 </sup>M)≧TGF-β1 (KD=1.6×10<sup>−8 </sup>M)&gt;FGF-2 (KD=1.7×10<sup>−7 </sup>M); TGF-β1 (KD=7.6×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=5.5×10<sup>−8 </sup>M), respectively.\nVEGF, TGF-β1, PDGF-BB and FGF-2 bound IIICS with similar affinities (KD=10<sup>−7 </sup>M).\nOur equilibrium binding experiments indicate binding affinities of 1.3×10<sup>−7 </sup>M, 2.7×10<sup>−7 </sup>M, 1.4×10<sup>−7 </sup>M and 1×10<sup>−7 </sup>M, respectively.\nPeptide 1 also binds PDGF-BB (KD=2.5×10<sup>−7 </sup>M) while a scrambled control does not.\nFurther analysis of peptide 1 demonstrated that QPSHISKYILRWRPK (peptide 1A; SEQ ID NO:______) and ILRWRPKNSVGRWK (peptide 1B; SEQ ID NO:______) bound TGF-β1 with affinities of 4.4×10<sup>−7 </sup>M and 4.0×10<sup>−7 </sup>M, respectively, while QPSHISKY (SEQ ID NO:______) had minimal binding activity."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "FNIII12-14",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "5.5×10−8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBriefly, radiolabeled GFs bound intact FN with the following KDs as judged by non linear regression: TGF-β1, KD=5.3×10<sup>−8 </sup>M; PDGF-BB, KD=4.9×10<sup>−</sup>M, FGF-2, KD=4.4×10<sup>−8 </sup>M.\nAs determined by plasmon resonance modulation, all GFs, except EGF, bound to the composite heparinII-binding and variably-spliced IIICS domains (FNIII<sub>12-V15</sub>) with the following order of affinities: VEGF (KD=6.0×10<sup>−10 </sup>M)&gt;TGF-β1 (KD=2.5×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=1.7×10<sup>−8 </sup>M)&gt;FGF-2 (KD=3.7×10<sup>−8 </sup>M).\nSimilar rank orders of affinities were observed with GF binding to the heparinII-binding domain (FNIII<sub>12-15 </sub>and FNIII<sub>12-14</sub>): PDGF-BB (KD=6.8×10<sup>−8 </sup>M)≧TGF-β1 (KD=1.6×10<sup>−8 </sup>M)&gt;FGF-2 (KD=1.7×10<sup>−7 </sup>M); TGF-β1 (KD=7.6×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=5.5×10<sup>−8 </sup>M), respectively.\nVEGF, TGF-β1, PDGF-BB and FGF-2 bound IIICS with similar affinities (KD=10<sup>−7 </sup>M).\nOur equilibrium binding experiments indicate binding affinities of 1.3×10<sup>−7 </sup>M, 2.7×10<sup>−7 </sup>M, 1.4×10<sup>−7 </sup>M and 1×10<sup>−7 </sup>M, respectively.\nPeptide 1 also binds PDGF-BB (KD=2.5×10<sup>−7 </sup>M) while a scrambled control does not.\nFurther analysis of peptide 1 demonstrated that QPSHISKYILRWRPK (peptide 1A; SEQ ID NO:______) and ILRWRPKNSVGRWK (peptide 1B; SEQ ID NO:______) bound TGF-β1 with affinities of 4.4×10<sup>−7 </sup>M and 4.0×10<sup>−7 </sup>M, respectively, while QPSHISKY (SEQ ID NO:______) had minimal binding activity."
+    },
+    {
+        "molecule_name": "VEGF",
+        "protein_target_name": "IIICS",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "10−7",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBriefly, radiolabeled GFs bound intact FN with the following KDs as judged by non linear regression: TGF-β1, KD=5.3×10<sup>−8 </sup>M; PDGF-BB, KD=4.9×10<sup>−</sup>M, FGF-2, KD=4.4×10<sup>−8 </sup>M.\nAs determined by plasmon resonance modulation, all GFs, except EGF, bound to the composite heparinII-binding and variably-spliced IIICS domains (FNIII<sub>12-V15</sub>) with the following order of affinities: VEGF (KD=6.0×10<sup>−10 </sup>M)&gt;TGF-β1 (KD=2.5×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=1.7×10<sup>−8 </sup>M)&gt;FGF-2 (KD=3.7×10<sup>−8 </sup>M).\nSimilar rank orders of affinities were observed with GF binding to the heparinII-binding domain (FNIII<sub>12-15 </sub>and FNIII<sub>12-14</sub>): PDGF-BB (KD=6.8×10<sup>−8 </sup>M)≧TGF-β1 (KD=1.6×10<sup>−8 </sup>M)&gt;FGF-2 (KD=1.7×10<sup>−7 </sup>M); TGF-β1 (KD=7.6×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=5.5×10<sup>−8 </sup>M), respectively.\nVEGF, TGF-β1, PDGF-BB and FGF-2 bound IIICS with similar affinities (KD=10<sup>−7 </sup>M).\nOur equilibrium binding experiments indicate binding affinities of 1.3×10<sup>−7 </sup>M, 2.7×10<sup>−7 </sup>M, 1.4×10<sup>−7 </sup>M and 1×10<sup>−7 </sup>M, respectively.\nPeptide 1 also binds PDGF-BB (KD=2.5×10<sup>−7 </sup>M) while a scrambled control does not.\nFurther analysis of peptide 1 demonstrated that QPSHISKYILRWRPK (peptide 1A; SEQ ID NO:______) and ILRWRPKNSVGRWK (peptide 1B; SEQ ID NO:______) bound TGF-β1 with affinities of 4.4×10<sup>−7 </sup>M and 4.0×10<sup>−7 </sup>M, respectively, while QPSHISKY (SEQ ID NO:______) had minimal binding activity."
+    },
+    {
+        "molecule_name": "TGF-β1",
+        "protein_target_name": "IIICS",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "10−7",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBriefly, radiolabeled GFs bound intact FN with the following KDs as judged by non linear regression: TGF-β1, KD=5.3×10<sup>−8 </sup>M; PDGF-BB, KD=4.9×10<sup>−</sup>M, FGF-2, KD=4.4×10<sup>−8 </sup>M.\nAs determined by plasmon resonance modulation, all GFs, except EGF, bound to the composite heparinII-binding and variably-spliced IIICS domains (FNIII<sub>12-V15</sub>) with the following order of affinities: VEGF (KD=6.0×10<sup>−10 </sup>M)&gt;TGF-β1 (KD=2.5×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=1.7×10<sup>−8 </sup>M)&gt;FGF-2 (KD=3.7×10<sup>−8 </sup>M).\nSimilar rank orders of affinities were observed with GF binding to the heparinII-binding domain (FNIII<sub>12-15 </sub>and FNIII<sub>12-14</sub>): PDGF-BB (KD=6.8×10<sup>−8 </sup>M)≧TGF-β1 (KD=1.6×10<sup>−8 </sup>M)&gt;FGF-2 (KD=1.7×10<sup>−7 </sup>M); TGF-β1 (KD=7.6×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=5.5×10<sup>−8 </sup>M), respectively.\nVEGF, TGF-β1, PDGF-BB and FGF-2 bound IIICS with similar affinities (KD=10<sup>−7 </sup>M).\nOur equilibrium binding experiments indicate binding affinities of 1.3×10<sup>−7 </sup>M, 2.7×10<sup>−7 </sup>M, 1.4×10<sup>−7 </sup>M and 1×10<sup>−7 </sup>M, respectively.\nPeptide 1 also binds PDGF-BB (KD=2.5×10<sup>−7 </sup>M) while a scrambled control does not.\nFurther analysis of peptide 1 demonstrated that QPSHISKYILRWRPK (peptide 1A; SEQ ID NO:______) and ILRWRPKNSVGRWK (peptide 1B; SEQ ID NO:______) bound TGF-β1 with affinities of 4.4×10<sup>−7 </sup>M and 4.0×10<sup>−7 </sup>M, respectively, while QPSHISKY (SEQ ID NO:______) had minimal binding activity."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "IIICS",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "10−7",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBriefly, radiolabeled GFs bound intact FN with the following KDs as judged by non linear regression: TGF-β1, KD=5.3×10<sup>−8 </sup>M; PDGF-BB, KD=4.9×10<sup>−</sup>M, FGF-2, KD=4.4×10<sup>−8 </sup>M.\nAs determined by plasmon resonance modulation, all GFs, except EGF, bound to the composite heparinII-binding and variably-spliced IIICS domains (FNIII<sub>12-V15</sub>) with the following order of affinities: VEGF (KD=6.0×10<sup>−10 </sup>M)&gt;TGF-β1 (KD=2.5×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=1.7×10<sup>−8 </sup>M)&gt;FGF-2 (KD=3.7×10<sup>−8 </sup>M).\nSimilar rank orders of affinities were observed with GF binding to the heparinII-binding domain (FNIII<sub>12-15 </sub>and FNIII<sub>12-14</sub>): PDGF-BB (KD=6.8×10<sup>−8 </sup>M)≧TGF-β1 (KD=1.6×10<sup>−8 </sup>M)&gt;FGF-2 (KD=1.7×10<sup>−7 </sup>M); TGF-β1 (KD=7.6×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=5.5×10<sup>−8 </sup>M), respectively.\nVEGF, TGF-β1, PDGF-BB and FGF-2 bound IIICS with similar affinities (KD=10<sup>−7 </sup>M).\nOur equilibrium binding experiments indicate binding affinities of 1.3×10<sup>−7 </sup>M, 2.7×10<sup>−7 </sup>M, 1.4×10<sup>−7 </sup>M and 1×10<sup>−7 </sup>M, respectively.\nPeptide 1 also binds PDGF-BB (KD=2.5×10<sup>−7 </sup>M) while a scrambled control does not.\nFurther analysis of peptide 1 demonstrated that QPSHISKYILRWRPK (peptide 1A; SEQ ID NO:______) and ILRWRPKNSVGRWK (peptide 1B; SEQ ID NO:______) bound TGF-β1 with affinities of 4.4×10<sup>−7 </sup>M and 4.0×10<sup>−7 </sup>M, respectively, while QPSHISKY (SEQ ID NO:______) had minimal binding activity."
+    },
+    {
+        "molecule_name": "FGF-2",
+        "protein_target_name": "IIICS",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "10−7",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBriefly, radiolabeled GFs bound intact FN with the following KDs as judged by non linear regression: TGF-β1, KD=5.3×10<sup>−8 </sup>M; PDGF-BB, KD=4.9×10<sup>−</sup>M, FGF-2, KD=4.4×10<sup>−8 </sup>M.\nAs determined by plasmon resonance modulation, all GFs, except EGF, bound to the composite heparinII-binding and variably-spliced IIICS domains (FNIII<sub>12-V15</sub>) with the following order of affinities: VEGF (KD=6.0×10<sup>−10 </sup>M)&gt;TGF-β1 (KD=2.5×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=1.7×10<sup>−8 </sup>M)&gt;FGF-2 (KD=3.7×10<sup>−8 </sup>M).\nSimilar rank orders of affinities were observed with GF binding to the heparinII-binding domain (FNIII<sub>12-15 </sub>and FNIII<sub>12-14</sub>): PDGF-BB (KD=6.8×10<sup>−8 </sup>M)≧TGF-β1 (KD=1.6×10<sup>−8 </sup>M)&gt;FGF-2 (KD=1.7×10<sup>−7 </sup>M); TGF-β1 (KD=7.6×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=5.5×10<sup>−8 </sup>M), respectively.\nVEGF, TGF-β1, PDGF-BB and FGF-2 bound IIICS with similar affinities (KD=10<sup>−7 </sup>M).\nOur equilibrium binding experiments indicate binding affinities of 1.3×10<sup>−7 </sup>M, 2.7×10<sup>−7 </sup>M, 1.4×10<sup>−7 </sup>M and 1×10<sup>−7 </sup>M, respectively.\nPeptide 1 also binds PDGF-BB (KD=2.5×10<sup>−7 </sup>M) while a scrambled control does not.\nFurther analysis of peptide 1 demonstrated that QPSHISKYILRWRPK (peptide 1A; SEQ ID NO:______) and ILRWRPKNSVGRWK (peptide 1B; SEQ ID NO:______) bound TGF-β1 with affinities of 4.4×10<sup>−7 </sup>M and 4.0×10<sup>−7 </sup>M, respectively, while QPSHISKY (SEQ ID NO:______) had minimal binding activity."
+    },
+    {
+        "molecule_name": "Peptide 1",
+        "protein_target_name": "PDGF-BB",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "2.5×10−7",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBriefly, radiolabeled GFs bound intact FN with the following KDs as judged by non linear regression: TGF-β1, KD=5.3×10<sup>−8 </sup>M; PDGF-BB, KD=4.9×10<sup>−</sup>M, FGF-2, KD=4.4×10<sup>−8 </sup>M.\nAs determined by plasmon resonance modulation, all GFs, except EGF, bound to the composite heparinII-binding and variably-spliced IIICS domains (FNIII<sub>12-V15</sub>) with the following order of affinities: VEGF (KD=6.0×10<sup>−10 </sup>M)&gt;TGF-β1 (KD=2.5×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=1.7×10<sup>−8 </sup>M)&gt;FGF-2 (KD=3.7×10<sup>−8 </sup>M).\nSimilar rank orders of affinities were observed with GF binding to the heparinII-binding domain (FNIII<sub>12-15 </sub>and FNIII<sub>12-14</sub>): PDGF-BB (KD=6.8×10<sup>−8 </sup>M)≧TGF-β1 (KD=1.6×10<sup>−8 </sup>M)&gt;FGF-2 (KD=1.7×10<sup>−7 </sup>M); TGF-β1 (KD=7.6×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=5.5×10<sup>−8 </sup>M), respectively.\nVEGF, TGF-β1, PDGF-BB and FGF-2 bound IIICS with similar affinities (KD=10<sup>−7 </sup>M).\nOur equilibrium binding experiments indicate binding affinities of 1.3×10<sup>−7 </sup>M, 2.7×10<sup>−7 </sup>M, 1.4×10<sup>−7 </sup>M and 1×10<sup>−7 </sup>M, respectively.\nPeptide 1 also binds PDGF-BB (KD=2.5×10<sup>−7 </sup>M) while a scrambled control does not.\nFurther analysis of peptide 1 demonstrated that QPSHISKYILRWRPK (peptide 1A; SEQ ID NO:______) and ILRWRPKNSVGRWK (peptide 1B; SEQ ID NO:______) bound TGF-β1 with affinities of 4.4×10<sup>−7 </sup>M and 4.0×10<sup>−7 </sup>M, respectively, while QPSHISKY (SEQ ID NO:______) had minimal binding activity."
+    },
+    {
+        "molecule_name": "QPSHISKYILRWRPK (peptide 1A)",
+        "protein_target_name": "TGF-β1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "4.4×10−7",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBriefly, radiolabeled GFs bound intact FN with the following KDs as judged by non linear regression: TGF-β1, KD=5.3×10<sup>−8 </sup>M; PDGF-BB, KD=4.9×10<sup>−</sup>M, FGF-2, KD=4.4×10<sup>−8 </sup>M.\nAs determined by plasmon resonance modulation, all GFs, except EGF, bound to the composite heparinII-binding and variably-spliced IIICS domains (FNIII<sub>12-V15</sub>) with the following order of affinities: VEGF (KD=6.0×10<sup>−10 </sup>M)&gt;TGF-β1 (KD=2.5×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=1.7×10<sup>−8 </sup>M)&gt;FGF-2 (KD=3.7×10<sup>−8 </sup>M).\nSimilar rank orders of affinities were observed with GF binding to the heparinII-binding domain (FNIII<sub>12-15 </sub>and FNIII<sub>12-14</sub>): PDGF-BB (KD=6.8×10<sup>−8 </sup>M)≧TGF-β1 (KD=1.6×10<sup>−8 </sup>M)&gt;FGF-2 (KD=1.7×10<sup>−7 </sup>M); TGF-β1 (KD=7.6×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=5.5×10<sup>−8 </sup>M), respectively.\nVEGF, TGF-β1, PDGF-BB and FGF-2 bound IIICS with similar affinities (KD=10<sup>−7 </sup>M).\nOur equilibrium binding experiments indicate binding affinities of 1.3×10<sup>−7 </sup>M, 2.7×10<sup>−7 </sup>M, 1.4×10<sup>−7 </sup>M and 1×10<sup>−7 </sup>M, respectively.\nPeptide 1 also binds PDGF-BB (KD=2.5×10<sup>−7 </sup>M) while a scrambled control does not.\nFurther analysis of peptide 1 demonstrated that QPSHISKYILRWRPK (peptide 1A; SEQ ID NO:______) and ILRWRPKNSVGRWK (peptide 1B; SEQ ID NO:______) bound TGF-β1 with affinities of 4.4×10<sup>−7 </sup>M and 4.0×10<sup>−7 </sup>M, respectively, while QPSHISKY (SEQ ID NO:______) had minimal binding activity."
+    },
+    {
+        "molecule_name": "ILRWRPKNSVGRWK (peptide 1B)",
+        "protein_target_name": "TGF-β1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "4.0×10−7",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBriefly, radiolabeled GFs bound intact FN with the following KDs as judged by non linear regression: TGF-β1, KD=5.3×10<sup>−8 </sup>M; PDGF-BB, KD=4.9×10<sup>−</sup>M, FGF-2, KD=4.4×10<sup>−8 </sup>M.\nAs determined by plasmon resonance modulation, all GFs, except EGF, bound to the composite heparinII-binding and variably-spliced IIICS domains (FNIII<sub>12-V15</sub>) with the following order of affinities: VEGF (KD=6.0×10<sup>−10 </sup>M)&gt;TGF-β1 (KD=2.5×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=1.7×10<sup>−8 </sup>M)&gt;FGF-2 (KD=3.7×10<sup>−8 </sup>M).\nSimilar rank orders of affinities were observed with GF binding to the heparinII-binding domain (FNIII<sub>12-15 </sub>and FNIII<sub>12-14</sub>): PDGF-BB (KD=6.8×10<sup>−8 </sup>M)≧TGF-β1 (KD=1.6×10<sup>−8 </sup>M)&gt;FGF-2 (KD=1.7×10<sup>−7 </sup>M); TGF-β1 (KD=7.6×10<sup>−9 </sup>M)&gt;PDGF-BB (KD=5.5×10<sup>−8 </sup>M), respectively.\nVEGF, TGF-β1, PDGF-BB and FGF-2 bound IIICS with similar affinities (KD=10<sup>−7 </sup>M).\nOur equilibrium binding experiments indicate binding affinities of 1.3×10<sup>−7 </sup>M, 2.7×10<sup>−7 </sup>M, 1.4×10<sup>−7 </sup>M and 1×10<sup>−7 </sup>M, respectively.\nPeptide 1 also binds PDGF-BB (KD=2.5×10<sup>−7 </sup>M) while a scrambled control does not.\nFurther analysis of peptide 1 demonstrated that QPSHISKYILRWRPK (peptide 1A; SEQ ID NO:______) and ILRWRPKNSVGRWK (peptide 1B; SEQ ID NO:______) bound TGF-β1 with affinities of 4.4×10<sup>−7 </sup>M and 4.0×10<sup>−7 </sup>M, respectively, while QPSHISKY (SEQ ID NO:______) had minimal binding activity."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "FNIII",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "7.5×10−8",
+        "unit": "M",
+        "raw_mentions": "FNIII<sub>1-7 </sub>and HV were found to have strong binding affinities for PDGF-BB (KD=7.5×10<sup>−8 </sup>M, KD=2.1×10<sup>−8 </sup>M, respectively) \nPlasmon surface resonance kinetic binding confirmed these results (KD=1.0×10<sup>−7 </sup>M, KD=1.7×10<sup>−8</sup>M, respectively). \nCompared to PDGF-BB binding to FNIII<sub>12-V15 </sub>(KD=2.1×10<sup>−8 </sup>M), similar equilibrium binding was observed to FNIII<sub>12-15 </sub>(KD=6.8×10<sup>−9 </sup>M), FNIII<sub>12-14 </sub>(KD=3.5×10<sup>−8 </sup>M) and FNIII<sub>12-13 </sub>(K=7.5×10<sup>−8 </sup>M) and somewhat weaker binding to IIICS (KD=3.5×10<sup>−7 </sup>M). \nAs judged by equilibrium binding, FNIII<sub>1 </sub>and FNIII<sub>1-2 </sub>bound PDGF-BB (KD=3.2×10<sup>−8 </sup>M, 3.7×10<sup>−8 </sup>M, respectively), \nPlasma surface resonance confirmed these findings: FNIII<sub>1 </sub>(KD=3.7×10<sup>−7 </sup>M), FNIII<sub>1-2 </sub>(KD=9.1×10<sup>−9 </sup>M), \nSmaller peptides from FNIII<sub>1 </sub>revealed PDGF-BB binding with FN630-648:WNAPQPSHISKYILRWRPK (SEQ ID NO:______); KD=3.4×10<sup>−7 </sup>M) and a 15 aa peptide FN634-648: QPSHISKYILRWRPK (SEQ ID NO:______); KD=4.5×10<sup>−7 </sup>M), \nWe noted that peptide 1 bound PDGF-BB with slightly less affinity than peptide 2 (KD=2.5×10<sup>−7 </sup>M, KD=1.1×10<sup>−7 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "HV",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "2.1×10−8",
+        "unit": "M",
+        "raw_mentions": "FNIII<sub>1-7 </sub>and HV were found to have strong binding affinities for PDGF-BB (KD=7.5×10<sup>−8 </sup>M, KD=2.1×10<sup>−8 </sup>M, respectively) \nPlasmon surface resonance kinetic binding confirmed these results (KD=1.0×10<sup>−7 </sup>M, KD=1.7×10<sup>−8</sup>M, respectively). \nCompared to PDGF-BB binding to FNIII<sub>12-V15 </sub>(KD=2.1×10<sup>−8 </sup>M), similar equilibrium binding was observed to FNIII<sub>12-15 </sub>(KD=6.8×10<sup>−9 </sup>M), FNIII<sub>12-14 </sub>(KD=3.5×10<sup>−8 </sup>M) and FNIII<sub>12-13 </sub>(K=7.5×10<sup>−8 </sup>M) and somewhat weaker binding to IIICS (KD=3.5×10<sup>−7 </sup>M). \nAs judged by equilibrium binding, FNIII<sub>1 </sub>and FNIII<sub>1-2 </sub>bound PDGF-BB (KD=3.2×10<sup>−8 </sup>M, 3.7×10<sup>−8 </sup>M, respectively), \nPlasma surface resonance confirmed these findings: FNIII<sub>1 </sub>(KD=3.7×10<sup>−7 </sup>M), FNIII<sub>1-2 </sub>(KD=9.1×10<sup>−9 </sup>M), \nSmaller peptides from FNIII<sub>1 </sub>revealed PDGF-BB binding with FN630-648:WNAPQPSHISKYILRWRPK (SEQ ID NO:______); KD=3.4×10<sup>−7 </sup>M) and a 15 aa peptide FN634-648: QPSHISKYILRWRPK (SEQ ID NO:______); KD=4.5×10<sup>−7 </sup>M), \nWe noted that peptide 1 bound PDGF-BB with slightly less affinity than peptide 2 (KD=2.5×10<sup>−7 </sup>M, KD=1.1×10<sup>−7 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "FNIII",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "1.0×10−7",
+        "unit": "M",
+        "raw_mentions": "FNIII<sub>1-7 </sub>and HV were found to have strong binding affinities for PDGF-BB (KD=7.5×10<sup>−8 </sup>M, KD=2.1×10<sup>−8 </sup>M, respectively) \nPlasmon surface resonance kinetic binding confirmed these results (KD=1.0×10<sup>−7 </sup>M, KD=1.7×10<sup>−8</sup>M, respectively). \nCompared to PDGF-BB binding to FNIII<sub>12-V15 </sub>(KD=2.1×10<sup>−8 </sup>M), similar equilibrium binding was observed to FNIII<sub>12-15 </sub>(KD=6.8×10<sup>−9 </sup>M), FNIII<sub>12-14 </sub>(KD=3.5×10<sup>−8 </sup>M) and FNIII<sub>12-13 </sub>(K=7.5×10<sup>−8 </sup>M) and somewhat weaker binding to IIICS (KD=3.5×10<sup>−7 </sup>M). \nAs judged by equilibrium binding, FNIII<sub>1 </sub>and FNIII<sub>1-2 </sub>bound PDGF-BB (KD=3.2×10<sup>−8 </sup>M, 3.7×10<sup>−8 </sup>M, respectively), \nPlasma surface resonance confirmed these findings: FNIII<sub>1 </sub>(KD=3.7×10<sup>−7 </sup>M), FNIII<sub>1-2 </sub>(KD=9.1×10<sup>−9 </sup>M), \nSmaller peptides from FNIII<sub>1 </sub>revealed PDGF-BB binding with FN630-648:WNAPQPSHISKYILRWRPK (SEQ ID NO:______); KD=3.4×10<sup>−7 </sup>M) and a 15 aa peptide FN634-648: QPSHISKYILRWRPK (SEQ ID NO:______); KD=4.5×10<sup>−7 </sup>M), \nWe noted that peptide 1 bound PDGF-BB with slightly less affinity than peptide 2 (KD=2.5×10<sup>−7 </sup>M, KD=1.1×10<sup>−7 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "HV",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "1.7×10−8",
+        "unit": "M",
+        "raw_mentions": "FNIII<sub>1-7 </sub>and HV were found to have strong binding affinities for PDGF-BB (KD=7.5×10<sup>−8 </sup>M, KD=2.1×10<sup>−8 </sup>M, respectively) \nPlasmon surface resonance kinetic binding confirmed these results (KD=1.0×10<sup>−7 </sup>M, KD=1.7×10<sup>−8</sup>M, respectively). \nCompared to PDGF-BB binding to FNIII<sub>12-V15 </sub>(KD=2.1×10<sup>−8 </sup>M), similar equilibrium binding was observed to FNIII<sub>12-15 </sub>(KD=6.8×10<sup>−9 </sup>M), FNIII<sub>12-14 </sub>(KD=3.5×10<sup>−8 </sup>M) and FNIII<sub>12-13 </sub>(K=7.5×10<sup>−8 </sup>M) and somewhat weaker binding to IIICS (KD=3.5×10<sup>−7 </sup>M). \nAs judged by equilibrium binding, FNIII<sub>1 </sub>and FNIII<sub>1-2 </sub>bound PDGF-BB (KD=3.2×10<sup>−8 </sup>M, 3.7×10<sup>−8 </sup>M, respectively), \nPlasma surface resonance confirmed these findings: FNIII<sub>1 </sub>(KD=3.7×10<sup>−7 </sup>M), FNIII<sub>1-2 </sub>(KD=9.1×10<sup>−9 </sup>M), \nSmaller peptides from FNIII<sub>1 </sub>revealed PDGF-BB binding with FN630-648:WNAPQPSHISKYILRWRPK (SEQ ID NO:______); KD=3.4×10<sup>−7 </sup>M) and a 15 aa peptide FN634-648: QPSHISKYILRWRPK (SEQ ID NO:______); KD=4.5×10<sup>−7 </sup>M), \nWe noted that peptide 1 bound PDGF-BB with slightly less affinity than peptide 2 (KD=2.5×10<sup>−7 </sup>M, KD=1.1×10<sup>−7 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "FNIII12-V15",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "2.1×10−8",
+        "unit": "M",
+        "raw_mentions": "FNIII<sub>1-7 </sub>and HV were found to have strong binding affinities for PDGF-BB (KD=7.5×10<sup>−8 </sup>M, KD=2.1×10<sup>−8 </sup>M, respectively) \nPlasmon surface resonance kinetic binding confirmed these results (KD=1.0×10<sup>−7 </sup>M, KD=1.7×10<sup>−8</sup>M, respectively). \nCompared to PDGF-BB binding to FNIII<sub>12-V15 </sub>(KD=2.1×10<sup>−8 </sup>M), similar equilibrium binding was observed to FNIII<sub>12-15 </sub>(KD=6.8×10<sup>−9 </sup>M), FNIII<sub>12-14 </sub>(KD=3.5×10<sup>−8 </sup>M) and FNIII<sub>12-13 </sub>(K=7.5×10<sup>−8 </sup>M) and somewhat weaker binding to IIICS (KD=3.5×10<sup>−7 </sup>M). \nAs judged by equilibrium binding, FNIII<sub>1 </sub>and FNIII<sub>1-2 </sub>bound PDGF-BB (KD=3.2×10<sup>−8 </sup>M, 3.7×10<sup>−8 </sup>M, respectively), \nPlasma surface resonance confirmed these findings: FNIII<sub>1 </sub>(KD=3.7×10<sup>−7 </sup>M), FNIII<sub>1-2 </sub>(KD=9.1×10<sup>−9 </sup>M), \nSmaller peptides from FNIII<sub>1 </sub>revealed PDGF-BB binding with FN630-648:WNAPQPSHISKYILRWRPK (SEQ ID NO:______); KD=3.4×10<sup>−7 </sup>M) and a 15 aa peptide FN634-648: QPSHISKYILRWRPK (SEQ ID NO:______); KD=4.5×10<sup>−7 </sup>M), \nWe noted that peptide 1 bound PDGF-BB with slightly less affinity than peptide 2 (KD=2.5×10<sup>−7 </sup>M, KD=1.1×10<sup>−7 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "FNIII12-15",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "6.8×10−9",
+        "unit": "M",
+        "raw_mentions": "FNIII<sub>1-7 </sub>and HV were found to have strong binding affinities for PDGF-BB (KD=7.5×10<sup>−8 </sup>M, KD=2.1×10<sup>−8 </sup>M, respectively) \nPlasmon surface resonance kinetic binding confirmed these results (KD=1.0×10<sup>−7 </sup>M, KD=1.7×10<sup>−8</sup>M, respectively). \nCompared to PDGF-BB binding to FNIII<sub>12-V15 </sub>(KD=2.1×10<sup>−8 </sup>M), similar equilibrium binding was observed to FNIII<sub>12-15 </sub>(KD=6.8×10<sup>−9 </sup>M), FNIII<sub>12-14 </sub>(KD=3.5×10<sup>−8 </sup>M) and FNIII<sub>12-13 </sub>(K=7.5×10<sup>−8 </sup>M) and somewhat weaker binding to IIICS (KD=3.5×10<sup>−7 </sup>M). \nAs judged by equilibrium binding, FNIII<sub>1 </sub>and FNIII<sub>1-2 </sub>bound PDGF-BB (KD=3.2×10<sup>−8 </sup>M, 3.7×10<sup>−8 </sup>M, respectively), \nPlasma surface resonance confirmed these findings: FNIII<sub>1 </sub>(KD=3.7×10<sup>−7 </sup>M), FNIII<sub>1-2 </sub>(KD=9.1×10<sup>−9 </sup>M), \nSmaller peptides from FNIII<sub>1 </sub>revealed PDGF-BB binding with FN630-648:WNAPQPSHISKYILRWRPK (SEQ ID NO:______); KD=3.4×10<sup>−7 </sup>M) and a 15 aa peptide FN634-648: QPSHISKYILRWRPK (SEQ ID NO:______); KD=4.5×10<sup>−7 </sup>M), \nWe noted that peptide 1 bound PDGF-BB with slightly less affinity than peptide 2 (KD=2.5×10<sup>−7 </sup>M, KD=1.1×10<sup>−7 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "FNIII12-14",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "3.5×10−8",
+        "unit": "M",
+        "raw_mentions": "FNIII<sub>1-7 </sub>and HV were found to have strong binding affinities for PDGF-BB (KD=7.5×10<sup>−8 </sup>M, KD=2.1×10<sup>−8 </sup>M, respectively) \nPlasmon surface resonance kinetic binding confirmed these results (KD=1.0×10<sup>−7 </sup>M, KD=1.7×10<sup>−8</sup>M, respectively). \nCompared to PDGF-BB binding to FNIII<sub>12-V15 </sub>(KD=2.1×10<sup>−8 </sup>M), similar equilibrium binding was observed to FNIII<sub>12-15 </sub>(KD=6.8×10<sup>−9 </sup>M), FNIII<sub>12-14 </sub>(KD=3.5×10<sup>−8 </sup>M) and FNIII<sub>12-13 </sub>(K=7.5×10<sup>−8 </sup>M) and somewhat weaker binding to IIICS (KD=3.5×10<sup>−7 </sup>M). \nAs judged by equilibrium binding, FNIII<sub>1 </sub>and FNIII<sub>1-2 </sub>bound PDGF-BB (KD=3.2×10<sup>−8 </sup>M, 3.7×10<sup>−8 </sup>M, respectively), \nPlasma surface resonance confirmed these findings: FNIII<sub>1 </sub>(KD=3.7×10<sup>−7 </sup>M), FNIII<sub>1-2 </sub>(KD=9.1×10<sup>−9 </sup>M), \nSmaller peptides from FNIII<sub>1 </sub>revealed PDGF-BB binding with FN630-648:WNAPQPSHISKYILRWRPK (SEQ ID NO:______); KD=3.4×10<sup>−7 </sup>M) and a 15 aa peptide FN634-648: QPSHISKYILRWRPK (SEQ ID NO:______); KD=4.5×10<sup>−7 </sup>M), \nWe noted that peptide 1 bound PDGF-BB with slightly less affinity than peptide 2 (KD=2.5×10<sup>−7 </sup>M, KD=1.1×10<sup>−7 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "FNIII12-13",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "K",
+        "value": "7.5×10−8",
+        "unit": "M",
+        "raw_mentions": "FNIII<sub>1-7 </sub>and HV were found to have strong binding affinities for PDGF-BB (KD=7.5×10<sup>−8 </sup>M, KD=2.1×10<sup>−8 </sup>M, respectively) \nPlasmon surface resonance kinetic binding confirmed these results (KD=1.0×10<sup>−7 </sup>M, KD=1.7×10<sup>−8</sup>M, respectively). \nCompared to PDGF-BB binding to FNIII<sub>12-V15 </sub>(KD=2.1×10<sup>−8 </sup>M), similar equilibrium binding was observed to FNIII<sub>12-15 </sub>(KD=6.8×10<sup>−9 </sup>M), FNIII<sub>12-14 </sub>(KD=3.5×10<sup>−8 </sup>M) and FNIII<sub>12-13 </sub>(K=7.5×10<sup>−8 </sup>M) and somewhat weaker binding to IIICS (KD=3.5×10<sup>−7 </sup>M). \nAs judged by equilibrium binding, FNIII<sub>1 </sub>and FNIII<sub>1-2 </sub>bound PDGF-BB (KD=3.2×10<sup>−8 </sup>M, 3.7×10<sup>−8 </sup>M, respectively), \nPlasma surface resonance confirmed these findings: FNIII<sub>1 </sub>(KD=3.7×10<sup>−7 </sup>M), FNIII<sub>1-2 </sub>(KD=9.1×10<sup>−9 </sup>M), \nSmaller peptides from FNIII<sub>1 </sub>revealed PDGF-BB binding with FN630-648:WNAPQPSHISKYILRWRPK (SEQ ID NO:______); KD=3.4×10<sup>−7 </sup>M) and a 15 aa peptide FN634-648: QPSHISKYILRWRPK (SEQ ID NO:______); KD=4.5×10<sup>−7 </sup>M), \nWe noted that peptide 1 bound PDGF-BB with slightly less affinity than peptide 2 (KD=2.5×10<sup>−7 </sup>M, KD=1.1×10<sup>−7 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "IIICS",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "3.5×10−7",
+        "unit": "M",
+        "raw_mentions": "FNIII<sub>1-7 </sub>and HV were found to have strong binding affinities for PDGF-BB (KD=7.5×10<sup>−8 </sup>M, KD=2.1×10<sup>−8 </sup>M, respectively) \nPlasmon surface resonance kinetic binding confirmed these results (KD=1.0×10<sup>−7 </sup>M, KD=1.7×10<sup>−8</sup>M, respectively). \nCompared to PDGF-BB binding to FNIII<sub>12-V15 </sub>(KD=2.1×10<sup>−8 </sup>M), similar equilibrium binding was observed to FNIII<sub>12-15 </sub>(KD=6.8×10<sup>−9 </sup>M), FNIII<sub>12-14 </sub>(KD=3.5×10<sup>−8 </sup>M) and FNIII<sub>12-13 </sub>(K=7.5×10<sup>−8 </sup>M) and somewhat weaker binding to IIICS (KD=3.5×10<sup>−7 </sup>M). \nAs judged by equilibrium binding, FNIII<sub>1 </sub>and FNIII<sub>1-2 </sub>bound PDGF-BB (KD=3.2×10<sup>−8 </sup>M, 3.7×10<sup>−8 </sup>M, respectively), \nPlasma surface resonance confirmed these findings: FNIII<sub>1 </sub>(KD=3.7×10<sup>−7 </sup>M), FNIII<sub>1-2 </sub>(KD=9.1×10<sup>−9 </sup>M), \nSmaller peptides from FNIII<sub>1 </sub>revealed PDGF-BB binding with FN630-648:WNAPQPSHISKYILRWRPK (SEQ ID NO:______); KD=3.4×10<sup>−7 </sup>M) and a 15 aa peptide FN634-648: QPSHISKYILRWRPK (SEQ ID NO:______); KD=4.5×10<sup>−7 </sup>M), \nWe noted that peptide 1 bound PDGF-BB with slightly less affinity than peptide 2 (KD=2.5×10<sup>−7 </sup>M, KD=1.1×10<sup>−7 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "FNIII1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "3.2×10−8",
+        "unit": "M",
+        "raw_mentions": "FNIII<sub>1-7 </sub>and HV were found to have strong binding affinities for PDGF-BB (KD=7.5×10<sup>−8 </sup>M, KD=2.1×10<sup>−8 </sup>M, respectively) \nPlasmon surface resonance kinetic binding confirmed these results (KD=1.0×10<sup>−7 </sup>M, KD=1.7×10<sup>−8</sup>M, respectively). \nCompared to PDGF-BB binding to FNIII<sub>12-V15 </sub>(KD=2.1×10<sup>−8 </sup>M), similar equilibrium binding was observed to FNIII<sub>12-15 </sub>(KD=6.8×10<sup>−9 </sup>M), FNIII<sub>12-14 </sub>(KD=3.5×10<sup>−8 </sup>M) and FNIII<sub>12-13 </sub>(K=7.5×10<sup>−8 </sup>M) and somewhat weaker binding to IIICS (KD=3.5×10<sup>−7 </sup>M). \nAs judged by equilibrium binding, FNIII<sub>1 </sub>and FNIII<sub>1-2 </sub>bound PDGF-BB (KD=3.2×10<sup>−8 </sup>M, 3.7×10<sup>−8 </sup>M, respectively), \nPlasma surface resonance confirmed these findings: FNIII<sub>1 </sub>(KD=3.7×10<sup>−7 </sup>M), FNIII<sub>1-2 </sub>(KD=9.1×10<sup>−9 </sup>M), \nSmaller peptides from FNIII<sub>1 </sub>revealed PDGF-BB binding with FN630-648:WNAPQPSHISKYILRWRPK (SEQ ID NO:______); KD=3.4×10<sup>−7 </sup>M) and a 15 aa peptide FN634-648: QPSHISKYILRWRPK (SEQ ID NO:______); KD=4.5×10<sup>−7 </sup>M), \nWe noted that peptide 1 bound PDGF-BB with slightly less affinity than peptide 2 (KD=2.5×10<sup>−7 </sup>M, KD=1.1×10<sup>−7 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "FNIII1-2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "3.7×10−8",
+        "unit": "M",
+        "raw_mentions": "FNIII<sub>1-7 </sub>and HV were found to have strong binding affinities for PDGF-BB (KD=7.5×10<sup>−8 </sup>M, KD=2.1×10<sup>−8 </sup>M, respectively) \nPlasmon surface resonance kinetic binding confirmed these results (KD=1.0×10<sup>−7 </sup>M, KD=1.7×10<sup>−8</sup>M, respectively). \nCompared to PDGF-BB binding to FNIII<sub>12-V15 </sub>(KD=2.1×10<sup>−8 </sup>M), similar equilibrium binding was observed to FNIII<sub>12-15 </sub>(KD=6.8×10<sup>−9 </sup>M), FNIII<sub>12-14 </sub>(KD=3.5×10<sup>−8 </sup>M) and FNIII<sub>12-13 </sub>(K=7.5×10<sup>−8 </sup>M) and somewhat weaker binding to IIICS (KD=3.5×10<sup>−7 </sup>M). \nAs judged by equilibrium binding, FNIII<sub>1 </sub>and FNIII<sub>1-2 </sub>bound PDGF-BB (KD=3.2×10<sup>−8 </sup>M, 3.7×10<sup>−8 </sup>M, respectively), \nPlasma surface resonance confirmed these findings: FNIII<sub>1 </sub>(KD=3.7×10<sup>−7 </sup>M), FNIII<sub>1-2 </sub>(KD=9.1×10<sup>−9 </sup>M), \nSmaller peptides from FNIII<sub>1 </sub>revealed PDGF-BB binding with FN630-648:WNAPQPSHISKYILRWRPK (SEQ ID NO:______); KD=3.4×10<sup>−7 </sup>M) and a 15 aa peptide FN634-648: QPSHISKYILRWRPK (SEQ ID NO:______); KD=4.5×10<sup>−7 </sup>M), \nWe noted that peptide 1 bound PDGF-BB with slightly less affinity than peptide 2 (KD=2.5×10<sup>−7 </sup>M, KD=1.1×10<sup>−7 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "FNIII1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "3.7×10−7",
+        "unit": "M",
+        "raw_mentions": "FNIII<sub>1-7 </sub>and HV were found to have strong binding affinities for PDGF-BB (KD=7.5×10<sup>−8 </sup>M, KD=2.1×10<sup>−8 </sup>M, respectively) \nPlasmon surface resonance kinetic binding confirmed these results (KD=1.0×10<sup>−7 </sup>M, KD=1.7×10<sup>−8</sup>M, respectively). \nCompared to PDGF-BB binding to FNIII<sub>12-V15 </sub>(KD=2.1×10<sup>−8 </sup>M), similar equilibrium binding was observed to FNIII<sub>12-15 </sub>(KD=6.8×10<sup>−9 </sup>M), FNIII<sub>12-14 </sub>(KD=3.5×10<sup>−8 </sup>M) and FNIII<sub>12-13 </sub>(K=7.5×10<sup>−8 </sup>M) and somewhat weaker binding to IIICS (KD=3.5×10<sup>−7 </sup>M). \nAs judged by equilibrium binding, FNIII<sub>1 </sub>and FNIII<sub>1-2 </sub>bound PDGF-BB (KD=3.2×10<sup>−8 </sup>M, 3.7×10<sup>−8 </sup>M, respectively), \nPlasma surface resonance confirmed these findings: FNIII<sub>1 </sub>(KD=3.7×10<sup>−7 </sup>M), FNIII<sub>1-2 </sub>(KD=9.1×10<sup>−9 </sup>M), \nSmaller peptides from FNIII<sub>1 </sub>revealed PDGF-BB binding with FN630-648:WNAPQPSHISKYILRWRPK (SEQ ID NO:______); KD=3.4×10<sup>−7 </sup>M) and a 15 aa peptide FN634-648: QPSHISKYILRWRPK (SEQ ID NO:______); KD=4.5×10<sup>−7 </sup>M), \nWe noted that peptide 1 bound PDGF-BB with slightly less affinity than peptide 2 (KD=2.5×10<sup>−7 </sup>M, KD=1.1×10<sup>−7 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "FNIII1-2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "9.1×10−9",
+        "unit": "M",
+        "raw_mentions": "FNIII<sub>1-7 </sub>and HV were found to have strong binding affinities for PDGF-BB (KD=7.5×10<sup>−8 </sup>M, KD=2.1×10<sup>−8 </sup>M, respectively) \nPlasmon surface resonance kinetic binding confirmed these results (KD=1.0×10<sup>−7 </sup>M, KD=1.7×10<sup>−8</sup>M, respectively). \nCompared to PDGF-BB binding to FNIII<sub>12-V15 </sub>(KD=2.1×10<sup>−8 </sup>M), similar equilibrium binding was observed to FNIII<sub>12-15 </sub>(KD=6.8×10<sup>−9 </sup>M), FNIII<sub>12-14 </sub>(KD=3.5×10<sup>−8 </sup>M) and FNIII<sub>12-13 </sub>(K=7.5×10<sup>−8 </sup>M) and somewhat weaker binding to IIICS (KD=3.5×10<sup>−7 </sup>M). \nAs judged by equilibrium binding, FNIII<sub>1 </sub>and FNIII<sub>1-2 </sub>bound PDGF-BB (KD=3.2×10<sup>−8 </sup>M, 3.7×10<sup>−8 </sup>M, respectively), \nPlasma surface resonance confirmed these findings: FNIII<sub>1 </sub>(KD=3.7×10<sup>−7 </sup>M), FNIII<sub>1-2 </sub>(KD=9.1×10<sup>−9 </sup>M), \nSmaller peptides from FNIII<sub>1 </sub>revealed PDGF-BB binding with FN630-648:WNAPQPSHISKYILRWRPK (SEQ ID NO:______); KD=3.4×10<sup>−7 </sup>M) and a 15 aa peptide FN634-648: QPSHISKYILRWRPK (SEQ ID NO:______); KD=4.5×10<sup>−7 </sup>M), \nWe noted that peptide 1 bound PDGF-BB with slightly less affinity than peptide 2 (KD=2.5×10<sup>−7 </sup>M, KD=1.1×10<sup>−7 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "FN630-648",
+        "protein_uniprot_id": null,
+        "protein_seq_id": "SEQ ID NO:______",
+        "binding_metric": "KD",
+        "value": "3.4×10−7",
+        "unit": "M",
+        "raw_mentions": "FNIII<sub>1-7 </sub>and HV were found to have strong binding affinities for PDGF-BB (KD=7.5×10<sup>−8 </sup>M, KD=2.1×10<sup>−8 </sup>M, respectively) \nPlasmon surface resonance kinetic binding confirmed these results (KD=1.0×10<sup>−7 </sup>M, KD=1.7×10<sup>−8</sup>M, respectively). \nCompared to PDGF-BB binding to FNIII<sub>12-V15 </sub>(KD=2.1×10<sup>−8 </sup>M), similar equilibrium binding was observed to FNIII<sub>12-15 </sub>(KD=6.8×10<sup>−9 </sup>M), FNIII<sub>12-14 </sub>(KD=3.5×10<sup>−8 </sup>M) and FNIII<sub>12-13 </sub>(K=7.5×10<sup>−8 </sup>M) and somewhat weaker binding to IIICS (KD=3.5×10<sup>−7 </sup>M). \nAs judged by equilibrium binding, FNIII<sub>1 </sub>and FNIII<sub>1-2 </sub>bound PDGF-BB (KD=3.2×10<sup>−8 </sup>M, 3.7×10<sup>−8 </sup>M, respectively), \nPlasma surface resonance confirmed these findings: FNIII<sub>1 </sub>(KD=3.7×10<sup>−7 </sup>M), FNIII<sub>1-2 </sub>(KD=9.1×10<sup>−9 </sup>M), \nSmaller peptides from FNIII<sub>1 </sub>revealed PDGF-BB binding with FN630-648:WNAPQPSHISKYILRWRPK (SEQ ID NO:______); KD=3.4×10<sup>−7 </sup>M) and a 15 aa peptide FN634-648: QPSHISKYILRWRPK (SEQ ID NO:______); KD=4.5×10<sup>−7 </sup>M), \nWe noted that peptide 1 bound PDGF-BB with slightly less affinity than peptide 2 (KD=2.5×10<sup>−7 </sup>M, KD=1.1×10<sup>−7 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "FN634-648",
+        "protein_uniprot_id": null,
+        "protein_seq_id": "SEQ ID NO:______",
+        "binding_metric": "KD",
+        "value": "4.5×10−7",
+        "unit": "M",
+        "raw_mentions": "FNIII<sub>1-7 </sub>and HV were found to have strong binding affinities for PDGF-BB (KD=7.5×10<sup>−8 </sup>M, KD=2.1×10<sup>−8 </sup>M, respectively) \nPlasmon surface resonance kinetic binding confirmed these results (KD=1.0×10<sup>−7 </sup>M, KD=1.7×10<sup>−8</sup>M, respectively). \nCompared to PDGF-BB binding to FNIII<sub>12-V15 </sub>(KD=2.1×10<sup>−8 </sup>M), similar equilibrium binding was observed to FNIII<sub>12-15 </sub>(KD=6.8×10<sup>−9 </sup>M), FNIII<sub>12-14 </sub>(KD=3.5×10<sup>−8 </sup>M) and FNIII<sub>12-13 </sub>(K=7.5×10<sup>−8 </sup>M) and somewhat weaker binding to IIICS (KD=3.5×10<sup>−7 </sup>M). \nAs judged by equilibrium binding, FNIII<sub>1 </sub>and FNIII<sub>1-2 </sub>bound PDGF-BB (KD=3.2×10<sup>−8 </sup>M, 3.7×10<sup>−8 </sup>M, respectively), \nPlasma surface resonance confirmed these findings: FNIII<sub>1 </sub>(KD=3.7×10<sup>−7 </sup>M), FNIII<sub>1-2 </sub>(KD=9.1×10<sup>−9 </sup>M), \nSmaller peptides from FNIII<sub>1 </sub>revealed PDGF-BB binding with FN630-648:WNAPQPSHISKYILRWRPK (SEQ ID NO:______); KD=3.4×10<sup>−7 </sup>M) and a 15 aa peptide FN634-648: QPSHISKYILRWRPK (SEQ ID NO:______); KD=4.5×10<sup>−7 </sup>M), \nWe noted that peptide 1 bound PDGF-BB with slightly less affinity than peptide 2 (KD=2.5×10<sup>−7 </sup>M, KD=1.1×10<sup>−7 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "peptide 1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "2.5×10−7",
+        "unit": "M",
+        "raw_mentions": "FNIII<sub>1-7 </sub>and HV were found to have strong binding affinities for PDGF-BB (KD=7.5×10<sup>−8 </sup>M, KD=2.1×10<sup>−8 </sup>M, respectively) \nPlasmon surface resonance kinetic binding confirmed these results (KD=1.0×10<sup>−7 </sup>M, KD=1.7×10<sup>−8</sup>M, respectively). \nCompared to PDGF-BB binding to FNIII<sub>12-V15 </sub>(KD=2.1×10<sup>−8 </sup>M), similar equilibrium binding was observed to FNIII<sub>12-15 </sub>(KD=6.8×10<sup>−9 </sup>M), FNIII<sub>12-14 </sub>(KD=3.5×10<sup>−8 </sup>M) and FNIII<sub>12-13 </sub>(K=7.5×10<sup>−8 </sup>M) and somewhat weaker binding to IIICS (KD=3.5×10<sup>−7 </sup>M). \nAs judged by equilibrium binding, FNIII<sub>1 </sub>and FNIII<sub>1-2 </sub>bound PDGF-BB (KD=3.2×10<sup>−8 </sup>M, 3.7×10<sup>−8 </sup>M, respectively), \nPlasma surface resonance confirmed these findings: FNIII<sub>1 </sub>(KD=3.7×10<sup>−7 </sup>M), FNIII<sub>1-2 </sub>(KD=9.1×10<sup>−9 </sup>M), \nSmaller peptides from FNIII<sub>1 </sub>revealed PDGF-BB binding with FN630-648:WNAPQPSHISKYILRWRPK (SEQ ID NO:______); KD=3.4×10<sup>−7 </sup>M) and a 15 aa peptide FN634-648: QPSHISKYILRWRPK (SEQ ID NO:______); KD=4.5×10<sup>−7 </sup>M), \nWe noted that peptide 1 bound PDGF-BB with slightly less affinity than peptide 2 (KD=2.5×10<sup>−7 </sup>M, KD=1.1×10<sup>−7 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "peptide 2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "1.1×10−7",
+        "unit": "M",
+        "raw_mentions": "FNIII<sub>1-7 </sub>and HV were found to have strong binding affinities for PDGF-BB (KD=7.5×10<sup>−8 </sup>M, KD=2.1×10<sup>−8 </sup>M, respectively) \nPlasmon surface resonance kinetic binding confirmed these results (KD=1.0×10<sup>−7 </sup>M, KD=1.7×10<sup>−8</sup>M, respectively). \nCompared to PDGF-BB binding to FNIII<sub>12-V15 </sub>(KD=2.1×10<sup>−8 </sup>M), similar equilibrium binding was observed to FNIII<sub>12-15 </sub>(KD=6.8×10<sup>−9 </sup>M), FNIII<sub>12-14 </sub>(KD=3.5×10<sup>−8 </sup>M) and FNIII<sub>12-13 </sub>(K=7.5×10<sup>−8 </sup>M) and somewhat weaker binding to IIICS (KD=3.5×10<sup>−7 </sup>M). \nAs judged by equilibrium binding, FNIII<sub>1 </sub>and FNIII<sub>1-2 </sub>bound PDGF-BB (KD=3.2×10<sup>−8 </sup>M, 3.7×10<sup>−8 </sup>M, respectively), \nPlasma surface resonance confirmed these findings: FNIII<sub>1 </sub>(KD=3.7×10<sup>−7 </sup>M), FNIII<sub>1-2 </sub>(KD=9.1×10<sup>−9 </sup>M), \nSmaller peptides from FNIII<sub>1 </sub>revealed PDGF-BB binding with FN630-648:WNAPQPSHISKYILRWRPK (SEQ ID NO:______); KD=3.4×10<sup>−7 </sup>M) and a 15 aa peptide FN634-648: QPSHISKYILRWRPK (SEQ ID NO:______); KD=4.5×10<sup>−7 </sup>M), \nWe noted that peptide 1 bound PDGF-BB with slightly less affinity than peptide 2 (KD=2.5×10<sup>−7 </sup>M, KD=1.1×10<sup>−7 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "PDGF-BB",
+        "protein_target_name": "FN",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "4.9×10−8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nPDGF-BB (KD=4.9×10<sup>−8 </sup>M), TGF-β1 (KD=5.3×10<sup>−8 </sup>M) and bFGF (KD=4.4×10<sup>−8 </sup>M) bound intact FN while EGF, TGF-α and FGF-1 did not.\nTGF-β1 bound FNIII1-7 (KD=1.7×10<sup>−8 </sup>M) and FNIII12-V15 (KD=9.7×10<sup>−8 </sup>M), but not FN70 nor FNIII 8-11, as previously observed with PDGF-BB.\nKinetic binding via plasmon surface resonance confirmed these findings (KD=1.8×10<sup>−8 </sup>M, KD=2.5×10<sup>−8 </sup>M, respectively).\nSimilar data was acquired with bFGF, which bound to FNIII<sub>1-7 </sub>(KD=4.1×10<sup>−9 </sup>M) and FNIII<sub>12-V15 </sub>(KD=3.7×10<sup>−8 </sup>M), but not FN70 nor FNIII<sub>8-11</sub>.\nFurthermore, FNIII<sub>1</sub>, FNIII<sub>12-14</sub>, FNIII<sub>12-15 </sub>and IIICS, but not FNIII<sub>3-6</sub>, also bound TGF-β1 (KD=6.2×10<sup>−9 </sup>M, 7.6×10<sup>−9 </sup>M, 1.6×10<sup>−8 </sup>M, 7.4×10<sup>−8 </sup>M, respectively) and bFGF (KD=3.5×10<sup>−8 </sup>M, 1.9×10<sup>−9 </sup>M, 1.3×10<sup>−7 </sup>M, 5.8×10<sup>−8 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "TGF-β1",
+        "protein_target_name": "FN",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "5.3×10−8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nPDGF-BB (KD=4.9×10<sup>−8 </sup>M), TGF-β1 (KD=5.3×10<sup>−8 </sup>M) and bFGF (KD=4.4×10<sup>−8 </sup>M) bound intact FN while EGF, TGF-α and FGF-1 did not.\nTGF-β1 bound FNIII1-7 (KD=1.7×10<sup>−8 </sup>M) and FNIII12-V15 (KD=9.7×10<sup>−8 </sup>M), but not FN70 nor FNIII 8-11, as previously observed with PDGF-BB.\nKinetic binding via plasmon surface resonance confirmed these findings (KD=1.8×10<sup>−8 </sup>M, KD=2.5×10<sup>−8 </sup>M, respectively).\nSimilar data was acquired with bFGF, which bound to FNIII<sub>1-7 </sub>(KD=4.1×10<sup>−9 </sup>M) and FNIII<sub>12-V15 </sub>(KD=3.7×10<sup>−8 </sup>M), but not FN70 nor FNIII<sub>8-11</sub>.\nFurthermore, FNIII<sub>1</sub>, FNIII<sub>12-14</sub>, FNIII<sub>12-15 </sub>and IIICS, but not FNIII<sub>3-6</sub>, also bound TGF-β1 (KD=6.2×10<sup>−9 </sup>M, 7.6×10<sup>−9 </sup>M, 1.6×10<sup>−8 </sup>M, 7.4×10<sup>−8 </sup>M, respectively) and bFGF (KD=3.5×10<sup>−8 </sup>M, 1.9×10<sup>−9 </sup>M, 1.3×10<sup>−7 </sup>M, 5.8×10<sup>−8 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "bFGF",
+        "protein_target_name": "FN",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "4.4×10−8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nPDGF-BB (KD=4.9×10<sup>−8 </sup>M), TGF-β1 (KD=5.3×10<sup>−8 </sup>M) and bFGF (KD=4.4×10<sup>−8 </sup>M) bound intact FN while EGF, TGF-α and FGF-1 did not.\nTGF-β1 bound FNIII1-7 (KD=1.7×10<sup>−8 </sup>M) and FNIII12-V15 (KD=9.7×10<sup>−8 </sup>M), but not FN70 nor FNIII 8-11, as previously observed with PDGF-BB.\nKinetic binding via plasmon surface resonance confirmed these findings (KD=1.8×10<sup>−8 </sup>M, KD=2.5×10<sup>−8 </sup>M, respectively).\nSimilar data was acquired with bFGF, which bound to FNIII<sub>1-7 </sub>(KD=4.1×10<sup>−9 </sup>M) and FNIII<sub>12-V15 </sub>(KD=3.7×10<sup>−8 </sup>M), but not FN70 nor FNIII<sub>8-11</sub>.\nFurthermore, FNIII<sub>1</sub>, FNIII<sub>12-14</sub>, FNIII<sub>12-15 </sub>and IIICS, but not FNIII<sub>3-6</sub>, also bound TGF-β1 (KD=6.2×10<sup>−9 </sup>M, 7.6×10<sup>−9 </sup>M, 1.6×10<sup>−8 </sup>M, 7.4×10<sup>−8 </sup>M, respectively) and bFGF (KD=3.5×10<sup>−8 </sup>M, 1.9×10<sup>−9 </sup>M, 1.3×10<sup>−7 </sup>M, 5.8×10<sup>−8 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "TGF-β1",
+        "protein_target_name": "FNIII1-7",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "1.7×10−8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nPDGF-BB (KD=4.9×10<sup>−8 </sup>M), TGF-β1 (KD=5.3×10<sup>−8 </sup>M) and bFGF (KD=4.4×10<sup>−8 </sup>M) bound intact FN while EGF, TGF-α and FGF-1 did not.\nTGF-β1 bound FNIII1-7 (KD=1.7×10<sup>−8 </sup>M) and FNIII12-V15 (KD=9.7×10<sup>−8 </sup>M), but not FN70 nor FNIII 8-11, as previously observed with PDGF-BB.\nKinetic binding via plasmon surface resonance confirmed these findings (KD=1.8×10<sup>−8 </sup>M, KD=2.5×10<sup>−8 </sup>M, respectively).\nSimilar data was acquired with bFGF, which bound to FNIII<sub>1-7 </sub>(KD=4.1×10<sup>−9 </sup>M) and FNIII<sub>12-V15 </sub>(KD=3.7×10<sup>−8 </sup>M), but not FN70 nor FNIII<sub>8-11</sub>.\nFurthermore, FNIII<sub>1</sub>, FNIII<sub>12-14</sub>, FNIII<sub>12-15 </sub>and IIICS, but not FNIII<sub>3-6</sub>, also bound TGF-β1 (KD=6.2×10<sup>−9 </sup>M, 7.6×10<sup>−9 </sup>M, 1.6×10<sup>−8 </sup>M, 7.4×10<sup>−8 </sup>M, respectively) and bFGF (KD=3.5×10<sup>−8 </sup>M, 1.9×10<sup>−9 </sup>M, 1.3×10<sup>−7 </sup>M, 5.8×10<sup>−8 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "TGF-β1",
+        "protein_target_name": "FNIII12-V15",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "9.7×10−8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nPDGF-BB (KD=4.9×10<sup>−8 </sup>M), TGF-β1 (KD=5.3×10<sup>−8 </sup>M) and bFGF (KD=4.4×10<sup>−8 </sup>M) bound intact FN while EGF, TGF-α and FGF-1 did not.\nTGF-β1 bound FNIII1-7 (KD=1.7×10<sup>−8 </sup>M) and FNIII12-V15 (KD=9.7×10<sup>−8 </sup>M), but not FN70 nor FNIII 8-11, as previously observed with PDGF-BB.\nKinetic binding via plasmon surface resonance confirmed these findings (KD=1.8×10<sup>−8 </sup>M, KD=2.5×10<sup>−8 </sup>M, respectively).\nSimilar data was acquired with bFGF, which bound to FNIII<sub>1-7 </sub>(KD=4.1×10<sup>−9 </sup>M) and FNIII<sub>12-V15 </sub>(KD=3.7×10<sup>−8 </sup>M), but not FN70 nor FNIII<sub>8-11</sub>.\nFurthermore, FNIII<sub>1</sub>, FNIII<sub>12-14</sub>, FNIII<sub>12-15 </sub>and IIICS, but not FNIII<sub>3-6</sub>, also bound TGF-β1 (KD=6.2×10<sup>−9 </sup>M, 7.6×10<sup>−9 </sup>M, 1.6×10<sup>−8 </sup>M, 7.4×10<sup>−8 </sup>M, respectively) and bFGF (KD=3.5×10<sup>−8 </sup>M, 1.9×10<sup>−9 </sup>M, 1.3×10<sup>−7 </sup>M, 5.8×10<sup>−8 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "bFGF",
+        "protein_target_name": "FNIII1-7",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "4.1×10−9",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nPDGF-BB (KD=4.9×10<sup>−8 </sup>M), TGF-β1 (KD=5.3×10<sup>−8 </sup>M) and bFGF (KD=4.4×10<sup>−8 </sup>M) bound intact FN while EGF, TGF-α and FGF-1 did not.\nTGF-β1 bound FNIII1-7 (KD=1.7×10<sup>−8 </sup>M) and FNIII12-V15 (KD=9.7×10<sup>−8 </sup>M), but not FN70 nor FNIII 8-11, as previously observed with PDGF-BB.\nKinetic binding via plasmon surface resonance confirmed these findings (KD=1.8×10<sup>−8 </sup>M, KD=2.5×10<sup>−8 </sup>M, respectively).\nSimilar data was acquired with bFGF, which bound to FNIII<sub>1-7 </sub>(KD=4.1×10<sup>−9 </sup>M) and FNIII<sub>12-V15 </sub>(KD=3.7×10<sup>−8 </sup>M), but not FN70 nor FNIII<sub>8-11</sub>.\nFurthermore, FNIII<sub>1</sub>, FNIII<sub>12-14</sub>, FNIII<sub>12-15 </sub>and IIICS, but not FNIII<sub>3-6</sub>, also bound TGF-β1 (KD=6.2×10<sup>−9 </sup>M, 7.6×10<sup>−9 </sup>M, 1.6×10<sup>−8 </sup>M, 7.4×10<sup>−8 </sup>M, respectively) and bFGF (KD=3.5×10<sup>−8 </sup>M, 1.9×10<sup>−9 </sup>M, 1.3×10<sup>−7 </sup>M, 5.8×10<sup>−8 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "bFGF",
+        "protein_target_name": "FNIII12-V15",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "3.7×10−8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nPDGF-BB (KD=4.9×10<sup>−8 </sup>M), TGF-β1 (KD=5.3×10<sup>−8 </sup>M) and bFGF (KD=4.4×10<sup>−8 </sup>M) bound intact FN while EGF, TGF-α and FGF-1 did not.\nTGF-β1 bound FNIII1-7 (KD=1.7×10<sup>−8 </sup>M) and FNIII12-V15 (KD=9.7×10<sup>−8 </sup>M), but not FN70 nor FNIII 8-11, as previously observed with PDGF-BB.\nKinetic binding via plasmon surface resonance confirmed these findings (KD=1.8×10<sup>−8 </sup>M, KD=2.5×10<sup>−8 </sup>M, respectively).\nSimilar data was acquired with bFGF, which bound to FNIII<sub>1-7 </sub>(KD=4.1×10<sup>−9 </sup>M) and FNIII<sub>12-V15 </sub>(KD=3.7×10<sup>−8 </sup>M), but not FN70 nor FNIII<sub>8-11</sub>.\nFurthermore, FNIII<sub>1</sub>, FNIII<sub>12-14</sub>, FNIII<sub>12-15 </sub>and IIICS, but not FNIII<sub>3-6</sub>, also bound TGF-β1 (KD=6.2×10<sup>−9 </sup>M, 7.6×10<sup>−9 </sup>M, 1.6×10<sup>−8 </sup>M, 7.4×10<sup>−8 </sup>M, respectively) and bFGF (KD=3.5×10<sup>−8 </sup>M, 1.9×10<sup>−9 </sup>M, 1.3×10<sup>−7 </sup>M, 5.8×10<sup>−8 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "TGF-β1",
+        "protein_target_name": "FNIII1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "6.2×10−9",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nPDGF-BB (KD=4.9×10<sup>−8 </sup>M), TGF-β1 (KD=5.3×10<sup>−8 </sup>M) and bFGF (KD=4.4×10<sup>−8 </sup>M) bound intact FN while EGF, TGF-α and FGF-1 did not.\nTGF-β1 bound FNIII1-7 (KD=1.7×10<sup>−8 </sup>M) and FNIII12-V15 (KD=9.7×10<sup>−8 </sup>M), but not FN70 nor FNIII 8-11, as previously observed with PDGF-BB.\nKinetic binding via plasmon surface resonance confirmed these findings (KD=1.8×10<sup>−8 </sup>M, KD=2.5×10<sup>−8 </sup>M, respectively).\nSimilar data was acquired with bFGF, which bound to FNIII<sub>1-7 </sub>(KD=4.1×10<sup>−9 </sup>M) and FNIII<sub>12-V15 </sub>(KD=3.7×10<sup>−8 </sup>M), but not FN70 nor FNIII<sub>8-11</sub>.\nFurthermore, FNIII<sub>1</sub>, FNIII<sub>12-14</sub>, FNIII<sub>12-15 </sub>and IIICS, but not FNIII<sub>3-6</sub>, also bound TGF-β1 (KD=6.2×10<sup>−9 </sup>M, 7.6×10<sup>−9 </sup>M, 1.6×10<sup>−8 </sup>M, 7.4×10<sup>−8 </sup>M, respectively) and bFGF (KD=3.5×10<sup>−8 </sup>M, 1.9×10<sup>−9 </sup>M, 1.3×10<sup>−7 </sup>M, 5.8×10<sup>−8 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "TGF-β1",
+        "protein_target_name": "FNIII12-14",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "7.6×10−9",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nPDGF-BB (KD=4.9×10<sup>−8 </sup>M), TGF-β1 (KD=5.3×10<sup>−8 </sup>M) and bFGF (KD=4.4×10<sup>−8 </sup>M) bound intact FN while EGF, TGF-α and FGF-1 did not.\nTGF-β1 bound FNIII1-7 (KD=1.7×10<sup>−8 </sup>M) and FNIII12-V15 (KD=9.7×10<sup>−8 </sup>M), but not FN70 nor FNIII 8-11, as previously observed with PDGF-BB.\nKinetic binding via plasmon surface resonance confirmed these findings (KD=1.8×10<sup>−8 </sup>M, KD=2.5×10<sup>−8 </sup>M, respectively).\nSimilar data was acquired with bFGF, which bound to FNIII<sub>1-7 </sub>(KD=4.1×10<sup>−9 </sup>M) and FNIII<sub>12-V15 </sub>(KD=3.7×10<sup>−8 </sup>M), but not FN70 nor FNIII<sub>8-11</sub>.\nFurthermore, FNIII<sub>1</sub>, FNIII<sub>12-14</sub>, FNIII<sub>12-15 </sub>and IIICS, but not FNIII<sub>3-6</sub>, also bound TGF-β1 (KD=6.2×10<sup>−9 </sup>M, 7.6×10<sup>−9 </sup>M, 1.6×10<sup>−8 </sup>M, 7.4×10<sup>−8 </sup>M, respectively) and bFGF (KD=3.5×10<sup>−8 </sup>M, 1.9×10<sup>−9 </sup>M, 1.3×10<sup>−7 </sup>M, 5.8×10<sup>−8 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "TGF-β1",
+        "protein_target_name": "FNIII12-15",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "1.6×10−8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nPDGF-BB (KD=4.9×10<sup>−8 </sup>M), TGF-β1 (KD=5.3×10<sup>−8 </sup>M) and bFGF (KD=4.4×10<sup>−8 </sup>M) bound intact FN while EGF, TGF-α and FGF-1 did not.\nTGF-β1 bound FNIII1-7 (KD=1.7×10<sup>−8 </sup>M) and FNIII12-V15 (KD=9.7×10<sup>−8 </sup>M), but not FN70 nor FNIII 8-11, as previously observed with PDGF-BB.\nKinetic binding via plasmon surface resonance confirmed these findings (KD=1.8×10<sup>−8 </sup>M, KD=2.5×10<sup>−8 </sup>M, respectively).\nSimilar data was acquired with bFGF, which bound to FNIII<sub>1-7 </sub>(KD=4.1×10<sup>−9 </sup>M) and FNIII<sub>12-V15 </sub>(KD=3.7×10<sup>−8 </sup>M), but not FN70 nor FNIII<sub>8-11</sub>.\nFurthermore, FNIII<sub>1</sub>, FNIII<sub>12-14</sub>, FNIII<sub>12-15 </sub>and IIICS, but not FNIII<sub>3-6</sub>, also bound TGF-β1 (KD=6.2×10<sup>−9 </sup>M, 7.6×10<sup>−9 </sup>M, 1.6×10<sup>−8 </sup>M, 7.4×10<sup>−8 </sup>M, respectively) and bFGF (KD=3.5×10<sup>−8 </sup>M, 1.9×10<sup>−9 </sup>M, 1.3×10<sup>−7 </sup>M, 5.8×10<sup>−8 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "TGF-β1",
+        "protein_target_name": "IIICS",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "7.4×10−8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nPDGF-BB (KD=4.9×10<sup>−8 </sup>M), TGF-β1 (KD=5.3×10<sup>−8 </sup>M) and bFGF (KD=4.4×10<sup>−8 </sup>M) bound intact FN while EGF, TGF-α and FGF-1 did not.\nTGF-β1 bound FNIII1-7 (KD=1.7×10<sup>−8 </sup>M) and FNIII12-V15 (KD=9.7×10<sup>−8 </sup>M), but not FN70 nor FNIII 8-11, as previously observed with PDGF-BB.\nKinetic binding via plasmon surface resonance confirmed these findings (KD=1.8×10<sup>−8 </sup>M, KD=2.5×10<sup>−8 </sup>M, respectively).\nSimilar data was acquired with bFGF, which bound to FNIII<sub>1-7 </sub>(KD=4.1×10<sup>−9 </sup>M) and FNIII<sub>12-V15 </sub>(KD=3.7×10<sup>−8 </sup>M), but not FN70 nor FNIII<sub>8-11</sub>.\nFurthermore, FNIII<sub>1</sub>, FNIII<sub>12-14</sub>, FNIII<sub>12-15 </sub>and IIICS, but not FNIII<sub>3-6</sub>, also bound TGF-β1 (KD=6.2×10<sup>−9 </sup>M, 7.6×10<sup>−9 </sup>M, 1.6×10<sup>−8 </sup>M, 7.4×10<sup>−8 </sup>M, respectively) and bFGF (KD=3.5×10<sup>−8 </sup>M, 1.9×10<sup>−9 </sup>M, 1.3×10<sup>−7 </sup>M, 5.8×10<sup>−8 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "bFGF",
+        "protein_target_name": "FNIII1",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "3.5×10−8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nPDGF-BB (KD=4.9×10<sup>−8 </sup>M), TGF-β1 (KD=5.3×10<sup>−8 </sup>M) and bFGF (KD=4.4×10<sup>−8 </sup>M) bound intact FN while EGF, TGF-α and FGF-1 did not.\nTGF-β1 bound FNIII1-7 (KD=1.7×10<sup>−8 </sup>M) and FNIII12-V15 (KD=9.7×10<sup>−8 </sup>M), but not FN70 nor FNIII 8-11, as previously observed with PDGF-BB.\nKinetic binding via plasmon surface resonance confirmed these findings (KD=1.8×10<sup>−8 </sup>M, KD=2.5×10<sup>−8 </sup>M, respectively).\nSimilar data was acquired with bFGF, which bound to FNIII<sub>1-7 </sub>(KD=4.1×10<sup>−9 </sup>M) and FNIII<sub>12-V15 </sub>(KD=3.7×10<sup>−8 </sup>M), but not FN70 nor FNIII<sub>8-11</sub>.\nFurthermore, FNIII<sub>1</sub>, FNIII<sub>12-14</sub>, FNIII<sub>12-15 </sub>and IIICS, but not FNIII<sub>3-6</sub>, also bound TGF-β1 (KD=6.2×10<sup>−9 </sup>M, 7.6×10<sup>−9 </sup>M, 1.6×10<sup>−8 </sup>M, 7.4×10<sup>−8 </sup>M, respectively) and bFGF (KD=3.5×10<sup>−8 </sup>M, 1.9×10<sup>−9 </sup>M, 1.3×10<sup>−7 </sup>M, 5.8×10<sup>−8 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "bFGF",
+        "protein_target_name": "FNIII12-14",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "1.9×10−9",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nPDGF-BB (KD=4.9×10<sup>−8 </sup>M), TGF-β1 (KD=5.3×10<sup>−8 </sup>M) and bFGF (KD=4.4×10<sup>−8 </sup>M) bound intact FN while EGF, TGF-α and FGF-1 did not.\nTGF-β1 bound FNIII1-7 (KD=1.7×10<sup>−8 </sup>M) and FNIII12-V15 (KD=9.7×10<sup>−8 </sup>M), but not FN70 nor FNIII 8-11, as previously observed with PDGF-BB.\nKinetic binding via plasmon surface resonance confirmed these findings (KD=1.8×10<sup>−8 </sup>M, KD=2.5×10<sup>−8 </sup>M, respectively).\nSimilar data was acquired with bFGF, which bound to FNIII<sub>1-7 </sub>(KD=4.1×10<sup>−9 </sup>M) and FNIII<sub>12-V15 </sub>(KD=3.7×10<sup>−8 </sup>M), but not FN70 nor FNIII<sub>8-11</sub>.\nFurthermore, FNIII<sub>1</sub>, FNIII<sub>12-14</sub>, FNIII<sub>12-15 </sub>and IIICS, but not FNIII<sub>3-6</sub>, also bound TGF-β1 (KD=6.2×10<sup>−9 </sup>M, 7.6×10<sup>−9 </sup>M, 1.6×10<sup>−8 </sup>M, 7.4×10<sup>−8 </sup>M, respectively) and bFGF (KD=3.5×10<sup>−8 </sup>M, 1.9×10<sup>−9 </sup>M, 1.3×10<sup>−7 </sup>M, 5.8×10<sup>−8 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "bFGF",
+        "protein_target_name": "FNIII12-15",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "1.3×10−7",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nPDGF-BB (KD=4.9×10<sup>−8 </sup>M), TGF-β1 (KD=5.3×10<sup>−8 </sup>M) and bFGF (KD=4.4×10<sup>−8 </sup>M) bound intact FN while EGF, TGF-α and FGF-1 did not.\nTGF-β1 bound FNIII1-7 (KD=1.7×10<sup>−8 </sup>M) and FNIII12-V15 (KD=9.7×10<sup>−8 </sup>M), but not FN70 nor FNIII 8-11, as previously observed with PDGF-BB.\nKinetic binding via plasmon surface resonance confirmed these findings (KD=1.8×10<sup>−8 </sup>M, KD=2.5×10<sup>−8 </sup>M, respectively).\nSimilar data was acquired with bFGF, which bound to FNIII<sub>1-7 </sub>(KD=4.1×10<sup>−9 </sup>M) and FNIII<sub>12-V15 </sub>(KD=3.7×10<sup>−8 </sup>M), but not FN70 nor FNIII<sub>8-11</sub>.\nFurthermore, FNIII<sub>1</sub>, FNIII<sub>12-14</sub>, FNIII<sub>12-15 </sub>and IIICS, but not FNIII<sub>3-6</sub>, also bound TGF-β1 (KD=6.2×10<sup>−9 </sup>M, 7.6×10<sup>−9 </sup>M, 1.6×10<sup>−8 </sup>M, 7.4×10<sup>−8 </sup>M, respectively) and bFGF (KD=3.5×10<sup>−8 </sup>M, 1.9×10<sup>−9 </sup>M, 1.3×10<sup>−7 </sup>M, 5.8×10<sup>−8 </sup>M, respectively)."
+    },
+    {
+        "molecule_name": "bFGF",
+        "protein_target_name": "IIICS",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "KD",
+        "value": "5.8×10−8",
+        "unit": "M",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nPDGF-BB (KD=4.9×10<sup>−8 </sup>M), TGF-β1 (KD=5.3×10<sup>−8 </sup>M) and bFGF (KD=4.4×10<sup>−8 </sup>M) bound intact FN while EGF, TGF-α and FGF-1 did not.\nTGF-β1 bound FNIII1-7 (KD=1.7×10<sup>−8 </sup>M) and FNIII12-V15 (KD=9.7×10<sup>−8 </sup>M), but not FN70 nor FNIII 8-11, as previously observed with PDGF-BB.\nKinetic binding via plasmon surface resonance confirmed these findings (KD=1.8×10<sup>−8 </sup>M, KD=2.5×10<sup>−8 </sup>M, respectively).\nSimilar data was acquired with bFGF, which bound to FNIII<sub>1-7 </sub>(KD=4.1×10<sup>−9 </sup>M) and FNIII<sub>12-V15 </sub>(KD=3.7×10<sup>−8 </sup>M), but not FN70 nor FNIII<sub>8-11</sub>.\nFurthermore, FNIII<sub>1</sub>, FNIII<sub>12-14</sub>, FNIII<sub>12-15 </sub>and IIICS, but not FNIII<sub>3-6</sub>, also bound TGF-β1 (KD=6.2×10<sup>−9 </sup>M, 7.6×10<sup>−9 </sup>M, 1.6×10<sup>−8 </sup>M, 7.4×10<sup>−8 </sup>M, respectively) and bFGF (KD=3.5×10<sup>−8 </sup>M, 1.9×10<sup>−9 </sup>M, 1.3×10<sup>−7 </sup>M, 5.8×10<sup>−8 </sup>M, respectively)."
+    }
+]

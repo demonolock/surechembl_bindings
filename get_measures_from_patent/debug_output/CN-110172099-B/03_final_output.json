@@ -1,7 +1,9 @@
 [
     {
         "molecule_name": "LAG-3 antibody or binding fragment thereof",
-        "protein_target_name": "human LAG-3 extracellular domain monomer",
+        "protein_target_name": "human LAG-3",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
         "binding_metric": "EC50",
         "value": "<0.5",
         "unit": "nM",
@@ -9,7 +11,9 @@
     },
     {
         "molecule_name": "LAG-3 antibody or binding fragment thereof",
-        "protein_target_name": "human LAG-3 extracellular region dimer monomer",
+        "protein_target_name": "human LAG-3",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
         "binding_metric": "EC50",
         "value": "<1",
         "unit": "nM",
@@ -17,7 +21,9 @@
     },
     {
         "molecule_name": "LAG-3 antibody or binding fragment thereof",
-        "protein_target_name": "human LAG-3 extracellular domain 1 and 2 monomers",
+        "protein_target_name": "human LAG-3 extracellular domain 1 and 2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
         "binding_metric": "EC50",
         "value": "<1",
         "unit": "nM",
@@ -25,7 +31,9 @@
     },
     {
         "molecule_name": "LAG-3 antibody or binding fragment thereof",
-        "protein_target_name": "human LAG-3 extracellular domain 1 and 2 dimer",
+        "protein_target_name": "human LAG-3 extracellular domain 1 and 2",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
         "binding_metric": "EC50",
         "value": "<1",
         "unit": "nM",
@@ -34,6 +42,8 @@
     {
         "molecule_name": "LAG-3 antibody or binding fragment thereof",
         "protein_target_name": "cynomolgus monkey LAG-3",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
         "binding_metric": "KD",
         "value": "10^-8",
         "unit": "M",
@@ -42,6 +52,8 @@
     {
         "molecule_name": "LAG-3 antibody or binding fragment thereof",
         "protein_target_name": "human LAG-3",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
         "binding_metric": "KD",
         "value": "10^-9",
         "unit": "M",
@@ -49,122 +61,192 @@
     },
     {
         "molecule_name": "hLAG-3",
-        "protein_target_name": "human LAG-3 recombinant protein",
+        "protein_target_name": "LAG-3",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
         "binding_metric": "EC50",
-        "value": "<5 times better than positive control antibody Ref",
+        "value": "<5",
         "unit": null,
-        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe concentration gradient of the antigen LAG-3-his was 0nM, 1.875nM, 3.75nM, 7.5nM, 15nM, and 30nM, \nThe invention uses human LAG-3 recombinant protein as antigen, immunizes mouse, screens fusion hybridoma, screens and optimizes from millions of hybridoma clones, and unexpectedly discovers two hybridoma cell strains with very good hLAG-3 binding activity (EC 50 is 5 times better than positive control antibody Ref). \nThe experimental data were fitted with a 1:1Langmuir model using Biacore T200 evaluation version 3.0 (GE) software to give an affinity value KD. \nand clones with high binding activity were selected based on OD values or EC50 values (for antibodies of known concentration) were calculated."
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe concentration gradient of the antigen LAG-3-his was 0nM, 1.875nM, 3.75nM, 7.5nM, 15nM, and 30nM, \nThe invention uses human LAG-3 recombinant protein as antigen, immunizes mouse, screens fusion hybridoma, screens and optimizes from millions of hybridoma clones, and unexpectedly discovers two hybridoma cell strains with very good hLAG-3 binding activity (EC 50 is 5 times better than positive control antibody Ref)."
     },
     {
         "molecule_name": "mab7c",
         "protein_target_name": "hLAG-3",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
         "binding_metric": "IC50",
         "value": "0.58",
         "unit": "nM",
-        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nmab7c\t0.14\tnM\nmab12c\t0.25\tnM\nRef\t0.84\tnM\nmab7c\t0.58\tnM\nmab12c\t0.79\tnM\nRef\t1.5\tnM\nThe EC50 of mab7c and mab12c of the present invention are 0.14 and 0.25 nM, respectively.\nEC50= 0.84nM for positive control molecules (Ref) under the same experiment.\nThe binding activity of mab7c, mab12c on hLAG-3 and daudi cells (MHCII) was tested using the method of example 4 and the two antibody activities were found to be IC50 between 0.58 and 0.79 nM, more than 1-fold stronger than the control (IC50 =1.5 nM)."
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nmab7c\t0.14\tnM\nmab12c\t0.25\tnM\nRef\t0.84\tnM\nThe EC50 of mab7c and mab12c of the present invention are 0.14 and 0.25 nM, respectively.\nEC50= 0.84nM for positive control molecules (Ref) under the same experiment.\nThe binding activity of mab7c, mab12c on hLAG-3 and daudi cells (MHCII) was tested using the method of example 4 and the two antibody activities were found to be IC50 between 0.58 and 0.79 nM, more than 1-fold stronger than the control (IC50 =1.5 nM).\nmab7c\t0.58\tnM\nmab12c\t0.79\tnM\nRef\t1.5\tnM"
     },
     {
         "molecule_name": "mab12c",
         "protein_target_name": "hLAG-3",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
         "binding_metric": "IC50",
         "value": "0.79",
         "unit": "nM",
-        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nmab7c\t0.14\tnM\nmab12c\t0.25\tnM\nRef\t0.84\tnM\nmab7c\t0.58\tnM\nmab12c\t0.79\tnM\nRef\t1.5\tnM\nThe EC50 of mab7c and mab12c of the present invention are 0.14 and 0.25 nM, respectively.\nEC50= 0.84nM for positive control molecules (Ref) under the same experiment.\nThe binding activity of mab7c, mab12c on hLAG-3 and daudi cells (MHCII) was tested using the method of example 4 and the two antibody activities were found to be IC50 between 0.58 and 0.79 nM, more than 1-fold stronger than the control (IC50 =1.5 nM)."
-    },
-    {
-        "molecule_name": "mab7c",
-        "protein_target_name": "hLAG-3",
-        "binding_metric": "EC50",
-        "value": "0.14",
-        "unit": "nM",
-        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nmab7c\t0.14\tnM\nmab12c\t0.25\tnM\nRef\t0.84\tnM\nmab7c\t0.58\tnM\nmab12c\t0.79\tnM\nRef\t1.5\tnM\nThe EC50 of mab7c and mab12c of the present invention are 0.14 and 0.25 nM, respectively.\nEC50= 0.84nM for positive control molecules (Ref) under the same experiment.\nThe binding activity of mab7c, mab12c on hLAG-3 and daudi cells (MHCII) was tested using the method of example 4 and the two antibody activities were found to be IC50 between 0.58 and 0.79 nM, more than 1-fold stronger than the control (IC50 =1.5 nM)."
-    },
-    {
-        "molecule_name": "mab12c",
-        "protein_target_name": "hLAG-3",
-        "binding_metric": "EC50",
-        "value": "0.25",
-        "unit": "nM",
-        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nmab7c\t0.14\tnM\nmab12c\t0.25\tnM\nRef\t0.84\tnM\nmab7c\t0.58\tnM\nmab12c\t0.79\tnM\nRef\t1.5\tnM\nThe EC50 of mab7c and mab12c of the present invention are 0.14 and 0.25 nM, respectively.\nEC50= 0.84nM for positive control molecules (Ref) under the same experiment.\nThe binding activity of mab7c, mab12c on hLAG-3 and daudi cells (MHCII) was tested using the method of example 4 and the two antibody activities were found to be IC50 between 0.58 and 0.79 nM, more than 1-fold stronger than the control (IC50 =1.5 nM)."
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nmab7c\t0.14\tnM\nmab12c\t0.25\tnM\nRef\t0.84\tnM\nThe EC50 of mab7c and mab12c of the present invention are 0.14 and 0.25 nM, respectively.\nEC50= 0.84nM for positive control molecules (Ref) under the same experiment.\nThe binding activity of mab7c, mab12c on hLAG-3 and daudi cells (MHCII) was tested using the method of example 4 and the two antibody activities were found to be IC50 between 0.58 and 0.79 nM, more than 1-fold stronger than the control (IC50 =1.5 nM).\nmab7c\t0.58\tnM\nmab12c\t0.79\tnM\nRef\t1.5\tnM"
     },
     {
         "molecule_name": "Ab835",
         "protein_target_name": "hLAG-3",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
         "binding_metric": "EC50",
         "value": "0.41",
         "unit": "nM",
-        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe above results indicate that mab7c, mab12c, the murine chimeric antibody of the invention, binds 3-5 times more actively than the control molecule, and that Ab812, Ab813, which consists of the light chain of mab7c and the heavy chain of mab12c, the heavy chain of mab7c and the light chain of mab12c, show the same binding activity with EC50 of 0.15 and 0.17nM, respectively.\nFurthermore, the binding activity of these preferred antibodies is more than 5-fold stronger than the control antibody Ref, see table above (Ab 835 EC50=0.12 nM vs Ref E50 =0.77 nM), or fig. 2 a.\nFig. 2b shows that Ab835 and hLAG-3 positive cells have a binding activity EC50= 0.41nM, which is 4-fold stronger than the binding activity EC50=2.3 nM of the positive molecule Ref."
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* This demonstrates that the sequences of a murine antibody (at least two antibodies) found in the present invention have the same binding characteristics, and that Ab812, Ab813, which consists of the light chain of mab7c and the heavy chain of mab12c, the heavy chain of mab7c and the light chain of mab12c, show the same binding activity with EC50 of 0.15 and 0.17nM, respectively.\n* Furthermore, the binding activity of these preferred antibodies is more than 5-fold stronger than the control antibody Ref, see table above (Ab 835 EC50=0.12 nM vs Ref E50 =0.77 nM), or fig. 2 a.\n* Fig. 2b shows that Ab835 and hLAG-3 positive cells have a binding activity EC50= 0.41nM, which is 4-fold stronger than the binding activity EC50=2.3 nM of the positive molecule Ref."
     },
     {
-        "molecule_name": "Ref",
-        "protein_target_name": "hLAG-3",
-        "binding_metric": "EC50",
-        "value": "2.3",
-        "unit": "nM",
-        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe above results indicate that mab7c, mab12c, the murine chimeric antibody of the invention, binds 3-5 times more actively than the control molecule, and that Ab812, Ab813, which consists of the light chain of mab7c and the heavy chain of mab12c, the heavy chain of mab7c and the light chain of mab12c, show the same binding activity with EC50 of 0.15 and 0.17nM, respectively.\nFurthermore, the binding activity of these preferred antibodies is more than 5-fold stronger than the control antibody Ref, see table above (Ab 835 EC50=0.12 nM vs Ref E50 =0.77 nM), or fig. 2 a.\nFig. 2b shows that Ab835 and hLAG-3 positive cells have a binding activity EC50= 0.41nM, which is 4-fold stronger than the binding activity EC50=2.3 nM of the positive molecule Ref."
-    },
-    {
-        "molecule_name": "Ab835",
+        "molecule_name": "anti-human LAG-3 antibodies",
         "protein_target_name": "human LAG-3",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
         "binding_metric": "KD",
         "value": "0.52",
         "unit": "nM",
-        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAb835 \n0.12 \n0.59 \n0.6 \n0.8 \n350 \nND#\n39 \n\nRef \n0.58 \n2.4 \n4.6 \n3.2 \n25 \n12.0 \n47 \n\nThe results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug. \nThe results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug. In particular, the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\nTABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention\nAntibodies\nAntigens\nKa(1/ms)\nKd(1/s)\nKD (nM)\nAb835\nHuman LAG-3-his\n4.02E+06\n2.07E-03\n0.52"
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug.\n2. The results in Table 11 show that the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\n3. TABLE 10 comprehensive evaluation of the binding Activity of the antibodies of the invention and LAG-3 (EC 50, nM) or Biacore (nM) ... Ab835 0.12 0.59 0.6 0.8 350 ND# 39\n4. TABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention ... Ab835 Human LAG-3-his 4.02E+06 2.07E-03 0.52\n5. The results (see Table 10) show that the binding activity of the antibodies of the invention and cyno-LAG-3-hFc (bivalent form) is superior to that of the control antibody, with EC50 values of 0.12 nM and 0.58 nM for Ab835 and Ref, respectively."
     },
     {
         "molecule_name": "Ab835",
-        "protein_target_name": "human LAG-3",
+        "protein_target_name": "MHCII and human LAG-3",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
         "binding_metric": "IC50",
         "value": "2.27",
         "unit": "nM",
-        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAb835 \n0.12 \n0.59 \n0.6 \n0.8 \n350 \nND#\n39 \n\nRef \n0.58 \n2.4 \n4.6 \n3.2 \n25 \n12.0 \n47 \n\nThe results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug. \nThe results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug. In particular, the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\nTABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention\nAntibodies\nAntigens\nKa(1/ms)\nKd(1/s)\nKD (nM)\nAb835\nHuman LAG-3-his\n4.02E+06\n2.07E-03\n0.52"
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug.\n2. The results in Table 11 show that the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\n3. TABLE 10 comprehensive evaluation of the binding Activity of the antibodies of the invention and LAG-3 (EC 50, nM) or Biacore (nM) ... Ab835 0.12 0.59 0.6 0.8 350 ND# 39\n4. TABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention ... Ab835 Human LAG-3-his 4.02E+06 2.07E-03 0.52\n5. The results (see Table 10) show that the binding activity of the antibodies of the invention and cyno-LAG-3-hFc (bivalent form) is superior to that of the control antibody, with EC50 values of 0.12 nM and 0.58 nM for Ab835 and Ref, respectively."
     },
     {
         "molecule_name": "Ref",
-        "protein_target_name": "human LAG-3",
+        "protein_target_name": "MHCII and human LAG-3",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
         "binding_metric": "IC50",
         "value": "2.76",
         "unit": "nM",
-        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAb835 \n0.12 \n0.59 \n0.6 \n0.8 \n350 \nND#\n39 \n\nRef \n0.58 \n2.4 \n4.6 \n3.2 \n25 \n12.0 \n47 \n\nThe results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug. \nThe results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug. In particular, the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\nTABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention\nAntibodies\nAntigens\nKa(1/ms)\nKd(1/s)\nKD (nM)\nAb835\nHuman LAG-3-his\n4.02E+06\n2.07E-03\n0.52"
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug.\n2. The results in Table 11 show that the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\n3. TABLE 10 comprehensive evaluation of the binding Activity of the antibodies of the invention and LAG-3 (EC 50, nM) or Biacore (nM) ... Ab835 0.12 0.59 0.6 0.8 350 ND# 39\n4. TABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention ... Ab835 Human LAG-3-his 4.02E+06 2.07E-03 0.52\n5. The results (see Table 10) show that the binding activity of the antibodies of the invention and cyno-LAG-3-hFc (bivalent form) is superior to that of the control antibody, with EC50 values of 0.12 nM and 0.58 nM for Ab835 and Ref, respectively."
     },
     {
         "molecule_name": "Ab835",
-        "protein_target_name": "human LAG-3",
+        "protein_target_name": "LAG-3 and MHCII",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
         "binding_metric": "EC50",
         "value": "1.74",
         "unit": "ug/ml",
-        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAb835 \n0.12 \n0.59 \n0.6 \n0.8 \n350 \nND#\n39 \n\nRef \n0.58 \n2.4 \n4.6 \n3.2 \n25 \n12.0 \n47 \n\nThe results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug. \nThe results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug. In particular, the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\nTABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention\nAntibodies\nAntigens\nKa(1/ms)\nKd(1/s)\nKD (nM)\nAb835\nHuman LAG-3-his\n4.02E+06\n2.07E-03\n0.52"
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug.\n2. The results in Table 11 show that the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\n3. TABLE 10 comprehensive evaluation of the binding Activity of the antibodies of the invention and LAG-3 (EC 50, nM) or Biacore (nM) ... Ab835 0.12 0.59 0.6 0.8 350 ND# 39\n4. TABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention ... Ab835 Human LAG-3-his 4.02E+06 2.07E-03 0.52\n5. The results (see Table 10) show that the binding activity of the antibodies of the invention and cyno-LAG-3-hFc (bivalent form) is superior to that of the control antibody, with EC50 values of 0.12 nM and 0.58 nM for Ab835 and Ref, respectively."
     },
     {
         "molecule_name": "Ref",
-        "protein_target_name": "human LAG-3",
+        "protein_target_name": "LAG-3 and MHCII",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
         "binding_metric": "EC50",
         "value": "1.56",
         "unit": "ug/ml",
-        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAb835 \n0.12 \n0.59 \n0.6 \n0.8 \n350 \nND#\n39 \n\nRef \n0.58 \n2.4 \n4.6 \n3.2 \n25 \n12.0 \n47 \n\nThe results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug. \nThe results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug. In particular, the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\nTABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention\nAntibodies\nAntigens\nKa(1/ms)\nKd(1/s)\nKD (nM)\nAb835\nHuman LAG-3-his\n4.02E+06\n2.07E-03\n0.52"
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug.\n2. The results in Table 11 show that the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\n3. TABLE 10 comprehensive evaluation of the binding Activity of the antibodies of the invention and LAG-3 (EC 50, nM) or Biacore (nM) ... Ab835 0.12 0.59 0.6 0.8 350 ND# 39\n4. TABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention ... Ab835 Human LAG-3-his 4.02E+06 2.07E-03 0.52\n5. The results (see Table 10) show that the binding activity of the antibodies of the invention and cyno-LAG-3-hFc (bivalent form) is superior to that of the control antibody, with EC50 values of 0.12 nM and 0.58 nM for Ab835 and Ref, respectively."
+    },
+    {
+        "molecule_name": "Ab835",
+        "protein_target_name": "LAG-3",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.12",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug.\n2. The results in Table 11 show that the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\n3. TABLE 10 comprehensive evaluation of the binding Activity of the antibodies of the invention and LAG-3 (EC 50, nM) or Biacore (nM) ... Ab835 0.12 0.59 0.6 0.8 350 ND# 39\n4. TABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention ... Ab835 Human LAG-3-his 4.02E+06 2.07E-03 0.52\n5. The results (see Table 10) show that the binding activity of the antibodies of the invention and cyno-LAG-3-hFc (bivalent form) is superior to that of the control antibody, with EC50 values of 0.12 nM and 0.58 nM for Ab835 and Ref, respectively."
+    },
+    {
+        "molecule_name": "Ab835",
+        "protein_target_name": "LAG-3",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.59",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug.\n2. The results in Table 11 show that the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\n3. TABLE 10 comprehensive evaluation of the binding Activity of the antibodies of the invention and LAG-3 (EC 50, nM) or Biacore (nM) ... Ab835 0.12 0.59 0.6 0.8 350 ND# 39\n4. TABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention ... Ab835 Human LAG-3-his 4.02E+06 2.07E-03 0.52\n5. The results (see Table 10) show that the binding activity of the antibodies of the invention and cyno-LAG-3-hFc (bivalent form) is superior to that of the control antibody, with EC50 values of 0.12 nM and 0.58 nM for Ab835 and Ref, respectively."
+    },
+    {
+        "molecule_name": "Ab835",
+        "protein_target_name": "LAG-3",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.6",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug.\n2. The results in Table 11 show that the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\n3. TABLE 10 comprehensive evaluation of the binding Activity of the antibodies of the invention and LAG-3 (EC 50, nM) or Biacore (nM) ... Ab835 0.12 0.59 0.6 0.8 350 ND# 39\n4. TABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention ... Ab835 Human LAG-3-his 4.02E+06 2.07E-03 0.52\n5. The results (see Table 10) show that the binding activity of the antibodies of the invention and cyno-LAG-3-hFc (bivalent form) is superior to that of the control antibody, with EC50 values of 0.12 nM and 0.58 nM for Ab835 and Ref, respectively."
+    },
+    {
+        "molecule_name": "Ab835",
+        "protein_target_name": "LAG-3",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.8",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug.\n2. The results in Table 11 show that the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\n3. TABLE 10 comprehensive evaluation of the binding Activity of the antibodies of the invention and LAG-3 (EC 50, nM) or Biacore (nM) ... Ab835 0.12 0.59 0.6 0.8 350 ND# 39\n4. TABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention ... Ab835 Human LAG-3-his 4.02E+06 2.07E-03 0.52\n5. The results (see Table 10) show that the binding activity of the antibodies of the invention and cyno-LAG-3-hFc (bivalent form) is superior to that of the control antibody, with EC50 values of 0.12 nM and 0.58 nM for Ab835 and Ref, respectively."
+    },
+    {
+        "molecule_name": "Ab835",
+        "protein_target_name": "LAG-3",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "350",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug.\n2. The results in Table 11 show that the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\n3. TABLE 10 comprehensive evaluation of the binding Activity of the antibodies of the invention and LAG-3 (EC 50, nM) or Biacore (nM) ... Ab835 0.12 0.59 0.6 0.8 350 ND# 39\n4. TABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention ... Ab835 Human LAG-3-his 4.02E+06 2.07E-03 0.52\n5. The results (see Table 10) show that the binding activity of the antibodies of the invention and cyno-LAG-3-hFc (bivalent form) is superior to that of the control antibody, with EC50 values of 0.12 nM and 0.58 nM for Ab835 and Ref, respectively."
     },
     {
         "molecule_name": "Ab835",
         "protein_target_name": "human LAG-3-his",
-        "binding_metric": "Ka",
-        "value": "4.02E+06",
-        "unit": "1/ms",
-        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAb835 \n0.12 \n0.59 \n0.6 \n0.8 \n350 \nND#\n39 \n\nRef \n0.58 \n2.4 \n4.6 \n3.2 \n25 \n12.0 \n47 \n\nThe results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug. \nThe results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug. In particular, the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\nTABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention\nAntibodies\nAntigens\nKa(1/ms)\nKd(1/s)\nKD (nM)\nAb835\nHuman LAG-3-his\n4.02E+06\n2.07E-03\n0.52"
-    },
-    {
-        "molecule_name": "Ab835",
-        "protein_target_name": "human LAG-3-his",
-        "binding_metric": "Kd",
-        "value": "2.07E-03",
-        "unit": "1/s",
-        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAb835 \n0.12 \n0.59 \n0.6 \n0.8 \n350 \nND#\n39 \n\nRef \n0.58 \n2.4 \n4.6 \n3.2 \n25 \n12.0 \n47 \n\nThe results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug. \nThe results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug. In particular, the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\nTABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention\nAntibodies\nAntigens\nKa(1/ms)\nKd(1/s)\nKD (nM)\nAb835\nHuman LAG-3-his\n4.02E+06\n2.07E-03\n0.52"
-    },
-    {
-        "molecule_name": "Ab835",
-        "protein_target_name": "human LAG-3-his",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
         "binding_metric": "KD",
         "value": "0.52",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug.\n2. The results in Table 11 show that the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\n3. TABLE 10 comprehensive evaluation of the binding Activity of the antibodies of the invention and LAG-3 (EC 50, nM) or Biacore (nM) ... Ab835 0.12 0.59 0.6 0.8 350 ND# 39\n4. TABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention ... Ab835 Human LAG-3-his 4.02E+06 2.07E-03 0.52\n5. The results (see Table 10) show that the binding activity of the antibodies of the invention and cyno-LAG-3-hFc (bivalent form) is superior to that of the control antibody, with EC50 values of 0.12 nM and 0.58 nM for Ab835 and Ref, respectively."
+    },
+    {
+        "molecule_name": "Ab835",
+        "protein_target_name": "human LAG-3-his",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Ka",
+        "value": "4.02E+06",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug.\n2. The results in Table 11 show that the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\n3. TABLE 10 comprehensive evaluation of the binding Activity of the antibodies of the invention and LAG-3 (EC 50, nM) or Biacore (nM) ... Ab835 0.12 0.59 0.6 0.8 350 ND# 39\n4. TABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention ... Ab835 Human LAG-3-his 4.02E+06 2.07E-03 0.52\n5. The results (see Table 10) show that the binding activity of the antibodies of the invention and cyno-LAG-3-hFc (bivalent form) is superior to that of the control antibody, with EC50 values of 0.12 nM and 0.58 nM for Ab835 and Ref, respectively."
+    },
+    {
+        "molecule_name": "Ab835",
+        "protein_target_name": "human LAG-3-his",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "Kd",
+        "value": "2.07E-03",
+        "unit": null,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug.\n2. The results in Table 11 show that the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\n3. TABLE 10 comprehensive evaluation of the binding Activity of the antibodies of the invention and LAG-3 (EC 50, nM) or Biacore (nM) ... Ab835 0.12 0.59 0.6 0.8 350 ND# 39\n4. TABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention ... Ab835 Human LAG-3-his 4.02E+06 2.07E-03 0.52\n5. The results (see Table 10) show that the binding activity of the antibodies of the invention and cyno-LAG-3-hFc (bivalent form) is superior to that of the control antibody, with EC50 values of 0.12 nM and 0.58 nM for Ab835 and Ref, respectively."
+    },
+    {
+        "molecule_name": "Ab835",
+        "protein_target_name": "cyno-LAG-3-hFc",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.12",
         "unit": "nM",
-        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAb835 \n0.12 \n0.59 \n0.6 \n0.8 \n350 \nND#\n39 \n\nRef \n0.58 \n2.4 \n4.6 \n3.2 \n25 \n12.0 \n47 \n\nThe results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug. \nThe results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug. In particular, the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\nTABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention\nAntibodies\nAntigens\nKa(1/ms)\nKd(1/s)\nKD (nM)\nAb835\nHuman LAG-3-his\n4.02E+06\n2.07E-03\n0.52"
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug.\n2. The results in Table 11 show that the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\n3. TABLE 10 comprehensive evaluation of the binding Activity of the antibodies of the invention and LAG-3 (EC 50, nM) or Biacore (nM) ... Ab835 0.12 0.59 0.6 0.8 350 ND# 39\n4. TABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention ... Ab835 Human LAG-3-his 4.02E+06 2.07E-03 0.52\n5. The results (see Table 10) show that the binding activity of the antibodies of the invention and cyno-LAG-3-hFc (bivalent form) is superior to that of the control antibody, with EC50 values of 0.12 nM and 0.58 nM for Ab835 and Ref, respectively."
+    },
+    {
+        "molecule_name": "Ref",
+        "protein_target_name": "cyno-LAG-3-hFc",
+        "protein_uniprot_id": null,
+        "protein_seq_id": null,
+        "binding_metric": "EC50",
+        "value": "0.58",
+        "unit": "nM",
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The results in Table 11 show that the binding constant (Ka), dissociation constant (Kd), and affinity KD (0.52 nM) of the anti-human LAG-3 antibodies of the invention and the specific antigen human LAG-3 are within the appropriate range required for a suitable therapeutic antibody drug.\n2. The results in Table 11 show that the antibodies of the invention block binding of MHCII and human LAG-3 with IC50 ab835= 2.27nM vs Ref = 2.76nM (fig. 3 a), and their functional activity preventing binding of LAG-3 and MHCII to activate human T cell activity (release of IL 2) EC50 ab835=1.74ug/ml vs Ref =1.56 ug/ml (fig. 3b) is at least comparable to that of clinical molecules (control Ref).\n3. TABLE 10 comprehensive evaluation of the binding Activity of the antibodies of the invention and LAG-3 (EC 50, nM) or Biacore (nM) ... Ab835 0.12 0.59 0.6 0.8 350 ND# 39\n4. TABLE 11 Biacore affinity analysis of the antibody Ab835 of the present invention ... Ab835 Human LAG-3-his 4.02E+06 2.07E-03 0.52\n5. The results (see Table 10) show that the binding activity of the antibodies of the invention and cyno-LAG-3-hFc (bivalent form) is superior to that of the control antibody, with EC50 values of 0.12 nM and 0.58 nM for Ab835 and Ref, respectively."
     }
 ]
