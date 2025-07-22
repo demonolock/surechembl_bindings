@@ -6,7 +6,7 @@ import logging
 import concurrent.futures
 
 from alias_to_name.pipeline import filter_and_convert_molecula_alias_to_name
-from llm_patent_agents.patent_processor import process_patent_text
+from .llm_patent_agents.patent_processor import process_patent_text
 from filter.src.patent_parser import fetch_patent_description
 from filter.src.get_patents import get_patents_ids
 
