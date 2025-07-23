@@ -36,7 +36,11 @@ Automating bioactivity data extraction will:
 
 ![img.png](img.png)
 
-* **downloader** — module for downloading patent text
+* **downloader** - module for downloading patent text from SureChEMBL.
+* **get_measures_from_patent** - module for extracting binding measures (Ki, Kd, IC50, EC50) from patent text.
+* **alias_to_name** - module for replacing aliases with molecule names.
+* **data_normalization** - removes nulls, standardizes units to nM, parses and transforms values such as intervals.
+* **bindingdb** - module for transforming data into BindingDB format and calculating correlation.
 
 ## Typical Workflow
 
