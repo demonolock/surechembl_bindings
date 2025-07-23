@@ -15,35 +15,22 @@ def normalize_value(value_str):
     s = value_str.lower().strip()
 
     # 1. Предварительная очистка от текста и специальных символов
-    s = re.sub(r"\b(about|approx\.?)\b", "", s)  # Удаляем "about", "approx"
-    s = s.replace(" ", "").replace("x", "*").replace("×", "*").replace("~", "")
-    s = s.replace("≦", "<=").replace("≧", ">=")  # Заменяем unicode символы
+    s = re.sub(r"\b(about|approx\.?|at least|or less|or greater|or higher|or more)\b", "", s)
+    s = s.replace(" ", "").replace("x", "*").replace("×", "*").replace("~", "").replace("−", "-")
+    s = s.replace("≦", "<=").replace("≧", ">=")
+    s = s.replace('*10-', '*10^-') # Стандартизация научной нотации для корректного парсинга
+
+    # Обработка "between X and Y"
+    if "between" in s and "and" in s:
+        parts = s.split("and")
+        if len(parts) == 2:
+            s = parts[0]  # Берем первое, меньшее значение
 
     # 2. Обработка "±" - берем значение до знака
     if "±" in s or "+-" in s or "-+" in s:
         s = re.split(r"±|\+-|-\+", s)[0]
 
-    # 3. Обработка диапазонов "to" и "-" (берем верхнее значение)
-    # Сначала очищаем от единиц измерения, чтобы не мешали
-    range_parts = []
-    if "to" in s:
-        range_parts = s.split("to")
-    elif "-" in s and "e-" not in s:
-        range_parts = s.split("-")
-
-    if len(range_parts) == 2:
-        try:
-            # Очищаем вторую часть от всего, кроме цифр и точки
-            upper_bound_str = re.sub(r"[^0-9.]", "", range_parts[1])
-            return float(upper_bound_str)
-        except (ValueError, IndexError):
-            pass  # Если не удалось, пробуем другие методы
-
-    # 4. Удаляем операторы сравнения и запятые-разделители
-    s = re.sub(r"[<>=]", "", s)
-    s = s.replace(",", "")
-
-    # 5. Обработка научной нотации
+    # 3. Обработка научной нотации (ПРИОРИТЕТ)
     match = re.search(r"(\d*\.?\d*)\*?10\^\{?(-?\d+)\}?", s)
     if match:
         try:
@@ -53,11 +40,34 @@ def normalize_value(value_str):
         except OverflowError:
             return None  # Слишком большое число
 
-    if "e" in s:
+    if "e" in s and not re.search(r'\d-e', s): # Проверяем, что это не часть диапазона
         try:
             return float(s)
         except ValueError:
             pass
+
+    # 4. Обработка диапазонов "to", "-", "and" (ПОСЛЕ научной нотации)
+    range_parts = []
+    if "to" in s:
+        range_parts = s.split("to")
+    elif "-" in s:
+        # Проверяем, что дефис не является частью числа (например, в научной нотации)
+        if not re.search(r"e-", s):
+            range_parts = s.split("-")
+    elif "and" in s:
+        range_parts = s.split("and")
+
+    if len(range_parts) == 2:
+        try:
+            # Очищаем первую часть от всего, кроме цифр и точки
+            lower_bound_str = re.sub(r"[^0-9.]", "", range_parts[0])
+            return float(lower_bound_str)
+        except (ValueError, IndexError):
+            pass  # Если не удалось, пробуем другие методы
+
+    # 5. Удаляем операторы сравнения и запятые-разделители
+    s = re.sub(r"[<>=]", "", s)
+    s = s.replace(",", "")
 
     # 6. Финальная попытка прямого преобразования
     try:
@@ -114,6 +124,7 @@ def normalize_unit_name(unit_str):
         r"^micro\s*molar$|^[uμµ]m$": "uM",
         r"^milli\s*molar$|^mm$": "mM",
         r"^pico\s*molar$|^pm$": "pM",
+        r"^molar$|^m$": "M",
     }
 
     for pattern, name in unit_patterns.items():
@@ -166,7 +177,7 @@ def process_row(row):
         if unit_name is None:
             return None  # Фильтруем, если unit не поддерживается
 
-        conversion_factors = {"nM": 1, "uM": 1000, "mM": 1000000, "pM": 0.001}
+        conversion_factors = {"nM": 1, "uM": 1000, "mM": 1000000, "pM": 0.001, "M": 1000000000}
         multiplier = conversion_factors[unit_name]
         final_value = value_float * multiplier
 
@@ -178,23 +189,6 @@ def process_row(row):
     row["binding_metric"] = metric_name
     row["value"] = final_value
     row["unit"] = final_unit
-
-    # Шаг 7: Фильтрация по имени молекулы
-    molecule_name = row.get("molecule_name")
-    if molecule_name:
-        name_lower = molecule_name.lower().strip()
-        # Фильтр 1: Слишком короткие имена
-        if len(name_lower) <= 2:
-            return None
-        # Фильтр 2: Общие имена с номерами (например, "Compound 2", "compounds of formula I")
-        generic_pattern = r"^(compound|example|intermediate|formula|preparation|synthesis|product|molecule|agent|ligand|inhibitor|analog|derivative|substance|composition|material)s?\s+(?:of\s+formula\s+)?(?:no\.\s*)?(\d+|[ivxldcm]+).*"
-        if re.match(generic_pattern, name_lower):
-            return None
-
-        # Фильтр 3: Слишком общие имена (например, "antibody")
-        generic_names = {"antibody", "antibodies", "nanobody", "nanobodies"}
-        if name_lower in generic_names:
-            return None
 
     # Фильтруем строки, если какие-то из ключевых полей отсутствуют
     essential_keys = ["molecule_name", "protein_target_name", "patent_number"]
@@ -219,8 +213,8 @@ def normalize_data(data):
 
 def main():
     dir_path = os.path.dirname(os.path.abspath(__file__))
-    input_file = os.path.join(dir_path, "input/test_data.json")
-    output_file = os.path.join(dir_path, "output/test_normalized_data.json")
+    input_file = os.path.join(dir_path, "input/final_json_1.json")
+    output_file = os.path.join(dir_path, "output/final_normalized_data.json")
 
     os.makedirs(os.path.join(dir_path, "output"), exist_ok=True)
 
