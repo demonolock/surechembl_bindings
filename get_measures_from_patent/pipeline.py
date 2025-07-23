@@ -95,7 +95,7 @@ def main():
     parser.add_argument(
         "--input_file",
         type=str,
-        default="",  # Не нужно если есть from_cache
+        default="",  # Не нужно если есть patent_dirs. Будут браться уже скаченные данные.
         help="Путь к текстовому файлу со списком ID патентов.",
     )
     parser.add_argument(
@@ -113,10 +113,10 @@ def main():
     parser.add_argument(
         "--patent_dirs",
         type=str,
-        help="Таймаут в секундах для скачивания одного патента.",
+        help="Директория со скаченными патентами с помощью модуля downloader.",
     )
     parser.add_argument(
-        "output_dir", type=str, help="Таймаут в секундах для скачивания одного патента."
+        "--output_dir", type=str, help="Директория для вывода результата."
     )
     args = parser.parse_args()
 
