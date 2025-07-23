@@ -176,18 +176,13 @@ def process_row(row):
     if final_value is None or not (0.001 <= final_value <= 100000):
         return None
 
-    # Создаем новую очищенную строку
-    new_row = {
-        "molecule_name": row.get("molecule_name"),
-        "protein_target_name": row.get("protein_target_name"),
-        "patent_number": row.get("patent_number"),
-        "binding_metric": metric_name,
-        "value": final_value,
-        "unit": final_unit,
-    }
+    # Обновляем исходную строку, сохраняя все остальные поля
+    row['binding_metric'] = metric_name
+    row['value'] = final_value
+    row['unit'] = final_unit
 
     # Шаг 7: Фильтрация по имени молекулы
-    molecule_name = new_row.get("molecule_name")
+    molecule_name = row.get("molecule_name")
     if molecule_name:
         name_lower = molecule_name.lower().strip()
         # Фильтр 1: Слишком короткие имена
@@ -204,36 +199,46 @@ def process_row(row):
             return None
     
     # Фильтруем строки, если какие-то из ключевых полей отсутствуют
-    if any(v is None for v in new_row.values()):
+    essential_keys = ["molecule_name", "protein_target_name", "patent_number"]
+    if any(row.get(key) is None for key in essential_keys):
         return None
         
-    return new_row
+    return row
 
-def main():
-    dir_path = os.path.dirname(os.path.abspath(__file__))
-    input_file = os.path.join(dir_path, "input/final_json_1.json")
-    output_file = os.path.join(dir_path, "output/normalized_data.json")
-
-    os.makedirs(os.path.join(dir_path, "output"), exist_ok=True)
-
-    try:
-        with open(input_file, "r", encoding="utf-8") as f:
-            data = json.load(f)
-    except (FileNotFoundError, json.JSONDecodeError) as e:
-        print(f"Error reading input file: {e}")
-        return
-
+def normalize_data(data):
+    """
+    Принимает список словарей (сырые данные) и возвращает
+    очищенный и отфильтрованный список словарей.
+    """
     normalized_data = []
     for row in data:
         processed = process_row(row)
         if processed:
             normalized_data.append(processed)
+    return normalized_data
+
+def main():
+    dir_path = os.path.dirname(os.path.abspath(__file__))
+    input_file = os.path.join(dir_path, "input/test_data.json")
+    output_file = os.path.join(dir_path, "output/test_normalized_data.json")
+
+    os.makedirs(os.path.join(dir_path, "output"), exist_ok=True)
+
+    try:
+        with open(input_file, "r", encoding="utf-8") as f:
+            input_data = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError) as e:
+        print(f"Error reading input file: {e}")
+        return
+
+    # Используем новую функцию для обработки данных
+    final_data = normalize_data(input_data)
             
-    print(f"Total rows processed: {len(data)}")
-    print(f"Total rows after normalization and filtering: {len(normalized_data)}")
+    print(f"Total rows processed: {len(input_data)}")
+    print(f"Total rows after normalization and filtering: {len(final_data)}")
 
     with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(normalized_data, f, indent=2, ensure_ascii=False)
+        json.dump(final_data, f, indent=2, ensure_ascii=False)
         
     print(f"Normalized data saved to {output_file}")
 
