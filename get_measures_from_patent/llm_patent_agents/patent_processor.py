@@ -36,6 +36,7 @@ def process_patent_text(
         patent_text,
         config.METRIC_REGEX_PATTERN,
         config.CHUNK_CONTEXT_SIZE,
+        logging,
         config.NEGATIVE_KEYWORDS_REGEX,
     )
     logging.info(

@@ -1,6 +1,6 @@
 import duckdb
 
-db_path = "/home/vshepard/hackaton_life/surecheml_db.duckdb"
+db_path = '/home/vshepard/hackaton_life/surecheml_db.duckdb'
 
 con = duckdb.connect(database=db_path, read_only=True)
 

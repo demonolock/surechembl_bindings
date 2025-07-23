@@ -43,7 +43,7 @@ def process_patent(content, aliases, config, logger):
         config.API_RETRY_DELAY,
         logger,
     )
-    for chunk_text in get_relevant_chunks(content, aliases_regex, 1500):
+    for chunk_text in get_relevant_chunks(content, aliases_regex, 1500, logger,):
         # Filter aliases present in this chunk
         aliases_in_chunk = [alias for alias in aliases if alias in chunk_text]
         if not aliases_in_chunk:
