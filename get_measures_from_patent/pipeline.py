@@ -10,7 +10,7 @@ from alias_to_name.pipeline import filter_and_convert_molecula_alias_to_name
 from common_utils.get_patents import get_patents_ids
 from common_utils.patent_parser import fetch_patent_description
 from get_measures_from_patent.config import ConfigMeasuresLLM
-from .llm_patent_agents.patent_processor import process_patent_text
+from get_measures_from_patent.llm_patent_agents.patent_processor import process_patent_text
 
 # Настройка логирования
 logging.basicConfig(
