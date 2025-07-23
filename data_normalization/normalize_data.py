@@ -4,15 +4,26 @@ import re
 import math
 
 # Шаг 2: Нормализация строки со значением (value)
-def normalize_value(value_str):
+def normalize_value(value_str, strict=True):
     """
-    Преобразует сложноформатированную строку `value` в единое числовое значение (float).
-    Улучшенная версия для обработки сложных случаев.
+    Преобразует строку `value` в float.
+    В строгом режиме (strict=True) принимает только простые числа.
+    В нестрогом режиме (strict=False) использует сложный парсер.
     """
     if not isinstance(value_str, str):
         return None
+    
+    s = value_str.strip()
 
-    s = value_str.lower().strip()
+    if strict:
+        try:
+            # В строгом режиме только прямое преобразование в число
+            return float(s)
+        except ValueError:
+            return None
+
+    # --- Далее логика для нестрогого режима (strict=False) ---
+    s = s.lower()
 
     # 1. Предварительная очистка от текста и специальных символов
     s = re.sub(r'\b(about|approx\.?)\b', '', s) # Удаляем "about", "approx"
@@ -120,9 +131,9 @@ def normalize_unit_name(unit_str):
             
     return None
 
-def process_row(row):
+def process_row(row, allow_log, strict_value_parsing, strict_units, value_range):
     """
-    Обрабатывает одну строку данных в соответствии с планом.
+    Обрабатывает одну строку данных в соответствии с заданными параметрами.
     """
     if not isinstance(row, dict):
         return None
@@ -137,11 +148,13 @@ def process_row(row):
         metric_lower = original_metric.lower()
         if metric_lower.startswith('p') or metric_lower.startswith('log'):
             is_logarithmic = True
-    if isinstance(original_value_str, str) and 'log' in original_value_str.lower():
-        is_logarithmic = True
+    
+    # Фильтр по логарифмическим значениям
+    if is_logarithmic and not allow_log:
+        return None
 
     # Шаг 2: Нормализация значения
-    value_float = normalize_value(original_value_str)
+    value_float = normalize_value(original_value_str, strict=strict_value_parsing)
     if value_float is None:
         return None
 
@@ -161,7 +174,10 @@ def process_row(row):
         # Обработка линейных значений
         unit_name = normalize_unit_name(original_unit)
         if unit_name is None:
-            return None # Фильтруем, если unit не поддерживается
+            return None # Фильтруем, если unit не распознан
+        
+        if strict_units and unit_name != 'nM':
+            return None # В строгом режиме пропускаем все, кроме нМ
 
         conversion_factors = {
             'nM': 1,
@@ -173,7 +189,7 @@ def process_row(row):
         final_value = value_float * multiplier
 
     # Шаг 6: Фильтрация по диапазону реалистичных значений
-    if final_value is None or not (0.001 <= final_value <= 100000):
+    if final_value is None or not (value_range[0] <= final_value <= value_range[1]):
         return None
 
     # Обновляем исходную строку, сохраняя все остальные поля
@@ -205,22 +221,56 @@ def process_row(row):
         
     return row
 
-def normalize_data(data):
+def normalize_data(data, 
+                   allow_log=False, 
+                   strict_value_parsing=True, 
+                   strict_units=True,
+                   value_range=(0.01, 1000)):
     """
     Принимает список словарей (сырые данные) и возвращает
     очищенный и отфильтрованный список словарей.
+
+    :param data: Список словарей с данными.
+    :param allow_log: Разрешить обработку логарифмических значений (pIC50, pKi).
+    :param strict_value_parsing: Использовать строгий парсер для поля value (только числа).
+    :param strict_units: Разрешать только единицы 'nM' (без конвертации).
+    :param value_range: Кортеж (min, max) для фильтрации конечных значений в нМ.
     """
     normalized_data = []
     for row in data:
-        processed = process_row(row)
+        processed = process_row(row, allow_log, strict_value_parsing, strict_units, value_range)
         if processed:
             normalized_data.append(processed)
     return normalized_data
 
 def main():
+    # --- Режим "Высокая корреляция" (по умолчанию) ---
+    # Ищет только самые чистые данные, похожие на те, что в BindingDB
+    print("Running in High-Correlation mode...")
+    run_normalization(
+        allow_log=False,
+        strict_value_parsing=True,
+        strict_units=True,
+        value_range=(0.01, 1000), # Диапазон для высокой корреляции
+        output_suffix="_high_corr"
+    )
+
+    # --- Режим "Поиск новых данных" (менее строгий) ---
+    # Пытается извлечь максимум информации из "грязных" данных
+    print("\nRunning in Discovery mode...")
+    run_normalization(
+        allow_log=True,
+        strict_value_parsing=False,
+        strict_units=False,
+        value_range=(0.001, 1000000), # Более широкий диапазон для поиска
+        output_suffix="_discovery"
+    )
+
+def run_normalization(allow_log, strict_value_parsing, strict_units, value_range, output_suffix):
+    """Хелпер для запуска нормализации с разными параметрами."""
     dir_path = os.path.dirname(os.path.abspath(__file__))
-    input_file = os.path.join(dir_path, "input/test_data.json")
-    output_file = os.path.join(dir_path, "output/test_normalized_data.json")
+    input_file = os.path.join(dir_path, "input/final_json_1.json")
+    output_file = os.path.join(dir_path, f"output/normalized_data{output_suffix}.json")
 
     os.makedirs(os.path.join(dir_path, "output"), exist_ok=True)
 
@@ -232,7 +282,13 @@ def main():
         return
 
     # Используем новую функцию для обработки данных
-    final_data = normalize_data(input_data)
+    final_data = normalize_data(
+        input_data,
+        allow_log=allow_log,
+        strict_value_parsing=strict_value_parsing,
+        strict_units=strict_units,
+        value_range=value_range
+    )
             
     print(f"Total rows processed: {len(input_data)}")
     print(f"Total rows after normalization and filtering: {len(final_data)}")
