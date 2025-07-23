@@ -6,7 +6,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import requests
 import shelve
 
-input_file = "input/final_json.json"
+input_file = "input/normalized_data.json"
 output_file = "output/final_inchi_seq.json"
 
 # File paths for caches
@@ -25,28 +25,63 @@ def wrong_metric(row):
     metric = row.get('binding_metric', '').replace(' ', '').lower().strip()
     return metric not in ['kd', 'ki', 'ic50', 'ec50']
 
+
+def get_inchi_key_pubchem(name):
+    try:
+        url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/{name}/cids/JSON"
+        resp = requests.get(url, timeout=10)
+        if not resp.ok:
+            return None
+        cids = resp.json().get('IdentifierList', {}).get('CID', [])
+        if not cids:
+            return None
+        cid = cids[0]
+        url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/{cid}/property/InChIKey/JSON"
+        resp = requests.get(url, timeout=10)
+        if not resp.ok:
+            return None
+        props = resp.json().get('PropertyTable', {}).get('Properties', [{}])[0]
+        return props.get('InChIKey')
+    except Exception:
+        return None
+
+
+def get_inchi_key_surechembl(name):
+    try:
+        url = f"https://www.surechembl.org/api/chemical/name/{name}"
+        resp = requests.get(url, timeout=10)
+        if not resp.ok:
+            return None
+        data = resp.json()
+        # SureChEMBL API returns a list of results; InChIKey may be under various keys
+        if isinstance(data, list) and data:
+            result = data[0]
+            return result.get('standardInchiKey') or result.get('inchiKey')
+        elif isinstance(data, dict):
+            return data.get('standardInchiKey') or data.get('inchiKey')
+        return None
+    except Exception:
+        return None
+
+
+# You can add more fallback services as needed, e.g., ChemSpider, OPSIN, etc.
+
 def name_to_inchi_key(name, inchi_key_cache):
     if name in inchi_key_cache:
         return inchi_key_cache[name]
-    url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/{name}/cids/JSON"
-    resp = requests.get(url)
-    if not resp.ok:
-        inchi_key_cache[name] = None
-        return None
-    cids = resp.json().get('IdentifierList', {}).get('CID', [])
-    if not cids:
-        inchi_key_cache[name] = None
-        return None
-    cid = cids[0]
-    url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/{cid}/property/InChIKey/JSON"
-    resp = requests.get(url)
-    if not resp.ok:
-        inchi_key_cache[name] = None
-        return None
-    props = resp.json()['PropertyTable']['Properties'][0]
-    inchi_key = props.get('InChIKey')
-    inchi_key_cache[name] = inchi_key
-    return inchi_key
+
+    inchi_key = get_inchi_key_pubchem(name)
+    if inchi_key:
+        inchi_key_cache[name] = inchi_key
+        return inchi_key
+
+    # If not found, try SureChEMBL
+    inchi_key = get_inchi_key_surechembl(name)
+    if inchi_key:
+        inchi_key_cache[name] = inchi_key
+        return inchi_key
+    # Do NOT cache None if all fail
+    return None
 
 def random_email(domain="gmail.com"):
     username = ''.join(random.choices(string.ascii_lowercase + string.digits, k=10))
@@ -94,7 +129,6 @@ def get_sequence_uniprot(protein_name, sequence_cache):
     except Exception as e:
         pass
 
-    sequence_cache[protein_name] = None
     return None
 
 
@@ -104,11 +138,12 @@ def process_one(result, inchi_key_cache, sequence_cache):
     molecule_name = result.get('molecule_name')
     if molecule_name:
         inchi_key = name_to_inchi_key(molecule_name, inchi_key_cache)
-    target_name = result.get('protein_target_name')
-    if target_name:
-        sequence = get_sequence_uniprot(target_name, sequence_cache)
-    result['Ligand InChI Key'] = inchi_key
-    result['Sequence'] = sequence
+    if inchi_key:
+        result['Ligand InChI Key'] = inchi_key
+        target_name = result.get('protein_target_name')
+        if target_name:
+            sequence = get_sequence_uniprot(target_name, sequence_cache)
+        result['Sequence'] = sequence
     return result
 
 if __name__ == "__main__":
