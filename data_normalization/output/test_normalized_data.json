@@ -1,0 +1,98 @@
+[
+  {
+    "molecule_name": "Molecule A",
+    "protein_target_name": "Protein A",
+    "patent_number": "TEST-001",
+    "binding_metric": "IC50",
+    "value": 10.0,
+    "unit": "nM"
+  },
+  {
+    "molecule_name": "Molecule B",
+    "protein_target_name": "Protein B",
+    "patent_number": "TEST-002",
+    "binding_metric": "Ki",
+    "value": 10.0,
+    "unit": "nM"
+  },
+  {
+    "molecule_name": "Molecule C",
+    "protein_target_name": "Protein C",
+    "patent_number": "TEST-003",
+    "binding_metric": "IC50",
+    "value": 13.0,
+    "unit": "nM"
+  },
+  {
+    "molecule_name": "Molecule D",
+    "protein_target_name": "Protein D",
+    "patent_number": "TEST-004",
+    "binding_metric": "EC50",
+    "value": 0.2,
+    "unit": "nM"
+  },
+  {
+    "molecule_name": "Molecule E",
+    "protein_target_name": "Protein E",
+    "patent_number": "TEST-005",
+    "binding_metric": "Kd",
+    "value": 150.0,
+    "unit": "nM"
+  },
+  {
+    "molecule_name": "Molecule F",
+    "protein_target_name": "Protein F",
+    "patent_number": "TEST-006",
+    "binding_metric": "Ki",
+    "value": 250.0,
+    "unit": "nM"
+  },
+  {
+    "molecule_name": "Molecule G",
+    "protein_target_name": "Protein G",
+    "patent_number": "TEST-007",
+    "binding_metric": "IC50",
+    "value": 90.0,
+    "unit": "nM"
+  },
+  {
+    "molecule_name": "Molecule H",
+    "protein_target_name": "Protein H",
+    "patent_number": "TEST-008",
+    "binding_metric": "IC50",
+    "value": 10.0,
+    "unit": "nM"
+  },
+  {
+    "molecule_name": "Molecule I",
+    "protein_target_name": "Protein I",
+    "patent_number": "TEST-009",
+    "binding_metric": "IC50",
+    "value": 23.0,
+    "unit": "nM"
+  },
+  {
+    "molecule_name": "Molecule J",
+    "protein_target_name": "Protein J",
+    "patent_number": "TEST-010",
+    "binding_metric": "IC50",
+    "value": 31.622776601683793,
+    "unit": "nM"
+  },
+  {
+    "molecule_name": "Molecule K",
+    "protein_target_name": "Protein K",
+    "patent_number": "TEST-011",
+    "binding_metric": "Ki",
+    "value": 50000.0,
+    "unit": "nM"
+  },
+  {
+    "molecule_name": "Molecule L",
+    "protein_target_name": "Protein L",
+    "patent_number": "TEST-012",
+    "binding_metric": "EC50",
+    "value": 8000000.0,
+    "unit": "nM"
+  }
+]
