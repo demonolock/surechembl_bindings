@@ -15,10 +15,20 @@ def normalize_value(value_str):
     s = value_str.lower().strip()
 
     # 1. Предварительная очистка от текста и специальных символов
-    s = re.sub(r"\b(about|approx\.?|at least|or less|or greater|or higher|or more)\b", "", s)
-    s = s.replace(" ", "").replace("x", "*").replace("×", "*").replace("~", "").replace("−", "-")
+    s = re.sub(
+        r"\b(about|approx\.?|at least|or less|or greater|or higher|or more)\b", "", s
+    )
+    s = (
+        s.replace(" ", "")
+        .replace("x", "*")
+        .replace("×", "*")
+        .replace("~", "")
+        .replace("−", "-")
+    )
     s = s.replace("≦", "<=").replace("≧", ">=")
-    s = s.replace('*10-', '*10^-') # Стандартизация научной нотации для корректного парсинга
+    s = s.replace(
+        "*10-", "*10^-"
+    )  # Стандартизация научной нотации для корректного парсинга
 
     # Обработка "between X and Y"
     if "between" in s and "and" in s:
@@ -40,7 +50,7 @@ def normalize_value(value_str):
         except OverflowError:
             return None  # Слишком большое число
 
-    if "e" in s and not re.search(r'\d-e', s): # Проверяем, что это не часть диапазона
+    if "e" in s and not re.search(r"\d-e", s):  # Проверяем, что это не часть диапазона
         try:
             return float(s)
         except ValueError:
@@ -177,7 +187,13 @@ def process_row(row):
         if unit_name is None:
             return None  # Фильтруем, если unit не поддерживается
 
-        conversion_factors = {"nM": 1, "uM": 1000, "mM": 1000000, "pM": 0.001, "M": 1000000000}
+        conversion_factors = {
+            "nM": 1,
+            "uM": 1000,
+            "mM": 1000000,
+            "pM": 0.001,
+            "M": 1000000000,
+        }
         multiplier = conversion_factors[unit_name]
         final_value = value_float * multiplier
 

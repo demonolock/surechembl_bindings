@@ -65,8 +65,10 @@ def main():
         "--input_file", type=str, help="Путь к текстовому файлу со списком ID патентов."
     )
     parser.add_argument(
-        "--input_dir", type=str, help="Путь к файлам patent_ids_{type}.txt от предыдущего запуска.",
-        default=""
+        "--input_dir",
+        type=str,
+        help="Путь к файлам patent_ids_{type}.txt от предыдущего запуска.",
+        default="",
     )
     parser.add_argument(
         "--output_dir",

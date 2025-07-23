@@ -1,6 +1,7 @@
 import json
 import os
 
+
 def collect_final_output(res_path: str):
     final = []
     # All files recursively
@@ -20,6 +21,7 @@ def collect_final_output(res_path: str):
                                 item["patent_number"] = patent_number
                             final += data["final_json"]
     return final
+
 
 if __name__ == "__main__":
     subpath = "get_measures_from_patent/debug_output"

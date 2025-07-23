@@ -53,7 +53,7 @@ def main():
         patent_numbers = [os.path.splitext(f)[0] for f in files]
 
         with concurrent.futures.ThreadPoolExecutor(
-                max_workers=args.workers
+            max_workers=args.workers
         ) as executor:
             future_to_patent = {
                 executor.submit(
@@ -77,7 +77,7 @@ def main():
         )
 
         with concurrent.futures.ThreadPoolExecutor(
-                max_workers=args.workers
+            max_workers=args.workers
         ) as executor:
             # Передаем каждому воркеру функцию и ее аргументы
             future_to_patent = {
