@@ -49,5 +49,5 @@ def get_relevant_chunks(
 
         return final_chunks
     except Exception as e:
-        logger.error(f'Get ex when split file to chunks {e}')
+        logger.error(f"Get ex when split file to chunks {e}")
         return []

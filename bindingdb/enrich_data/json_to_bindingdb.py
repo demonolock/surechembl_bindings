@@ -31,27 +31,27 @@ csv_header = [
     "IC50 (nM)",
     "Kd (nM)",
     "EC50 (nM)",
-    "unit"
+    "unit",
 ]
 
-with open(final_json, 'r', encoding='utf-8') as f:
+with open(final_json, "r", encoding="utf-8") as f:
     data = json.load(f)
 
 
-with open(bindb_csv, 'w', encoding='utf-8', newline='') as w_file:
+with open(bindb_csv, "w", encoding="utf-8", newline="") as w_file:
     writer = csv.DictWriter(w_file, fieldnames=csv_header)
     writer.writeheader()
 
     for row in data:
         if (
-            row.get("Ligand InChI Key") and
-            row.get("Sequence") and
-            row.get("binding_metric") and
-            row.get("value") and
-            row.get("unit")
+            row.get("Ligand InChI Key")
+            and row.get("Sequence")
+            and row.get("binding_metric")
+            and row.get("value")
+            and row.get("unit")
         ):
             metric = row["binding_metric"].lower().strip()
-            if metric not in ['ic50', 'ec50', 'kd', 'ki']:
+            if metric not in ["ic50", "ec50", "kd", "ki"]:
                 print(f"skip {metric}")
                 continue
 
@@ -69,13 +69,13 @@ with open(bindb_csv, 'w', encoding='utf-8', newline='') as w_file:
             value = row.get("value", "")
             if value is None:
                 continue
-            if metric == 'ic50':
+            if metric == "ic50":
                 out_row["IC50 (nM)"] = value
-            elif metric == 'ec50':
+            elif metric == "ec50":
                 out_row["EC50 (nM)"] = value
-            elif metric == 'kd':
+            elif metric == "kd":
                 out_row["Kd (nM)"] = value
-            elif metric == 'ki':
+            elif metric == "ki":
                 out_row["Ki (nM)"] = value
 
             writer.writerow(out_row)
