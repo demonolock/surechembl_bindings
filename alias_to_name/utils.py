@@ -1,9 +1,5 @@
-import json
-
 import requests
 import time
-
-from selenium.webdriver.common.devtools.v136.debugger import step_out
 
 from get_measures_from_patent.llm_patent_agents.patent_processor import _get_relevant_chunks
 
