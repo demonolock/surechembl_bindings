@@ -1,0 +1,38 @@
+[
+    {
+        "molecule_name": "Immunoglobulin",
+        "protein_target_name": "human antigen",
+        "binding_metric": "Kd",
+        "value": "1×10−7",
+        "unit": "M",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAn antibody “binds specifically” to a human antigen (e.g., has a binding affinity (Kd) value of no more than about 1×10<sup>−7 </sup>M, preferably no more than about 1×10<sup>−8</sup>M, and most preferably no more than about 1×10<sup>−9 </sup>M) but has a binding affinity for a homologue of the antigen from a second subject species which is at least about 50-fold, or at least about 500-fold, or at least about 1000-fold, weaker than its binding affinity for the human antigen."
+    },
+    {
+        "molecule_name": "Immunoglobulin",
+        "protein_target_name": "human antigen",
+        "binding_metric": "Kd",
+        "value": "1×10−8",
+        "unit": "M",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAn antibody “binds specifically” to a human antigen (e.g., has a binding affinity (Kd) value of no more than about 1×10<sup>−7 </sup>M, preferably no more than about 1×10<sup>−8</sup>M, and most preferably no more than about 1×10<sup>−9 </sup>M) but has a binding affinity for a homologue of the antigen from a second subject species which is at least about 50-fold, or at least about 500-fold, or at least about 1000-fold, weaker than its binding affinity for the human antigen."
+    },
+    {
+        "molecule_name": "Immunoglobulin",
+        "protein_target_name": "human antigen",
+        "binding_metric": "Kd",
+        "value": "1×10−9",
+        "unit": "M",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAn antibody “binds specifically” to a human antigen (e.g., has a binding affinity (Kd) value of no more than about 1×10<sup>−7 </sup>M, preferably no more than about 1×10<sup>−8</sup>M, and most preferably no more than about 1×10<sup>−9 </sup>M) but has a binding affinity for a homologue of the antigen from a second subject species which is at least about 50-fold, or at least about 500-fold, or at least about 1000-fold, weaker than its binding affinity for the human antigen."
+    },
+    {
+        "molecule_name": "antibodies or fragments thereof",
+        "protein_target_name": "CAT proteins",
+        "binding_metric": "Kd",
+        "value": "<1×10^8",
+        "unit": "M",
+        "is_logarithmic": false,
+        "raw_mentions": "In certain embodiment, antibodies or fragments thereof bind to the extracellular domains of two or more CAT proteins and the affinity value (Kd) is less than 1×10^8 M."
+    }
+]

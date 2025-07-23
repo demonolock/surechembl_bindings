@@ -1,0 +1,56 @@
+[
+    {
+        "molecule_name": "PGT141",
+        "protein_target_name": "HIV-1 Env",
+        "binding_metric": "Kd",
+        "value": "<10^−6",
+        "unit": "Molar",
+        "is_logarithmic": false,
+        "raw_mentions": "Accordingly, in some embodiments the recombinant HIV-1 Env ectodomain trimer specifically binds to an antibody (such as a PGT141, PGT142, PGT143, PGT144, PGT145, and VRC26 antibody) that specifically binds to the V1V2 domain of a HIV-1 Env in its trimeric, but not monomeric, form with a dissociation constant of less than 10<sup>−6 </sup>Molar, such as less than 10<sup>−7 </sup>Molar, less than 10<sup>−8 </sup>Molar, or less than 10<sup>−9 </sup>Molar."
+    },
+    {
+        "molecule_name": "PGT142",
+        "protein_target_name": "HIV-1 Env",
+        "binding_metric": "Kd",
+        "value": "<10^−6",
+        "unit": "Molar",
+        "is_logarithmic": false,
+        "raw_mentions": "Accordingly, in some embodiments the recombinant HIV-1 Env ectodomain trimer specifically binds to an antibody (such as a PGT141, PGT142, PGT143, PGT144, PGT145, and VRC26 antibody) that specifically binds to the V1V2 domain of a HIV-1 Env in its trimeric, but not monomeric, form with a dissociation constant of less than 10<sup>−6 </sup>Molar, such as less than 10<sup>−7 </sup>Molar, less than 10<sup>−8 </sup>Molar, or less than 10<sup>−9 </sup>Molar."
+    },
+    {
+        "molecule_name": "PGT143",
+        "protein_target_name": "HIV-1 Env",
+        "binding_metric": "Kd",
+        "value": "<10^−6",
+        "unit": "Molar",
+        "is_logarithmic": false,
+        "raw_mentions": "Accordingly, in some embodiments the recombinant HIV-1 Env ectodomain trimer specifically binds to an antibody (such as a PGT141, PGT142, PGT143, PGT144, PGT145, and VRC26 antibody) that specifically binds to the V1V2 domain of a HIV-1 Env in its trimeric, but not monomeric, form with a dissociation constant of less than 10<sup>−6 </sup>Molar, such as less than 10<sup>−7 </sup>Molar, less than 10<sup>−8 </sup>Molar, or less than 10<sup>−9 </sup>Molar."
+    },
+    {
+        "molecule_name": "10E8 ",
+        "protein_target_name": "HIV-1 Env",
+        "binding_metric": "Kd",
+        "value": "<10^−6",
+        "unit": "Molar",
+        "is_logarithmic": false,
+        "raw_mentions": "Accordingly, in some embodiments the recombinant HIV-1 Env ectodomain trimer specifically binds to an antibody (such as a PGT141, PGT142, PGT143, PGT144, PGT145, and VRC26 antibody) that specifically binds to the V1V2 domain of a HIV-1 Env in its trimeric, but not monomeric, form with a dissociation constant of less than 10<sup>−6 </sup>Molar, such as less than 10<sup>−7 </sup>Molar, less than 10<sup>−8 </sup>Molar, or less than 10<sup>−9 </sup>Molar."
+    },
+    {
+        "molecule_name": "PGT145 ",
+        "protein_target_name": "HIV-1 Env",
+        "binding_metric": "Kd",
+        "value": "<10^−6",
+        "unit": "Molar",
+        "is_logarithmic": false,
+        "raw_mentions": "Accordingly, in some embodiments the recombinant HIV-1 Env ectodomain trimer specifically binds to an antibody (such as a PGT141, PGT142, PGT143, PGT144, PGT145, and VRC26 antibody) that specifically binds to the V1V2 domain of a HIV-1 Env in its trimeric, but not monomeric, form with a dissociation constant of less than 10<sup>−6 </sup>Molar, such as less than 10<sup>−7 </sup>Molar, less than 10<sup>−8 </sup>Molar, or less than 10<sup>−9 </sup>Molar."
+    },
+    {
+        "molecule_name": "Broadly Neutralizing Antibody",
+        "protein_target_name": "HIV-1 Env",
+        "binding_metric": "Kd",
+        "value": "<10^−6",
+        "unit": "Molar",
+        "is_logarithmic": false,
+        "raw_mentions": "Accordingly, in some embodiments the recombinant HIV-1 Env ectodomain trimer specifically binds to an antibody (such as a PGT141, PGT142, PGT143, PGT144, PGT145, and VRC26 antibody) that specifically binds to the V1V2 domain of a HIV-1 Env in its trimeric, but not monomeric, form with a dissociation constant of less than 10<sup>−6 </sup>Molar, such as less than 10<sup>−7 </sup>Molar, less than 10<sup>−8 </sup>Molar, or less than 10<sup>−9 </sup>Molar."
+    }
+]

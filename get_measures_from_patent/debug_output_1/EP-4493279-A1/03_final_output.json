@@ -1,0 +1,83 @@
+[
+    {
+        "molecule_name": "Single Domain Antibody",
+        "protein_target_name": "PCPE-1",
+        "binding_metric": "KD",
+        "value": "<100",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "These nanobodies were selected from a synthetic nanobody library or after immunization of a llama and possess PCPE-1 binding activity measured by surface plasmon resonance as presented in Figure 1. They were selected to possess a KD less than 100 nM and more precisely less than 30 nM (see Table 2 in the examples)."
+    },
+    {
+        "molecule_name": "Single Domain Antibody",
+        "protein_target_name": "PCPE-1",
+        "binding_metric": "KD",
+        "value": "<30",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "These nanobodies were selected from a synthetic nanobody library or after immunization of a llama and possess PCPE-1 binding activity measured by surface plasmon resonance as presented in Figure 1. They were selected to possess a KD less than 100 nM and more precisely less than 30 nM (see Table 2 in the examples)."
+    },
+    {
+        "molecule_name": "VHH-H4",
+        "protein_target_name": "PCPE-1",
+        "binding_metric": "KD",
+        "value": "1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. Among other llama nanobodies, only VHH-I3 is a strong PCPE-1 ligand, with dissociation constants in the nanomolar range.\n2. Of the 10, only half give a clear interaction with PCPE-1 when injected at 200 nM, the best results being obtained with VHH-H4 and VHH-H10 (Fig. 1 B) whose KDS are l nanomolar order (Table 2).\n3. Table 2 below shows the KD affinity constants of seven llama-derived nanobodies (as noted above, nanobody 110 does not bind at all), and ten synthetic nanobodies.  Table 2  Affinity constants less than 100 nM are representative of strong binding; this is the case for the following nanobodies: I3, I5, I7, H4 and H10.\n4. The affinity of VHH-I5 and -H4 for PCPE-1 is therefore at least 250 times stronger than for PCPE-2, with KD = 1.5 nM (VHH-I5) and KD = 3.9 nM (VHH-H4).\n5. Furthermore, their antagonistic effects are additive, and the co-injection of a mixture of VHH-I5 and VHH-H4 with PCPE-1 practically eliminates its interaction with Mini III, with IC50s estimated at approximately 45 nM (VHH-H4), 24 nM (VHH-I5) and 20 nM (mix of VHH-I5 and VHH-H4) in the presence of 5 nM of PCPE-1."
+    },
+    {
+        "molecule_name": "VHH-H10",
+        "protein_target_name": "PCPE-1",
+        "binding_metric": "KD",
+        "value": "1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. Among other llama nanobodies, only VHH-I3 is a strong PCPE-1 ligand, with dissociation constants in the nanomolar range.\n2. Of the 10, only half give a clear interaction with PCPE-1 when injected at 200 nM, the best results being obtained with VHH-H4 and VHH-H10 (Fig. 1 B) whose KDS are l nanomolar order (Table 2).\n3. Table 2 below shows the KD affinity constants of seven llama-derived nanobodies (as noted above, nanobody 110 does not bind at all), and ten synthetic nanobodies.  Table 2  Affinity constants less than 100 nM are representative of strong binding; this is the case for the following nanobodies: I3, I5, I7, H4 and H10.\n4. The affinity of VHH-I5 and -H4 for PCPE-1 is therefore at least 250 times stronger than for PCPE-2, with KD = 1.5 nM (VHH-I5) and KD = 3.9 nM (VHH-H4).\n5. Furthermore, their antagonistic effects are additive, and the co-injection of a mixture of VHH-I5 and VHH-H4 with PCPE-1 practically eliminates its interaction with Mini III, with IC50s estimated at approximately 45 nM (VHH-H4), 24 nM (VHH-I5) and 20 nM (mix of VHH-I5 and VHH-H4) in the presence of 5 nM of PCPE-1."
+    },
+    {
+        "molecule_name": "VHH-I5",
+        "protein_target_name": "PCPE-1",
+        "binding_metric": "KD",
+        "value": "1.5",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. Among other llama nanobodies, only VHH-I3 is a strong PCPE-1 ligand, with dissociation constants in the nanomolar range.\n2. Of the 10, only half give a clear interaction with PCPE-1 when injected at 200 nM, the best results being obtained with VHH-H4 and VHH-H10 (Fig. 1 B) whose KDS are l nanomolar order (Table 2).\n3. Table 2 below shows the KD affinity constants of seven llama-derived nanobodies (as noted above, nanobody 110 does not bind at all), and ten synthetic nanobodies.  Table 2  Affinity constants less than 100 nM are representative of strong binding; this is the case for the following nanobodies: I3, I5, I7, H4 and H10.\n4. The affinity of VHH-I5 and -H4 for PCPE-1 is therefore at least 250 times stronger than for PCPE-2, with KD = 1.5 nM (VHH-I5) and KD = 3.9 nM (VHH-H4).\n5. Furthermore, their antagonistic effects are additive, and the co-injection of a mixture of VHH-I5 and VHH-H4 with PCPE-1 practically eliminates its interaction with Mini III, with IC50s estimated at approximately 45 nM (VHH-H4), 24 nM (VHH-I5) and 20 nM (mix of VHH-I5 and VHH-H4) in the presence of 5 nM of PCPE-1."
+    },
+    {
+        "molecule_name": "VHH-H4",
+        "protein_target_name": "PCPE-1",
+        "binding_metric": "KD",
+        "value": "3.9",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. Among other llama nanobodies, only VHH-I3 is a strong PCPE-1 ligand, with dissociation constants in the nanomolar range.\n2. Of the 10, only half give a clear interaction with PCPE-1 when injected at 200 nM, the best results being obtained with VHH-H4 and VHH-H10 (Fig. 1 B) whose KDS are l nanomolar order (Table 2).\n3. Table 2 below shows the KD affinity constants of seven llama-derived nanobodies (as noted above, nanobody 110 does not bind at all), and ten synthetic nanobodies.  Table 2  Affinity constants less than 100 nM are representative of strong binding; this is the case for the following nanobodies: I3, I5, I7, H4 and H10.\n4. The affinity of VHH-I5 and -H4 for PCPE-1 is therefore at least 250 times stronger than for PCPE-2, with KD = 1.5 nM (VHH-I5) and KD = 3.9 nM (VHH-H4).\n5. Furthermore, their antagonistic effects are additive, and the co-injection of a mixture of VHH-I5 and VHH-H4 with PCPE-1 practically eliminates its interaction with Mini III, with IC50s estimated at approximately 45 nM (VHH-H4), 24 nM (VHH-I5) and 20 nM (mix of VHH-I5 and VHH-H4) in the presence of 5 nM of PCPE-1."
+    },
+    {
+        "molecule_name": "VHH-H4",
+        "protein_target_name": "PCPE-1",
+        "binding_metric": "IC50",
+        "value": "45",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. Among other llama nanobodies, only VHH-I3 is a strong PCPE-1 ligand, with dissociation constants in the nanomolar range.\n2. Of the 10, only half give a clear interaction with PCPE-1 when injected at 200 nM, the best results being obtained with VHH-H4 and VHH-H10 (Fig. 1 B) whose KDS are l nanomolar order (Table 2).\n3. Table 2 below shows the KD affinity constants of seven llama-derived nanobodies (as noted above, nanobody 110 does not bind at all), and ten synthetic nanobodies.  Table 2  Affinity constants less than 100 nM are representative of strong binding; this is the case for the following nanobodies: I3, I5, I7, H4 and H10.\n4. The affinity of VHH-I5 and -H4 for PCPE-1 is therefore at least 250 times stronger than for PCPE-2, with KD = 1.5 nM (VHH-I5) and KD = 3.9 nM (VHH-H4).\n5. Furthermore, their antagonistic effects are additive, and the co-injection of a mixture of VHH-I5 and VHH-H4 with PCPE-1 practically eliminates its interaction with Mini III, with IC50s estimated at approximately 45 nM (VHH-H4), 24 nM (VHH-I5) and 20 nM (mix of VHH-I5 and VHH-H4) in the presence of 5 nM of PCPE-1."
+    },
+    {
+        "molecule_name": "VHH-I5",
+        "protein_target_name": "PCPE-1",
+        "binding_metric": "IC50",
+        "value": "24",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. Among other llama nanobodies, only VHH-I3 is a strong PCPE-1 ligand, with dissociation constants in the nanomolar range.\n2. Of the 10, only half give a clear interaction with PCPE-1 when injected at 200 nM, the best results being obtained with VHH-H4 and VHH-H10 (Fig. 1 B) whose KDS are l nanomolar order (Table 2).\n3. Table 2 below shows the KD affinity constants of seven llama-derived nanobodies (as noted above, nanobody 110 does not bind at all), and ten synthetic nanobodies.  Table 2  Affinity constants less than 100 nM are representative of strong binding; this is the case for the following nanobodies: I3, I5, I7, H4 and H10.\n4. The affinity of VHH-I5 and -H4 for PCPE-1 is therefore at least 250 times stronger than for PCPE-2, with KD = 1.5 nM (VHH-I5) and KD = 3.9 nM (VHH-H4).\n5. Furthermore, their antagonistic effects are additive, and the co-injection of a mixture of VHH-I5 and VHH-H4 with PCPE-1 practically eliminates its interaction with Mini III, with IC50s estimated at approximately 45 nM (VHH-H4), 24 nM (VHH-I5) and 20 nM (mix of VHH-I5 and VHH-H4) in the presence of 5 nM of PCPE-1."
+    },
+    {
+        "molecule_name": "VHH-I5 and VHH-H4",
+        "protein_target_name": "PCPE-1",
+        "binding_metric": "IC50",
+        "value": "20",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. Among other llama nanobodies, only VHH-I3 is a strong PCPE-1 ligand, with dissociation constants in the nanomolar range.\n2. Of the 10, only half give a clear interaction with PCPE-1 when injected at 200 nM, the best results being obtained with VHH-H4 and VHH-H10 (Fig. 1 B) whose KDS are l nanomolar order (Table 2).\n3. Table 2 below shows the KD affinity constants of seven llama-derived nanobodies (as noted above, nanobody 110 does not bind at all), and ten synthetic nanobodies.  Table 2  Affinity constants less than 100 nM are representative of strong binding; this is the case for the following nanobodies: I3, I5, I7, H4 and H10.\n4. The affinity of VHH-I5 and -H4 for PCPE-1 is therefore at least 250 times stronger than for PCPE-2, with KD = 1.5 nM (VHH-I5) and KD = 3.9 nM (VHH-H4).\n5. Furthermore, their antagonistic effects are additive, and the co-injection of a mixture of VHH-I5 and VHH-H4 with PCPE-1 practically eliminates its interaction with Mini III, with IC50s estimated at approximately 45 nM (VHH-H4), 24 nM (VHH-I5) and 20 nM (mix of VHH-I5 and VHH-H4) in the presence of 5 nM of PCPE-1."
+    }
+]

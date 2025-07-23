@@ -1,0 +1,2 @@
+{"raw_mentions": "The Kd value of 5G2 is 0.8957 X10 <sup>-9</sup> M."}
+{"final_json": [{"molecule_name": "5G2", "protein_target_name": null, "binding_metric": "Kd", "value": "0.8957 X10 <sup>-9</sup>", "unit": "M", "is_logarithmic": false}]}

@@ -1,0 +1,299 @@
+[
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "1 pM",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "10 pM",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "25 pM",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "50 pM",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "100 pM",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "250 pM",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "500 pM",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "750 pM",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "1 nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "10 nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "15 nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "25 nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "50 nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "75 nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "100 nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "150 nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "200 nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "250 nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "300 nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "350 nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "400 nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "450 nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "500 nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "750 nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "1 μM",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "10 μM",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "25 μM",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "50 μM",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "75 μM",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "100 μM",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "250 μM",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "500 μM",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    },
+    {
+        "molecule_name": "Caspase-1",
+        "protein_target_name": "CIpP",
+        "binding_metric": "IC50",
+        "value": "1 mM",
+        "unit": "mM",
+        "is_logarithmic": false,
+        "raw_mentions": "A small molecule CIpP inhibitor can have an IC50 (half maximal effective concentration) is from about 1 pM to about 1 mM, e.g., from about 1 pM to about 10 pM, from about 10 pM to about 25 pM, from about 25 pM to about 50 pM, from about 50 pM to about 100 pM, from about 100 pM to about 250 pM, from about 250 pM to about 500 pM, from about 500 pM to about 750 pM, from about 750 pM to about 1 nM, from about 1 nM to about 10 nM, from about 10 nM to about 15 nM, from about 15 nM to about 25 nM, from about 25 nM to about 50 nM, from about 50 nM to about 75 nM, from about 75 nM to about 100 nM, from about 100 nM to about 150 nM, from about 150 nM to about 200 nM, from about 200 nM to about 250 nM, from about 250 nM to about 300 nM, from about 300 nM to about 350 nM, from about 350 nM to about 400 nM, from about 400 nM to about 450 nM, from about 450 nM to about 500 nM, from about 500 nM to about 750 nM, from about 750 nM to about 1 μM, from about 1 μM to about 10 μM, from about 10 μM to about 25 μM, from about 25 μM to about 50 μM, from about 50 μM to about 75 μM, from about 75 μM to about 100 μM, from about 100 μM to about 250 μM, from about 250 μM to about 500 μM, or from about 500 μM to about 1 mM."
+    }
+]

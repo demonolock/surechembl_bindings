@@ -1,0 +1,596 @@
+[
+    {
+        "molecule_name": "amino acid sequence of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "affinity",
+        "value": "< 500 nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Preferably, a monovalent amino acid sequence of the invention (or a polypeptide that contains only one amino acid sequence of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM.\n* In particular, amino acid sequences and polypeptides of the invention are preferably such that they: a) bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles); \n* and/or such that they:b) bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n* and/or such that they:c) bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>2=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>."
+    },
+    {
+        "molecule_name": "amino acid sequence of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "affinity",
+        "value": "< 200 nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Preferably, a monovalent amino acid sequence of the invention (or a polypeptide that contains only one amino acid sequence of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM.\n* In particular, amino acid sequences and polypeptides of the invention are preferably such that they: a) bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles); \n* and/or such that they:b) bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n* and/or such that they:c) bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>2=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>."
+    },
+    {
+        "molecule_name": "amino acid sequence of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "affinity",
+        "value": "< 10 nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Preferably, a monovalent amino acid sequence of the invention (or a polypeptide that contains only one amino acid sequence of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM.\n* In particular, amino acid sequences and polypeptides of the invention are preferably such that they: a) bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles); \n* and/or such that they:b) bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n* and/or such that they:c) bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>2=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>."
+    },
+    {
+        "molecule_name": "amino acid sequence of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "affinity",
+        "value": "< 500 pM",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Preferably, a monovalent amino acid sequence of the invention (or a polypeptide that contains only one amino acid sequence of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM.\n* In particular, amino acid sequences and polypeptides of the invention are preferably such that they: a) bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles); \n* and/or such that they:b) bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n* and/or such that they:c) bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>2=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>."
+    },
+    {
+        "molecule_name": "amino acid sequences and polypeptides of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "Kd",
+        "value": "10^−5 to 10^−12",
+        "unit": "moles/liter",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Preferably, a monovalent amino acid sequence of the invention (or a polypeptide that contains only one amino acid sequence of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM.\n* In particular, amino acid sequences and polypeptides of the invention are preferably such that they: a) bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles); \n* and/or such that they:b) bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n* and/or such that they:c) bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>2=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>."
+    },
+    {
+        "molecule_name": "amino acid sequences and polypeptides of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "Kd",
+        "value": "10^−7 to 10^−12",
+        "unit": "moles/liter",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Preferably, a monovalent amino acid sequence of the invention (or a polypeptide that contains only one amino acid sequence of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM.\n* In particular, amino acid sequences and polypeptides of the invention are preferably such that they: a) bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles); \n* and/or such that they:b) bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n* and/or such that they:c) bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>2=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>."
+    },
+    {
+        "molecule_name": "amino acid sequences and polypeptides of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "Kd",
+        "value": "10^−8 to 10^−12",
+        "unit": "moles/liter",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Preferably, a monovalent amino acid sequence of the invention (or a polypeptide that contains only one amino acid sequence of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM.\n* In particular, amino acid sequences and polypeptides of the invention are preferably such that they: a) bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles); \n* and/or such that they:b) bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n* and/or such that they:c) bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>2=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>."
+    },
+    {
+        "molecule_name": "amino acid sequences and polypeptides of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "Ka",
+        "value": "10^5 to 10^12",
+        "unit": "liter/moles",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Preferably, a monovalent amino acid sequence of the invention (or a polypeptide that contains only one amino acid sequence of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM.\n* In particular, amino acid sequences and polypeptides of the invention are preferably such that they: a) bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles); \n* and/or such that they:b) bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n* and/or such that they:c) bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>2=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>."
+    },
+    {
+        "molecule_name": "amino acid sequences and polypeptides of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "Ka",
+        "value": "10^7 to 10^12",
+        "unit": "liter/moles",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Preferably, a monovalent amino acid sequence of the invention (or a polypeptide that contains only one amino acid sequence of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM.\n* In particular, amino acid sequences and polypeptides of the invention are preferably such that they: a) bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles); \n* and/or such that they:b) bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n* and/or such that they:c) bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>2=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>."
+    },
+    {
+        "molecule_name": "amino acid sequences and polypeptides of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "Ka",
+        "value": "10^8 to 10^12",
+        "unit": "liter/moles",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Preferably, a monovalent amino acid sequence of the invention (or a polypeptide that contains only one amino acid sequence of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM.\n* In particular, amino acid sequences and polypeptides of the invention are preferably such that they: a) bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles); \n* and/or such that they:b) bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n* and/or such that they:c) bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>2=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>."
+    },
+    {
+        "molecule_name": "amino acid sequences and polypeptides of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "kon-rate",
+        "value": "10^2 to 10^7",
+        "unit": "M^−1s^−1",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Preferably, a monovalent amino acid sequence of the invention (or a polypeptide that contains only one amino acid sequence of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM.\n* In particular, amino acid sequences and polypeptides of the invention are preferably such that they: a) bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles); \n* and/or such that they:b) bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n* and/or such that they:c) bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>2=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>."
+    },
+    {
+        "molecule_name": "amino acid sequences and polypeptides of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "kon-rate",
+        "value": "10^3 to 10^7",
+        "unit": "M^−1s^−1",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Preferably, a monovalent amino acid sequence of the invention (or a polypeptide that contains only one amino acid sequence of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM.\n* In particular, amino acid sequences and polypeptides of the invention are preferably such that they: a) bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles); \n* and/or such that they:b) bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n* and/or such that they:c) bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>2=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>."
+    },
+    {
+        "molecule_name": "amino acid sequences and polypeptides of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "kon-rate",
+        "value": "10^4 to 10^7",
+        "unit": "M^−1s^−1",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Preferably, a monovalent amino acid sequence of the invention (or a polypeptide that contains only one amino acid sequence of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM.\n* In particular, amino acid sequences and polypeptides of the invention are preferably such that they: a) bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles); \n* and/or such that they:b) bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n* and/or such that they:c) bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>2=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>."
+    },
+    {
+        "molecule_name": "amino acid sequences and polypeptides of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "kon-rate",
+        "value": "10^5 to 10^7",
+        "unit": "M^−1s^−1",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Preferably, a monovalent amino acid sequence of the invention (or a polypeptide that contains only one amino acid sequence of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM.\n* In particular, amino acid sequences and polypeptides of the invention are preferably such that they: a) bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles); \n* and/or such that they:b) bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n* and/or such that they:c) bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>2=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>."
+    },
+    {
+        "molecule_name": "amino acid sequences and polypeptides of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "koff-rate",
+        "value": "1 to 10^−6",
+        "unit": "s^−1",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Preferably, a monovalent amino acid sequence of the invention (or a polypeptide that contains only one amino acid sequence of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM.\n* In particular, amino acid sequences and polypeptides of the invention are preferably such that they: a) bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles); \n* and/or such that they:b) bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n* and/or such that they:c) bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>2=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>."
+    },
+    {
+        "molecule_name": "amino acid sequences and polypeptides of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "koff-rate",
+        "value": "10^−2 to 10^−6",
+        "unit": "s^−1",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Preferably, a monovalent amino acid sequence of the invention (or a polypeptide that contains only one amino acid sequence of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM.\n* In particular, amino acid sequences and polypeptides of the invention are preferably such that they: a) bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles); \n* and/or such that they:b) bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n* and/or such that they:c) bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>2=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>."
+    },
+    {
+        "molecule_name": "amino acid sequences and polypeptides of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "koff-rate",
+        "value": "10^−3 to 10^−6",
+        "unit": "s^−1",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Preferably, a monovalent amino acid sequence of the invention (or a polypeptide that contains only one amino acid sequence of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM.\n* In particular, amino acid sequences and polypeptides of the invention are preferably such that they: a) bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles); \n* and/or such that they:b) bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n* and/or such that they:c) bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>2=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>."
+    },
+    {
+        "molecule_name": "amino acid sequences and polypeptides of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "koff-rate",
+        "value": "10^−4 to 10^−6",
+        "unit": "s^−1",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Preferably, a monovalent amino acid sequence of the invention (or a polypeptide that contains only one amino acid sequence of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM.\n* In particular, amino acid sequences and polypeptides of the invention are preferably such that they: a) bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles); \n* and/or such that they:b) bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n* and/or such that they:c) bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>2=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>."
+    },
+    {
+        "molecule_name": "antigen-binding proteins (such as the amino acid sequences, Nanobodies and/or polypeptides of the invention)",
+        "protein_target_name": "antigen",
+        "binding_metric": "Kd",
+        "value": "10−5 to 10−12",
+        "unit": "moles/liter",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Typically, antigen-binding proteins (such as the amino acid sequences, Nanobodies and/or polypeptides of the invention) will bind to their antigen with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles).\n* Any K<sub>D </sub>value greater than 10<sup>4 </sup>mol/liter (or any K<sub>A </sub>value lower than 10<sup>4 </sup>M<sup>−1</sup>) liters/mol is generally considered to indicate non-specific binding.\n* Preferably, a monovalent immunoglobulin sequence of the invention will bind to the desired antigen with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "antigen-binding proteins (such as the amino acid sequences, Nanobodies and/or polypeptides of the invention)",
+        "protein_target_name": "antigen",
+        "binding_metric": "Kd",
+        "value": "10−7 to 10−12",
+        "unit": "moles/liter",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Typically, antigen-binding proteins (such as the amino acid sequences, Nanobodies and/or polypeptides of the invention) will bind to their antigen with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles).\n* Any K<sub>D </sub>value greater than 10<sup>4 </sup>mol/liter (or any K<sub>A </sub>value lower than 10<sup>4 </sup>M<sup>−1</sup>) liters/mol is generally considered to indicate non-specific binding.\n* Preferably, a monovalent immunoglobulin sequence of the invention will bind to the desired antigen with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "antigen-binding proteins (such as the amino acid sequences, Nanobodies and/or polypeptides of the invention)",
+        "protein_target_name": "antigen",
+        "binding_metric": "Kd",
+        "value": "10−8 to 10−12",
+        "unit": "moles/liter",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Typically, antigen-binding proteins (such as the amino acid sequences, Nanobodies and/or polypeptides of the invention) will bind to their antigen with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles).\n* Any K<sub>D </sub>value greater than 10<sup>4 </sup>mol/liter (or any K<sub>A </sub>value lower than 10<sup>4 </sup>M<sup>−1</sup>) liters/mol is generally considered to indicate non-specific binding.\n* Preferably, a monovalent immunoglobulin sequence of the invention will bind to the desired antigen with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "antigen-binding proteins (such as the amino acid sequences, Nanobodies and/or polypeptides of the invention)",
+        "protein_target_name": "antigen",
+        "binding_metric": "Ka",
+        "value": "10^5 to 10^12",
+        "unit": "liter/moles",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Typically, antigen-binding proteins (such as the amino acid sequences, Nanobodies and/or polypeptides of the invention) will bind to their antigen with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles).\n* Any K<sub>D </sub>value greater than 10<sup>4 </sup>mol/liter (or any K<sub>A </sub>value lower than 10<sup>4 </sup>M<sup>−1</sup>) liters/mol is generally considered to indicate non-specific binding.\n* Preferably, a monovalent immunoglobulin sequence of the invention will bind to the desired antigen with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "antigen-binding proteins (such as the amino acid sequences, Nanobodies and/or polypeptides of the invention)",
+        "protein_target_name": "antigen",
+        "binding_metric": "Ka",
+        "value": "10^7 to 10^12",
+        "unit": "liter/moles",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Typically, antigen-binding proteins (such as the amino acid sequences, Nanobodies and/or polypeptides of the invention) will bind to their antigen with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles).\n* Any K<sub>D </sub>value greater than 10<sup>4 </sup>mol/liter (or any K<sub>A </sub>value lower than 10<sup>4 </sup>M<sup>−1</sup>) liters/mol is generally considered to indicate non-specific binding.\n* Preferably, a monovalent immunoglobulin sequence of the invention will bind to the desired antigen with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "antigen-binding proteins (such as the amino acid sequences, Nanobodies and/or polypeptides of the invention)",
+        "protein_target_name": "antigen",
+        "binding_metric": "Ka",
+        "value": "10^8 to 10^12",
+        "unit": "liter/moles",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Typically, antigen-binding proteins (such as the amino acid sequences, Nanobodies and/or polypeptides of the invention) will bind to their antigen with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles).\n* Any K<sub>D </sub>value greater than 10<sup>4 </sup>mol/liter (or any K<sub>A </sub>value lower than 10<sup>4 </sup>M<sup>−1</sup>) liters/mol is generally considered to indicate non-specific binding.\n* Preferably, a monovalent immunoglobulin sequence of the invention will bind to the desired antigen with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "Antibody fragment ",
+        "protein_target_name": "desired antigen",
+        "binding_metric": "affinity",
+        "value": "<500",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Typically, antigen-binding proteins (such as the amino acid sequences, Nanobodies and/or polypeptides of the invention) will bind to their antigen with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles).\n* Any K<sub>D </sub>value greater than 10<sup>4 </sup>mol/liter (or any K<sub>A </sub>value lower than 10<sup>4 </sup>M<sup>−1</sup>) liters/mol is generally considered to indicate non-specific binding.\n* Preferably, a monovalent immunoglobulin sequence of the invention will bind to the desired antigen with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "Antibody fragment ",
+        "protein_target_name": "desired antigen",
+        "binding_metric": "affinity",
+        "value": "<200",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Typically, antigen-binding proteins (such as the amino acid sequences, Nanobodies and/or polypeptides of the invention) will bind to their antigen with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles).\n* Any K<sub>D </sub>value greater than 10<sup>4 </sup>mol/liter (or any K<sub>A </sub>value lower than 10<sup>4 </sup>M<sup>−1</sup>) liters/mol is generally considered to indicate non-specific binding.\n* Preferably, a monovalent immunoglobulin sequence of the invention will bind to the desired antigen with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "Antibody fragment ",
+        "protein_target_name": "desired antigen",
+        "binding_metric": "affinity",
+        "value": "<10",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Typically, antigen-binding proteins (such as the amino acid sequences, Nanobodies and/or polypeptides of the invention) will bind to their antigen with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles).\n* Any K<sub>D </sub>value greater than 10<sup>4 </sup>mol/liter (or any K<sub>A </sub>value lower than 10<sup>4 </sup>M<sup>−1</sup>) liters/mol is generally considered to indicate non-specific binding.\n* Preferably, a monovalent immunoglobulin sequence of the invention will bind to the desired antigen with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "Antibody fragment ",
+        "protein_target_name": "desired antigen",
+        "binding_metric": "affinity",
+        "value": "<500",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Typically, antigen-binding proteins (such as the amino acid sequences, Nanobodies and/or polypeptides of the invention) will bind to their antigen with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles).\n* Any K<sub>D </sub>value greater than 10<sup>4 </sup>mol/liter (or any K<sub>A </sub>value lower than 10<sup>4 </sup>M<sup>−1</sup>) liters/mol is generally considered to indicate non-specific binding.\n* Preferably, a monovalent immunoglobulin sequence of the invention will bind to the desired antigen with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "Kd",
+        "value": "10−5 to 10−12",
+        "unit": "moles/liter",
+        "is_logarithmic": false,
+        "raw_mentions": "According to a non-limiting but preferred aspect of the invention, (the CDR sequences present in) the Nanobodies of the invention are such that: the Nanobodies can bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles).\nPreferably, (the CDR sequences present in) the Nanobodies of the invention are such that: a monovalent Nanobody of the invention (or a polypeptide that contains only one Nanobody of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "Kd",
+        "value": "10−7 to 10−12",
+        "unit": "moles/liter",
+        "is_logarithmic": false,
+        "raw_mentions": "According to a non-limiting but preferred aspect of the invention, (the CDR sequences present in) the Nanobodies of the invention are such that: the Nanobodies can bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles).\nPreferably, (the CDR sequences present in) the Nanobodies of the invention are such that: a monovalent Nanobody of the invention (or a polypeptide that contains only one Nanobody of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "Kd",
+        "value": "10−8 to 10−12",
+        "unit": "moles/liter",
+        "is_logarithmic": false,
+        "raw_mentions": "According to a non-limiting but preferred aspect of the invention, (the CDR sequences present in) the Nanobodies of the invention are such that: the Nanobodies can bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles).\nPreferably, (the CDR sequences present in) the Nanobodies of the invention are such that: a monovalent Nanobody of the invention (or a polypeptide that contains only one Nanobody of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "Ka",
+        "value": "10^5 to 10^12",
+        "unit": "liter/moles",
+        "is_logarithmic": false,
+        "raw_mentions": "According to a non-limiting but preferred aspect of the invention, (the CDR sequences present in) the Nanobodies of the invention are such that: the Nanobodies can bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles).\nPreferably, (the CDR sequences present in) the Nanobodies of the invention are such that: a monovalent Nanobody of the invention (or a polypeptide that contains only one Nanobody of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "Ka",
+        "value": "10^7 to 10^12",
+        "unit": "liter/moles",
+        "is_logarithmic": false,
+        "raw_mentions": "According to a non-limiting but preferred aspect of the invention, (the CDR sequences present in) the Nanobodies of the invention are such that: the Nanobodies can bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles).\nPreferably, (the CDR sequences present in) the Nanobodies of the invention are such that: a monovalent Nanobody of the invention (or a polypeptide that contains only one Nanobody of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "Ka",
+        "value": "10^8 to 10^12",
+        "unit": "liter/moles",
+        "is_logarithmic": false,
+        "raw_mentions": "According to a non-limiting but preferred aspect of the invention, (the CDR sequences present in) the Nanobodies of the invention are such that: the Nanobodies can bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles).\nPreferably, (the CDR sequences present in) the Nanobodies of the invention are such that: a monovalent Nanobody of the invention (or a polypeptide that contains only one Nanobody of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "monovalent Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "affinity",
+        "value": "<500",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "According to a non-limiting but preferred aspect of the invention, (the CDR sequences present in) the Nanobodies of the invention are such that: the Nanobodies can bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles).\nPreferably, (the CDR sequences present in) the Nanobodies of the invention are such that: a monovalent Nanobody of the invention (or a polypeptide that contains only one Nanobody of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "monovalent Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "affinity",
+        "value": "<200",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "According to a non-limiting but preferred aspect of the invention, (the CDR sequences present in) the Nanobodies of the invention are such that: the Nanobodies can bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles).\nPreferably, (the CDR sequences present in) the Nanobodies of the invention are such that: a monovalent Nanobody of the invention (or a polypeptide that contains only one Nanobody of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "monovalent Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "affinity",
+        "value": "<10",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "According to a non-limiting but preferred aspect of the invention, (the CDR sequences present in) the Nanobodies of the invention are such that: the Nanobodies can bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles).\nPreferably, (the CDR sequences present in) the Nanobodies of the invention are such that: a monovalent Nanobody of the invention (or a polypeptide that contains only one Nanobody of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "monovalent Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "affinity",
+        "value": "<500",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "According to a non-limiting but preferred aspect of the invention, (the CDR sequences present in) the Nanobodies of the invention are such that: the Nanobodies can bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles).\nPreferably, (the CDR sequences present in) the Nanobodies of the invention are such that: a monovalent Nanobody of the invention (or a polypeptide that contains only one Nanobody of the invention) is preferably such that it will bind to growth factor receptors with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "KₓD",
+        "value": "10⁻⁵ to 10⁻¹²",
+        "unit": "moles/liter",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPolypeptides comprising one or more Nanobodies of the invention are preferably such that they: bind to growth factor receptors with a dissociation constant (KₓD) of 10⁻⁵ to 10⁻¹² moles/liter or less, and preferably 10⁻⁷ to 10⁻¹² moles/liter or less and more preferably 10⁻⁸ to 10⁻¹² moles/liter (i.e. with an association constant (Kₐ) of 10⁵ to 10¹² liter/moles or more, and preferably 10⁷ to 10¹² liter/moles or more and more preferably 10⁸ to 10¹² liter/moles);\nsuch that they: a) bind to growth factor receptors with a kₒₙ-rate of between 10² M⁻¹s⁻¹ to about 10⁷ m⁻¹s⁻¹, preferably between 10³ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹, more preferably between 10⁴ M⁻¹s⁻¹ and 10⁷ M⁻¹ s⁻¹, such as between 10⁵ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹;\nand/or such that they: b) bind to growth factor receptors with a kₒₜₜ rate between 1 s⁻¹ (t₁/₂=0.69 s) and 10⁻⁶ s⁻¹ (providing a near irreversible complex with a t₁₂ of multiple days), preferably between 10⁻² s⁻¹ and 10⁻⁶ s⁻¹, more preferably between 10⁻³ s⁻¹ and 10⁻⁶ s⁻¹, such as between 10⁻⁴ s⁻¹ and 10⁻⁶ s⁻¹."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "KₓD",
+        "value": "10⁻⁷ to 10⁻¹²",
+        "unit": "moles/liter",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPolypeptides comprising one or more Nanobodies of the invention are preferably such that they: bind to growth factor receptors with a dissociation constant (KₓD) of 10⁻⁵ to 10⁻¹² moles/liter or less, and preferably 10⁻⁷ to 10⁻¹² moles/liter or less and more preferably 10⁻⁸ to 10⁻¹² moles/liter (i.e. with an association constant (Kₐ) of 10⁵ to 10¹² liter/moles or more, and preferably 10⁷ to 10¹² liter/moles or more and more preferably 10⁸ to 10¹² liter/moles);\nsuch that they: a) bind to growth factor receptors with a kₒₙ-rate of between 10² M⁻¹s⁻¹ to about 10⁷ m⁻¹s⁻¹, preferably between 10³ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹, more preferably between 10⁴ M⁻¹s⁻¹ and 10⁷ M⁻¹ s⁻¹, such as between 10⁵ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹;\nand/or such that they: b) bind to growth factor receptors with a kₒₜₜ rate between 1 s⁻¹ (t₁/₂=0.69 s) and 10⁻⁶ s⁻¹ (providing a near irreversible complex with a t₁₂ of multiple days), preferably between 10⁻² s⁻¹ and 10⁻⁶ s⁻¹, more preferably between 10⁻³ s⁻¹ and 10⁻⁶ s⁻¹, such as between 10⁻⁴ s⁻¹ and 10⁻⁶ s⁻¹."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "KₓD",
+        "value": "10⁻⁸ to 10⁻¹²",
+        "unit": "moles/liter",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPolypeptides comprising one or more Nanobodies of the invention are preferably such that they: bind to growth factor receptors with a dissociation constant (KₓD) of 10⁻⁵ to 10⁻¹² moles/liter or less, and preferably 10⁻⁷ to 10⁻¹² moles/liter or less and more preferably 10⁻⁸ to 10⁻¹² moles/liter (i.e. with an association constant (Kₐ) of 10⁵ to 10¹² liter/moles or more, and preferably 10⁷ to 10¹² liter/moles or more and more preferably 10⁸ to 10¹² liter/moles);\nsuch that they: a) bind to growth factor receptors with a kₒₙ-rate of between 10² M⁻¹s⁻¹ to about 10⁷ m⁻¹s⁻¹, preferably between 10³ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹, more preferably between 10⁴ M⁻¹s⁻¹ and 10⁷ M⁻¹ s⁻¹, such as between 10⁵ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹;\nand/or such that they: b) bind to growth factor receptors with a kₒₜₜ rate between 1 s⁻¹ (t₁/₂=0.69 s) and 10⁻⁶ s⁻¹ (providing a near irreversible complex with a t₁₂ of multiple days), preferably between 10⁻² s⁻¹ and 10⁻⁶ s⁻¹, more preferably between 10⁻³ s⁻¹ and 10⁻⁶ s⁻¹, such as between 10⁻⁴ s⁻¹ and 10⁻⁶ s⁻¹."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "Kₐ",
+        "value": "10⁵ to 10¹²",
+        "unit": "liter/moles",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPolypeptides comprising one or more Nanobodies of the invention are preferably such that they: bind to growth factor receptors with a dissociation constant (KₓD) of 10⁻⁵ to 10⁻¹² moles/liter or less, and preferably 10⁻⁷ to 10⁻¹² moles/liter or less and more preferably 10⁻⁸ to 10⁻¹² moles/liter (i.e. with an association constant (Kₐ) of 10⁵ to 10¹² liter/moles or more, and preferably 10⁷ to 10¹² liter/moles or more and more preferably 10⁸ to 10¹² liter/moles);\nsuch that they: a) bind to growth factor receptors with a kₒₙ-rate of between 10² M⁻¹s⁻¹ to about 10⁷ m⁻¹s⁻¹, preferably between 10³ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹, more preferably between 10⁴ M⁻¹s⁻¹ and 10⁷ M⁻¹ s⁻¹, such as between 10⁵ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹;\nand/or such that they: b) bind to growth factor receptors with a kₒₜₜ rate between 1 s⁻¹ (t₁/₂=0.69 s) and 10⁻⁶ s⁻¹ (providing a near irreversible complex with a t₁₂ of multiple days), preferably between 10⁻² s⁻¹ and 10⁻⁶ s⁻¹, more preferably between 10⁻³ s⁻¹ and 10⁻⁶ s⁻¹, such as between 10⁻⁴ s⁻¹ and 10⁻⁶ s⁻¹."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "Kₐ",
+        "value": "10⁷ to 10¹²",
+        "unit": "liter/moles",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPolypeptides comprising one or more Nanobodies of the invention are preferably such that they: bind to growth factor receptors with a dissociation constant (KₓD) of 10⁻⁵ to 10⁻¹² moles/liter or less, and preferably 10⁻⁷ to 10⁻¹² moles/liter or less and more preferably 10⁻⁸ to 10⁻¹² moles/liter (i.e. with an association constant (Kₐ) of 10⁵ to 10¹² liter/moles or more, and preferably 10⁷ to 10¹² liter/moles or more and more preferably 10⁸ to 10¹² liter/moles);\nsuch that they: a) bind to growth factor receptors with a kₒₙ-rate of between 10² M⁻¹s⁻¹ to about 10⁷ m⁻¹s⁻¹, preferably between 10³ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹, more preferably between 10⁴ M⁻¹s⁻¹ and 10⁷ M⁻¹ s⁻¹, such as between 10⁵ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹;\nand/or such that they: b) bind to growth factor receptors with a kₒₜₜ rate between 1 s⁻¹ (t₁/₂=0.69 s) and 10⁻⁶ s⁻¹ (providing a near irreversible complex with a t₁₂ of multiple days), preferably between 10⁻² s⁻¹ and 10⁻⁶ s⁻¹, more preferably between 10⁻³ s⁻¹ and 10⁻⁶ s⁻¹, such as between 10⁻⁴ s⁻¹ and 10⁻⁶ s⁻¹."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "Kₐ",
+        "value": "10⁸ to 10¹²",
+        "unit": "liter/moles",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPolypeptides comprising one or more Nanobodies of the invention are preferably such that they: bind to growth factor receptors with a dissociation constant (KₓD) of 10⁻⁵ to 10⁻¹² moles/liter or less, and preferably 10⁻⁷ to 10⁻¹² moles/liter or less and more preferably 10⁻⁸ to 10⁻¹² moles/liter (i.e. with an association constant (Kₐ) of 10⁵ to 10¹² liter/moles or more, and preferably 10⁷ to 10¹² liter/moles or more and more preferably 10⁸ to 10¹² liter/moles);\nsuch that they: a) bind to growth factor receptors with a kₒₙ-rate of between 10² M⁻¹s⁻¹ to about 10⁷ m⁻¹s⁻¹, preferably between 10³ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹, more preferably between 10⁴ M⁻¹s⁻¹ and 10⁷ M⁻¹ s⁻¹, such as between 10⁵ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹;\nand/or such that they: b) bind to growth factor receptors with a kₒₜₜ rate between 1 s⁻¹ (t₁/₂=0.69 s) and 10⁻⁶ s⁻¹ (providing a near irreversible complex with a t₁₂ of multiple days), preferably between 10⁻² s⁻¹ and 10⁻⁶ s⁻¹, more preferably between 10⁻³ s⁻¹ and 10⁻⁶ s⁻¹, such as between 10⁻⁴ s⁻¹ and 10⁻⁶ s⁻¹."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "kₒₙ-rate",
+        "value": "10² to 10⁷",
+        "unit": "M⁻¹s⁻¹",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPolypeptides comprising one or more Nanobodies of the invention are preferably such that they: bind to growth factor receptors with a dissociation constant (KₓD) of 10⁻⁵ to 10⁻¹² moles/liter or less, and preferably 10⁻⁷ to 10⁻¹² moles/liter or less and more preferably 10⁻⁸ to 10⁻¹² moles/liter (i.e. with an association constant (Kₐ) of 10⁵ to 10¹² liter/moles or more, and preferably 10⁷ to 10¹² liter/moles or more and more preferably 10⁸ to 10¹² liter/moles);\nsuch that they: a) bind to growth factor receptors with a kₒₙ-rate of between 10² M⁻¹s⁻¹ to about 10⁷ m⁻¹s⁻¹, preferably between 10³ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹, more preferably between 10⁴ M⁻¹s⁻¹ and 10⁷ M⁻¹ s⁻¹, such as between 10⁵ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹;\nand/or such that they: b) bind to growth factor receptors with a kₒₜₜ rate between 1 s⁻¹ (t₁/₂=0.69 s) and 10⁻⁶ s⁻¹ (providing a near irreversible complex with a t₁₂ of multiple days), preferably between 10⁻² s⁻¹ and 10⁻⁶ s⁻¹, more preferably between 10⁻³ s⁻¹ and 10⁻⁶ s⁻¹, such as between 10⁻⁴ s⁻¹ and 10⁻⁶ s⁻¹."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "kₒₙ-rate",
+        "value": "10³ to 10⁷",
+        "unit": "M⁻¹s⁻¹",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPolypeptides comprising one or more Nanobodies of the invention are preferably such that they: bind to growth factor receptors with a dissociation constant (KₓD) of 10⁻⁵ to 10⁻¹² moles/liter or less, and preferably 10⁻⁷ to 10⁻¹² moles/liter or less and more preferably 10⁻⁸ to 10⁻¹² moles/liter (i.e. with an association constant (Kₐ) of 10⁵ to 10¹² liter/moles or more, and preferably 10⁷ to 10¹² liter/moles or more and more preferably 10⁸ to 10¹² liter/moles);\nsuch that they: a) bind to growth factor receptors with a kₒₙ-rate of between 10² M⁻¹s⁻¹ to about 10⁷ m⁻¹s⁻¹, preferably between 10³ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹, more preferably between 10⁴ M⁻¹s⁻¹ and 10⁷ M⁻¹ s⁻¹, such as between 10⁵ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹;\nand/or such that they: b) bind to growth factor receptors with a kₒₜₜ rate between 1 s⁻¹ (t₁/₂=0.69 s) and 10⁻⁶ s⁻¹ (providing a near irreversible complex with a t₁₂ of multiple days), preferably between 10⁻² s⁻¹ and 10⁻⁶ s⁻¹, more preferably between 10⁻³ s⁻¹ and 10⁻⁶ s⁻¹, such as between 10⁻⁴ s⁻¹ and 10⁻⁶ s⁻¹."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "kₒₙ-rate",
+        "value": "10⁴ to 10⁷",
+        "unit": "M⁻¹s⁻¹",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPolypeptides comprising one or more Nanobodies of the invention are preferably such that they: bind to growth factor receptors with a dissociation constant (KₓD) of 10⁻⁵ to 10⁻¹² moles/liter or less, and preferably 10⁻⁷ to 10⁻¹² moles/liter or less and more preferably 10⁻⁸ to 10⁻¹² moles/liter (i.e. with an association constant (Kₐ) of 10⁵ to 10¹² liter/moles or more, and preferably 10⁷ to 10¹² liter/moles or more and more preferably 10⁸ to 10¹² liter/moles);\nsuch that they: a) bind to growth factor receptors with a kₒₙ-rate of between 10² M⁻¹s⁻¹ to about 10⁷ m⁻¹s⁻¹, preferably between 10³ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹, more preferably between 10⁴ M⁻¹s⁻¹ and 10⁷ M⁻¹ s⁻¹, such as between 10⁵ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹;\nand/or such that they: b) bind to growth factor receptors with a kₒₜₜ rate between 1 s⁻¹ (t₁/₂=0.69 s) and 10⁻⁶ s⁻¹ (providing a near irreversible complex with a t₁₂ of multiple days), preferably between 10⁻² s⁻¹ and 10⁻⁶ s⁻¹, more preferably between 10⁻³ s⁻¹ and 10⁻⁶ s⁻¹, such as between 10⁻⁴ s⁻¹ and 10⁻⁶ s⁻¹."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "kₒₙ-rate",
+        "value": "10⁵ to 10⁷",
+        "unit": "M⁻¹s⁻¹",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPolypeptides comprising one or more Nanobodies of the invention are preferably such that they: bind to growth factor receptors with a dissociation constant (KₓD) of 10⁻⁵ to 10⁻¹² moles/liter or less, and preferably 10⁻⁷ to 10⁻¹² moles/liter or less and more preferably 10⁻⁸ to 10⁻¹² moles/liter (i.e. with an association constant (Kₐ) of 10⁵ to 10¹² liter/moles or more, and preferably 10⁷ to 10¹² liter/moles or more and more preferably 10⁸ to 10¹² liter/moles);\nsuch that they: a) bind to growth factor receptors with a kₒₙ-rate of between 10² M⁻¹s⁻¹ to about 10⁷ m⁻¹s⁻¹, preferably between 10³ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹, more preferably between 10⁴ M⁻¹s⁻¹ and 10⁷ M⁻¹ s⁻¹, such as between 10⁵ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹;\nand/or such that they: b) bind to growth factor receptors with a kₒₜₜ rate between 1 s⁻¹ (t₁/₂=0.69 s) and 10⁻⁶ s⁻¹ (providing a near irreversible complex with a t₁₂ of multiple days), preferably between 10⁻² s⁻¹ and 10⁻⁶ s⁻¹, more preferably between 10⁻³ s⁻¹ and 10⁻⁶ s⁻¹, such as between 10⁻⁴ s⁻¹ and 10⁻⁶ s⁻¹."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "kₒₜₜ rate",
+        "value": "1 to 10⁻⁶",
+        "unit": "s⁻¹",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPolypeptides comprising one or more Nanobodies of the invention are preferably such that they: bind to growth factor receptors with a dissociation constant (KₓD) of 10⁻⁵ to 10⁻¹² moles/liter or less, and preferably 10⁻⁷ to 10⁻¹² moles/liter or less and more preferably 10⁻⁸ to 10⁻¹² moles/liter (i.e. with an association constant (Kₐ) of 10⁵ to 10¹² liter/moles or more, and preferably 10⁷ to 10¹² liter/moles or more and more preferably 10⁸ to 10¹² liter/moles);\nsuch that they: a) bind to growth factor receptors with a kₒₙ-rate of between 10² M⁻¹s⁻¹ to about 10⁷ m⁻¹s⁻¹, preferably between 10³ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹, more preferably between 10⁴ M⁻¹s⁻¹ and 10⁷ M⁻¹ s⁻¹, such as between 10⁵ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹;\nand/or such that they: b) bind to growth factor receptors with a kₒₜₜ rate between 1 s⁻¹ (t₁/₂=0.69 s) and 10⁻⁶ s⁻¹ (providing a near irreversible complex with a t₁₂ of multiple days), preferably between 10⁻² s⁻¹ and 10⁻⁶ s⁻¹, more preferably between 10⁻³ s⁻¹ and 10⁻⁶ s⁻¹, such as between 10⁻⁴ s⁻¹ and 10⁻⁶ s⁻¹."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "kₒₜₜ rate",
+        "value": "10⁻² to 10⁻⁶",
+        "unit": "s⁻¹",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPolypeptides comprising one or more Nanobodies of the invention are preferably such that they: bind to growth factor receptors with a dissociation constant (KₓD) of 10⁻⁵ to 10⁻¹² moles/liter or less, and preferably 10⁻⁷ to 10⁻¹² moles/liter or less and more preferably 10⁻⁸ to 10⁻¹² moles/liter (i.e. with an association constant (Kₐ) of 10⁵ to 10¹² liter/moles or more, and preferably 10⁷ to 10¹² liter/moles or more and more preferably 10⁸ to 10¹² liter/moles);\nsuch that they: a) bind to growth factor receptors with a kₒₙ-rate of between 10² M⁻¹s⁻¹ to about 10⁷ m⁻¹s⁻¹, preferably between 10³ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹, more preferably between 10⁴ M⁻¹s⁻¹ and 10⁷ M⁻¹ s⁻¹, such as between 10⁵ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹;\nand/or such that they: b) bind to growth factor receptors with a kₒₜₜ rate between 1 s⁻¹ (t₁/₂=0.69 s) and 10⁻⁶ s⁻¹ (providing a near irreversible complex with a t₁₂ of multiple days), preferably between 10⁻² s⁻¹ and 10⁻⁶ s⁻¹, more preferably between 10⁻³ s⁻¹ and 10⁻⁶ s⁻¹, such as between 10⁻⁴ s⁻¹ and 10⁻⁶ s⁻¹."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "kₒₜₜ rate",
+        "value": "10⁻³ to 10⁻⁶",
+        "unit": "s⁻¹",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPolypeptides comprising one or more Nanobodies of the invention are preferably such that they: bind to growth factor receptors with a dissociation constant (KₓD) of 10⁻⁵ to 10⁻¹² moles/liter or less, and preferably 10⁻⁷ to 10⁻¹² moles/liter or less and more preferably 10⁻⁸ to 10⁻¹² moles/liter (i.e. with an association constant (Kₐ) of 10⁵ to 10¹² liter/moles or more, and preferably 10⁷ to 10¹² liter/moles or more and more preferably 10⁸ to 10¹² liter/moles);\nsuch that they: a) bind to growth factor receptors with a kₒₙ-rate of between 10² M⁻¹s⁻¹ to about 10⁷ m⁻¹s⁻¹, preferably between 10³ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹, more preferably between 10⁴ M⁻¹s⁻¹ and 10⁷ M⁻¹ s⁻¹, such as between 10⁵ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹;\nand/or such that they: b) bind to growth factor receptors with a kₒₜₜ rate between 1 s⁻¹ (t₁/₂=0.69 s) and 10⁻⁶ s⁻¹ (providing a near irreversible complex with a t₁₂ of multiple days), preferably between 10⁻² s⁻¹ and 10⁻⁶ s⁻¹, more preferably between 10⁻³ s⁻¹ and 10⁻⁶ s⁻¹, such as between 10⁻⁴ s⁻¹ and 10⁻⁶ s⁻¹."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "kₒₜₜ rate",
+        "value": "10⁻⁴ to 10⁻⁶",
+        "unit": "s⁻¹",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPolypeptides comprising one or more Nanobodies of the invention are preferably such that they: bind to growth factor receptors with a dissociation constant (KₓD) of 10⁻⁵ to 10⁻¹² moles/liter or less, and preferably 10⁻⁷ to 10⁻¹² moles/liter or less and more preferably 10⁻⁸ to 10⁻¹² moles/liter (i.e. with an association constant (Kₐ) of 10⁵ to 10¹² liter/moles or more, and preferably 10⁷ to 10¹² liter/moles or more and more preferably 10⁸ to 10¹² liter/moles);\nsuch that they: a) bind to growth factor receptors with a kₒₙ-rate of between 10² M⁻¹s⁻¹ to about 10⁷ m⁻¹s⁻¹, preferably between 10³ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹, more preferably between 10⁴ M⁻¹s⁻¹ and 10⁷ M⁻¹ s⁻¹, such as between 10⁵ M⁻¹s⁻¹ and 10⁷ M⁻¹s⁻¹;\nand/or such that they: b) bind to growth factor receptors with a kₒₜₜ rate between 1 s⁻¹ (t₁/₂=0.69 s) and 10⁻⁶ s⁻¹ (providing a near irreversible complex with a t₁₂ of multiple days), preferably between 10⁻² s⁻¹ and 10⁻⁶ s⁻¹, more preferably between 10⁻³ s⁻¹ and 10⁻⁶ s⁻¹, such as between 10⁻⁴ s⁻¹ and 10⁻⁶ s⁻¹."
+    },
+    {
+        "molecule_name": "Nanobodies of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "Kd",
+        "value": "10−5 to 10−12",
+        "unit": "moles/liter",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPreferably, the CDR sequences and FR sequences in the Nanobodies of the invention are such that the Nanobodies of the invention (and polypeptides of the invention comprising the same): bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles);\n\nand/or such that they: bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n\nand/or such that they: bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>"
+    },
+    {
+        "molecule_name": "Nanobodies of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "Kd",
+        "value": "10−7 to 10−12",
+        "unit": "moles/liter",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPreferably, the CDR sequences and FR sequences in the Nanobodies of the invention are such that the Nanobodies of the invention (and polypeptides of the invention comprising the same): bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles);\n\nand/or such that they: bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n\nand/or such that they: bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>"
+    },
+    {
+        "molecule_name": "Nanobodies of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "Kd",
+        "value": "10−8 to 10−12",
+        "unit": "moles/liter",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPreferably, the CDR sequences and FR sequences in the Nanobodies of the invention are such that the Nanobodies of the invention (and polypeptides of the invention comprising the same): bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles);\n\nand/or such that they: bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n\nand/or such that they: bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>"
+    },
+    {
+        "molecule_name": "Nanobodies of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "Ka",
+        "value": "10^5 to 10^12",
+        "unit": "liter/moles",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPreferably, the CDR sequences and FR sequences in the Nanobodies of the invention are such that the Nanobodies of the invention (and polypeptides of the invention comprising the same): bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles);\n\nand/or such that they: bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n\nand/or such that they: bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>"
+    },
+    {
+        "molecule_name": "Nanobodies of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "Ka",
+        "value": "10^7 to 10^12",
+        "unit": "liter/moles",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPreferably, the CDR sequences and FR sequences in the Nanobodies of the invention are such that the Nanobodies of the invention (and polypeptides of the invention comprising the same): bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles);\n\nand/or such that they: bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n\nand/or such that they: bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>"
+    },
+    {
+        "molecule_name": "Nanobodies of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "Ka",
+        "value": "10^8 to 10^12",
+        "unit": "liter/moles",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPreferably, the CDR sequences and FR sequences in the Nanobodies of the invention are such that the Nanobodies of the invention (and polypeptides of the invention comprising the same): bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles);\n\nand/or such that they: bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n\nand/or such that they: bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>"
+    },
+    {
+        "molecule_name": "Nanobodies of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "kon-rate",
+        "value": "10^2 to 10^7",
+        "unit": "M−1s−1",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPreferably, the CDR sequences and FR sequences in the Nanobodies of the invention are such that the Nanobodies of the invention (and polypeptides of the invention comprising the same): bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles);\n\nand/or such that they: bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n\nand/or such that they: bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>"
+    },
+    {
+        "molecule_name": "Nanobodies of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "kon-rate",
+        "value": "10^3 to 10^7",
+        "unit": "M−1s−1",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPreferably, the CDR sequences and FR sequences in the Nanobodies of the invention are such that the Nanobodies of the invention (and polypeptides of the invention comprising the same): bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles);\n\nand/or such that they: bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n\nand/or such that they: bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>"
+    },
+    {
+        "molecule_name": "Nanobodies of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "kon-rate",
+        "value": "10^4 to 10^7",
+        "unit": "M−1s−1",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPreferably, the CDR sequences and FR sequences in the Nanobodies of the invention are such that the Nanobodies of the invention (and polypeptides of the invention comprising the same): bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles);\n\nand/or such that they: bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n\nand/or such that they: bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>"
+    },
+    {
+        "molecule_name": "Nanobodies of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "kon-rate",
+        "value": "10^5 to 10^7",
+        "unit": "M−1s−1",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPreferably, the CDR sequences and FR sequences in the Nanobodies of the invention are such that the Nanobodies of the invention (and polypeptides of the invention comprising the same): bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles);\n\nand/or such that they: bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n\nand/or such that they: bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>"
+    },
+    {
+        "molecule_name": "Nanobodies of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "koff rate",
+        "value": "1 to 10−6",
+        "unit": "s−1",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPreferably, the CDR sequences and FR sequences in the Nanobodies of the invention are such that the Nanobodies of the invention (and polypeptides of the invention comprising the same): bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles);\n\nand/or such that they: bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n\nand/or such that they: bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>"
+    },
+    {
+        "molecule_name": "Nanobodies of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "koff rate",
+        "value": "10−2 to 10−6",
+        "unit": "s−1",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPreferably, the CDR sequences and FR sequences in the Nanobodies of the invention are such that the Nanobodies of the invention (and polypeptides of the invention comprising the same): bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles);\n\nand/or such that they: bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n\nand/or such that they: bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>"
+    },
+    {
+        "molecule_name": "Nanobodies of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "koff rate",
+        "value": "10−3 to 10−6",
+        "unit": "s−1",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPreferably, the CDR sequences and FR sequences in the Nanobodies of the invention are such that the Nanobodies of the invention (and polypeptides of the invention comprising the same): bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles);\n\nand/or such that they: bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n\nand/or such that they: bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>"
+    },
+    {
+        "molecule_name": "Nanobodies of the invention",
+        "protein_target_name": "growth factor receptors",
+        "binding_metric": "koff rate",
+        "value": "10−4 to 10−6",
+        "unit": "s−1",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nPreferably, the CDR sequences and FR sequences in the Nanobodies of the invention are such that the Nanobodies of the invention (and polypeptides of the invention comprising the same): bind to growth factor receptors with a dissociation constant (K<sub>D</sub>) of 10<sup>−5 </sup>to 10<sup>−12 </sup>moles/liter or less, and preferably 10<sup>−7 </sup>to 10<sup>−12 </sup>moles/liter or less and more preferably 10<sup>−8 </sup>to 10<sup>−12 </sup>moles/liter (i.e. with an association constant (K<sub>A</sub>) of 10<sup>5 </sup>to 10<sup>12 </sup>liter/moles or more, and preferably 10<sup>7 </sup>to 10<sup>12 </sup>liter/moles or more and more preferably 10<sup>8 </sup>to 10<sup>12 </sup>liter/moles);\n\nand/or such that they: bind to growth factor receptors with a k<sub>on</sub>-rate of between 10<sup>2 </sup>M<sup>−1</sup>s<sup>−1 </sup>to about 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, preferably between 10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, more preferably between 10<sup>4 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>, such as between 10<sup>5 </sup>M<sup>−1</sup>s<sup>−1 </sup>and 10<sup>7 </sup>M<sup>−1</sup>s<sup>−1</sup>;\n\nand/or such that they: bind to growth factor receptors with a k<sub>off </sub>rate between 1 s<sup>−1 </sup>(t<sub>1/2</sub>=0.69 s) and 10<sup>−6 </sup>s<sup>−1 </sup>(providing a near irreversible complex with a t<sub>1/2 </sub>of multiple days), preferably between 10<sup>−2 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, more preferably between 10<sup>−3 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>, such as between 10<sup>−4 </sup>s<sup>−1 </sup>and 10<sup>−6 </sup>s<sup>−1</sup>"
+    }
+]

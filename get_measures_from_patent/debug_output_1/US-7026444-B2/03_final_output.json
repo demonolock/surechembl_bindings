@@ -1,0 +1,11 @@
+[
+    {
+        "molecule_name": "Extracellular Novel RAGE Binding Protein",
+        "protein_target_name": "RAGE",
+        "binding_metric": "Kd",
+        "value": "75",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "EN-RAGE binds immobilized RAGE and endothelial (EC)/macrophage (MP) RAGE in culture wells with Kd≈75nM, \nExposure of cultured ECs to EN-RAGE increased activation of NF-kB, expression of cell-surface VCAM-1 (4.3-fold compared to treatment with bovine serum albumin BSA), and adhesion of Molt-4 cells (which bear VLA-4, the counter-ligand for VCAM-1) (7-fold compared with BSA), all in a manner inhibited in the presence of anti-RAGE IgG or sRAGE."
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "molecule_name": "exo-8-Benzyloxymethyl-3-ethoxycarbonyl-4-hydroxy-1-azabicyclo[3.3.1]non-3-ene",
+        "protein_target_name": "human M2 receptor",
+        "binding_metric": "Ki",
+        "value": "14-fold greater than atropine",
+        "unit": null,
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nIt was additionally observed that exo-8-benzyloxymethyl-3-ethoxycarbonyl-4-hydroxy-1-azabicyclo[3.3.1]non-3-ene (compound 5) functioned as a muscarinic receptor antagonist with a Ki only 14-fold greater than atropine at the human M2 receptor.\nA membrane suspension containing approximately 200 fmol of receptor was pre-incubated with 1 μM AMP-PNP for 15 min at 4° C.\nPurified Gα<sub>i1 </sub>and β<sub>1γ2 </sub>were added to a final concentration of 10 nM followed by the addition of concentrated GDP for a final concentration of 50 nM.\nThe assay was initiated by the addition of the appropriate ligand followed by [<sup>35</sup>S]GTPγS to a final concentration of approximately 7 nM and the incubation continued at 25° C. for 2 min.\nFIG. 4 illustrates the functional activity of analogues at the human M2 receptor: [<sup>35 </sup>S]GTPγS binding assays were carried out in Sf9 cell membranes expressing the M2 muscarinic receptor in the presence of increasing concentrations of carbachol (Carb) or 100 μM of compound 4, 5, or 6."
+    }
+]

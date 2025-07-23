@@ -1,0 +1,11 @@
+[
+    {
+        "molecule_name": "Repulsive Guidance Molecule A",
+        "protein_target_name": "Neogenin",
+        "binding_metric": "Kd",
+        "value": "230",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "(D) Scatchard analysis of RGM-AP binding to Neogenin expressing cells. Data from (C) are replotted. The Kd is 230 pM.\n(C) Netrin- 1 does not alter the binding of RGM-AP to Neogenin. The ability of chick RGM-AP to bind to COS-7 cells expressing wild type mouse Neogenin was assessed in the presence or absence of conditioned medium containing Netrin- 1-Myc (100 nM)."
+    }
+]

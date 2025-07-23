@@ -1,0 +1,47 @@
+[
+    {
+        "molecule_name": "SEQ ID NOs: 161",
+        "protein_target_name": "DMPK",
+        "binding_metric": "EC50",
+        "value": "3.27",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nFor example, antisense oligonucleotides comprising SEQ ID NOs: 161, 112, 119, 87, and 109 resulted in EC-50 values of 3.27 nM, 3.59 nM, 5.45 nM, 6.04 nM, and 24.59 nM, respectively. \nEach of the eighteen antisense oligonucleotides selected for dose-dependent experimentation were capable of dose-dependently reducing DMPK in differentiated myotubes. Further, each of the tested antisense oligonucleotides reduced DMPK with EC-50 values below 25 nM."
+    },
+    {
+        "molecule_name": "SEQ ID NOs: 112",
+        "protein_target_name": "DMPK",
+        "binding_metric": "EC50",
+        "value": "3.59",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nFor example, antisense oligonucleotides comprising SEQ ID NOs: 161, 112, 119, 87, and 109 resulted in EC-50 values of 3.27 nM, 3.59 nM, 5.45 nM, 6.04 nM, and 24.59 nM, respectively. \nEach of the eighteen antisense oligonucleotides selected for dose-dependent experimentation were capable of dose-dependently reducing DMPK in differentiated myotubes. Further, each of the tested antisense oligonucleotides reduced DMPK with EC-50 values below 25 nM."
+    },
+    {
+        "molecule_name": "SEQ ID NOs: 119",
+        "protein_target_name": "DMPK",
+        "binding_metric": "EC50",
+        "value": "5.45",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nFor example, antisense oligonucleotides comprising SEQ ID NOs: 161, 112, 119, 87, and 109 resulted in EC-50 values of 3.27 nM, 3.59 nM, 5.45 nM, 6.04 nM, and 24.59 nM, respectively. \nEach of the eighteen antisense oligonucleotides selected for dose-dependent experimentation were capable of dose-dependently reducing DMPK in differentiated myotubes. Further, each of the tested antisense oligonucleotides reduced DMPK with EC-50 values below 25 nM."
+    },
+    {
+        "molecule_name": "SEQ ID NOs: 87",
+        "protein_target_name": "DMPK",
+        "binding_metric": "EC50",
+        "value": "6.04",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nFor example, antisense oligonucleotides comprising SEQ ID NOs: 161, 112, 119, 87, and 109 resulted in EC-50 values of 3.27 nM, 3.59 nM, 5.45 nM, 6.04 nM, and 24.59 nM, respectively. \nEach of the eighteen antisense oligonucleotides selected for dose-dependent experimentation were capable of dose-dependently reducing DMPK in differentiated myotubes. Further, each of the tested antisense oligonucleotides reduced DMPK with EC-50 values below 25 nM."
+    },
+    {
+        "molecule_name": "SEQ ID NOs: 109",
+        "protein_target_name": "DMPK",
+        "binding_metric": "EC50",
+        "value": "24.59",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nFor example, antisense oligonucleotides comprising SEQ ID NOs: 161, 112, 119, 87, and 109 resulted in EC-50 values of 3.27 nM, 3.59 nM, 5.45 nM, 6.04 nM, and 24.59 nM, respectively. \nEach of the eighteen antisense oligonucleotides selected for dose-dependent experimentation were capable of dose-dependently reducing DMPK in differentiated myotubes. Further, each of the tested antisense oligonucleotides reduced DMPK with EC-50 values below 25 nM."
+    }
+]

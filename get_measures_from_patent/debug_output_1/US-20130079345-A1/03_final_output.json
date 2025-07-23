@@ -1,0 +1,47 @@
+[
+    {
+        "molecule_name": "CDK2 ",
+        "protein_target_name": "CDK2/Cyclin A",
+        "binding_metric": "Kd",
+        "value": "30",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe tracer concentration was adjusted to its dissociation constant (Kd) for the CDK/Cyclin, which was 30 nM for CDK2/Cyclin A, CDK7/Cyclin H and CDK9/Cyclin T1, 20 nM for CDK8/Cyclin C, and 35 nM for CDK9 /Cyclin K.\n\n\nNo other sentences met the criteria, as they either lacked a specific molecule name, bioactivity metric, numeric value, or unit."
+    },
+    {
+        "molecule_name": "CDK7",
+        "protein_target_name": "CDK7/Cyclin H",
+        "binding_metric": "Kd",
+        "value": "30",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe tracer concentration was adjusted to its dissociation constant (Kd) for the CDK/Cyclin, which was 30 nM for CDK2/Cyclin A, CDK7/Cyclin H and CDK9/Cyclin T1, 20 nM for CDK8/Cyclin C, and 35 nM for CDK9 /Cyclin K.\n\n\nNo other sentences met the criteria, as they either lacked a specific molecule name, bioactivity metric, numeric value, or unit."
+    },
+    {
+        "molecule_name": "CDK9 ",
+        "protein_target_name": "CDK9/Cyclin T1",
+        "binding_metric": "Kd",
+        "value": "30",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe tracer concentration was adjusted to its dissociation constant (Kd) for the CDK/Cyclin, which was 30 nM for CDK2/Cyclin A, CDK7/Cyclin H and CDK9/Cyclin T1, 20 nM for CDK8/Cyclin C, and 35 nM for CDK9 /Cyclin K.\n\n\nNo other sentences met the criteria, as they either lacked a specific molecule name, bioactivity metric, numeric value, or unit."
+    },
+    {
+        "molecule_name": "CDK8 ",
+        "protein_target_name": "CDK8/Cyclin C",
+        "binding_metric": "Kd",
+        "value": "20",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe tracer concentration was adjusted to its dissociation constant (Kd) for the CDK/Cyclin, which was 30 nM for CDK2/Cyclin A, CDK7/Cyclin H and CDK9/Cyclin T1, 20 nM for CDK8/Cyclin C, and 35 nM for CDK9 /Cyclin K.\n\n\nNo other sentences met the criteria, as they either lacked a specific molecule name, bioactivity metric, numeric value, or unit."
+    },
+    {
+        "molecule_name": "CDK9 ",
+        "protein_target_name": "CDK9/Cyclin K",
+        "binding_metric": "Kd",
+        "value": "35",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe tracer concentration was adjusted to its dissociation constant (Kd) for the CDK/Cyclin, which was 30 nM for CDK2/Cyclin A, CDK7/Cyclin H and CDK9/Cyclin T1, 20 nM for CDK8/Cyclin C, and 35 nM for CDK9 /Cyclin K.\n\n\nNo other sentences met the criteria, as they either lacked a specific molecule name, bioactivity metric, numeric value, or unit."
+    }
+]

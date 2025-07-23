@@ -1,0 +1,11 @@
+[
+    {
+        "molecule_name": "CCR8",
+        "protein_target_name": "CCR8",
+        "binding_metric": "EC50",
+        "value": "1.6, 1.8, 1.9, 2.0, 2.2, 2.3, 2.6, 2.7",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "In some embodiments, the half maximal effective concentration (EC50) of the anti-CCR 8 antibody to CCR8 is about 1.6, 1.8, 1.9, 2.0, 2.2, 2.3, 2.6, or 2.7 nM."
+    }
+]

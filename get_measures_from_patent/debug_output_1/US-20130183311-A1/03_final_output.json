@@ -1,0 +1,29 @@
+[
+    {
+        "molecule_name": "Vascular Endothelial Growth Factor",
+        "protein_target_name": "VEGFR1",
+        "binding_metric": "Kd",
+        "value": "15-100",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "The Kd of VEGF binding to VEGFR1 and VEGFR2 is 15-100 μM and 400-800 μM, respectively (Terman et al., 1994)."
+    },
+    {
+        "molecule_name": "Vascular Endothelial Growth Factor",
+        "protein_target_name": "VEGFR2",
+        "binding_metric": "Kd",
+        "value": "400-800",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "The Kd of VEGF binding to VEGFR1 and VEGFR2 is 15-100 μM and 400-800 μM, respectively (Terman et al., 1994)."
+    },
+    {
+        "molecule_name": "Epidermal Growth Factor (EGF)",
+        "protein_target_name": "ErbB",
+        "binding_metric": "KD",
+        "value": "<1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Based on our in silico analysis of the ErbB cell signaling pathway, we identified the ErbB 1 binding molecule as the high affinity binding site with a low dissociation constant KD<1 nM, but which is not irreversible."
+    }
+]

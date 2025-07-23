@@ -1,0 +1,83 @@
+[
+    {
+        "molecule_name": "Transthyretin",
+        "protein_target_name": "pH4-TTR",
+        "binding_metric": "Kd",
+        "value": "16",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAll mAbs showed significant binding to pH4-TTR with Kd values ranging from 16 nM (6C1) to 282 nM (9D5).\nB<sub>ma</sub>x values for binding to pH4-TTR ranged from a low of 0.65 a.u. (14G8) to a high of 2.02 (9D5). \n\nNote that only two sentences were found to contain all four required components: a specific molecule name (e.g. 6C1, 9D5), a bioactivity metric (Kd), a specific numeric value for that metric (e.g. 16, 282), and a unit for that value (nM)."
+    },
+    {
+        "molecule_name": "Transthyretin",
+        "protein_target_name": "pH4-TTR",
+        "binding_metric": "Kd",
+        "value": "282",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAll mAbs showed significant binding to pH4-TTR with Kd values ranging from 16 nM (6C1) to 282 nM (9D5).\nB<sub>ma</sub>x values for binding to pH4-TTR ranged from a low of 0.65 a.u. (14G8) to a high of 2.02 (9D5). \n\nNote that only two sentences were found to contain all four required components: a specific molecule name (e.g. 6C1, 9D5), a bioactivity metric (Kd), a specific numeric value for that metric (e.g. 16, 282), and a unit for that value (nM)."
+    },
+    {
+        "molecule_name": "Transthyretin",
+        "protein_target_name": "pH4-TTR",
+        "binding_metric": "Bmax",
+        "value": "0.65",
+        "unit": "a.u.",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAll mAbs showed significant binding to pH4-TTR with Kd values ranging from 16 nM (6C1) to 282 nM (9D5).\nB<sub>ma</sub>x values for binding to pH4-TTR ranged from a low of 0.65 a.u. (14G8) to a high of 2.02 (9D5). \n\nNote that only two sentences were found to contain all four required components: a specific molecule name (e.g. 6C1, 9D5), a bioactivity metric (Kd), a specific numeric value for that metric (e.g. 16, 282), and a unit for that value (nM)."
+    },
+    {
+        "molecule_name": "Transthyretin",
+        "protein_target_name": "pH4-TTR",
+        "binding_metric": "Bmax",
+        "value": "2.02",
+        "unit": "a.u.",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAll mAbs showed significant binding to pH4-TTR with Kd values ranging from 16 nM (6C1) to 282 nM (9D5).\nB<sub>ma</sub>x values for binding to pH4-TTR ranged from a low of 0.65 a.u. (14G8) to a high of 2.02 (9D5). \n\nNote that only two sentences were found to contain all four required components: a specific molecule name (e.g. 6C1, 9D5), a bioactivity metric (Kd), a specific numeric value for that metric (e.g. 16, 282), and a unit for that value (nM)."
+    },
+    {
+        "molecule_name": "Transthyretin",
+        "protein_target_name": "pH4-TTR",
+        "binding_metric": "KD",
+        "value": "14.5",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nThese antibodies had affinities (KD) for pH4-TTR ranging from 14.5 nM (6C1) to 257 nM (9D5) \nFibril formation was associated with an increase in ThT fluorescence Increasing 14G8 mAb concentrations caused a monotonic decrease in ThT fluorescence indicating a substoichiometric inhibition of TTR fibrillation (IC5o=0.028±0.009 mg/mL; n=3; Figure 4B and Table 4a)."
+    },
+    {
+        "molecule_name": "Transthyretin",
+        "protein_target_name": "pH4-TTR",
+        "binding_metric": "KD",
+        "value": "257",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nThese antibodies had affinities (KD) for pH4-TTR ranging from 14.5 nM (6C1) to 257 nM (9D5) \nFibril formation was associated with an increase in ThT fluorescence Increasing 14G8 mAb concentrations caused a monotonic decrease in ThT fluorescence indicating a substoichiometric inhibition of TTR fibrillation (IC5o=0.028±0.009 mg/mL; n=3; Figure 4B and Table 4a)."
+    },
+    {
+        "molecule_name": "Transthyretin",
+        "protein_target_name": "TTR",
+        "binding_metric": "IC5o",
+        "value": "0.028",
+        "unit": "mg/mL",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nThese antibodies had affinities (KD) for pH4-TTR ranging from 14.5 nM (6C1) to 257 nM (9D5) \nFibril formation was associated with an increase in ThT fluorescence Increasing 14G8 mAb concentrations caused a monotonic decrease in ThT fluorescence indicating a substoichiometric inhibition of TTR fibrillation (IC5o=0.028±0.009 mg/mL; n=3; Figure 4B and Table 4a)."
+    },
+    {
+        "molecule_name": "Transthyretin",
+        "protein_target_name": "TTR-F87M/L110M",
+        "binding_metric": "KD",
+        "value": "1.82E-08",
+        "unit": "M",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThese results indicate that the affinity of murine 9D5 for TTR-F87M/L110M (KD = 1.82E-08M) has been slightly improved in the chimeric 9D5 variant (K<sub>D</sub> = 1.35E-09M).\nFurthermore, the fully humanized 9D5 variants all have similar affinities in the low nM range. \nHu9D5 H4L1 has the strongest affinity (K<sub>D</sub> = 2.09E-09) of the humanized 9D5 variants tested."
+    },
+    {
+        "molecule_name": "Transthyretin",
+        "protein_target_name": "TTR-F87M/L110M",
+        "binding_metric": "KD",
+        "value": "1.35E-09",
+        "unit": "M",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThese results indicate that the affinity of murine 9D5 for TTR-F87M/L110M (KD = 1.82E-08M) has been slightly improved in the chimeric 9D5 variant (K<sub>D</sub> = 1.35E-09M).\nFurthermore, the fully humanized 9D5 variants all have similar affinities in the low nM range. \nHu9D5 H4L1 has the strongest affinity (K<sub>D</sub> = 2.09E-09) of the humanized 9D5 variants tested."
+    }
+]

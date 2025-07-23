@@ -1,0 +1,47 @@
+[
+    {
+        "molecule_name": "Immunoglobulin",
+        "protein_target_name": "protein",
+        "binding_metric": "KD",
+        "value": "0.1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "In certain embodiments \"specifically binds\" means, for instance, that an antibody binds a protein with a KD of about 0.1 nM or less, but more usually less than about 1µM.\nIn certain embodiments, \"specifically binds\" means that an antibody binds a target at times with a KD of at least about 0.1 µM or less, at other times at least about 0.01µM or less, and at other times at least about 1 nM or less."
+    },
+    {
+        "molecule_name": "Immunoglobulin",
+        "protein_target_name": "target",
+        "binding_metric": "KD",
+        "value": "0.1",
+        "unit": "µM",
+        "is_logarithmic": false,
+        "raw_mentions": "In certain embodiments \"specifically binds\" means, for instance, that an antibody binds a protein with a KD of about 0.1 nM or less, but more usually less than about 1µM.\nIn certain embodiments, \"specifically binds\" means that an antibody binds a target at times with a KD of at least about 0.1 µM or less, at other times at least about 0.01µM or less, and at other times at least about 1 nM or less."
+    },
+    {
+        "molecule_name": "Immunoglobulin",
+        "protein_target_name": "target",
+        "binding_metric": "KD",
+        "value": "0.01",
+        "unit": "µM",
+        "is_logarithmic": false,
+        "raw_mentions": "In certain embodiments \"specifically binds\" means, for instance, that an antibody binds a protein with a KD of about 0.1 nM or less, but more usually less than about 1µM.\nIn certain embodiments, \"specifically binds\" means that an antibody binds a target at times with a KD of at least about 0.1 µM or less, at other times at least about 0.01µM or less, and at other times at least about 1 nM or less."
+    },
+    {
+        "molecule_name": "Immunoglobulin",
+        "protein_target_name": "target",
+        "binding_metric": "KD",
+        "value": "1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "In certain embodiments \"specifically binds\" means, for instance, that an antibody binds a protein with a KD of about 0.1 nM or less, but more usually less than about 1µM.\nIn certain embodiments, \"specifically binds\" means that an antibody binds a target at times with a KD of at least about 0.1 µM or less, at other times at least about 0.01µM or less, and at other times at least about 1 nM or less."
+    },
+    {
+        "molecule_name": "biotinylated cH2B4",
+        "protein_target_name": "Jurkat cells",
+        "binding_metric": "EC50",
+        "value": "0.8",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "The EC50 of the binding of biotinylated cH2B4 to Jurkat cells was determined to be 0.8nM.\nTable 10 shows the result of IC50 values of competition binding when mutations were introduced in CD3 antibody H2B4 to optimize the frameworks, with h2B4 1.0/1.0T (2B5) having an IC50 of 1.27, however unit is missing for this value.\nh2B4 1.0/1.0T (2B5) is mentioned to have an IC50 of competition binding of 1.27, but unit is missing for this value."
+    }
+]

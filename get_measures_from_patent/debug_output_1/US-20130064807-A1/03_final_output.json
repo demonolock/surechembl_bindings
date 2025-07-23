@@ -1,0 +1,20 @@
+[
+    {
+        "molecule_name": "Argatroban",
+        "protein_target_name": "thrombin",
+        "binding_metric": "Ki",
+        "value": "0.04",
+        "unit": "μmol/l",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nArgatroban is a small arginine-derived thrombin inhibitor with a molecular weight of 526.66 and Ki values of 0.04 μmol/l.\nOwing to its strong affinity for thrombin (Ki values of 0.04 μmol/l) and its direct mechanism of action, its clinical application includes anticoagulation for patients with heparin-induced thrombocytopenia."
+    },
+    {
+        "molecule_name": "Argatroban",
+        "protein_target_name": "thrombin",
+        "binding_metric": "Ki",
+        "value": "0.04",
+        "unit": "μmol/l",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nArgatroban is a small arginine-derived thrombin inhibitor with a molecular weight of 526.66 and Ki values of 0.04 μmol/l.\nOwing to its strong affinity for thrombin (Ki values of 0.04 μmol/l) and its direct mechanism of action, its clinical application includes anticoagulation for patients with heparin-induced thrombocytopenia."
+    }
+]

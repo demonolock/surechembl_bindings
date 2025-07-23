@@ -1,0 +1,20 @@
+[
+    {
+        "molecule_name": "3-([1,1'-biphenyl]-4-ylsulfonyl)-N-[1-(4-fluorophenyl)-3-hydroxypropyl]-1,3-thiazolidine-2-carboxamide",
+        "protein_target_name": "human FP-R",
+        "binding_metric": "Ki",
+        "value": "6",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. Compound II, previously described in US 8,415,480, is an antagonist of the prostaglandin F receptor, as this compound exhibits an inhibition constant (Ki) of 6 nM for human FP-R as determined by competitive radioligand binding assays.\n2. It has been discovered that compound I is an inhibitor of the prostaglandin F receptor, as compound I inhibits human FP-R with a Ki of 1 nM."
+    },
+    {
+        "molecule_name": "Atosiban",
+        "protein_target_name": "human FP-R",
+        "binding_metric": "Ki",
+        "value": "1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. Compound II, previously described in US 8,415,480, is an antagonist of the prostaglandin F receptor, as this compound exhibits an inhibition constant (Ki) of 6 nM for human FP-R as determined by competitive radioligand binding assays.\n2. It has been discovered that compound I is an inhibitor of the prostaglandin F receptor, as compound I inhibits human FP-R with a Ki of 1 nM."
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "molecule_name": "antibodies of the invention",
+        "protein_target_name": "CLDN6",
+        "binding_metric": "KD",
+        "value": "1 to 100",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "The antibodies of the invention preferably dissociate from CLDN6 with a dissociation equilibrium constant (KD) of about 1 to 100nM or less.\nb) (ii) a binding affinity for CLDN6 of about 100nM or less, preferably about 5-10 nM or less, and more preferably about 1-3 nM or less,"
+    },
+    {
+        "molecule_name": "antibodies of the invention",
+        "protein_target_name": "CLDN6",
+        "binding_metric": "EC50",
+        "value": "6500ng/ml or less",
+        "unit": "ng/ml",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* The antibodies of the invention preferably have an EC50 value for binding to CLDN6 of 6500ng/ml or less, 3000ng/ml or less, 2500ng/ml or less, 2000ng/ml or less, 1500ng/ml or less, 1000ng/ml or less, 500ng/ml or less, 400ng/ml or less, 300ng/ml or less, 200ng/ml or less or 100ng/ml or less.\n* Preferably, the antibody detectably binds to the target if present at a concentration of 50nM or less, 30nM or less, or 15nM or less.\n* Preferably, the antibody does not detectably bind to the target if present at a concentration of up to 15nM, preferably up to 30nM, preferably up to 50nM, preferably up to 100nM, preferably up to 150nM or up to 170nM, up to 300mM, up to 600nM, up to 1000nM, up to 1300nM or higher."
+    },
+    {
+        "molecule_name": "chimAB 64A and 89A",
+        "protein_target_name": "CLDN6",
+        "binding_metric": "EC50",
+        "value": "450-600",
+        "unit": "ng/ml",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The anti-CLDN 6 chimeric monoclonal antibodies chimAB 64A and 89A showed very low EC50 values (EC50 450-600 ng/ml) for binding to human CLDN6 stably expressed on the surface of HEK293 cells and saturation binding was achieved at low concentrations.\n2. ChimAB 67A and 61D showed low (EC50 1000 ng/ml) and moderate (EC50 2300 ng/ml) EC50 values, respectively (FIG. 12).\n3. For binding to CLDN6 endogenously expressed in NEC8 cells, the anti-CLDN 6 chimeric monoclonal antibodies chimAB 64A and 89A showed very low EC50 values (EC50 600-650 ng/ml) and reached saturation binding at low concentrations, while chimAB 61D and 67A showed moderate (EC50 1700 ng/ml) and high (EC50 6100 ng/ml) EC50 values, respectively (fig. 13).\n4. The anti-CLDN 6 chimeric monoclonal antibodies chimAB 64A and 89A showed very low EC50 values (EC50 550-600 ng/ml) for binding to CLDN6 endogenously expressed in OV90 cells and saturation binding was achieved at low concentrations.\n5. chimAB 61D and 67A showed moderate EC50 values (EC50 1500 ng/ml and EC50 2300 ng/ml, respectively) (fig. 14)."
+    },
+    {
+        "molecule_name": "chimAB 64A and 89A",
+        "protein_target_name": "CLDN6",
+        "binding_metric": "EC50",
+        "value": "600-650",
+        "unit": "ng/ml",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The anti-CLDN 6 chimeric monoclonal antibodies chimAB 64A and 89A showed very low EC50 values (EC50 450-600 ng/ml) for binding to human CLDN6 stably expressed on the surface of HEK293 cells and saturation binding was achieved at low concentrations.\n2. ChimAB 67A and 61D showed low (EC50 1000 ng/ml) and moderate (EC50 2300 ng/ml) EC50 values, respectively (FIG. 12).\n3. For binding to CLDN6 endogenously expressed in NEC8 cells, the anti-CLDN 6 chimeric monoclonal antibodies chimAB 64A and 89A showed very low EC50 values (EC50 600-650 ng/ml) and reached saturation binding at low concentrations, while chimAB 61D and 67A showed moderate (EC50 1700 ng/ml) and high (EC50 6100 ng/ml) EC50 values, respectively (fig. 13).\n4. The anti-CLDN 6 chimeric monoclonal antibodies chimAB 64A and 89A showed very low EC50 values (EC50 550-600 ng/ml) for binding to CLDN6 endogenously expressed in OV90 cells and saturation binding was achieved at low concentrations.\n5. chimAB 61D and 67A showed moderate EC50 values (EC50 1500 ng/ml and EC50 2300 ng/ml, respectively) (fig. 14)."
+    },
+    {
+        "molecule_name": "Claudin 6",
+        "protein_target_name": "CLDN6",
+        "binding_metric": "EC50",
+        "value": "1700",
+        "unit": "ng/ml",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The anti-CLDN 6 chimeric monoclonal antibodies chimAB 64A and 89A showed very low EC50 values (EC50 450-600 ng/ml) for binding to human CLDN6 stably expressed on the surface of HEK293 cells and saturation binding was achieved at low concentrations.\n2. ChimAB 67A and 61D showed low (EC50 1000 ng/ml) and moderate (EC50 2300 ng/ml) EC50 values, respectively (FIG. 12).\n3. For binding to CLDN6 endogenously expressed in NEC8 cells, the anti-CLDN 6 chimeric monoclonal antibodies chimAB 64A and 89A showed very low EC50 values (EC50 600-650 ng/ml) and reached saturation binding at low concentrations, while chimAB 61D and 67A showed moderate (EC50 1700 ng/ml) and high (EC50 6100 ng/ml) EC50 values, respectively (fig. 13).\n4. The anti-CLDN 6 chimeric monoclonal antibodies chimAB 64A and 89A showed very low EC50 values (EC50 550-600 ng/ml) for binding to CLDN6 endogenously expressed in OV90 cells and saturation binding was achieved at low concentrations.\n5. chimAB 61D and 67A showed moderate EC50 values (EC50 1500 ng/ml and EC50 2300 ng/ml, respectively) (fig. 14)."
+    },
+    {
+        "molecule_name": "Claudin 6",
+        "protein_target_name": "CLDN6",
+        "binding_metric": "EC50",
+        "value": "6100",
+        "unit": "ng/ml",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The anti-CLDN 6 chimeric monoclonal antibodies chimAB 64A and 89A showed very low EC50 values (EC50 450-600 ng/ml) for binding to human CLDN6 stably expressed on the surface of HEK293 cells and saturation binding was achieved at low concentrations.\n2. ChimAB 67A and 61D showed low (EC50 1000 ng/ml) and moderate (EC50 2300 ng/ml) EC50 values, respectively (FIG. 12).\n3. For binding to CLDN6 endogenously expressed in NEC8 cells, the anti-CLDN 6 chimeric monoclonal antibodies chimAB 64A and 89A showed very low EC50 values (EC50 600-650 ng/ml) and reached saturation binding at low concentrations, while chimAB 61D and 67A showed moderate (EC50 1700 ng/ml) and high (EC50 6100 ng/ml) EC50 values, respectively (fig. 13).\n4. The anti-CLDN 6 chimeric monoclonal antibodies chimAB 64A and 89A showed very low EC50 values (EC50 550-600 ng/ml) for binding to CLDN6 endogenously expressed in OV90 cells and saturation binding was achieved at low concentrations.\n5. chimAB 61D and 67A showed moderate EC50 values (EC50 1500 ng/ml and EC50 2300 ng/ml, respectively) (fig. 14)."
+    },
+    {
+        "molecule_name": "chimAB 64A and 89A",
+        "protein_target_name": "CLDN6",
+        "binding_metric": "EC50",
+        "value": "550-600",
+        "unit": "ng/ml",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. The anti-CLDN 6 chimeric monoclonal antibodies chimAB 64A and 89A showed very low EC50 values (EC50 450-600 ng/ml) for binding to human CLDN6 stably expressed on the surface of HEK293 cells and saturation binding was achieved at low concentrations.\n2. ChimAB 67A and 61D showed low (EC50 1000 ng/ml) and moderate (EC50 2300 ng/ml) EC50 values, respectively (FIG. 12).\n3. For binding to CLDN6 endogenously expressed in NEC8 cells, the anti-CLDN 6 chimeric monoclonal antibodies chimAB 64A and 89A showed very low EC50 values (EC50 600-650 ng/ml) and reached saturation binding at low concentrations, while chimAB 61D and 67A showed moderate (EC50 1700 ng/ml) and high (EC50 6100 ng/ml) EC50 values, respectively (fig. 13).\n4. The anti-CLDN 6 chimeric monoclonal antibodies chimAB 64A and 89A showed very low EC50 values (EC50 550-600 ng/ml) for binding to CLDN6 endogenously expressed in OV90 cells and saturation binding was achieved at low concentrations.\n5. chimAB 61D and 67A showed moderate EC50 values (EC50 1500 ng/ml and EC50 2300 ng/ml, respectively) (fig. 14)."
+    }
+]

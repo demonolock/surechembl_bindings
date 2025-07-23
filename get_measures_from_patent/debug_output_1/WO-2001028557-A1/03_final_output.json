@@ -1,0 +1,20 @@
+[
+    {
+        "molecule_name": "cannabinoid analog",
+        "protein_target_name": "CB1",
+        "binding_metric": "IC50",
+        "value": "0.1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* a cannabinoid analog which has an IC50 of 0.1 nM for CB1 and 10 nM for CB2, is 100 times more selective for the CB1 receptor.\n* Nonspecific binding was assessed using 100 nM CP-55,940.\n* Approximately 30 μg of membranes were incubated in silanized 96-well microtiter plate with TME containing 0.1 % essentially fatty acid-free bovine serum albumin (BSA), 0.8 nM [3H] CP-55,940, and various concentrations of test materials at 200 °C for 1 hour."
+    },
+    {
+        "molecule_name": "cannabinoid analog",
+        "protein_target_name": "CB2",
+        "binding_metric": "IC50",
+        "value": "10",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* a cannabinoid analog which has an IC50 of 0.1 nM for CB1 and 10 nM for CB2, is 100 times more selective for the CB1 receptor.\n* Nonspecific binding was assessed using 100 nM CP-55,940.\n* Approximately 30 μg of membranes were incubated in silanized 96-well microtiter plate with TME containing 0.1 % essentially fatty acid-free bovine serum albumin (BSA), 0.8 nM [3H] CP-55,940, and various concentrations of test materials at 200 °C for 1 hour."
+    }
+]

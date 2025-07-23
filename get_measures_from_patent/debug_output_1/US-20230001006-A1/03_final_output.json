@@ -1,0 +1,11 @@
+[
+    {
+        "molecule_name": "monoclonal 3C23K antibody",
+        "protein_target_name": "AMHRII",
+        "binding_metric": "Kd",
+        "value": "55.3",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here is the extracted sentence:\n\nFurther, determination of AMHRII expression by an immuno-histochemical method with the view of determining a AMHRII score most preferably involves a careful pretreatment of the tissue sample before contacting the said sample with an appropriate detection reagent (e.g. a high affinity anti-AMHRII monoclonal antibody such as monoclonal 3C23K antibody, having a Kd value of 55.3 pM for binding to AMHRII)."
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "molecule_name": "X",
+        "protein_target_name": "Y",
+        "binding_metric": "Kd",
+        "value": "200nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe term \"specifically binds\" or \"specifically binds\" to \"or\" specific for \"a particular polypeptide or an epitope on a particular polypeptide target as used herein may be exhibited, for example, by a molecule having the following Kd for the target: at least about 200nM, or at least about 150nM, or at least about 100nM, or at least about 60nM, or at least about 50nM, or at least about 40nM, or at least about 30nM, or at least about 20nM, or at least about 10nM, or at least about 8nM, or at least about 6nM, or at least about 4nM, or at least about 2nM, or at least about 1nM or greater.\nThe affinity of a molecule X for its partner Y can generally be expressed by the dissociation constant (Kd). For example, the Kd may be about 200nM, 150nM, 100nM, 60nM, 50nM, 40nM, 30nM, 20nM, 10nM, 8nM, 6nM, 4nM, 2nM, 1nM or stronger.\nAs used herein, \"Kd\" or \"Kd value\" refers to the dissociation constant as measured by a technique suitable for antibody and target pairs, e.g., determined using surface plasmon resonance, e.g., using BIAcore at 25 ℃-2000 or BIAcore3000(BIAcore, inc., Piscataway, n.j.), using approximately 10 Reaction Units (RU) of immobilized antigen CM5 wafers."
+    },
+    {
+        "molecule_name": "X",
+        "protein_target_name": "Y",
+        "binding_metric": "Kd",
+        "value": "150nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe term \"specifically binds\" or \"specifically binds\" to \"or\" specific for \"a particular polypeptide or an epitope on a particular polypeptide target as used herein may be exhibited, for example, by a molecule having the following Kd for the target: at least about 200nM, or at least about 150nM, or at least about 100nM, or at least about 60nM, or at least about 50nM, or at least about 40nM, or at least about 30nM, or at least about 20nM, or at least about 10nM, or at least about 8nM, or at least about 6nM, or at least about 4nM, or at least about 2nM, or at least about 1nM or greater.\nThe affinity of a molecule X for its partner Y can generally be expressed by the dissociation constant (Kd). For example, the Kd may be about 200nM, 150nM, 100nM, 60nM, 50nM, 40nM, 30nM, 20nM, 10nM, 8nM, 6nM, 4nM, 2nM, 1nM or stronger.\nAs used herein, \"Kd\" or \"Kd value\" refers to the dissociation constant as measured by a technique suitable for antibody and target pairs, e.g., determined using surface plasmon resonance, e.g., using BIAcore at 25 ℃-2000 or BIAcore3000(BIAcore, inc., Piscataway, n.j.), using approximately 10 Reaction Units (RU) of immobilized antigen CM5 wafers."
+    },
+    {
+        "molecule_name": "X",
+        "protein_target_name": "Y",
+        "binding_metric": "Kd",
+        "value": "100nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe term \"specifically binds\" or \"specifically binds\" to \"or\" specific for \"a particular polypeptide or an epitope on a particular polypeptide target as used herein may be exhibited, for example, by a molecule having the following Kd for the target: at least about 200nM, or at least about 150nM, or at least about 100nM, or at least about 60nM, or at least about 50nM, or at least about 40nM, or at least about 30nM, or at least about 20nM, or at least about 10nM, or at least about 8nM, or at least about 6nM, or at least about 4nM, or at least about 2nM, or at least about 1nM or greater.\nThe affinity of a molecule X for its partner Y can generally be expressed by the dissociation constant (Kd). For example, the Kd may be about 200nM, 150nM, 100nM, 60nM, 50nM, 40nM, 30nM, 20nM, 10nM, 8nM, 6nM, 4nM, 2nM, 1nM or stronger.\nAs used herein, \"Kd\" or \"Kd value\" refers to the dissociation constant as measured by a technique suitable for antibody and target pairs, e.g., determined using surface plasmon resonance, e.g., using BIAcore at 25 ℃-2000 or BIAcore3000(BIAcore, inc., Piscataway, n.j.), using approximately 10 Reaction Units (RU) of immobilized antigen CM5 wafers."
+    },
+    {
+        "molecule_name": "X",
+        "protein_target_name": "Y",
+        "binding_metric": "Kd",
+        "value": "60nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe term \"specifically binds\" or \"specifically binds\" to \"or\" specific for \"a particular polypeptide or an epitope on a particular polypeptide target as used herein may be exhibited, for example, by a molecule having the following Kd for the target: at least about 200nM, or at least about 150nM, or at least about 100nM, or at least about 60nM, or at least about 50nM, or at least about 40nM, or at least about 30nM, or at least about 20nM, or at least about 10nM, or at least about 8nM, or at least about 6nM, or at least about 4nM, or at least about 2nM, or at least about 1nM or greater.\nThe affinity of a molecule X for its partner Y can generally be expressed by the dissociation constant (Kd). For example, the Kd may be about 200nM, 150nM, 100nM, 60nM, 50nM, 40nM, 30nM, 20nM, 10nM, 8nM, 6nM, 4nM, 2nM, 1nM or stronger.\nAs used herein, \"Kd\" or \"Kd value\" refers to the dissociation constant as measured by a technique suitable for antibody and target pairs, e.g., determined using surface plasmon resonance, e.g., using BIAcore at 25 ℃-2000 or BIAcore3000(BIAcore, inc., Piscataway, n.j.), using approximately 10 Reaction Units (RU) of immobilized antigen CM5 wafers."
+    },
+    {
+        "molecule_name": "X",
+        "protein_target_name": "Y",
+        "binding_metric": "Kd",
+        "value": "50nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe term \"specifically binds\" or \"specifically binds\" to \"or\" specific for \"a particular polypeptide or an epitope on a particular polypeptide target as used herein may be exhibited, for example, by a molecule having the following Kd for the target: at least about 200nM, or at least about 150nM, or at least about 100nM, or at least about 60nM, or at least about 50nM, or at least about 40nM, or at least about 30nM, or at least about 20nM, or at least about 10nM, or at least about 8nM, or at least about 6nM, or at least about 4nM, or at least about 2nM, or at least about 1nM or greater.\nThe affinity of a molecule X for its partner Y can generally be expressed by the dissociation constant (Kd). For example, the Kd may be about 200nM, 150nM, 100nM, 60nM, 50nM, 40nM, 30nM, 20nM, 10nM, 8nM, 6nM, 4nM, 2nM, 1nM or stronger.\nAs used herein, \"Kd\" or \"Kd value\" refers to the dissociation constant as measured by a technique suitable for antibody and target pairs, e.g., determined using surface plasmon resonance, e.g., using BIAcore at 25 ℃-2000 or BIAcore3000(BIAcore, inc., Piscataway, n.j.), using approximately 10 Reaction Units (RU) of immobilized antigen CM5 wafers."
+    },
+    {
+        "molecule_name": "X",
+        "protein_target_name": "Y",
+        "binding_metric": "Kd",
+        "value": "40nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe term \"specifically binds\" or \"specifically binds\" to \"or\" specific for \"a particular polypeptide or an epitope on a particular polypeptide target as used herein may be exhibited, for example, by a molecule having the following Kd for the target: at least about 200nM, or at least about 150nM, or at least about 100nM, or at least about 60nM, or at least about 50nM, or at least about 40nM, or at least about 30nM, or at least about 20nM, or at least about 10nM, or at least about 8nM, or at least about 6nM, or at least about 4nM, or at least about 2nM, or at least about 1nM or greater.\nThe affinity of a molecule X for its partner Y can generally be expressed by the dissociation constant (Kd). For example, the Kd may be about 200nM, 150nM, 100nM, 60nM, 50nM, 40nM, 30nM, 20nM, 10nM, 8nM, 6nM, 4nM, 2nM, 1nM or stronger.\nAs used herein, \"Kd\" or \"Kd value\" refers to the dissociation constant as measured by a technique suitable for antibody and target pairs, e.g., determined using surface plasmon resonance, e.g., using BIAcore at 25 ℃-2000 or BIAcore3000(BIAcore, inc., Piscataway, n.j.), using approximately 10 Reaction Units (RU) of immobilized antigen CM5 wafers."
+    },
+    {
+        "molecule_name": "X",
+        "protein_target_name": "Y",
+        "binding_metric": "Kd",
+        "value": "30nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe term \"specifically binds\" or \"specifically binds\" to \"or\" specific for \"a particular polypeptide or an epitope on a particular polypeptide target as used herein may be exhibited, for example, by a molecule having the following Kd for the target: at least about 200nM, or at least about 150nM, or at least about 100nM, or at least about 60nM, or at least about 50nM, or at least about 40nM, or at least about 30nM, or at least about 20nM, or at least about 10nM, or at least about 8nM, or at least about 6nM, or at least about 4nM, or at least about 2nM, or at least about 1nM or greater.\nThe affinity of a molecule X for its partner Y can generally be expressed by the dissociation constant (Kd). For example, the Kd may be about 200nM, 150nM, 100nM, 60nM, 50nM, 40nM, 30nM, 20nM, 10nM, 8nM, 6nM, 4nM, 2nM, 1nM or stronger.\nAs used herein, \"Kd\" or \"Kd value\" refers to the dissociation constant as measured by a technique suitable for antibody and target pairs, e.g., determined using surface plasmon resonance, e.g., using BIAcore at 25 ℃-2000 or BIAcore3000(BIAcore, inc., Piscataway, n.j.), using approximately 10 Reaction Units (RU) of immobilized antigen CM5 wafers."
+    },
+    {
+        "molecule_name": "X",
+        "protein_target_name": "Y",
+        "binding_metric": "Kd",
+        "value": "20nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe term \"specifically binds\" or \"specifically binds\" to \"or\" specific for \"a particular polypeptide or an epitope on a particular polypeptide target as used herein may be exhibited, for example, by a molecule having the following Kd for the target: at least about 200nM, or at least about 150nM, or at least about 100nM, or at least about 60nM, or at least about 50nM, or at least about 40nM, or at least about 30nM, or at least about 20nM, or at least about 10nM, or at least about 8nM, or at least about 6nM, or at least about 4nM, or at least about 2nM, or at least about 1nM or greater.\nThe affinity of a molecule X for its partner Y can generally be expressed by the dissociation constant (Kd). For example, the Kd may be about 200nM, 150nM, 100nM, 60nM, 50nM, 40nM, 30nM, 20nM, 10nM, 8nM, 6nM, 4nM, 2nM, 1nM or stronger.\nAs used herein, \"Kd\" or \"Kd value\" refers to the dissociation constant as measured by a technique suitable for antibody and target pairs, e.g., determined using surface plasmon resonance, e.g., using BIAcore at 25 ℃-2000 or BIAcore3000(BIAcore, inc., Piscataway, n.j.), using approximately 10 Reaction Units (RU) of immobilized antigen CM5 wafers."
+    },
+    {
+        "molecule_name": "X",
+        "protein_target_name": "Y",
+        "binding_metric": "Kd",
+        "value": "10nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe term \"specifically binds\" or \"specifically binds\" to \"or\" specific for \"a particular polypeptide or an epitope on a particular polypeptide target as used herein may be exhibited, for example, by a molecule having the following Kd for the target: at least about 200nM, or at least about 150nM, or at least about 100nM, or at least about 60nM, or at least about 50nM, or at least about 40nM, or at least about 30nM, or at least about 20nM, or at least about 10nM, or at least about 8nM, or at least about 6nM, or at least about 4nM, or at least about 2nM, or at least about 1nM or greater.\nThe affinity of a molecule X for its partner Y can generally be expressed by the dissociation constant (Kd). For example, the Kd may be about 200nM, 150nM, 100nM, 60nM, 50nM, 40nM, 30nM, 20nM, 10nM, 8nM, 6nM, 4nM, 2nM, 1nM or stronger.\nAs used herein, \"Kd\" or \"Kd value\" refers to the dissociation constant as measured by a technique suitable for antibody and target pairs, e.g., determined using surface plasmon resonance, e.g., using BIAcore at 25 ℃-2000 or BIAcore3000(BIAcore, inc., Piscataway, n.j.), using approximately 10 Reaction Units (RU) of immobilized antigen CM5 wafers."
+    },
+    {
+        "molecule_name": "X",
+        "protein_target_name": "Y",
+        "binding_metric": "Kd",
+        "value": "8nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe term \"specifically binds\" or \"specifically binds\" to \"or\" specific for \"a particular polypeptide or an epitope on a particular polypeptide target as used herein may be exhibited, for example, by a molecule having the following Kd for the target: at least about 200nM, or at least about 150nM, or at least about 100nM, or at least about 60nM, or at least about 50nM, or at least about 40nM, or at least about 30nM, or at least about 20nM, or at least about 10nM, or at least about 8nM, or at least about 6nM, or at least about 4nM, or at least about 2nM, or at least about 1nM or greater.\nThe affinity of a molecule X for its partner Y can generally be expressed by the dissociation constant (Kd). For example, the Kd may be about 200nM, 150nM, 100nM, 60nM, 50nM, 40nM, 30nM, 20nM, 10nM, 8nM, 6nM, 4nM, 2nM, 1nM or stronger.\nAs used herein, \"Kd\" or \"Kd value\" refers to the dissociation constant as measured by a technique suitable for antibody and target pairs, e.g., determined using surface plasmon resonance, e.g., using BIAcore at 25 ℃-2000 or BIAcore3000(BIAcore, inc., Piscataway, n.j.), using approximately 10 Reaction Units (RU) of immobilized antigen CM5 wafers."
+    },
+    {
+        "molecule_name": "X",
+        "protein_target_name": "Y",
+        "binding_metric": "Kd",
+        "value": "6nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe term \"specifically binds\" or \"specifically binds\" to \"or\" specific for \"a particular polypeptide or an epitope on a particular polypeptide target as used herein may be exhibited, for example, by a molecule having the following Kd for the target: at least about 200nM, or at least about 150nM, or at least about 100nM, or at least about 60nM, or at least about 50nM, or at least about 40nM, or at least about 30nM, or at least about 20nM, or at least about 10nM, or at least about 8nM, or at least about 6nM, or at least about 4nM, or at least about 2nM, or at least about 1nM or greater.\nThe affinity of a molecule X for its partner Y can generally be expressed by the dissociation constant (Kd). For example, the Kd may be about 200nM, 150nM, 100nM, 60nM, 50nM, 40nM, 30nM, 20nM, 10nM, 8nM, 6nM, 4nM, 2nM, 1nM or stronger.\nAs used herein, \"Kd\" or \"Kd value\" refers to the dissociation constant as measured by a technique suitable for antibody and target pairs, e.g., determined using surface plasmon resonance, e.g., using BIAcore at 25 ℃-2000 or BIAcore3000(BIAcore, inc., Piscataway, n.j.), using approximately 10 Reaction Units (RU) of immobilized antigen CM5 wafers."
+    },
+    {
+        "molecule_name": "X",
+        "protein_target_name": "Y",
+        "binding_metric": "Kd",
+        "value": "4nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe term \"specifically binds\" or \"specifically binds\" to \"or\" specific for \"a particular polypeptide or an epitope on a particular polypeptide target as used herein may be exhibited, for example, by a molecule having the following Kd for the target: at least about 200nM, or at least about 150nM, or at least about 100nM, or at least about 60nM, or at least about 50nM, or at least about 40nM, or at least about 30nM, or at least about 20nM, or at least about 10nM, or at least about 8nM, or at least about 6nM, or at least about 4nM, or at least about 2nM, or at least about 1nM or greater.\nThe affinity of a molecule X for its partner Y can generally be expressed by the dissociation constant (Kd). For example, the Kd may be about 200nM, 150nM, 100nM, 60nM, 50nM, 40nM, 30nM, 20nM, 10nM, 8nM, 6nM, 4nM, 2nM, 1nM or stronger.\nAs used herein, \"Kd\" or \"Kd value\" refers to the dissociation constant as measured by a technique suitable for antibody and target pairs, e.g., determined using surface plasmon resonance, e.g., using BIAcore at 25 ℃-2000 or BIAcore3000(BIAcore, inc., Piscataway, n.j.), using approximately 10 Reaction Units (RU) of immobilized antigen CM5 wafers."
+    },
+    {
+        "molecule_name": "X",
+        "protein_target_name": "Y",
+        "binding_metric": "Kd",
+        "value": "2nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe term \"specifically binds\" or \"specifically binds\" to \"or\" specific for \"a particular polypeptide or an epitope on a particular polypeptide target as used herein may be exhibited, for example, by a molecule having the following Kd for the target: at least about 200nM, or at least about 150nM, or at least about 100nM, or at least about 60nM, or at least about 50nM, or at least about 40nM, or at least about 30nM, or at least about 20nM, or at least about 10nM, or at least about 8nM, or at least about 6nM, or at least about 4nM, or at least about 2nM, or at least about 1nM or greater.\nThe affinity of a molecule X for its partner Y can generally be expressed by the dissociation constant (Kd). For example, the Kd may be about 200nM, 150nM, 100nM, 60nM, 50nM, 40nM, 30nM, 20nM, 10nM, 8nM, 6nM, 4nM, 2nM, 1nM or stronger.\nAs used herein, \"Kd\" or \"Kd value\" refers to the dissociation constant as measured by a technique suitable for antibody and target pairs, e.g., determined using surface plasmon resonance, e.g., using BIAcore at 25 ℃-2000 or BIAcore3000(BIAcore, inc., Piscataway, n.j.), using approximately 10 Reaction Units (RU) of immobilized antigen CM5 wafers."
+    },
+    {
+        "molecule_name": "X",
+        "protein_target_name": "Y",
+        "binding_metric": "Kd",
+        "value": "1nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe term \"specifically binds\" or \"specifically binds\" to \"or\" specific for \"a particular polypeptide or an epitope on a particular polypeptide target as used herein may be exhibited, for example, by a molecule having the following Kd for the target: at least about 200nM, or at least about 150nM, or at least about 100nM, or at least about 60nM, or at least about 50nM, or at least about 40nM, or at least about 30nM, or at least about 20nM, or at least about 10nM, or at least about 8nM, or at least about 6nM, or at least about 4nM, or at least about 2nM, or at least about 1nM or greater.\nThe affinity of a molecule X for its partner Y can generally be expressed by the dissociation constant (Kd). For example, the Kd may be about 200nM, 150nM, 100nM, 60nM, 50nM, 40nM, 30nM, 20nM, 10nM, 8nM, 6nM, 4nM, 2nM, 1nM or stronger.\nAs used herein, \"Kd\" or \"Kd value\" refers to the dissociation constant as measured by a technique suitable for antibody and target pairs, e.g., determined using surface plasmon resonance, e.g., using BIAcore at 25 ℃-2000 or BIAcore3000(BIAcore, inc., Piscataway, n.j.), using approximately 10 Reaction Units (RU) of immobilized antigen CM5 wafers."
+    }
+]

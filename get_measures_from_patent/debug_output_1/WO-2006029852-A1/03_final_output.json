@@ -1,0 +1,38 @@
+[
+    {
+        "molecule_name": "NDTPs",
+        "protein_target_name": "monoclonal antibodies",
+        "binding_metric": "Kd",
+        "value": "<10^5",
+        "unit": "molar",
+        "is_logarithmic": false,
+        "raw_mentions": "Preferably, the dissociation constant between NDTPs and monoclonal antibodies of the invention is less than 10^5 molar.\nMore preferably, such dissociation constant is less than 10^8 molar; \nstill more preferably, such dissociation constant is less than 10^9 molar; \nand most preferably, such dissociation constant is in the range of 10^9 to 10^1  molar."
+    },
+    {
+        "molecule_name": "NDTPs",
+        "protein_target_name": "monoclonal antibodies",
+        "binding_metric": "Kd",
+        "value": "<10^8",
+        "unit": "molar",
+        "is_logarithmic": false,
+        "raw_mentions": "Preferably, the dissociation constant between NDTPs and monoclonal antibodies of the invention is less than 10^5 molar.\nMore preferably, such dissociation constant is less than 10^8 molar; \nstill more preferably, such dissociation constant is less than 10^9 molar; \nand most preferably, such dissociation constant is in the range of 10^9 to 10^1  molar."
+    },
+    {
+        "molecule_name": "NDTPs",
+        "protein_target_name": "monoclonal antibodies",
+        "binding_metric": "Kd",
+        "value": "<10^9",
+        "unit": "molar",
+        "is_logarithmic": false,
+        "raw_mentions": "Preferably, the dissociation constant between NDTPs and monoclonal antibodies of the invention is less than 10^5 molar.\nMore preferably, such dissociation constant is less than 10^8 molar; \nstill more preferably, such dissociation constant is less than 10^9 molar; \nand most preferably, such dissociation constant is in the range of 10^9 to 10^1  molar."
+    },
+    {
+        "molecule_name": "NDTPs",
+        "protein_target_name": "monoclonal antibodies",
+        "binding_metric": "Kd",
+        "value": "10^9 to 10^1",
+        "unit": "molar",
+        "is_logarithmic": false,
+        "raw_mentions": "Preferably, the dissociation constant between NDTPs and monoclonal antibodies of the invention is less than 10^5 molar.\nMore preferably, such dissociation constant is less than 10^8 molar; \nstill more preferably, such dissociation constant is less than 10^9 molar; \nand most preferably, such dissociation constant is in the range of 10^9 to 10^1  molar."
+    }
+]

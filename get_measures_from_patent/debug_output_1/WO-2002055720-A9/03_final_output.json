@@ -1,0 +1,20 @@
+[
+    {
+        "molecule_name": "Dimethyl-methylene blue",
+        "protein_target_name": "tau",
+        "binding_metric": "KI",
+        "value": "4.4",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nFigure 46 shows the activity of DMMB on base-line expression of the 12/14 kD species, using the same set of assumptions regarding intracellular tau concentration and in vitro tau-tau binding affinity used in Figs 10 - 16. In this case DMMB is found to have an apparent KI within the cell of 4.4 nM, and the cellular B50 value is -100 nM."
+    },
+    {
+        "molecule_name": "Dimethyl-methylene blue",
+        "protein_target_name": "tau",
+        "binding_metric": "B50",
+        "value": "-100",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nFigure 46 shows the activity of DMMB on base-line expression of the 12/14 kD species, using the same set of assumptions regarding intracellular tau concentration and in vitro tau-tau binding affinity used in Figs 10 - 16. In this case DMMB is found to have an apparent KI within the cell of 4.4 nM, and the cellular B50 value is -100 nM."
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "molecule_name": "Pyrrolidinedithiocarbamate",
+        "protein_target_name": "Ml 585 melanoma cells",
+        "binding_metric": "IC50",
+        "value": "1.25",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n* As an example, the 50% inhibitor concentration (IC50) against Ml 585 melanoma cells was approximately 1.25 μM for PDTC but was only 0.3 μM for disulfiram.\n* A. Cisplatin (ng/ml) DMSO vehicle Disulfiram 2.5 μM\n* 1 1.739 ± 0.041 1.369 ± 0.033\n* 10 1.447 ± 0.047 1.221 ± 0.028\n* 100 1.372 ± 0.052 1.183 ± 0.038\n* 1,000 1.381 ± 0.098 0.921 ± 0.027\n* B. Carmustine (μM) DMSO vehicle Disulfiram 0.6 μM\n* 1 0.197 ± 0.004\n* 10 0.152 ± 0.01 1 0.025 ± 0.002\n* 100 0.020 ± 0.002 0.030 ± 0.023\n* 1,000 0.003 ± 0.000 0.004 ± 0.000 \n\nHowever, upon closer inspection, I realize that most of these rows do not contain a specific molecule name, a bioactivity metric, a numeric value, and a unit. \n\nHere is the revised list of extracted sentences/rows that meet the criteria:\n\n* As an example, the 50% inhibitor concentration (IC50) against Ml 585 melanoma cells was approximately 1.25 μM for PDTC but was only 0.3 μM for disulfiram."
+    },
+    {
+        "molecule_name": "disulfiram",
+        "protein_target_name": "Ml 585 melanoma cells",
+        "binding_metric": "IC50",
+        "value": "0.3",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n* As an example, the 50% inhibitor concentration (IC50) against Ml 585 melanoma cells was approximately 1.25 μM for PDTC but was only 0.3 μM for disulfiram.\n* A. Cisplatin (ng/ml) DMSO vehicle Disulfiram 2.5 μM\n* 1 1.739 ± 0.041 1.369 ± 0.033\n* 10 1.447 ± 0.047 1.221 ± 0.028\n* 100 1.372 ± 0.052 1.183 ± 0.038\n* 1,000 1.381 ± 0.098 0.921 ± 0.027\n* B. Carmustine (μM) DMSO vehicle Disulfiram 0.6 μM\n* 1 0.197 ± 0.004\n* 10 0.152 ± 0.01 1 0.025 ± 0.002\n* 100 0.020 ± 0.002 0.030 ± 0.023\n* 1,000 0.003 ± 0.000 0.004 ± 0.000 \n\nHowever, upon closer inspection, I realize that most of these rows do not contain a specific molecule name, a bioactivity metric, a numeric value, and a unit. \n\nHere is the revised list of extracted sentences/rows that meet the criteria:\n\n* As an example, the 50% inhibitor concentration (IC50) against Ml 585 melanoma cells was approximately 1.25 μM for PDTC but was only 0.3 μM for disulfiram."
+    }
+]

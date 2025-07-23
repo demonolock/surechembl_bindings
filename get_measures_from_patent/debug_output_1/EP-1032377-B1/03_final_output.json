@@ -1,0 +1,11 @@
+[
+    {
+        "molecule_name": "this compound",
+        "protein_target_name": "Na+ channels",
+        "binding_metric": "Kd",
+        "value": "∼1.2",
+        "unit": "µM",
+        "is_logarithmic": false,
+        "raw_mentions": "The apparent antagonist dissociation constant (Kd) of this compound for inactivated Na+ channels is ∼1.2 µM."
+    }
+]

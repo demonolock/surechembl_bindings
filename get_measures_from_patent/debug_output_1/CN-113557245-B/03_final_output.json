@@ -1,0 +1,56 @@
+[
+    {
+        "molecule_name": "Methionine ",
+        "protein_target_name": "human PD-1",
+        "binding_metric": "KD",
+        "value": "<10",
+        "unit": null,
+        "is_logarithmic": false,
+        "raw_mentions": "It presents less than 10 for human PD-1 Binding affinity (KD) of M."
+    },
+    {
+        "molecule_name": "Methionine ",
+        "protein_target_name": "human PD-1",
+        "binding_metric": "KD",
+        "value": "<=10",
+        "unit": null,
+        "is_logarithmic": false,
+        "raw_mentions": "it has a value equal to or lower than 10 for human PD-1 Binding affinity (KD) of M;"
+    },
+    {
+        "molecule_name": "Nivolumab",
+        "protein_target_name": "human PD-1",
+        "binding_metric": "affinity",
+        "value": "<10^-8",
+        "unit": "M",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* The humanized anti-PD-1 antibody is equal to or less than 10 <sup>-8</sup> M, preferably equal to or lower than 10 <sup>-9</sup> M affinity of M binds to human PD-1.\n* In one aspect, the affinity is equal to or lower than 1.5x 10 <sup>-9</sup> M.\n* For example, by BlitzAnalytically, the antibodies provided herein bind to human PD-1 with an affinity constant (KD) equal to or lower than 0.75 to 1.34nM, preferably equal to or lower than 0.75 to 1nM, more preferably equal to or lower than 0.75 to 0.8 nM.\n* The humanized antibodies of the invention have an IC50 of less than 50ng/ml, particularly less than 40ng/ml and optionally less than 20ng/ml as measured by this assay.\n* In contrast, chimeric antibodies have an IC50 greater than 50ng/ml, i.e., about 60 ng/ml."
+    },
+    {
+        "molecule_name": "Immunoglobulin",
+        "protein_target_name": "human PD-1",
+        "binding_metric": "KD",
+        "value": "0.75 to 1.34",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* The humanized anti-PD-1 antibody is equal to or less than 10 <sup>-8</sup> M, preferably equal to or lower than 10 <sup>-9</sup> M affinity of M binds to human PD-1.\n* In one aspect, the affinity is equal to or lower than 1.5x 10 <sup>-9</sup> M.\n* For example, by BlitzAnalytically, the antibodies provided herein bind to human PD-1 with an affinity constant (KD) equal to or lower than 0.75 to 1.34nM, preferably equal to or lower than 0.75 to 1nM, more preferably equal to or lower than 0.75 to 0.8 nM.\n* The humanized antibodies of the invention have an IC50 of less than 50ng/ml, particularly less than 40ng/ml and optionally less than 20ng/ml as measured by this assay.\n* In contrast, chimeric antibodies have an IC50 greater than 50ng/ml, i.e., about 60 ng/ml."
+    },
+    {
+        "molecule_name": "Immunoglobulin",
+        "protein_target_name": "human PD-1",
+        "binding_metric": "KD",
+        "value": "0.75 to 1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* The humanized anti-PD-1 antibody is equal to or less than 10 <sup>-8</sup> M, preferably equal to or lower than 10 <sup>-9</sup> M affinity of M binds to human PD-1.\n* In one aspect, the affinity is equal to or lower than 1.5x 10 <sup>-9</sup> M.\n* For example, by BlitzAnalytically, the antibodies provided herein bind to human PD-1 with an affinity constant (KD) equal to or lower than 0.75 to 1.34nM, preferably equal to or lower than 0.75 to 1nM, more preferably equal to or lower than 0.75 to 0.8 nM.\n* The humanized antibodies of the invention have an IC50 of less than 50ng/ml, particularly less than 40ng/ml and optionally less than 20ng/ml as measured by this assay.\n* In contrast, chimeric antibodies have an IC50 greater than 50ng/ml, i.e., about 60 ng/ml."
+    },
+    {
+        "molecule_name": "Immunoglobulin",
+        "protein_target_name": "human PD-1",
+        "binding_metric": "KD",
+        "value": "0.75 to 0.8",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* The humanized anti-PD-1 antibody is equal to or less than 10 <sup>-8</sup> M, preferably equal to or lower than 10 <sup>-9</sup> M affinity of M binds to human PD-1.\n* In one aspect, the affinity is equal to or lower than 1.5x 10 <sup>-9</sup> M.\n* For example, by BlitzAnalytically, the antibodies provided herein bind to human PD-1 with an affinity constant (KD) equal to or lower than 0.75 to 1.34nM, preferably equal to or lower than 0.75 to 1nM, more preferably equal to or lower than 0.75 to 0.8 nM.\n* The humanized antibodies of the invention have an IC50 of less than 50ng/ml, particularly less than 40ng/ml and optionally less than 20ng/ml as measured by this assay.\n* In contrast, chimeric antibodies have an IC50 greater than 50ng/ml, i.e., about 60 ng/ml."
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "molecule_name": "compound of formula I",
+        "protein_target_name": "CYP2D6",
+        "binding_metric": "Ki",
+        "value": "<200",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* The compound of formula I is that biologically favourable they are not by p450 isozyme CYP2D6 metabolism, and have a Ki value of about 200nM or littler to the Ki value of mu acceptor.\n* More specifically, 37 ℃ of following incubation compounds (1 μ M), rCYP2D6 (2.8pmol/ml), damping fluid (100mM phosphoric acid salt, pH=7.4) and NADPH (1.67mg/ml, Sigma Aldrich#201-210).\n* The mu receptors ligand [³H]-DAMGO (Perkin Elmer Life Sciences, Boston, Mass.; Specific activity 55Ci/mmol is 1.5nM) with the rat forebrain tissue.\n* The Ki value can use Graphpad Prism to calculate according to following formula: Ki=IC₅₀/ 1+[³H part]/Kₐ, wherein IC₅₀ Be 50% ³Concentration when the H part is tested the compound displacement, and Kₐ For the receptor site ³The dissociation constant of H part, and the Ki value is about 200nM or littler."
+    }
+]

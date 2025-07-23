@@ -1,0 +1,38 @@
+[
+    {
+        "molecule_name": "Androstenedione",
+        "protein_target_name": "HSD17B13",
+        "binding_metric": "IC50",
+        "value": "< 0.1",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "In a typical IC50 assay performed in a 384w PP microplate, test compounds (0 - 100 µM) were incubated with HSD17B13 (80 nM), LTB4 (10 µM), and NAD<sup>+</sup> (0.5 mM) in 10 µL assay buffer (20 mM Tris (pH 7.5), BSA (0.005%), and Tween-20 (0.01%)) at RT for 3 h.\nIC50 ranges are as follows: A is &lt; 0.1 μM; B is 0.1 μM - 1.0 μM; C is1.0 μM - 10 μM; and D is &gt; 10 μM."
+    },
+    {
+        "molecule_name": "Boron",
+        "protein_target_name": "HSD17B13",
+        "binding_metric": "IC50",
+        "value": "0.1 - 1.0",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "In a typical IC50 assay performed in a 384w PP microplate, test compounds (0 - 100 µM) were incubated with HSD17B13 (80 nM), LTB4 (10 µM), and NAD<sup>+</sup> (0.5 mM) in 10 µL assay buffer (20 mM Tris (pH 7.5), BSA (0.005%), and Tween-20 (0.01%)) at RT for 3 h.\nIC50 ranges are as follows: A is &lt; 0.1 μM; B is 0.1 μM - 1.0 μM; C is1.0 μM - 10 μM; and D is &gt; 10 μM."
+    },
+    {
+        "molecule_name": "Carbon",
+        "protein_target_name": "HSD17B13",
+        "binding_metric": "IC50",
+        "value": "1.0 - 10",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "In a typical IC50 assay performed in a 384w PP microplate, test compounds (0 - 100 µM) were incubated with HSD17B13 (80 nM), LTB4 (10 µM), and NAD<sup>+</sup> (0.5 mM) in 10 µL assay buffer (20 mM Tris (pH 7.5), BSA (0.005%), and Tween-20 (0.01%)) at RT for 3 h.\nIC50 ranges are as follows: A is &lt; 0.1 μM; B is 0.1 μM - 1.0 μM; C is1.0 μM - 10 μM; and D is &gt; 10 μM."
+    },
+    {
+        "molecule_name": "Dehydroepiandrosterone",
+        "protein_target_name": "HSD17B13",
+        "binding_metric": "IC50",
+        "value": "> 10",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "In a typical IC50 assay performed in a 384w PP microplate, test compounds (0 - 100 µM) were incubated with HSD17B13 (80 nM), LTB4 (10 µM), and NAD<sup>+</sup> (0.5 mM) in 10 µL assay buffer (20 mM Tris (pH 7.5), BSA (0.005%), and Tween-20 (0.01%)) at RT for 3 h.\nIC50 ranges are as follows: A is &lt; 0.1 μM; B is 0.1 μM - 1.0 μM; C is1.0 μM - 10 μM; and D is &gt; 10 μM."
+    }
+]

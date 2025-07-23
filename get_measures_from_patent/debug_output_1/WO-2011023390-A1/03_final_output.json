@@ -1,0 +1,29 @@
+[
+    {
+        "molecule_name": "Immunoglobulin",
+        "protein_target_name": "human CDCPl antigen",
+        "binding_metric": "KD",
+        "value": "1.0 x 10^8",
+        "unit": "mol/1",
+        "is_logarithmic": false,
+        "raw_mentions": "The binding affinity is of KD- value of 1.0 x 10^8 mol/1 or lower, preferably of a KD-value of 1.0 x 10^9 mol/1 or lower.\nThe binding affinity is determined with a standard binding assay, such as surface plasmon resonance technique (Biacore®). \nThus an \"antibody specifically binding to human CDCPl\" as used herein refers to an antibody binding to human CDCPl antigen with a binding affinity of KD 1.0 x 10^8 mol/1 or lower (e.g. of KD 1.0 x 10^8 mol/1 - 1.0 x 10^13 mol/1, preferably of KD 1.0 x 10^9 mol/1 - 1.0 x 10^12 mol/1)."
+    },
+    {
+        "molecule_name": "Immunoglobulin",
+        "protein_target_name": "human CDCPl antigen",
+        "binding_metric": "KD",
+        "value": "1.0 x 10^8 - 1.0 x 10^13",
+        "unit": "mol/1",
+        "is_logarithmic": false,
+        "raw_mentions": "The binding affinity is of KD- value of 1.0 x 10^8 mol/1 or lower, preferably of a KD-value of 1.0 x 10^9 mol/1 or lower.\nThe binding affinity is determined with a standard binding assay, such as surface plasmon resonance technique (Biacore®). \nThus an \"antibody specifically binding to human CDCPl\" as used herein refers to an antibody binding to human CDCPl antigen with a binding affinity of KD 1.0 x 10^8 mol/1 or lower (e.g. of KD 1.0 x 10^8 mol/1 - 1.0 x 10^13 mol/1, preferably of KD 1.0 x 10^9 mol/1 - 1.0 x 10^12 mol/1)."
+    },
+    {
+        "molecule_name": "Immunoglobulin",
+        "protein_target_name": "human CDCPl antigen",
+        "binding_metric": "KD",
+        "value": "1.0 x 10^9 - 1.0 x 10^12",
+        "unit": "mol/1",
+        "is_logarithmic": false,
+        "raw_mentions": "The binding affinity is of KD- value of 1.0 x 10^8 mol/1 or lower, preferably of a KD-value of 1.0 x 10^9 mol/1 or lower.\nThe binding affinity is determined with a standard binding assay, such as surface plasmon resonance technique (Biacore®). \nThus an \"antibody specifically binding to human CDCPl\" as used herein refers to an antibody binding to human CDCPl antigen with a binding affinity of KD 1.0 x 10^8 mol/1 or lower (e.g. of KD 1.0 x 10^8 mol/1 - 1.0 x 10^13 mol/1, preferably of KD 1.0 x 10^9 mol/1 - 1.0 x 10^12 mol/1)."
+    }
+]

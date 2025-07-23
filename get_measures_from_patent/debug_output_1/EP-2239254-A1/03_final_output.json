@@ -1,0 +1,380 @@
+[
+    {
+        "molecule_name": "10",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "0.874",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "10",
+        "protein_target_name": "h-5-HT1A",
+        "binding_metric": "Ki",
+        "value": "4.52",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "20",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "0.701",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "20",
+        "protein_target_name": "h-5-HT1A",
+        "binding_metric": "Ki",
+        "value": "2.40",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "1140",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "0.794",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "1140",
+        "protein_target_name": "h-5-HT1A",
+        "binding_metric": "Ki",
+        "value": "4.26",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "Benzylpiperidine ",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "1.27",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "Benzylpiperidine ",
+        "protein_target_name": "h-5-HT1A",
+        "binding_metric": "Ki",
+        "value": "2.72",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "7",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "2.74",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "7",
+        "protein_target_name": "h-5-HT1A",
+        "binding_metric": "Ki",
+        "value": "4.68",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "Benzylpiperidine",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "2.83",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "Benzylpiperidine",
+        "protein_target_name": "h-5-HT1A",
+        "binding_metric": "Ki",
+        "value": "3.79",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "3",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "1.13",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "3",
+        "protein_target_name": "h-5-HT1A",
+        "binding_metric": "Ki",
+        "value": "10.4",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "19",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "1.16",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "19",
+        "protein_target_name": "h-5-HT1A",
+        "binding_metric": "Ki",
+        "value": "4.21",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "9",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "3.81",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "9",
+        "protein_target_name": "h-5-HT1A",
+        "binding_metric": "Ki",
+        "value": "2.9",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "23",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "2.29",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "23",
+        "protein_target_name": "h-5-HT1A",
+        "binding_metric": "Ki",
+        "value": "3.8",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "14",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "8.61",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "14",
+        "protein_target_name": "h-5-HT1A",
+        "binding_metric": "Ki",
+        "value": "4.8",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "Benzylpiperidine ",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "5.5",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "Benzylpiperidine ",
+        "protein_target_name": "h-5-HT1A",
+        "binding_metric": "Ki",
+        "value": "5.3",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "15",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "3.23",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "15",
+        "protein_target_name": "h-5-HT1A",
+        "binding_metric": "Ki",
+        "value": "5.2",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "16",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "2.92",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "16",
+        "protein_target_name": "h-5-HT1A",
+        "binding_metric": "Ki",
+        "value": "7.2",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "17",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "4.03",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "17",
+        "protein_target_name": "h-5-HT1A",
+        "binding_metric": "Ki",
+        "value": "0.3",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "18",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "6.29",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "18",
+        "protein_target_name": "h-5-HT1A",
+        "binding_metric": "Ki",
+        "value": "2.9",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "25",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "19.3",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "25",
+        "protein_target_name": "h-5-HT1A",
+        "binding_metric": "Ki",
+        "value": "0.3",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "29",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "20.2",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "29",
+        "protein_target_name": "h-5-HT1A",
+        "binding_metric": "Ki",
+        "value": "5.7",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nA h-SERT binding inhibition constant (Ki) was calculated according to the equation: h-SERT binding inhibition constant (Ki)=IC50/((1+S/Kd) wherein S represents the concentration of [3H]citalopram added; and the Kd value represents the dissociation constant of [3H]citalopram, wherein the Kd value used was the value (2.16 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nA h-5-HT1A binding inhibition constant (Ki) was calculated according to the equation: h-5-HT1A binding inhibition constant (Ki)=IC50/(1+S/Kd) wherein S represents the concentration of [3H]8-OH-DPAT added; and the Kd value represents the dissociation constant of [3H]8-OH-DPAT, wherein the Kd value used was the value (1.28 nM) calculated by a saturation binding experiment separately conducted using the same cell membrane as above.\n\nCompound (Example No.)\tTest Example 1: h-SERT binding inhibition constant (Ki) [nM]\tTest Example 2: h-5-HT1A binding inhibition constant (Ki) [nM]\n10\t0.874\t4.52\n20\t0.701\t2.40\n1140\t0.794\t4.26\n1\t1.27\t2.72\n7\t2.74\t4.68\n2\t2.83\t3.79\n3\t1.13\t10.4\n19\t1.16\t4.21\n9\t3.81\t2.9\n23\t2.29\t3.8\n14\t8.61\t4.8\n5\t5.5\t5.3\n15\t3.23\t5.2\n16\t2.92\t7.2\n17\t4.03\t0.3\n18\t6.29\t2.9\n25\t19.3\t0.3\n29\t20.2\t5.7"
+    },
+    {
+        "molecule_name": "Test Example 5",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "18.9",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n* The amount of [³H] 5-HT uptaken in the presence of 13.3 µM paroxetine was used as the amount of [³H]5-HT uptaken non-specifically.\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]18.9\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]21.6\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]44.2\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]61.6\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]1610\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]441 \n* wherein the Km value used was the value (441 nM) calculated by a saturation experiment separately conducted using the same cell preparation as above."
+    },
+    {
+        "molecule_name": "Test Example 5",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "21.6",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n* The amount of [³H] 5-HT uptaken in the presence of 13.3 µM paroxetine was used as the amount of [³H]5-HT uptaken non-specifically.\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]18.9\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]21.6\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]44.2\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]61.6\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]1610\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]441 \n* wherein the Km value used was the value (441 nM) calculated by a saturation experiment separately conducted using the same cell preparation as above."
+    },
+    {
+        "molecule_name": "Test Example 5",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "44.2",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n* The amount of [³H] 5-HT uptaken in the presence of 13.3 µM paroxetine was used as the amount of [³H]5-HT uptaken non-specifically.\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]18.9\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]21.6\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]44.2\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]61.6\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]1610\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]441 \n* wherein the Km value used was the value (441 nM) calculated by a saturation experiment separately conducted using the same cell preparation as above."
+    },
+    {
+        "molecule_name": "Test Example 5",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "61.6",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n* The amount of [³H] 5-HT uptaken in the presence of 13.3 µM paroxetine was used as the amount of [³H]5-HT uptaken non-specifically.\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]18.9\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]21.6\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]44.2\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]61.6\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]1610\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]441 \n* wherein the Km value used was the value (441 nM) calculated by a saturation experiment separately conducted using the same cell preparation as above."
+    },
+    {
+        "molecule_name": "Test Example 5",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "1610",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n* The amount of [³H] 5-HT uptaken in the presence of 13.3 µM paroxetine was used as the amount of [³H]5-HT uptaken non-specifically.\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]18.9\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]21.6\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]44.2\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]61.6\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]1610\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]441 \n* wherein the Km value used was the value (441 nM) calculated by a saturation experiment separately conducted using the same cell preparation as above."
+    },
+    {
+        "molecule_name": "Test Example 5",
+        "protein_target_name": "h-SERT",
+        "binding_metric": "Ki",
+        "value": "441",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n* The amount of [³H] 5-HT uptaken in the presence of 13.3 µM paroxetine was used as the amount of [³H]5-HT uptaken non-specifically.\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]18.9\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]21.6\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]44.2\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]61.6\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]1610\n* Compound (Example No.)Test Example 5: h-SERT Function Inhibition Constant (Ki) [nM]441 \n* wherein the Km value used was the value (441 nM) calculated by a saturation experiment separately conducted using the same cell preparation as above."
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "molecule_name": "Teprotumumab",
+        "protein_target_name": "IGF-1R",
+        "binding_metric": "KD",
+        "value": "1.8",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "VRDN-1100 is a humanized monoclonal antibody targeting IGF-1R with an equilibrium dissociation constant KD of 1.8 nM.\nNo other relevant sentences were found in the provided text snippet."
+    },
+    {
+        "molecule_name": "Teprotumumab",
+        "protein_target_name": "IGF-1",
+        "binding_metric": "IC50",
+        "value": "0.09",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAs illustrated in FIG. 3D, in, the binding dose response curve demonstrated VRDN-1100 EC50=0.1 nM.\nThe lower panel of FIG. 5B illustrates a binding dose response curve, which demonstrated VRDN-1100 having an EC50=0.4 nM.\nVRDN-1100 potently inhibits IGF-1 stimulated receptor phosphorylation on A549 cells (IC50=0.09 nM) and HOCF cells (IC50=0.09 nM), which is illustrated in FIG. 6A and FIG. 6B."
+    },
+    {
+        "molecule_name": "Teprotumumab",
+        "protein_target_name": "IGF-1",
+        "binding_metric": "IC50",
+        "value": "0.09",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAs illustrated in FIG. 3D, in, the binding dose response curve demonstrated VRDN-1100 EC50=0.1 nM.\nThe lower panel of FIG. 5B illustrates a binding dose response curve, which demonstrated VRDN-1100 having an EC50=0.4 nM.\nVRDN-1100 potently inhibits IGF-1 stimulated receptor phosphorylation on A549 cells (IC50=0.09 nM) and HOCF cells (IC50=0.09 nM), which is illustrated in FIG. 6A and FIG. 6B."
+    },
+    {
+        "molecule_name": "Teprotumumab ",
+        "protein_target_name": "A549 cells",
+        "binding_metric": "EC50",
+        "value": "0.30",
+        "unit": "nm",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe YTE Fc mutatant version of VRDN1100 was found to bind to A549 cells with an EC50 of 0.30 nm and the C22S and Fc YTE mutant had an EC50 of 0.36 nm.\nThe YTE only mutant had an IC50 of 0.40 nm and the C22S plus YTE mutations had an IC50 of 0.37 nm.\nUsing this assay, the antibody was found to bind to IGF-1R with a k<sub>a </sub>(1/Ms) of 1.04×10<sup>5</sup>, a k<sub>d </sub>(1/s) of 2.18×10<sup>−5</sup>, and a K<sub>D</sub>(M) of 2.10×10<sup>−10 </sup>at a pH of 7.4."
+    },
+    {
+        "molecule_name": "C22S and Fc YTE mutant",
+        "protein_target_name": "A549 cells",
+        "binding_metric": "EC50",
+        "value": "0.36",
+        "unit": "nm",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe YTE Fc mutatant version of VRDN1100 was found to bind to A549 cells with an EC50 of 0.30 nm and the C22S and Fc YTE mutant had an EC50 of 0.36 nm.\nThe YTE only mutant had an IC50 of 0.40 nm and the C22S plus YTE mutations had an IC50 of 0.37 nm.\nUsing this assay, the antibody was found to bind to IGF-1R with a k<sub>a </sub>(1/Ms) of 1.04×10<sup>5</sup>, a k<sub>d </sub>(1/s) of 2.18×10<sup>−5</sup>, and a K<sub>D</sub>(M) of 2.10×10<sup>−10 </sup>at a pH of 7.4."
+    },
+    {
+        "molecule_name": "Immunoglobulin",
+        "protein_target_name": "IGF-1R",
+        "binding_metric": "k_a",
+        "value": "1.04×10^5",
+        "unit": "1/Ms",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe YTE Fc mutatant version of VRDN1100 was found to bind to A549 cells with an EC50 of 0.30 nm and the C22S and Fc YTE mutant had an EC50 of 0.36 nm.\nThe YTE only mutant had an IC50 of 0.40 nm and the C22S plus YTE mutations had an IC50 of 0.37 nm.\nUsing this assay, the antibody was found to bind to IGF-1R with a k<sub>a </sub>(1/Ms) of 1.04×10<sup>5</sup>, a k<sub>d </sub>(1/s) of 2.18×10<sup>−5</sup>, and a K<sub>D</sub>(M) of 2.10×10<sup>−10 </sup>at a pH of 7.4."
+    },
+    {
+        "molecule_name": "Immunoglobulin",
+        "protein_target_name": "IGF-1R",
+        "binding_metric": "k_d",
+        "value": "2.18×10^−5",
+        "unit": "1/s",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe YTE Fc mutatant version of VRDN1100 was found to bind to A549 cells with an EC50 of 0.30 nm and the C22S and Fc YTE mutant had an EC50 of 0.36 nm.\nThe YTE only mutant had an IC50 of 0.40 nm and the C22S plus YTE mutations had an IC50 of 0.37 nm.\nUsing this assay, the antibody was found to bind to IGF-1R with a k<sub>a </sub>(1/Ms) of 1.04×10<sup>5</sup>, a k<sub>d </sub>(1/s) of 2.18×10<sup>−5</sup>, and a K<sub>D</sub>(M) of 2.10×10<sup>−10 </sup>at a pH of 7.4."
+    },
+    {
+        "molecule_name": "Immunoglobulin",
+        "protein_target_name": "IGF-1R",
+        "binding_metric": "K_D",
+        "value": "2.10×10^−10",
+        "unit": "M",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe YTE Fc mutatant version of VRDN1100 was found to bind to A549 cells with an EC50 of 0.30 nm and the C22S and Fc YTE mutant had an EC50 of 0.36 nm.\nThe YTE only mutant had an IC50 of 0.40 nm and the C22S plus YTE mutations had an IC50 of 0.37 nm.\nUsing this assay, the antibody was found to bind to IGF-1R with a k<sub>a </sub>(1/Ms) of 1.04×10<sup>5</sup>, a k<sub>d </sub>(1/s) of 2.18×10<sup>−5</sup>, and a K<sub>D</sub>(M) of 2.10×10<sup>−10 </sup>at a pH of 7.4."
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "molecule_name": "Lipocalin",
+        "protein_target_name": "c-Met receptor tyrosin kinase",
+        "binding_metric": "Kd",
+        "value": "200",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* The lipocalin muteins of the invention are able to bind the desired target, i.e. c-Met receptor tyrosin kinase or a domain or fragment thereof with detectable affinity, i.e. with a dissociation constant of at least 200 nM.\n* Presently preferred in some embodiments are lipocalin muteins, which bind the desired target with a dissociation constant for a given target of at least 100, 20, 1 nM or even less."
+    }
+]

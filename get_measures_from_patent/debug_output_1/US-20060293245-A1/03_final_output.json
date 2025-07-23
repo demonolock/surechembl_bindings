@@ -1,0 +1,146 @@
+[
+    {
+        "molecule_name": "P21 (149-160)",
+        "protein_target_name": "CDK1/cyclin B",
+        "binding_metric": "IC50",
+        "value": ">200",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nP21 (149-160) and its derivatives were tested for ability to inhibit CDK1/cyclin B kinase activity in phosphorylating histone H1 or GST-pRb (Table 2).\nNone of the tested peptides were able to inhibit significantly the CDK1/cyclin B-induced phosphorylation of GST-pRb and only the highest peptide concentrations used (200 μM) had a marginal inhibitory effect on CDK1/cyclin B kinase activity.\nTABLE 2Inhibition of CDK1-Cyclin B induced phosphorylation of Histone1 and GST-Rb by p21 derived peptides.HistoneGST-RbPeptideSequenceIC50 [μM]IC50 [μM]P21 (149-160)DFYHSKRRLIFS>200200P21 (149-160)153ADFYHAKRRLIFS200>200P21 (149-159)DFYHSKRRLIFNot tested>200\nThe IC 50 of the most active peptide—p21 (149-160) 153A for CDK2-Cyclin E induced phosphorylation of GST-Rb was 40 nM which is approximately 50 fold higher than the IC 50 value for p21<sup>WAF1</sup>.\nTABLE 3Inhibition of CDK4-Cyclin D1 and CDK2-Cyclin E kinase activity bypurified p21<sup>WAF1</sup>Inhibition by p21<sup>WAF1</sup>Kinase complexSubstrateIC50 [nM]CDK4-Cyclin D1GST-Rb(772-928)6.5 ± 0.8CDK2-Cyclin EGST-Rb(772-928)0.7 ± 0.2CDK2-Cyclin EHistone 11.8 ± 0.4\nNone of the tested peptides (at concentrations up to 100 μM) had any inhibitory effect on PKCα phosphorylation of Histone 3 or ERK2"
+    },
+    {
+        "molecule_name": "P21 (149-160) 153A",
+        "protein_target_name": "CDK2-Cyclin E",
+        "binding_metric": "IC50",
+        "value": "40",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nP21 (149-160) and its derivatives were tested for ability to inhibit CDK1/cyclin B kinase activity in phosphorylating histone H1 or GST-pRb (Table 2).\nNone of the tested peptides were able to inhibit significantly the CDK1/cyclin B-induced phosphorylation of GST-pRb and only the highest peptide concentrations used (200 μM) had a marginal inhibitory effect on CDK1/cyclin B kinase activity.\nTABLE 2Inhibition of CDK1-Cyclin B induced phosphorylation of Histone1 and GST-Rb by p21 derived peptides.HistoneGST-RbPeptideSequenceIC50 [μM]IC50 [μM]P21 (149-160)DFYHSKRRLIFS>200200P21 (149-160)153ADFYHAKRRLIFS200>200P21 (149-159)DFYHSKRRLIFNot tested>200\nThe IC 50 of the most active peptide—p21 (149-160) 153A for CDK2-Cyclin E induced phosphorylation of GST-Rb was 40 nM which is approximately 50 fold higher than the IC 50 value for p21<sup>WAF1</sup>.\nTABLE 3Inhibition of CDK4-Cyclin D1 and CDK2-Cyclin E kinase activity bypurified p21<sup>WAF1</sup>Inhibition by p21<sup>WAF1</sup>Kinase complexSubstrateIC50 [nM]CDK4-Cyclin D1GST-Rb(772-928)6.5 ± 0.8CDK2-Cyclin EGST-Rb(772-928)0.7 ± 0.2CDK2-Cyclin EHistone 11.8 ± 0.4\nNone of the tested peptides (at concentrations up to 100 μM) had any inhibitory effect on PKCα phosphorylation of Histone 3 or ERK2"
+    },
+    {
+        "molecule_name": "P21 (149-160) 153A",
+        "protein_target_name": "CDK2-Cyclin E",
+        "binding_metric": "IC50",
+        "value": "<10 is not present, but a comparison is made, so we use the value for p21<sup>WAF1</sup> which is not directly provided, thus we use null for this case",
+        "unit": null,
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nP21 (149-160) and its derivatives were tested for ability to inhibit CDK1/cyclin B kinase activity in phosphorylating histone H1 or GST-pRb (Table 2).\nNone of the tested peptides were able to inhibit significantly the CDK1/cyclin B-induced phosphorylation of GST-pRb and only the highest peptide concentrations used (200 μM) had a marginal inhibitory effect on CDK1/cyclin B kinase activity.\nTABLE 2Inhibition of CDK1-Cyclin B induced phosphorylation of Histone1 and GST-Rb by p21 derived peptides.HistoneGST-RbPeptideSequenceIC50 [μM]IC50 [μM]P21 (149-160)DFYHSKRRLIFS>200200P21 (149-160)153ADFYHAKRRLIFS200>200P21 (149-159)DFYHSKRRLIFNot tested>200\nThe IC 50 of the most active peptide—p21 (149-160) 153A for CDK2-Cyclin E induced phosphorylation of GST-Rb was 40 nM which is approximately 50 fold higher than the IC 50 value for p21<sup>WAF1</sup>.\nTABLE 3Inhibition of CDK4-Cyclin D1 and CDK2-Cyclin E kinase activity bypurified p21<sup>WAF1</sup>Inhibition by p21<sup>WAF1</sup>Kinase complexSubstrateIC50 [nM]CDK4-Cyclin D1GST-Rb(772-928)6.5 ± 0.8CDK2-Cyclin EGST-Rb(772-928)0.7 ± 0.2CDK2-Cyclin EHistone 11.8 ± 0.4\nNone of the tested peptides (at concentrations up to 100 μM) had any inhibitory effect on PKCα phosphorylation of Histone 3 or ERK2"
+    },
+    {
+        "molecule_name": "Cyclin-dependent kinase inhibitor 1",
+        "protein_target_name": "CDK4-Cyclin D1",
+        "binding_metric": "IC50",
+        "value": "6.5 ± 0.8",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nP21 (149-160) and its derivatives were tested for ability to inhibit CDK1/cyclin B kinase activity in phosphorylating histone H1 or GST-pRb (Table 2).\nNone of the tested peptides were able to inhibit significantly the CDK1/cyclin B-induced phosphorylation of GST-pRb and only the highest peptide concentrations used (200 μM) had a marginal inhibitory effect on CDK1/cyclin B kinase activity.\nTABLE 2Inhibition of CDK1-Cyclin B induced phosphorylation of Histone1 and GST-Rb by p21 derived peptides.HistoneGST-RbPeptideSequenceIC50 [μM]IC50 [μM]P21 (149-160)DFYHSKRRLIFS>200200P21 (149-160)153ADFYHAKRRLIFS200>200P21 (149-159)DFYHSKRRLIFNot tested>200\nThe IC 50 of the most active peptide—p21 (149-160) 153A for CDK2-Cyclin E induced phosphorylation of GST-Rb was 40 nM which is approximately 50 fold higher than the IC 50 value for p21<sup>WAF1</sup>.\nTABLE 3Inhibition of CDK4-Cyclin D1 and CDK2-Cyclin E kinase activity bypurified p21<sup>WAF1</sup>Inhibition by p21<sup>WAF1</sup>Kinase complexSubstrateIC50 [nM]CDK4-Cyclin D1GST-Rb(772-928)6.5 ± 0.8CDK2-Cyclin EGST-Rb(772-928)0.7 ± 0.2CDK2-Cyclin EHistone 11.8 ± 0.4\nNone of the tested peptides (at concentrations up to 100 μM) had any inhibitory effect on PKCα phosphorylation of Histone 3 or ERK2"
+    },
+    {
+        "molecule_name": "Cyclin-dependent kinase inhibitor 1",
+        "protein_target_name": "CDK2-Cyclin E",
+        "binding_metric": "IC50",
+        "value": "0.7 ± 0.2",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nP21 (149-160) and its derivatives were tested for ability to inhibit CDK1/cyclin B kinase activity in phosphorylating histone H1 or GST-pRb (Table 2).\nNone of the tested peptides were able to inhibit significantly the CDK1/cyclin B-induced phosphorylation of GST-pRb and only the highest peptide concentrations used (200 μM) had a marginal inhibitory effect on CDK1/cyclin B kinase activity.\nTABLE 2Inhibition of CDK1-Cyclin B induced phosphorylation of Histone1 and GST-Rb by p21 derived peptides.HistoneGST-RbPeptideSequenceIC50 [μM]IC50 [μM]P21 (149-160)DFYHSKRRLIFS>200200P21 (149-160)153ADFYHAKRRLIFS200>200P21 (149-159)DFYHSKRRLIFNot tested>200\nThe IC 50 of the most active peptide—p21 (149-160) 153A for CDK2-Cyclin E induced phosphorylation of GST-Rb was 40 nM which is approximately 50 fold higher than the IC 50 value for p21<sup>WAF1</sup>.\nTABLE 3Inhibition of CDK4-Cyclin D1 and CDK2-Cyclin E kinase activity bypurified p21<sup>WAF1</sup>Inhibition by p21<sup>WAF1</sup>Kinase complexSubstrateIC50 [nM]CDK4-Cyclin D1GST-Rb(772-928)6.5 ± 0.8CDK2-Cyclin EGST-Rb(772-928)0.7 ± 0.2CDK2-Cyclin EHistone 11.8 ± 0.4\nNone of the tested peptides (at concentrations up to 100 μM) had any inhibitory effect on PKCα phosphorylation of Histone 3 or ERK2"
+    },
+    {
+        "molecule_name": "Cyclin-dependent kinase inhibitor 1",
+        "protein_target_name": "CDK2-Cyclin E",
+        "binding_metric": "IC50",
+        "value": "11.8 ± 0.4",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nP21 (149-160) and its derivatives were tested for ability to inhibit CDK1/cyclin B kinase activity in phosphorylating histone H1 or GST-pRb (Table 2).\nNone of the tested peptides were able to inhibit significantly the CDK1/cyclin B-induced phosphorylation of GST-pRb and only the highest peptide concentrations used (200 μM) had a marginal inhibitory effect on CDK1/cyclin B kinase activity.\nTABLE 2Inhibition of CDK1-Cyclin B induced phosphorylation of Histone1 and GST-Rb by p21 derived peptides.HistoneGST-RbPeptideSequenceIC50 [μM]IC50 [μM]P21 (149-160)DFYHSKRRLIFS>200200P21 (149-160)153ADFYHAKRRLIFS200>200P21 (149-159)DFYHSKRRLIFNot tested>200\nThe IC 50 of the most active peptide—p21 (149-160) 153A for CDK2-Cyclin E induced phosphorylation of GST-Rb was 40 nM which is approximately 50 fold higher than the IC 50 value for p21<sup>WAF1</sup>.\nTABLE 3Inhibition of CDK4-Cyclin D1 and CDK2-Cyclin E kinase activity bypurified p21<sup>WAF1</sup>Inhibition by p21<sup>WAF1</sup>Kinase complexSubstrateIC50 [nM]CDK4-Cyclin D1GST-Rb(772-928)6.5 ± 0.8CDK2-Cyclin EGST-Rb(772-928)0.7 ± 0.2CDK2-Cyclin EHistone 11.8 ± 0.4\nNone of the tested peptides (at concentrations up to 100 μM) had any inhibitory effect on PKCα phosphorylation of Histone 3 or ERK2"
+    },
+    {
+        "molecule_name": "P21 (149-160) 153ADFYHAKRRLIFS",
+        "protein_target_name": "CDK1/cyclin B",
+        "binding_metric": "IC50",
+        "value": "200",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nP21 (149-160) and its derivatives were tested for ability to inhibit CDK1/cyclin B kinase activity in phosphorylating histone H1 or GST-pRb (Table 2).\nNone of the tested peptides were able to inhibit significantly the CDK1/cyclin B-induced phosphorylation of GST-pRb and only the highest peptide concentrations used (200 μM) had a marginal inhibitory effect on CDK1/cyclin B kinase activity.\nTABLE 2Inhibition of CDK1-Cyclin B induced phosphorylation of Histone1 and GST-Rb by p21 derived peptides.HistoneGST-RbPeptideSequenceIC50 [μM]IC50 [μM]P21 (149-160)DFYHSKRRLIFS>200200P21 (149-160)153ADFYHAKRRLIFS200>200P21 (149-159)DFYHSKRRLIFNot tested>200\nThe IC 50 of the most active peptide—p21 (149-160) 153A for CDK2-Cyclin E induced phosphorylation of GST-Rb was 40 nM which is approximately 50 fold higher than the IC 50 value for p21<sup>WAF1</sup>.\nTABLE 3Inhibition of CDK4-Cyclin D1 and CDK2-Cyclin E kinase activity bypurified p21<sup>WAF1</sup>Inhibition by p21<sup>WAF1</sup>Kinase complexSubstrateIC50 [nM]CDK4-Cyclin D1GST-Rb(772-928)6.5 ± 0.8CDK2-Cyclin EGST-Rb(772-928)0.7 ± 0.2CDK2-Cyclin EHistone 11.8 ± 0.4\nNone of the tested peptides (at concentrations up to 100 μM) had any inhibitory effect on PKCα phosphorylation of Histone 3 or ERK2"
+    },
+    {
+        "molecule_name": "P21 (149-160) 153ADFYHAKRRLIFS",
+        "protein_target_name": "CDK1/cyclin B",
+        "binding_metric": "IC50",
+        "value": ">200",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nP21 (149-160) and its derivatives were tested for ability to inhibit CDK1/cyclin B kinase activity in phosphorylating histone H1 or GST-pRb (Table 2).\nNone of the tested peptides were able to inhibit significantly the CDK1/cyclin B-induced phosphorylation of GST-pRb and only the highest peptide concentrations used (200 μM) had a marginal inhibitory effect on CDK1/cyclin B kinase activity.\nTABLE 2Inhibition of CDK1-Cyclin B induced phosphorylation of Histone1 and GST-Rb by p21 derived peptides.HistoneGST-RbPeptideSequenceIC50 [μM]IC50 [μM]P21 (149-160)DFYHSKRRLIFS>200200P21 (149-160)153ADFYHAKRRLIFS200>200P21 (149-159)DFYHSKRRLIFNot tested>200\nThe IC 50 of the most active peptide—p21 (149-160) 153A for CDK2-Cyclin E induced phosphorylation of GST-Rb was 40 nM which is approximately 50 fold higher than the IC 50 value for p21<sup>WAF1</sup>.\nTABLE 3Inhibition of CDK4-Cyclin D1 and CDK2-Cyclin E kinase activity bypurified p21<sup>WAF1</sup>Inhibition by p21<sup>WAF1</sup>Kinase complexSubstrateIC50 [nM]CDK4-Cyclin D1GST-Rb(772-928)6.5 ± 0.8CDK2-Cyclin EGST-Rb(772-928)0.7 ± 0.2CDK2-Cyclin EHistone 11.8 ± 0.4\nNone of the tested peptides (at concentrations up to 100 μM) had any inhibitory effect on PKCα phosphorylation of Histone 3 or ERK2"
+    },
+    {
+        "molecule_name": "P21 (149-159) DFYHSKRRLIF",
+        "protein_target_name": "CDK1/cyclin B",
+        "binding_metric": "IC50",
+        "value": "Not tested",
+        "unit": null,
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nP21 (149-160) and its derivatives were tested for ability to inhibit CDK1/cyclin B kinase activity in phosphorylating histone H1 or GST-pRb (Table 2).\nNone of the tested peptides were able to inhibit significantly the CDK1/cyclin B-induced phosphorylation of GST-pRb and only the highest peptide concentrations used (200 μM) had a marginal inhibitory effect on CDK1/cyclin B kinase activity.\nTABLE 2Inhibition of CDK1-Cyclin B induced phosphorylation of Histone1 and GST-Rb by p21 derived peptides.HistoneGST-RbPeptideSequenceIC50 [μM]IC50 [μM]P21 (149-160)DFYHSKRRLIFS>200200P21 (149-160)153ADFYHAKRRLIFS200>200P21 (149-159)DFYHSKRRLIFNot tested>200\nThe IC 50 of the most active peptide—p21 (149-160) 153A for CDK2-Cyclin E induced phosphorylation of GST-Rb was 40 nM which is approximately 50 fold higher than the IC 50 value for p21<sup>WAF1</sup>.\nTABLE 3Inhibition of CDK4-Cyclin D1 and CDK2-Cyclin E kinase activity bypurified p21<sup>WAF1</sup>Inhibition by p21<sup>WAF1</sup>Kinase complexSubstrateIC50 [nM]CDK4-Cyclin D1GST-Rb(772-928)6.5 ± 0.8CDK2-Cyclin EGST-Rb(772-928)0.7 ± 0.2CDK2-Cyclin EHistone 11.8 ± 0.4\nNone of the tested peptides (at concentrations up to 100 μM) had any inhibitory effect on PKCα phosphorylation of Histone 3 or ERK2"
+    },
+    {
+        "molecule_name": "P21 (149-159) DFYHSKRRLIF",
+        "protein_target_name": "CDK1/cyclin B",
+        "binding_metric": "IC50",
+        "value": ">200",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nP21 (149-160) and its derivatives were tested for ability to inhibit CDK1/cyclin B kinase activity in phosphorylating histone H1 or GST-pRb (Table 2).\nNone of the tested peptides were able to inhibit significantly the CDK1/cyclin B-induced phosphorylation of GST-pRb and only the highest peptide concentrations used (200 μM) had a marginal inhibitory effect on CDK1/cyclin B kinase activity.\nTABLE 2Inhibition of CDK1-Cyclin B induced phosphorylation of Histone1 and GST-Rb by p21 derived peptides.HistoneGST-RbPeptideSequenceIC50 [μM]IC50 [μM]P21 (149-160)DFYHSKRRLIFS>200200P21 (149-160)153ADFYHAKRRLIFS200>200P21 (149-159)DFYHSKRRLIFNot tested>200\nThe IC 50 of the most active peptide—p21 (149-160) 153A for CDK2-Cyclin E induced phosphorylation of GST-Rb was 40 nM which is approximately 50 fold higher than the IC 50 value for p21<sup>WAF1</sup>.\nTABLE 3Inhibition of CDK4-Cyclin D1 and CDK2-Cyclin E kinase activity bypurified p21<sup>WAF1</sup>Inhibition by p21<sup>WAF1</sup>Kinase complexSubstrateIC50 [nM]CDK4-Cyclin D1GST-Rb(772-928)6.5 ± 0.8CDK2-Cyclin EGST-Rb(772-928)0.7 ± 0.2CDK2-Cyclin EHistone 11.8 ± 0.4\nNone of the tested peptides (at concentrations up to 100 μM) had any inhibitory effect on PKCα phosphorylation of Histone 3 or ERK2"
+    },
+    {
+        "molecule_name": "Leucine-isoleucine-phenylalanine",
+        "protein_target_name": "CDK2/Cyclin A",
+        "binding_metric": "IC50",
+        "value": "20",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "HAKRRLIF inhibited most strongly CDK2/Cyclin A phosphorylation of pRb—with IC 50 of 20 nM."
+    },
+    {
+        "molecule_name": "H-His-Ala-Lys-Arg-Arg-Leu-Ile-Phe-NH2",
+        "protein_target_name": "cyclin A",
+        "binding_metric": "IC50",
+        "value": "0.2",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nCompetitive cyclin A binding IC50 (μM) \nH-His-Ala-Lys-Arg-Arg-Leu-Ile-Phe-NH2    0.2    0.02 \nH-Asp-Phe-Tyr-His-Ala-Lys-Arg-Arg-Leu-Ile-Phe-NH2    >95    0.1 \nH-Ser-Asn-Pro-Pro-Lys-Pro-Leu-Lys-Lys-Leu-Arg-Phe-Asp-Ile    >95    3 \nGlu-NH2    H-Lys-Pro-Leu-Lys-Lys-Leu-Arg-Phe-NH2    >95    0.6 \nGST-pRb(772-928)    n/d    9"
+    },
+    {
+        "molecule_name": "H-Asp-Phe-Tyr-His-Ala-Lys-Arg-Arg-Leu-Ile-Phe-NH2",
+        "protein_target_name": "cyclin A",
+        "binding_metric": "IC50",
+        "value": ">95",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nCompetitive cyclin A binding IC50 (μM) \nH-His-Ala-Lys-Arg-Arg-Leu-Ile-Phe-NH2    0.2    0.02 \nH-Asp-Phe-Tyr-His-Ala-Lys-Arg-Arg-Leu-Ile-Phe-NH2    >95    0.1 \nH-Ser-Asn-Pro-Pro-Lys-Pro-Leu-Lys-Lys-Leu-Arg-Phe-Asp-Ile    >95    3 \nGlu-NH2    H-Lys-Pro-Leu-Lys-Lys-Leu-Arg-Phe-NH2    >95    0.6 \nGST-pRb(772-928)    n/d    9"
+    },
+    {
+        "molecule_name": "H-Ser-Asn-Pro-Pro-Lys-Pro-Leu-Lys-Lys-Leu-Arg-Phe-Asp-Ile",
+        "protein_target_name": "cyclin A",
+        "binding_metric": "IC50",
+        "value": ">95",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nCompetitive cyclin A binding IC50 (μM) \nH-His-Ala-Lys-Arg-Arg-Leu-Ile-Phe-NH2    0.2    0.02 \nH-Asp-Phe-Tyr-His-Ala-Lys-Arg-Arg-Leu-Ile-Phe-NH2    >95    0.1 \nH-Ser-Asn-Pro-Pro-Lys-Pro-Leu-Lys-Lys-Leu-Arg-Phe-Asp-Ile    >95    3 \nGlu-NH2    H-Lys-Pro-Leu-Lys-Lys-Leu-Arg-Phe-NH2    >95    0.6 \nGST-pRb(772-928)    n/d    9"
+    },
+    {
+        "molecule_name": "Glu-NH2",
+        "protein_target_name": "cyclin A",
+        "binding_metric": "IC50",
+        "value": ">95",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nCompetitive cyclin A binding IC50 (μM) \nH-His-Ala-Lys-Arg-Arg-Leu-Ile-Phe-NH2    0.2    0.02 \nH-Asp-Phe-Tyr-His-Ala-Lys-Arg-Arg-Leu-Ile-Phe-NH2    >95    0.1 \nH-Ser-Asn-Pro-Pro-Lys-Pro-Leu-Lys-Lys-Leu-Arg-Phe-Asp-Ile    >95    3 \nGlu-NH2    H-Lys-Pro-Leu-Lys-Lys-Leu-Arg-Phe-NH2    >95    0.6 \nGST-pRb(772-928)    n/d    9"
+    },
+    {
+        "molecule_name": "H-Lys-Pro-Leu-Lys-Lys-Leu-Arg-Phe-NH2",
+        "protein_target_name": "GST-pRb(772-928)",
+        "binding_metric": "IC50",
+        "value": "0.6",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nCompetitive cyclin A binding IC50 (μM) \nH-His-Ala-Lys-Arg-Arg-Leu-Ile-Phe-NH2    0.2    0.02 \nH-Asp-Phe-Tyr-His-Ala-Lys-Arg-Arg-Leu-Ile-Phe-NH2    >95    0.1 \nH-Ser-Asn-Pro-Pro-Lys-Pro-Leu-Lys-Lys-Leu-Arg-Phe-Asp-Ile    >95    3 \nGlu-NH2    H-Lys-Pro-Leu-Lys-Lys-Leu-Arg-Phe-NH2    >95    0.6 \nGST-pRb(772-928)    n/d    9"
+    }
+]

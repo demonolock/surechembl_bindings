@@ -1,0 +1,2 @@
+{"raw_mentions": "Here is the extracted sentence:\n\nThe pIC<sub>50 </sub>(negative log of the concentration of compound required to displace 50% of the ligand) for Compound (I) at the ET<sub>A </sub>receptor was 8.27 [8.23-8.32] (n=4)."}
+{"final_json": [{"molecule_name": "Compound (I)", "protein_target_name": "ET_A receptor", "binding_metric": "pIC50", "value": "8.27", "unit": null, "is_logarithmic": true}]}
