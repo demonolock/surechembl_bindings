@@ -51,12 +51,12 @@ Automating bioactivity data extraction will:
    * Then run:
 
      ```bash
-     surechembl_db_scripts/read_from_duckdb.py
+     python surechembl_db_scripts/read_from_duckdb.py
      ```
    * Then run:
 
      ```bash
-     surechembl_db_scripts/create_patent_lists.py
+     python surechembl_db_scripts/create_patent_lists.py
      ```
 3. **Filter and download patents** (you can use `example_small_ids.txt` or `example_big_ids.txt` for demonstration):
 

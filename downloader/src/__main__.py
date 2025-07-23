@@ -8,9 +8,9 @@ from common_utils.get_patents import get_patents_ids
 from common_utils.patent_parser import fetch_patent_description
 from .patent_filter import patent_filter
 
-IDS_UNFILTERED_FILE = "./out/patent_ids_unfiltered.txt"
-IDS_FILTERED_FILE = "./out/patent_ids_unfiltered.txt"
-IDS_ERROR_DOWNLOAD_FILE = "./out/patent_ids_error.txt"
+IDS_UNFILTERED_FILE = "patent_ids_unfiltered.txt"
+IDS_FILTERED_FILE = ".patent_ids_unfiltered.txt"
+IDS_ERROR_DOWNLOAD_FILE = "patent_ids_error.txt"
 
 # Настройка логирования
 logging.basicConfig(
@@ -19,9 +19,9 @@ logging.basicConfig(
 
 
 def download(patent_numbers: set[str], input_dir: str, output_dir: str) -> None:
-    unfiltered_patents_file = os.path.join(input_dir, IDS_UNFILTERED_FILE)
-    filtered_patents_file = os.path.join(input_dir, IDS_FILTERED_FILE)
-    error_patents_file = os.path.join(input_dir, IDS_ERROR_DOWNLOAD_FILE)
+    unfiltered_patents_file = os.path.join(output_dir, IDS_UNFILTERED_FILE)
+    filtered_patents_file = os.path.join(output_dir, IDS_FILTERED_FILE)
+    error_patents_file = os.path.join(output_dir, IDS_ERROR_DOWNLOAD_FILE)
 
     unfiltered_patents = get_patents_ids(unfiltered_patents_file)
     filtered_patents = get_patents_ids(filtered_patents_file)
@@ -40,12 +40,12 @@ def download(patent_numbers: set[str], input_dir: str, output_dir: str) -> None:
             try:
                 descr = future.result()
                 if not descr:
-                    logging.info(f"Not get {patent_number}")
-                    with open(error_patents_file, "a") as f:
+                    logging.info(f"Not download {patent_number}")
+                    with open(error_patents_file, "a+") as f:
                         f.write(patent_number + "\n")
                 elif patent_filter(descr):
                     logging.info(f"Filtered {patent_number}")
-                    with open(filtered_patents_file, "a") as f:
+                    with open(filtered_patents_file, "a+") as f:
                         f.write(patent_number + "\n")
                     with open(
                         os.path.join(output_dir, f"{patent_number}.json"), "w"
@@ -53,7 +53,7 @@ def download(patent_numbers: set[str], input_dir: str, output_dir: str) -> None:
                         f.write(json.dumps(descr, ensure_ascii=False, indent=2))
                 else:
                     logging.info(f"Unfiltered {patent_number}")
-                    with open(unfiltered_patents_file, "a") as f:
+                    with open(unfiltered_patents_file, "a+") as f:
                         f.write(patent_number + "\n")
             except Exception as e:
                 logging.error(f"Error in future for {patent_number}: {e}")
@@ -77,6 +77,8 @@ def main():
     )
     args = parser.parse_args()
 
+    if not os.path.exists(args.output_dir):
+        os.makedirs(args.output_dir)
     patent_numbers = get_patents_ids(args.input_file)
     download(patent_numbers, args.input_dir, args.output_dir)
 
