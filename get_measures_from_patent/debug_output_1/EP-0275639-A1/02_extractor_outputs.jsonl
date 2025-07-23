@@ -1,2 +1,0 @@
-{"raw_mentions": "Here are the extracted sentences:\n\nHuman platelet membranes were incubated with [\u00b3H] Rau\u00adwolscine (0.5-1.0 nM) for 30 minutes at 30\u00b0C with varying concentrates of the drug (0.1-10,000 nM)."}
-{"final_json": [{"molecule_name": "[\u00b3H] Rau\u00adwolscine", "protein_target_name": null, "binding_metric": null, "value": "0.5-1.0", "unit": "nM", "is_logarithmic": false}, {"molecule_name": "[\u00b3H] Rau\u00adwolscine", "protein_target_name": null, "binding_metric": null, "value": "0.1-10,000", "unit": "nM", "is_logarithmic": false}]}

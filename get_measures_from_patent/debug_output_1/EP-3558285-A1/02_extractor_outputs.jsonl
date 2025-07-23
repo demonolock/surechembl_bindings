@@ -1,2 +1,0 @@
-{"raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n32 19.30 \n64 86.89 \n\nNote that these rows are from Table 2 and contain the specific molecule identifier (Example Number), bioactivity metric (IC50), numeric value (19.30 and 86.89), and unit (nM)."}
-{"final_json": [{"molecule_name": "32", "protein_target_name": null, "binding_metric": "IC50", "value": "19.30", "unit": "nM", "is_logarithmic": false}, {"molecule_name": "64", "protein_target_name": null, "binding_metric": "IC50", "value": "86.89", "unit": "nM", "is_logarithmic": false}]}

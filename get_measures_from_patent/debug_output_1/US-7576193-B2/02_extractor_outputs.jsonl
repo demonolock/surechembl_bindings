@@ -1,3 +1,0 @@
-{"raw_mentions": "None"}
-{"raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe vectors were introduced into a human p40 expressing cell line and grown in medium containing methotrexate (0.1 \u03bcM)."}
-{"final_json": [{"molecule_name": "methotrexate", "protein_target_name": "p40", "binding_metric": null, "value": "0.1", "unit": "\u03bcM", "is_logarithmic": false}]}

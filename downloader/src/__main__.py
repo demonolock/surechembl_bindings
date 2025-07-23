@@ -8,9 +8,9 @@ from common_utils.get_patents import get_patents_ids
 from common_utils.patent_parser import fetch_patent_description
 from patent_filter import patent_filter
 
-IDS_UNFILTERED_FILE = "patent_ids_unfiltered.txt"
-IDS_FILTERED_FILE = "patent_ids_unfiltered.txt"
-IDS_ERROR_DOWNLOAD_FILE = "patent_ids_error.txt"
+IDS_UNFILTERED_FILE = "./out/patent_ids_unfiltered.txt"
+IDS_FILTERED_FILE = "./out/patent_ids_unfiltered.txt"
+IDS_ERROR_DOWNLOAD_FILE = "./out/patent_ids_error.txt"
 
 # Настройка логирования
 logging.basicConfig(
@@ -18,17 +18,17 @@ logging.basicConfig(
 )
 
 
-def download(patent_numbers: set[str], output_dir: str) -> None:
-    unfiltered_patents_file = os.path.join(output_dir, IDS_UNFILTERED_FILE)
-    filtered_patents_file = os.path.join(output_dir, IDS_FILTERED_FILE)
-    error_patents_file = os.path.join(output_dir, IDS_ERROR_DOWNLOAD_FILE)
+def download(patent_numbers: set[str], input_dir: str, output_dir: str) -> None:
+    unfiltered_patents_file = os.path.join(input_dir, IDS_UNFILTERED_FILE)
+    filtered_patents_file = os.path.join(input_dir, IDS_FILTERED_FILE)
+    error_patents_file = os.path.join(input_dir, IDS_ERROR_DOWNLOAD_FILE)
 
     unfiltered_patents = get_patents_ids(unfiltered_patents_file)
     filtered_patents = get_patents_ids(filtered_patents_file)
 
     curr_patents_numbers = patent_numbers - unfiltered_patents - filtered_patents
 
-    max_workers = 16  # Максимум CPU - то что вы используете (браузер, IDE). Я взяла половину от своих 16 CPU
+    max_workers = 2  # Максимум CPU - то что вы используете (браузер, IDE). Я взяла половину от своих 16 CPU
 
     with ProcessPoolExecutor(max_workers=max_workers) as executor:
         future_to_patent = {
@@ -65,6 +65,10 @@ def main():
         "--input_file", type=str, help="Путь к текстовому файлу со списком ID патентов."
     )
     parser.add_argument(
+        "--input_dir", type=str, help="Путь к файлам patent_ids_{type}.txt от предыдущего запуска.",
+        default=""
+    )
+    parser.add_argument(
         "--output_dir",
         type=str,
         help="Путь к директории, куда будут скачиваться патентамы.",
@@ -72,7 +76,7 @@ def main():
     args = parser.parse_args()
 
     patent_numbers = get_patents_ids(args.input_file)
-    download(patent_numbers, args.output_dir)
+    download(patent_numbers, args.input_dir, args.output_dir)
 
 
 if __name__ == "__main__":

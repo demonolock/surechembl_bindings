@@ -1,2 +1,0 @@
-{"raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\n IC50 >100 nM\n IC50 = 10 - 100 nM\n IC50 < 10 nM"}
-{"final_json": [{"molecule_name": null, "protein_target_name": null, "binding_metric": "IC50", "value": ">100", "unit": "nM", "is_logarithmic": false}, {"molecule_name": null, "protein_target_name": null, "binding_metric": "IC50", "value": "10 - 100", "unit": "nM", "is_logarithmic": false}, {"molecule_name": null, "protein_target_name": null, "binding_metric": "IC50", "value": "< 10", "unit": "nM", "is_logarithmic": false}]}

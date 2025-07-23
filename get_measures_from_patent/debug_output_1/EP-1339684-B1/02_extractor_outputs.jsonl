@@ -1,2 +1,0 @@
-{"raw_mentions": "For the compounds of this invention, a range of MCH receptor binding activity (Ki values) of from about 0.5 nM to about 100 nM was observed.\nCompounds of this invention preferably have a binding activity in the range of from about 0.5 nM to about 50 nM, and more preferably from about 0.5 to about 10 nM."}
-{"final_json": [{"molecule_name": null, "protein_target_name": "MCH receptor", "binding_metric": "Ki", "value": "0.5-100", "unit": "nM", "is_logarithmic": false}]}

@@ -1,2 +1,0 @@
-{"raw_mentions": "Here is the extracted sentence:\n\nFor the selection of active compounds, at 10<sup>-5</sup>M must result in an activity which is 20% higher than the maximum activity when LH is used as reference."}
-{"final_json": [{"molecule_name": null, "protein_target_name": "LH", "binding_metric": null, "value": "10^{-5}", "unit": "M", "is_logarithmic": false}, {"molecule_name": null, "protein_target_name": null, "binding_metric": null, "value": "20%", "unit": "%", "is_logarithmic": false}]}

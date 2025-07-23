@@ -1,4 +1,0 @@
-{"raw_mentions": "There are no sentences that meet the specified criteria. The text does not contain any sentences with a specific molecule name, bioactivity metric, numeric value, and unit."}
-{"raw_mentions": "In some embodiments, the half maximal effective concentration (EC50) of the anti-CCR 8 antibody to CCR8 is about 1.6, 1.8, 1.9, 2.0, 2.2, 2.3, 2.6, or 2.7 nM."}
-{"final_json": [{"molecule_name": "anti-CCR 8 antibody", "protein_target_name": "CCR8", "binding_metric": "EC50", "value": "1.6, 1.8, 1.9, 2.0, 2.2, 2.3, 2.6, 2.7", "unit": "nM", "is_logarithmic": false}]}
-{"raw_mentions": "There are no sentences that contain all four required components: a specific molecule name, ID or other identifier, a bioactivity metric, a specific numeric value for that metric, and a unit for that value. The text snippet provided appears to describe methods and experimental procedures, but does not include specific bioactivity data."}

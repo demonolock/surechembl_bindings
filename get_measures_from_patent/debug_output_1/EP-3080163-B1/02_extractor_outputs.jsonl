@@ -1,2 +1,0 @@
-{"raw_mentions": "Fragments were used with a concentration lower than <0.1 EU per uM ."}
-{"final_json": [{"molecule_name": "Fragments", "protein_target_name": null, "binding_metric": null, "value": "<0.1", "unit": "EU per uM", "is_logarithmic": false}]}

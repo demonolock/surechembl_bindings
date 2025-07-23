@@ -1,2 +1,0 @@
-{"raw_mentions": "The results show affinity KD values for LLC2B and FGFR2 and HER2 proteins of 0.96nM and 1.49nM, respectively (fig. 5)."}
-{"final_json": [{"molecule_name": null, "protein_target_name": "LLC2B", "binding_metric": "KD", "value": "0.96", "unit": "nM", "is_logarithmic": false}, {"molecule_name": null, "protein_target_name": "FGFR2 and HER2", "binding_metric": "KD", "value": "1.49", "unit": "nM", "is_logarithmic": false}]}

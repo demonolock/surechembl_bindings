@@ -1,2 +1,0 @@
-{"raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* A compound with a K<sub>i</sub> which is less than 10 nM is generally considered an excellent candidate for drug therapy."}
-{"final_json": [{"molecule_name": "compound", "protein_target_name": null, "binding_metric": "K<sub>i</sub>", "value": "<10", "unit": "nM", "is_logarithmic": false}]}

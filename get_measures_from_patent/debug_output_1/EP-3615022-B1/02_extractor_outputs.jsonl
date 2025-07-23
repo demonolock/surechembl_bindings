@@ -1,2 +1,0 @@
-{"raw_mentions": "According to some aspects of the invention, small organic molecules capable of inhibiting BMP2 with an IC50 lower than 10 \u00b5M are provided."}
-{"final_json": [{"molecule_name": null, "protein_target_name": "BMP2", "binding_metric": "IC50", "value": "<10", "unit": "\u00b5M", "is_logarithmic": false}]}

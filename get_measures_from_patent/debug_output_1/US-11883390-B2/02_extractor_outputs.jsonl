@@ -1,4 +1,0 @@
-{"raw_mentions": "For example, the K<sub>a</sub>(H<sub>2</sub>O) is 1\u00d710<sup>\u221214</sup>, whereas the K<sub>a</sub>(D<sub>2</sub>O) is 1\u00d710<sup>\u221215</sup>."}
-{"final_json": [{"molecule_name": null, "protein_target_name": null, "binding_metric": "K_a", "value": "1\u00d710\u221214", "unit": null, "is_logarithmic": false}, {"molecule_name": null, "protein_target_name": null, "binding_metric": "K_a", "value": "1\u00d710\u221215", "unit": null, "is_logarithmic": false}]}
-{"raw_mentions": "For example, the K<sub>a</sub>(H<sub>2</sub>O) is 1\u00d710<sup>\u221214</sup>, whereas the K<sub>a</sub>(D<sub>2</sub>O) is 1\u00d710<sup>\u221215</sup>."}
-{"final_json": [{"molecule_name": null, "protein_target_name": null, "binding_metric": null, "value": null, "unit": null, "is_logarithmic": false}]}

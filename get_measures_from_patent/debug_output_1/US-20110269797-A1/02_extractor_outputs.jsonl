@@ -1,2 +1,0 @@
-{"raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe dissociation constant between an antibody and its antigen is from 10<sup>\u22127 </sup>to 10<sup>\u221211 </sup>M."}
-{"final_json": [{"molecule_name": null, "protein_target_name": "antibody", "binding_metric": "Kd", "value": "10<sup>\u22127 </sup>to 10<sup>\u221211 </sup>", "unit": "M", "is_logarithmic": false}]}

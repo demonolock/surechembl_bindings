@@ -1,2 +1,0 @@
-{"raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nWhen tested in this assay, supporting compounds 1 -20, 22-39, 42-54 gave a plC50 of 6.5 to 9.1.\nSupporting compound 37 gave a plC50 of 9.1."}
-{"final_json": [{"molecule_name": "compounds 1-20, 22-39, 42-54", "protein_target_name": null, "binding_metric": "plC50", "value": "6.5 to 9.1", "unit": null, "is_logarithmic": true}, {"molecule_name": "compound 37", "protein_target_name": null, "binding_metric": "plC50", "value": "9.1", "unit": null, "is_logarithmic": true}]}

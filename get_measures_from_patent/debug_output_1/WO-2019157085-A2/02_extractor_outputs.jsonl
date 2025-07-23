@@ -1,4 +1,0 @@
-{"raw_mentions": "There are no sentences that contain all four required components: \n1. A specific molecule name, ID or other identifier.\n2. A bioactivity metric (e.g., IC50, Ki, Kd, EC50, pIC50, pEC50, pKi, pKd).\n3. A specific numeric value for that metric (e.g., \"10\", \"5.5\", \"<100\").\n4. A unit for that value (e.g., \"nM\", \"uM\", \"%\").\n\nThe text provided does not include any sentences with bioactivity metrics and their corresponding values and units."}
-{"raw_mentions": "XAV-939 (0.4 mM, Seleck Chemicals, S 1180)"}
-{"final_json": [{"molecule_name": "XAV-939", "protein_target_name": null, "binding_metric": null, "value": "0.4", "unit": "mM", "is_logarithmic": false}]}
-{"raw_mentions": "There are no sentences that meet the specified criteria, as none of the sentences contain a specific molecule name, a bioactivity metric, a specific numeric value for that metric, and a unit for that value."}
