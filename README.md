@@ -7,8 +7,14 @@ pip install -r requirements.txt
 
 2. Ручная подготовка списка патентов.(Для демонстрации можно пропустить этот шаг и использовать файл example_small_ids.txt или example_big_ids.txt в следующем шаге)
 Для этого надо скачать базу surecmebl и загрузить её в duckdb. 
-Затем запустить surechembl_db_scripts/read_from_duckdb.py(указать в db_path путь к базе).
-Затем запустить surechembl_db_scripts/create_patent_lists.py
+Затем запустить 
+```
+surechembl_db_scripts/read_from_duckdb.py
+```
+Затем запустить 
+```
+surechembl_db_scripts/create_patent_lists.py
+```
 
 3. Фильтрация и скачивание патентов(можно использовать example_small_ids.txt или example_big_ids.txt для демонстрации)
 ```

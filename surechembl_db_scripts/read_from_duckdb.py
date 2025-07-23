@@ -29,7 +29,7 @@ COPY (
       JOIN compounds c ON c.id = pcm.compound_id AND c.smiles != 'N'
       JOIN fields f ON f.id = pcm.field_id and f.fieldname = 'desc'
   )
-  TO '/home/vshepard/hackaton_life/pharma_patents_numbers_2022.csv'
+  TO 'pharma_patents_numbers_2022.csv'
   WITH (
     FORMAT      CSV,        -- change from PARQUET → CSV
     HEADER      TRUE,       -- include column names in the first row

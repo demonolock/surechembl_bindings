@@ -1,6 +1,6 @@
 import duckdb
 
-file = "/home/vshepard/hackaton_life/pharma_patents_cut.parquet"
+file = "pharma_patents_cut.parquet"
 
 chunk_size = 2
 offset = 0
