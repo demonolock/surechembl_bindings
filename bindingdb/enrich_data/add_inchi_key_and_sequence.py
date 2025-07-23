@@ -1,4 +1,5 @@
 import json
+import os
 import random
 import string
 import time
@@ -10,8 +11,9 @@ input_file = "input/normalized_data.json"
 output_file = "output/final_inchi_seq.json"
 
 # File paths for caches
-inchi_key_cache_file = "output/inchi_key_cache.db"
-sequence_cache_file = "output/sequence_cache.db"
+dir = os.path.dirname(os.path.abspath(__file__))
+inchi_key_cache_file = os.path.join(dir, "output/inchi_key_cache.db")
+sequence_cache_file = os.path.join(dir, "output/sequence_cache.db")
 
 
 def skip_nulls(row):
@@ -161,12 +163,8 @@ def process_one(result, inchi_key_cache, sequence_cache):
     return result
 
 
-if __name__ == "__main__":
-    with open(input_file, "r", encoding="utf-8") as f:
-        results = json.load(f)
-
-    max_workers = 16
-    updated_results = []
+def add_inchi_key_and_sequence(binding: dict, max_workers: int = 1) -> list[dict]:
+    updated_bindings = []
 
     # Open shelve persistent caches
     with shelve.open(
@@ -180,7 +178,7 @@ if __name__ == "__main__":
 
         with ThreadPoolExecutor(max_workers=max_workers) as executor:
             futures = []
-            for result in results:
+            for result in binding:
                 if (
                     not isinstance(result, dict)
                     or skip_nulls(result)
@@ -191,9 +189,9 @@ if __name__ == "__main__":
                 futures.append(executor.submit(process_wrapper, result))
             for future in as_completed(futures):
                 try:
-                    updated_result = future.result()
-                    updated_results.append(updated_result)
-                    print(f"Add the row: {updated_result}")
+                    updated_binding = future.result()
+                    updated_bindings.append(updated_binding)
+                    print(f"Add the row: {updated_binding}")
                 except Exception as e:
                     print(f"Error processing result: {e}")
 
@@ -201,5 +199,12 @@ if __name__ == "__main__":
         inchi_key_cache.sync()
         sequence_cache.sync()
 
+    return updated_bindings
+
+
+if __name__ == "__main__":
+    with open(input_file, "r", encoding="utf-8") as f:
+        bindings = json.load(f)
+    updated_bindings = add_inchi_key_and_sequence(bindings)
     with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(updated_results, f, ensure_ascii=False, indent=2)
+        json.dump(updated_bindings, f, ensure_ascii=False, indent=2)

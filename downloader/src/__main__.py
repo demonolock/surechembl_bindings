@@ -6,7 +6,7 @@ from concurrent.futures import ProcessPoolExecutor, as_completed
 
 from common_utils.get_patents import get_patents_ids
 from common_utils.patent_parser import fetch_patent_description
-from patent_filter import patent_filter
+from .patent_filter import patent_filter
 
 IDS_UNFILTERED_FILE = "./out/patent_ids_unfiltered.txt"
 IDS_FILTERED_FILE = "./out/patent_ids_unfiltered.txt"

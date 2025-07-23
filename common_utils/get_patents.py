@@ -14,7 +14,7 @@ def get_patents_ids(file_path: str) -> set[str]:
                     word_list.add(word)
         return word_list
     except FileNotFoundError:
-        print(f"Ошибка: Файл '{file_path}' не найден.")
+        # print(f"Файл '{file_path}' не найден.")
         return set()
     except Exception as e:
         print(f"Произошла ошибка при чтении файла: {e}")

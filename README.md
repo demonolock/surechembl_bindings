@@ -1,16 +1,18 @@
+Порядок запуска в общем случае:
 
-Порядок запуска:
+1. Поставить окружение(python 3.10). Установить зависимости
+pip install -r requirements.txt
 
-1. Поиск подходящих patent_number
-filter/src/__main__.py
-2. Извлекаем метрики из description патентов
-get_measures_from_patent/pipeline.py
-3. Заменяем алиасы на имена молекул
-alias_to_name/pipeline.py
-4. Добавляем в данные inchi_key и sequence по именам молекулы и таргета
-bindingdb/enrich_data/add_inchi_key_and_sequence.py
-5. Форматируем в вид пригодный для скрипта расчета корреляции
-bindingdb/enrich_data/json_to_bindingdb.py
+2. Ручная подготовка списка патентов.(Для демонстрации можно пропустить этот шаг и использовать файл example_small_ids.txt или example_big_ids.txt в следующем шаге)
+Для этого надо скачать базу surecmebl и загрузить её в duckdb. 
+Затем запустить surechembl_db_scripts/read_from_duckdb.py(указать в db_path путь к базе).
+Затем запустить surechembl_db_scripts/create_patent_lists.py
 
+3. Фильтрация и скачивание патентов(можно использовать example_small_ids.txt или example_big_ids.txt для демонстрации)
+python downloader.py  --input_file <список патентов> --output_dir <папка для скачанных патентов>
 
+4. Агент извлечения метрик из патентов. Под капотом используется агент для замены алиасов из метрик в названия молекул(из следующего пункта)
+python get_measure.py --patent_dirs <папка со скачанными патентами>  <папка с данными по связям>
 
+5. Добавляем в данные inchi_key и sequence по именам молекулы и таргета, нормализация данных и запись в таблицу
+python bindingdb.py <папка с данными по связям> <итоговая таблица>
