@@ -133,5 +133,68 @@
     "binding_metric": "IC50",
     "value": "100",
     "unit": "%"
+  },
+  {
+    "note": "Обработка 'at least'",
+    "molecule_name": "Molecule P",
+    "protein_target_name": "Protein P",
+    "patent_number": "TEST-013",
+    "binding_metric": "IC50",
+    "value": "at least 80",
+    "unit": "nM"
+  },
+  {
+    "note": "Научная нотация с '×' и '−'",
+    "molecule_name": "Molecule Q",
+    "protein_target_name": "Protein Q",
+    "patent_number": "TEST-014",
+    "binding_metric": "EC50",
+    "value": "3.0×10−10",
+    "unit": "M"
+  },
+  {
+    "note": "Обработка 'or less'",
+    "molecule_name": "Molecule R",
+    "protein_target_name": "Protein R",
+    "patent_number": "TEST-015",
+    "binding_metric": "Ki",
+    "value": "30 µM or less",
+    "unit": "µM"
+  },
+  {
+    "note": "Обработка 'or greater'",
+    "molecule_name": "Molecule S",
+    "protein_target_name": "Protein S",
+    "patent_number": "TEST-016",
+    "binding_metric": "IC50",
+    "value": "2 or greater",
+    "unit": "nM"
+  },
+  {
+    "note": "Обработка 'or higher'",
+    "molecule_name": "Molecule T",
+    "protein_target_name": "Protein T",
+    "patent_number": "TEST-017",
+    "binding_metric": "IC50",
+    "value": "40 or higher",
+    "unit": "nM"
+  },
+  {
+    "note": "Обработка 'or more'",
+    "molecule_name": "Molecule U",
+    "protein_target_name": "Protein U",
+    "patent_number": "TEST-018",
+    "binding_metric": "IC50",
+    "value": "0.2 nM or more",
+    "unit": "nM"
+  },
+  {
+    "note": "Обработка 'between'",
+    "molecule_name": "Molecule V",
+    "protein_target_name": "Protein V",
+    "patent_number": "TEST-019",
+    "binding_metric": "IC50",
+    "value": "between 10 and 100",
+    "unit": "nM"
   }
 ]
