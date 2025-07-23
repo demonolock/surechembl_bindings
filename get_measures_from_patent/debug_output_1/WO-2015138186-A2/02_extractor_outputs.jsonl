@@ -1,0 +1,2 @@
+{"raw_mentions": "Substance P elicited a strong concentration-dependent secretagogue effect with the maximum per cent of histamine released being 64 \u00b1 4% (EC50 -log 4.4)."}
+{"final_json": [{"molecule_name": "Substance P", "protein_target_name": null, "binding_metric": "EC50", "value": "-log 4.4", "unit": null, "is_logarithmic": true}]}

@@ -1,0 +1,2 @@
+{"raw_mentions": "IC50 (half inhibitory concentration) test results: test compounds a, b, c, d, e, f were selected using the Alphascreen kit method, Bay60-7550 was used as a reference compound, and IC50 was 8.4 nM."}
+{"final_json": [{"molecule_name": "Bay60-7550", "protein_target_name": null, "binding_metric": "IC50", "value": "8.4", "unit": "nM", "is_logarithmic": false}]}

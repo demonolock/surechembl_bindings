@@ -1,0 +1,3 @@
+{"raw_mentions": "The sensitivity of these transfected cells to oleandrin treatment was reduced as evidenced by the shift of IC50 value of oleandrin from 4.1 nM of non-transfected Panc-1 cells to more than 50 nM in \u03b11 transfected cells (FIG. 5C)."}
+{"final_json": [{"molecule_name": "oleandrin", "protein_target_name": null, "binding_metric": "IC50", "value": "4.1", "unit": "nM", "is_logarithmic": false}, {"molecule_name": "oleandrin", "protein_target_name": null, "binding_metric": "IC50", "value": ">50", "unit": "nM", "is_logarithmic": false}]}
+{"raw_mentions": "There are no sentences that meet the specified criteria. The text does not contain specific molecule names, bioactivity metrics, numeric values, and units as required."}

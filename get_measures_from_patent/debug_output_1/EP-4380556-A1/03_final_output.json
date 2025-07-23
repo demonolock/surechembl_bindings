@@ -1,0 +1,38 @@
+[
+    {
+        "molecule_name": "Arachidonoylethanolamine",
+        "protein_target_name": "CB1",
+        "binding_metric": "Ki",
+        "value": "<100",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Anandamide evidencing a preferential affinity for CB1 binding, for example having a Ki for CB1 of less than 100nM and a Ki for CB2 of more than 1000nM."
+    },
+    {
+        "molecule_name": "Arachidonoylethanolamine",
+        "protein_target_name": "CB2",
+        "binding_metric": "Ki",
+        "value": ">1000",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Anandamide evidencing a preferential affinity for CB1 binding, for example having a Ki for CB1 of less than 100nM and a Ki for CB2 of more than 1000nM."
+    },
+    {
+        "molecule_name": "anandamide analogs",
+        "protein_target_name": "CB1 receptor",
+        "binding_metric": "Ki",
+        "value": "<10",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Anandamide analogs for use in the present formulations may be characterized by receptor binding activities, for example being one or more of: partial agonists of the CBi receptor; weak partial agonists of the CB2 receptor, partial agonists of vanilloid receptor VR1 ; and/or an agonistic ligand of the GPR55 receptor. \nAlternatively, the binding affinity of anandamide analogs for the CB1 and CB2 receptors may be characterized by a preferential affinity for CB1 binding, for example having a Ki for CB1 of less than 10nM and a Ki for CB2 of more than 100nM."
+    },
+    {
+        "molecule_name": "anandamide analogs",
+        "protein_target_name": "CB2 receptor",
+        "binding_metric": "Ki",
+        "value": ">100",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Anandamide analogs for use in the present formulations may be characterized by receptor binding activities, for example being one or more of: partial agonists of the CBi receptor; weak partial agonists of the CB2 receptor, partial agonists of vanilloid receptor VR1 ; and/or an agonistic ligand of the GPR55 receptor. \nAlternatively, the binding affinity of anandamide analogs for the CB1 and CB2 receptors may be characterized by a preferential affinity for CB1 binding, for example having a Ki for CB1 of less than 10nM and a Ki for CB2 of more than 100nM."
+    }
+]

@@ -1,0 +1,2 @@
+{"raw_mentions": "The compounds of the present invention display IC50 values in the above-mentioned HDAC6 assay of less than 100 nM."}
+{"final_json": [{"molecule_name": "compounds of the present invention", "protein_target_name": "HDAC6", "binding_metric": "IC50", "value": "<100", "unit": "nM", "is_logarithmic": false}]}

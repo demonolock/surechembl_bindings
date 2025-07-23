@@ -1,0 +1,47 @@
+[
+    {
+        "molecule_name": "Compound",
+        "protein_target_name": "5-HT4 receptor",
+        "binding_metric": "IC50",
+        "value": "542.19 ± 6.29",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe IC<sub>50</sub>, value of 50% inhibition, of each of the sample compounds and cisapride in the binding inhibition assay was determined in accordance with the computer program of IC<sub>50</sub> instructed by Windows-origin (Microcal Software).\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)This Invention:   Compound 542.19 ± 6.29\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)This Invention:         2078.14 ± 14.52\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)This Invention:         1168.70 ± 7.32\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)This Invention:         1078.50 ± 14.63\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)Comparison:   Cisapride97.47 ± 9.17"
+    },
+    {
+        "molecule_name": "Compound",
+        "protein_target_name": "5-HT4 receptor",
+        "binding_metric": "IC50",
+        "value": "2078.14 ± 14.52",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe IC<sub>50</sub>, value of 50% inhibition, of each of the sample compounds and cisapride in the binding inhibition assay was determined in accordance with the computer program of IC<sub>50</sub> instructed by Windows-origin (Microcal Software).\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)This Invention:   Compound 542.19 ± 6.29\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)This Invention:         2078.14 ± 14.52\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)This Invention:         1168.70 ± 7.32\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)This Invention:         1078.50 ± 14.63\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)Comparison:   Cisapride97.47 ± 9.17"
+    },
+    {
+        "molecule_name": "Compound",
+        "protein_target_name": "5-HT4 receptor",
+        "binding_metric": "IC50",
+        "value": "1168.70 ± 7.32",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe IC<sub>50</sub>, value of 50% inhibition, of each of the sample compounds and cisapride in the binding inhibition assay was determined in accordance with the computer program of IC<sub>50</sub> instructed by Windows-origin (Microcal Software).\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)This Invention:   Compound 542.19 ± 6.29\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)This Invention:         2078.14 ± 14.52\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)This Invention:         1168.70 ± 7.32\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)This Invention:         1078.50 ± 14.63\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)Comparison:   Cisapride97.47 ± 9.17"
+    },
+    {
+        "molecule_name": "Compound",
+        "protein_target_name": "5-HT4 receptor",
+        "binding_metric": "IC50",
+        "value": "1078.50 ± 14.63",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe IC<sub>50</sub>, value of 50% inhibition, of each of the sample compounds and cisapride in the binding inhibition assay was determined in accordance with the computer program of IC<sub>50</sub> instructed by Windows-origin (Microcal Software).\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)This Invention:   Compound 542.19 ± 6.29\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)This Invention:         2078.14 ± 14.52\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)This Invention:         1168.70 ± 7.32\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)This Invention:         1078.50 ± 14.63\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)Comparison:   Cisapride97.47 ± 9.17"
+    },
+    {
+        "molecule_name": "4-(4-(4-Fluorobenzyl)-5-methyl-1H-imidazol-1-yl)methylpipeidine ",
+        "protein_target_name": "5-HT4 receptor",
+        "binding_metric": "IC50",
+        "value": "97.47 ± 9.17",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nThe IC<sub>50</sub>, value of 50% inhibition, of each of the sample compounds and cisapride in the binding inhibition assay was determined in accordance with the computer program of IC<sub>50</sub> instructed by Windows-origin (Microcal Software).\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)This Invention:   Compound 542.19 ± 6.29\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)This Invention:         2078.14 ± 14.52\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)This Invention:         1168.70 ± 7.32\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)This Invention:         1078.50 ± 14.63\nInhibition of 5-HT<sub>4</sub> receptor-binding ([<sup>3</sup>H]GR113808 binding in guinea pig)Ileum (n=3) IC<sub>50</sub> (nM)Comparison:   Cisapride97.47 ± 9.17"
+    }
+]

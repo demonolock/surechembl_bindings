@@ -1,0 +1,11 @@
+[
+    {
+        "molecule_name": "Trastuzumab (CAS 180288-69-1, huMAb4D5-8, rhuMAb HER2, Genentech)",
+        "protein_target_name": "HER2",
+        "binding_metric": "Kd",
+        "value": "5",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Trastuzumab (CAS 180288-69-1,huMAb4D5-8,rhuMAb HER2,Genentech) is a recombinant DNA-derived IgG1 kappa monoclonal antibody, which is a humanized form of the murine anti-HER 2 antibody (4D 5), that binds selectively with high affinity (kd=5 nM) to the extracellular domain of HER2 in a cell-based assay (US 5677171; US 5821337; US 6054297; US 6165464; US 6339142; US 6407213; US 6639055; US 6719971; US 6800738; US 7074404; coussens et al, (1985) Science 230:1132-9; slamon et al, (1989) Science244:707-12; slamon et al, (2001) New Engl. J. Med. 344:783-792)."
+    }
+]

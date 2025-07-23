@@ -1,0 +1,83 @@
+[
+    {
+        "molecule_name": "α-substituted hydrazides",
+        "protein_target_name": "Calpain I",
+        "binding_metric": "IC50",
+        "value": "0.36",
+        "unit": "µM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nAs shown in Table II, example of α-substituted hydrazides inhibited Calpain I and II with IC50 between 0.36 µM to 0.59 µ M but did not inhibit trypsin (a serine protease) or metalloprotease thermolysin.\nInhibitory Activity of α-Substituted Hydrazide Example 5 Against Various ProteasesProteaseIC50 (µM)Calpain I0.364Calpain II0.590Cathepsin B>200Papain5.6Trypsin>200Thermolysin>500Calmodulin-calcineurin>500\nPretreatment of cells with α-substituted hydrazides diminished the 145 kD fragment formation with an IC50 of 15 to 25 µM (Table III).\nInhibitory Activity of α-Substituted Hydrazides on Spectrin Breakdown in Human Leukemic Molt-4 cells Treated With Calcium Ionophore A23187ExampleIC50 (µM)525425915"
+    },
+    {
+        "molecule_name": "α-substituted hydrazides",
+        "protein_target_name": "Calpain II",
+        "binding_metric": "IC50",
+        "value": "0.59",
+        "unit": "µM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nAs shown in Table II, example of α-substituted hydrazides inhibited Calpain I and II with IC50 between 0.36 µM to 0.59 µ M but did not inhibit trypsin (a serine protease) or metalloprotease thermolysin.\nInhibitory Activity of α-Substituted Hydrazide Example 5 Against Various ProteasesProteaseIC50 (µM)Calpain I0.364Calpain II0.590Cathepsin B>200Papain5.6Trypsin>200Thermolysin>500Calmodulin-calcineurin>500\nPretreatment of cells with α-substituted hydrazides diminished the 145 kD fragment formation with an IC50 of 15 to 25 µM (Table III).\nInhibitory Activity of α-Substituted Hydrazides on Spectrin Breakdown in Human Leukemic Molt-4 cells Treated With Calcium Ionophore A23187ExampleIC50 (µM)525425915"
+    },
+    {
+        "molecule_name": "α-Substituted Hydrazide Example 5",
+        "protein_target_name": "Calpain I",
+        "binding_metric": "IC50",
+        "value": "0.364",
+        "unit": "µM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nAs shown in Table II, example of α-substituted hydrazides inhibited Calpain I and II with IC50 between 0.36 µM to 0.59 µ M but did not inhibit trypsin (a serine protease) or metalloprotease thermolysin.\nInhibitory Activity of α-Substituted Hydrazide Example 5 Against Various ProteasesProteaseIC50 (µM)Calpain I0.364Calpain II0.590Cathepsin B>200Papain5.6Trypsin>200Thermolysin>500Calmodulin-calcineurin>500\nPretreatment of cells with α-substituted hydrazides diminished the 145 kD fragment formation with an IC50 of 15 to 25 µM (Table III).\nInhibitory Activity of α-Substituted Hydrazides on Spectrin Breakdown in Human Leukemic Molt-4 cells Treated With Calcium Ionophore A23187ExampleIC50 (µM)525425915"
+    },
+    {
+        "molecule_name": "α-Substituted Hydrazide Example 5",
+        "protein_target_name": "Calpain II",
+        "binding_metric": "IC50",
+        "value": "0.590",
+        "unit": "µM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nAs shown in Table II, example of α-substituted hydrazides inhibited Calpain I and II with IC50 between 0.36 µM to 0.59 µ M but did not inhibit trypsin (a serine protease) or metalloprotease thermolysin.\nInhibitory Activity of α-Substituted Hydrazide Example 5 Against Various ProteasesProteaseIC50 (µM)Calpain I0.364Calpain II0.590Cathepsin B>200Papain5.6Trypsin>200Thermolysin>500Calmodulin-calcineurin>500\nPretreatment of cells with α-substituted hydrazides diminished the 145 kD fragment formation with an IC50 of 15 to 25 µM (Table III).\nInhibitory Activity of α-Substituted Hydrazides on Spectrin Breakdown in Human Leukemic Molt-4 cells Treated With Calcium Ionophore A23187ExampleIC50 (µM)525425915"
+    },
+    {
+        "molecule_name": "α-Substituted Hydrazide Example 5",
+        "protein_target_name": "Cathepsin B",
+        "binding_metric": "IC50",
+        "value": ">200",
+        "unit": "µM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nAs shown in Table II, example of α-substituted hydrazides inhibited Calpain I and II with IC50 between 0.36 µM to 0.59 µ M but did not inhibit trypsin (a serine protease) or metalloprotease thermolysin.\nInhibitory Activity of α-Substituted Hydrazide Example 5 Against Various ProteasesProteaseIC50 (µM)Calpain I0.364Calpain II0.590Cathepsin B>200Papain5.6Trypsin>200Thermolysin>500Calmodulin-calcineurin>500\nPretreatment of cells with α-substituted hydrazides diminished the 145 kD fragment formation with an IC50 of 15 to 25 µM (Table III).\nInhibitory Activity of α-Substituted Hydrazides on Spectrin Breakdown in Human Leukemic Molt-4 cells Treated With Calcium Ionophore A23187ExampleIC50 (µM)525425915"
+    },
+    {
+        "molecule_name": "α-Substituted Hydrazide Example 5",
+        "protein_target_name": "Papain",
+        "binding_metric": "IC50",
+        "value": "5.6",
+        "unit": "µM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nAs shown in Table II, example of α-substituted hydrazides inhibited Calpain I and II with IC50 between 0.36 µM to 0.59 µ M but did not inhibit trypsin (a serine protease) or metalloprotease thermolysin.\nInhibitory Activity of α-Substituted Hydrazide Example 5 Against Various ProteasesProteaseIC50 (µM)Calpain I0.364Calpain II0.590Cathepsin B>200Papain5.6Trypsin>200Thermolysin>500Calmodulin-calcineurin>500\nPretreatment of cells with α-substituted hydrazides diminished the 145 kD fragment formation with an IC50 of 15 to 25 µM (Table III).\nInhibitory Activity of α-Substituted Hydrazides on Spectrin Breakdown in Human Leukemic Molt-4 cells Treated With Calcium Ionophore A23187ExampleIC50 (µM)525425915"
+    },
+    {
+        "molecule_name": "α-Substituted Hydrazide Example 5",
+        "protein_target_name": "Trypsin",
+        "binding_metric": "IC50",
+        "value": ">200",
+        "unit": "µM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nAs shown in Table II, example of α-substituted hydrazides inhibited Calpain I and II with IC50 between 0.36 µM to 0.59 µ M but did not inhibit trypsin (a serine protease) or metalloprotease thermolysin.\nInhibitory Activity of α-Substituted Hydrazide Example 5 Against Various ProteasesProteaseIC50 (µM)Calpain I0.364Calpain II0.590Cathepsin B>200Papain5.6Trypsin>200Thermolysin>500Calmodulin-calcineurin>500\nPretreatment of cells with α-substituted hydrazides diminished the 145 kD fragment formation with an IC50 of 15 to 25 µM (Table III).\nInhibitory Activity of α-Substituted Hydrazides on Spectrin Breakdown in Human Leukemic Molt-4 cells Treated With Calcium Ionophore A23187ExampleIC50 (µM)525425915"
+    },
+    {
+        "molecule_name": "α-Substituted Hydrazide Example 5",
+        "protein_target_name": "Thermolysin",
+        "binding_metric": "IC50",
+        "value": ">500",
+        "unit": "µM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nAs shown in Table II, example of α-substituted hydrazides inhibited Calpain I and II with IC50 between 0.36 µM to 0.59 µ M but did not inhibit trypsin (a serine protease) or metalloprotease thermolysin.\nInhibitory Activity of α-Substituted Hydrazide Example 5 Against Various ProteasesProteaseIC50 (µM)Calpain I0.364Calpain II0.590Cathepsin B>200Papain5.6Trypsin>200Thermolysin>500Calmodulin-calcineurin>500\nPretreatment of cells with α-substituted hydrazides diminished the 145 kD fragment formation with an IC50 of 15 to 25 µM (Table III).\nInhibitory Activity of α-Substituted Hydrazides on Spectrin Breakdown in Human Leukemic Molt-4 cells Treated With Calcium Ionophore A23187ExampleIC50 (µM)525425915"
+    },
+    {
+        "molecule_name": "α-Substituted Hydrazide Example 5",
+        "protein_target_name": "Calmodulin-calcineurin",
+        "binding_metric": "IC50",
+        "value": ">500",
+        "unit": "µM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nAs shown in Table II, example of α-substituted hydrazides inhibited Calpain I and II with IC50 between 0.36 µM to 0.59 µ M but did not inhibit trypsin (a serine protease) or metalloprotease thermolysin.\nInhibitory Activity of α-Substituted Hydrazide Example 5 Against Various ProteasesProteaseIC50 (µM)Calpain I0.364Calpain II0.590Cathepsin B>200Papain5.6Trypsin>200Thermolysin>500Calmodulin-calcineurin>500\nPretreatment of cells with α-substituted hydrazides diminished the 145 kD fragment formation with an IC50 of 15 to 25 µM (Table III).\nInhibitory Activity of α-Substituted Hydrazides on Spectrin Breakdown in Human Leukemic Molt-4 cells Treated With Calcium Ionophore A23187ExampleIC50 (µM)525425915"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "molecule_name": "NHREC-antibody complex",
+        "protein_target_name": "NHREC",
+        "binding_metric": "K_a",
+        "value": "10^9 to 10^12",
+        "unit": "L/mole",
+        "is_logarithmic": false,
+        "raw_mentions": "High-affinity antibody preparations with K<sub>a</sub> ranging from about 10<sup>9</sup> to 10<sup>12</sup> L/mole are prefeπed for use in immunoassays in which the NHREC-antibody complex must withstand rigorous manipulations.\nLow-affinity antibody preparations with K<sub>a</sub> ranging from about 10<sup>6</sup> to 10<sup>7</sup> L/mole are prefeπed for use in immunopurification and similar procedures which ultimately require dissociation of NHREC, preferably in active form, from the antibody"
+    },
+    {
+        "molecule_name": "NHREC-antibody complex",
+        "protein_target_name": "NHREC",
+        "binding_metric": "K_a",
+        "value": "10^6 to 10^7",
+        "unit": "L/mole",
+        "is_logarithmic": false,
+        "raw_mentions": "High-affinity antibody preparations with K<sub>a</sub> ranging from about 10<sup>9</sup> to 10<sup>12</sup> L/mole are prefeπed for use in immunoassays in which the NHREC-antibody complex must withstand rigorous manipulations.\nLow-affinity antibody preparations with K<sub>a</sub> ranging from about 10<sup>6</sup> to 10<sup>7</sup> L/mole are prefeπed for use in immunopurification and similar procedures which ultimately require dissociation of NHREC, preferably in active form, from the antibody"
+    }
+]

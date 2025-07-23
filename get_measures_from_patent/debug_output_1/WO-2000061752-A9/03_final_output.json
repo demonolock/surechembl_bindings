@@ -1,0 +1,83 @@
+[
+    {
+        "molecule_name": "C3b",
+        "protein_target_name": "CRl",
+        "binding_metric": "Kd",
+        "value": "1.0-2.7",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe dissociation constants (Kd) for pC3b of wild-type CRl and the LHR-BD and -CD constructs were in the range of 1.0-2.7 nM, and of the CR1/CR2 chimeras containing SCRs 1-4, 1-3, and 2-4 of LHR-B or -C were 1.8-2.4, 6-9, and 22- 36 nM, respectively."
+    },
+    {
+        "molecule_name": "C3b",
+        "protein_target_name": "LHR-BD",
+        "binding_metric": "Kd",
+        "value": "1.0-2.7",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe dissociation constants (Kd) for pC3b of wild-type CRl and the LHR-BD and -CD constructs were in the range of 1.0-2.7 nM, and of the CR1/CR2 chimeras containing SCRs 1-4, 1-3, and 2-4 of LHR-B or -C were 1.8-2.4, 6-9, and 22- 36 nM, respectively."
+    },
+    {
+        "molecule_name": "C3b",
+        "protein_target_name": "LHR-CD",
+        "binding_metric": "Kd",
+        "value": "1.0-2.7",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe dissociation constants (Kd) for pC3b of wild-type CRl and the LHR-BD and -CD constructs were in the range of 1.0-2.7 nM, and of the CR1/CR2 chimeras containing SCRs 1-4, 1-3, and 2-4 of LHR-B or -C were 1.8-2.4, 6-9, and 22- 36 nM, respectively."
+    },
+    {
+        "molecule_name": "C3b",
+        "protein_target_name": "CR1/CR2 chimeras containing SCRs 1-4 of LHR-B",
+        "binding_metric": "Kd",
+        "value": "1.8-2.4",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe dissociation constants (Kd) for pC3b of wild-type CRl and the LHR-BD and -CD constructs were in the range of 1.0-2.7 nM, and of the CR1/CR2 chimeras containing SCRs 1-4, 1-3, and 2-4 of LHR-B or -C were 1.8-2.4, 6-9, and 22- 36 nM, respectively."
+    },
+    {
+        "molecule_name": "C3b",
+        "protein_target_name": "CR1/CR2 chimeras containing SCRs 1-3 of LHR-B",
+        "binding_metric": "Kd",
+        "value": "6-9",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe dissociation constants (Kd) for pC3b of wild-type CRl and the LHR-BD and -CD constructs were in the range of 1.0-2.7 nM, and of the CR1/CR2 chimeras containing SCRs 1-4, 1-3, and 2-4 of LHR-B or -C were 1.8-2.4, 6-9, and 22- 36 nM, respectively."
+    },
+    {
+        "molecule_name": "C3b",
+        "protein_target_name": "CR1/CR2 chimeras containing SCRs 2-4 of LHR-B",
+        "binding_metric": "Kd",
+        "value": "22-36",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe dissociation constants (Kd) for pC3b of wild-type CRl and the LHR-BD and -CD constructs were in the range of 1.0-2.7 nM, and of the CR1/CR2 chimeras containing SCRs 1-4, 1-3, and 2-4 of LHR-B or -C were 1.8-2.4, 6-9, and 22- 36 nM, respectively."
+    },
+    {
+        "molecule_name": "C3b",
+        "protein_target_name": "CR1/CR2 chimeras containing SCRs 1-4 of LHR-C",
+        "binding_metric": "Kd",
+        "value": "1.8-2.4",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe dissociation constants (Kd) for pC3b of wild-type CRl and the LHR-BD and -CD constructs were in the range of 1.0-2.7 nM, and of the CR1/CR2 chimeras containing SCRs 1-4, 1-3, and 2-4 of LHR-B or -C were 1.8-2.4, 6-9, and 22- 36 nM, respectively."
+    },
+    {
+        "molecule_name": "C3b",
+        "protein_target_name": "CR1/CR2 chimeras containing SCRs 1-3 of LHR-C",
+        "binding_metric": "Kd",
+        "value": "6-9",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe dissociation constants (Kd) for pC3b of wild-type CRl and the LHR-BD and -CD constructs were in the range of 1.0-2.7 nM, and of the CR1/CR2 chimeras containing SCRs 1-4, 1-3, and 2-4 of LHR-B or -C were 1.8-2.4, 6-9, and 22- 36 nM, respectively."
+    },
+    {
+        "molecule_name": "C3b",
+        "protein_target_name": "CR1/CR2 chimeras containing SCRs 2-4 of LHR-C",
+        "binding_metric": "Kd",
+        "value": "22-36",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe dissociation constants (Kd) for pC3b of wild-type CRl and the LHR-BD and -CD constructs were in the range of 1.0-2.7 nM, and of the CR1/CR2 chimeras containing SCRs 1-4, 1-3, and 2-4 of LHR-B or -C were 1.8-2.4, 6-9, and 22- 36 nM, respectively."
+    }
+]

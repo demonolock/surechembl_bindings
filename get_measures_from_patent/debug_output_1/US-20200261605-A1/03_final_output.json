@@ -1,0 +1,38 @@
+[
+    {
+        "molecule_name": "Conjugate-A-liposomes",
+        "protein_target_name": "Aβ",
+        "binding_metric": "k_b",
+        "value": "2.0",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nFIG. 5B is a graph showing experimental data and calculated fit lines for Conjugate-A-liposomes and the free ligand, p-FTAA for Aβ binding. The binding constant (k<sub>b</sub>) for Conjugate-A-liposomes was 2.0 nM, half of that for the free ligand, p-FTAA, which was 4 nM.\nFIG. 7A is a graph showing experimental data and calculated fit lines for Conjugate-A-liposomes for α-Synuclein, from which a dissociation constant, K<sub>d </sub>of 1.75 nM was determined for Conjugate A liposomes.\nFIG. 7B is a graph showing experimental data and calculated fit lines for the free ligand p-FTAA for α-Synuclein, from which a dissociation constant, K<sub>d </sub>of 3 nM was determined for free ligand p-FTAA."
+    },
+    {
+        "molecule_name": "p-FTAA",
+        "protein_target_name": "Aβ",
+        "binding_metric": "k_b",
+        "value": "4",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nFIG. 5B is a graph showing experimental data and calculated fit lines for Conjugate-A-liposomes and the free ligand, p-FTAA for Aβ binding. The binding constant (k<sub>b</sub>) for Conjugate-A-liposomes was 2.0 nM, half of that for the free ligand, p-FTAA, which was 4 nM.\nFIG. 7A is a graph showing experimental data and calculated fit lines for Conjugate-A-liposomes for α-Synuclein, from which a dissociation constant, K<sub>d </sub>of 1.75 nM was determined for Conjugate A liposomes.\nFIG. 7B is a graph showing experimental data and calculated fit lines for the free ligand p-FTAA for α-Synuclein, from which a dissociation constant, K<sub>d </sub>of 3 nM was determined for free ligand p-FTAA."
+    },
+    {
+        "molecule_name": "Conjugate-A-liposomes",
+        "protein_target_name": "α-Synuclein",
+        "binding_metric": "K_d",
+        "value": "1.75",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nFIG. 5B is a graph showing experimental data and calculated fit lines for Conjugate-A-liposomes and the free ligand, p-FTAA for Aβ binding. The binding constant (k<sub>b</sub>) for Conjugate-A-liposomes was 2.0 nM, half of that for the free ligand, p-FTAA, which was 4 nM.\nFIG. 7A is a graph showing experimental data and calculated fit lines for Conjugate-A-liposomes for α-Synuclein, from which a dissociation constant, K<sub>d </sub>of 1.75 nM was determined for Conjugate A liposomes.\nFIG. 7B is a graph showing experimental data and calculated fit lines for the free ligand p-FTAA for α-Synuclein, from which a dissociation constant, K<sub>d </sub>of 3 nM was determined for free ligand p-FTAA."
+    },
+    {
+        "molecule_name": "p-FTAA",
+        "protein_target_name": "α-Synuclein",
+        "binding_metric": "K_d",
+        "value": "3",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nFIG. 5B is a graph showing experimental data and calculated fit lines for Conjugate-A-liposomes and the free ligand, p-FTAA for Aβ binding. The binding constant (k<sub>b</sub>) for Conjugate-A-liposomes was 2.0 nM, half of that for the free ligand, p-FTAA, which was 4 nM.\nFIG. 7A is a graph showing experimental data and calculated fit lines for Conjugate-A-liposomes for α-Synuclein, from which a dissociation constant, K<sub>d </sub>of 1.75 nM was determined for Conjugate A liposomes.\nFIG. 7B is a graph showing experimental data and calculated fit lines for the free ligand p-FTAA for α-Synuclein, from which a dissociation constant, K<sub>d </sub>of 3 nM was determined for free ligand p-FTAA."
+    }
+]

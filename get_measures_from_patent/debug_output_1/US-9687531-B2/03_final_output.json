@@ -1,0 +1,20 @@
+[
+    {
+        "molecule_name": "Acid alpha-glucosidase",
+        "protein_target_name": "CI-MPR",
+        "binding_metric": "Kd",
+        "value": "2.5",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBased on the half maximal value of uptake, the dissociation constant (kd) of neo-rhGAA to CI-MPR was estimated to be around 2.5 nM, a value in agreement with the Kd of the natural bis-M6P oligosaccharides previously reported.\nIn contrast, the Kd of the unmodified rhGAA to CI-MPR was about 100 nM, also close to the experimentally determined Kd for mono-M6P bearing oligosaccharides previously reported.\nAs shown in FIG. 15A, uptake of neo-rhGAA approached saturation at about 25 nM (closed squares) compared to approximately 500 nM for the unmodified rhGAA (closed circles)."
+    },
+    {
+        "molecule_name": "Acid alpha-glucosidase",
+        "protein_target_name": "CI-MPR",
+        "binding_metric": "Kd",
+        "value": "100",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nBased on the half maximal value of uptake, the dissociation constant (kd) of neo-rhGAA to CI-MPR was estimated to be around 2.5 nM, a value in agreement with the Kd of the natural bis-M6P oligosaccharides previously reported.\nIn contrast, the Kd of the unmodified rhGAA to CI-MPR was about 100 nM, also close to the experimentally determined Kd for mono-M6P bearing oligosaccharides previously reported.\nAs shown in FIG. 15A, uptake of neo-rhGAA approached saturation at about 25 nM (closed squares) compared to approximately 500 nM for the unmodified rhGAA (closed circles)."
+    }
+]

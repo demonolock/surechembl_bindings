@@ -1,0 +1,2 @@
+{"raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\n\u03b1-subunit of one 50 Kd; \u03b2-subunit of one 20 Kd."}
+{"final_json": [{"molecule_name": null, "protein_target_name": "\u03b1-subunit", "binding_metric": "Kd", "value": "50", "unit": "Kd", "is_logarithmic": false}, {"molecule_name": null, "protein_target_name": "\u03b2-subunit", "binding_metric": "Kd", "value": "20", "unit": "Kd", "is_logarithmic": false}]}

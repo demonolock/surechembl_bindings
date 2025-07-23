@@ -1,0 +1,29 @@
+[
+    {
+        "molecule_name": "compounds of formula (I)",
+        "protein_target_name": "dopamine D3 receptors",
+        "binding_metric": "IC-50",
+        "value": "<2",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "The present invention provides novel compounds of formula (I) and/or geometric isomers and/or stereoisomers and/or diastereomers and/or salts and/or hydrates and/or solvates thereof which have very high affinity to dopamine D3 receptors (IC-50 values are less than 2 nM) and—simultaneously—have high affinity to 5-HT1A receptors (IC-50: 1-20 nM) and moderate affinity to D2 receptors (IC-50 values between 10 and 40 nM) always in such combination that the D3 affinity is 5 to 150 higher than the D2 and 3-20 fold higher than the 5-HT1A affinity."
+    },
+    {
+        "molecule_name": "compounds of formula (I)",
+        "protein_target_name": "5-HT1A receptors",
+        "binding_metric": "IC-50",
+        "value": "1-20",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "The present invention provides novel compounds of formula (I) and/or geometric isomers and/or stereoisomers and/or diastereomers and/or salts and/or hydrates and/or solvates thereof which have very high affinity to dopamine D3 receptors (IC-50 values are less than 2 nM) and—simultaneously—have high affinity to 5-HT1A receptors (IC-50: 1-20 nM) and moderate affinity to D2 receptors (IC-50 values between 10 and 40 nM) always in such combination that the D3 affinity is 5 to 150 higher than the D2 and 3-20 fold higher than the 5-HT1A affinity."
+    },
+    {
+        "molecule_name": "compounds of formula (I)",
+        "protein_target_name": "D2 receptors",
+        "binding_metric": "IC-50",
+        "value": "10-40",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "The present invention provides novel compounds of formula (I) and/or geometric isomers and/or stereoisomers and/or diastereomers and/or salts and/or hydrates and/or solvates thereof which have very high affinity to dopamine D3 receptors (IC-50 values are less than 2 nM) and—simultaneously—have high affinity to 5-HT1A receptors (IC-50: 1-20 nM) and moderate affinity to D2 receptors (IC-50 values between 10 and 40 nM) always in such combination that the D3 affinity is 5 to 150 higher than the D2 and 3-20 fold higher than the 5-HT1A affinity."
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "molecule_name": "Lisofylline",
+        "protein_target_name": "phosphodiesterase",
+        "binding_metric": "IC50",
+        "value": "100-500",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "The IC50 of Lisofylline for inhibiting phosphodiesterase is between 100 and 500 μM in in vitro systems which is significantly higher than the concentrations (10-30 μM) at which Lisofylline effectively inhibits PA synthesis (Rice et al., Proc. Natl. Acad. Sci. USA 91:3857, 1994)."
+    }
+]

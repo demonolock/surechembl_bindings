@@ -1,0 +1,2 @@
+{"raw_mentions": "The results showed that the affinity dissociation constants (Kd) of the monoclonal antibodies C3-H8 were 2.04X 10, respectively <sup>-9</sup> M."}
+{"final_json": [{"molecule_name": "C3-H8", "protein_target_name": null, "binding_metric": "Kd", "value": "2.04X 10^-9", "unit": "M", "is_logarithmic": false}]}

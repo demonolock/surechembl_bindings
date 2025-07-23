@@ -1,0 +1,47 @@
+[
+    {
+        "molecule_name": "Amyloid beta",
+        "protein_target_name": "aggregated β-amyloid",
+        "binding_metric": "Aβ",
+        "value": "470",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nTABLE 17\nThe ex vivo assay as predictor of in vivo efficacy.\nAvidity forBinding toaggregatedβ-amyloidEx vivoIn vivoAntibodyIsotypeAβ (pM)plaquesefficacyefficacymonoclonal3D6IgG2b470+++10D5IgG143+++16C11IgG190−−−21F12IgG2a500−−−TM2aIgG1−−−−polyclonal1-42mix600+++\n\n\nNote that only the table row meets the criteria, as it contains a specific molecule name (e.g. 3D6, 10D5), a bioactivity metric (Aβ in pM), a specific numeric value for that metric (e.g. 470, 143), and a unit for that value (pM)."
+    },
+    {
+        "molecule_name": "Amyloid beta",
+        "protein_target_name": "aggregated β-amyloid",
+        "binding_metric": "Aβ",
+        "value": "143",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nTABLE 17\nThe ex vivo assay as predictor of in vivo efficacy.\nAvidity forBinding toaggregatedβ-amyloidEx vivoIn vivoAntibodyIsotypeAβ (pM)plaquesefficacyefficacymonoclonal3D6IgG2b470+++10D5IgG143+++16C11IgG190−−−21F12IgG2a500−−−TM2aIgG1−−−−polyclonal1-42mix600+++\n\n\nNote that only the table row meets the criteria, as it contains a specific molecule name (e.g. 3D6, 10D5), a bioactivity metric (Aβ in pM), a specific numeric value for that metric (e.g. 470, 143), and a unit for that value (pM)."
+    },
+    {
+        "molecule_name": "Amyloid beta peptide (Aβ) fragment 33-42",
+        "protein_target_name": "aggregated β-amyloid",
+        "binding_metric": "Aβ",
+        "value": "190",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nTABLE 17\nThe ex vivo assay as predictor of in vivo efficacy.\nAvidity forBinding toaggregatedβ-amyloidEx vivoIn vivoAntibodyIsotypeAβ (pM)plaquesefficacyefficacymonoclonal3D6IgG2b470+++10D5IgG143+++16C11IgG190−−−21F12IgG2a500−−−TM2aIgG1−−−−polyclonal1-42mix600+++\n\n\nNote that only the table row meets the criteria, as it contains a specific molecule name (e.g. 3D6, 10D5), a bioactivity metric (Aβ in pM), a specific numeric value for that metric (e.g. 470, 143), and a unit for that value (pM)."
+    },
+    {
+        "molecule_name": "Amyloid beta",
+        "protein_target_name": "aggregated β-amyloid",
+        "binding_metric": "Aβ",
+        "value": "500",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nTABLE 17\nThe ex vivo assay as predictor of in vivo efficacy.\nAvidity forBinding toaggregatedβ-amyloidEx vivoIn vivoAntibodyIsotypeAβ (pM)plaquesefficacyefficacymonoclonal3D6IgG2b470+++10D5IgG143+++16C11IgG190−−−21F12IgG2a500−−−TM2aIgG1−−−−polyclonal1-42mix600+++\n\n\nNote that only the table row meets the criteria, as it contains a specific molecule name (e.g. 3D6, 10D5), a bioactivity metric (Aβ in pM), a specific numeric value for that metric (e.g. 470, 143), and a unit for that value (pM)."
+    },
+    {
+        "molecule_name": "1-42 mix",
+        "protein_target_name": "aggregated β-amyloid",
+        "binding_metric": "Aβ",
+        "value": "600",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nTABLE 17\nThe ex vivo assay as predictor of in vivo efficacy.\nAvidity forBinding toaggregatedβ-amyloidEx vivoIn vivoAntibodyIsotypeAβ (pM)plaquesefficacyefficacymonoclonal3D6IgG2b470+++10D5IgG143+++16C11IgG190−−−21F12IgG2a500−−−TM2aIgG1−−−−polyclonal1-42mix600+++\n\n\nNote that only the table row meets the criteria, as it contains a specific molecule name (e.g. 3D6, 10D5), a bioactivity metric (Aβ in pM), a specific numeric value for that metric (e.g. 470, 143), and a unit for that value (pM)."
+    }
+]

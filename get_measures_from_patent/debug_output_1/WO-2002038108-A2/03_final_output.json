@@ -1,0 +1,11 @@
+[
+    {
+        "molecule_name": "Apolipoprotein E",
+        "protein_target_name": "apoE",
+        "binding_metric": "Kd",
+        "value": "30",
+        "unit": "Kd",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nAβl-42 treatment clearly increased the number of inclusion-positive apoE4 expressing cells from 2.7±1.2% to 6.7+1.5% (pO.OOl) and apoE3 expressing cells, from 0% to 2.8+0.6% (p&lt;0.001).\nIncubation with either BfA or tunicamycin increased the inclusion-positive cells from 2.7±1.2% to 7.2±2J% (pO.OOl) in apoE4 expressing cells and from 0% to 3.2±1J% (pO.OOl) in apoE3 expressing cells.\nHowever, anti-apoE western blotting did not reveal full-length apoE but rather a band with a lower molecular weight (~30 Kd instead of 34 Kd).\nDeletion of 28 (~10%) carboxyl-terminal amino acids from either apoE3 (Δ272-299) or aρoE4 (Δ272-299) resulted in 32±5% or 78±8%, respectively, of the transfected cells displaying the intracellular filamentous inclusions."
+    }
+]

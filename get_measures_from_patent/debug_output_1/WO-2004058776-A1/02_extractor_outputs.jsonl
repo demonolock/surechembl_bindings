@@ -1,0 +1,2 @@
+{"raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nTest (a):- IC<sub>5</sub>o in the range, for example, &lt; 500\u03bcM;\nTest (b):- IC<sub>5</sub>0 in the range, for example, &lt; 50\u03bcM;"}
+{"final_json": [{"molecule_name": null, "protein_target_name": null, "binding_metric": "IC50", "value": "< 500", "unit": "\u03bcM", "is_logarithmic": false}, {"molecule_name": null, "protein_target_name": null, "binding_metric": "IC50", "value": "< 50", "unit": "\u03bcM", "is_logarithmic": false}]}

@@ -1,0 +1,11 @@
+[
+    {
+        "molecule_name": "peptides",
+        "protein_target_name": "HLA",
+        "binding_metric": "IC50",
+        "value": "<50 nM",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "The neoepitope has an IC50 of at least less than 5000 nM, at least less than 500 nM, at least less than 250 nM, at least less than 200 nM, at least less than 150 nM, at least less than 100 nM, at least less than 50 nM or less in some embodiments.\nTypically, peptides with predicted IC50<50 nM, are generally considered medium to high affinity binding peptides and will be selected for testing their affinity empirically using biochemical assays of HLA-binding."
+    }
+]

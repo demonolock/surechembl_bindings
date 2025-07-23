@@ -1,0 +1,20 @@
+[
+    {
+        "molecule_name": "Nα-phenyl-N-(2-pyridyl)-phenylalaninamide",
+        "protein_target_name": "Mycobacterium tuberculosis RNA polymerase",
+        "binding_metric": "IC50",
+        "value": "1",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "For example, the applicants have discovered that Nα-phenyl-N-(2-pyridyl)-phenylalaninamide, a new composition of matter according to general structural formula (I), (II), (III), or (IV), inhibits Mycobacterium tuberculosis RNA polymerase in vitro (IC50 ˜1 μM) and inhibits the growth of Mycobacterium smegmatis in culture (MIC ˜3 μg/ml)."
+    },
+    {
+        "molecule_name": "compound according to general structural formula (I), (II), (III), or (IV), or a salt thereof",
+        "protein_target_name": "RNA polymerase",
+        "binding_metric": "IC50",
+        "value": "<25",
+        "unit": "micromolar",
+        "is_logarithmic": false,
+        "raw_mentions": "In certain embodiments, the compound according to general structural formula (I), (II), (III), or (IV), or a salt thereof, has an IC50 of less than about 25 micromolar for inhibiting an RNA polymerase from a bacterium."
+    }
+]

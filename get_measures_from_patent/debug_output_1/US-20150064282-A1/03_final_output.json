@@ -1,0 +1,20 @@
+[
+    {
+        "molecule_name": "Oseltamivir",
+        "protein_target_name": "human sialidases",
+        "binding_metric": "IC50",
+        "value": "1",
+        "unit": "mM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences:\n\nIt was shown that oseltamivir phosphate had an IC50 of 1.175 μM compared to an IC50 of 1015 μM for oseltamivir carboxylate [4].\nLive BMA macrophage cells were pre-treated with clopidogrel bisulfate at 280 μM and 500 μM for 2 min followed with 5 μg/mL of endotoxin lipopolysaccharide (LPS) in the presence or absence of 400 μM pure oseltamivir phosphate.\nOther studies using recombinant soluble human sialidases have shown that oseltamivir carboxylate scarcely inhibited the activities of the four human sialidases even at 1 mM [8], while zanamivir significantly inhibited the human Neu2 and Neu3 sialidases in the micromolar range.\nFurthermore, Nan et al. using lysates from mature dendritic cells have found that zanamivir completely inhibited Neu1 and Neu3 sialidase activity at 2 mM [9].\nIn addition, other purified neuraminidase inhibitors such as BCX-1827, DANA (2-deoxy-2,3-dehydro-N-acetylneuraminic acid), zanamivir (4-guanidino-Neu5Ac2en), and oseltamivir carboxylate had a limited effect on inhibition of lypopolysaccharide (LPS) induced sialidase activity in live BMC-2 macrophage cells at 1-2 mM compared to the LPS positive control."
+    },
+    {
+        "molecule_name": "4-guanidino-Neu5Ac2en",
+        "protein_target_name": "Neu1 and Neu3 sialidase",
+        "binding_metric": "IC50",
+        "value": "2",
+        "unit": "mM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences:\n\nIt was shown that oseltamivir phosphate had an IC50 of 1.175 μM compared to an IC50 of 1015 μM for oseltamivir carboxylate [4].\nLive BMA macrophage cells were pre-treated with clopidogrel bisulfate at 280 μM and 500 μM for 2 min followed with 5 μg/mL of endotoxin lipopolysaccharide (LPS) in the presence or absence of 400 μM pure oseltamivir phosphate.\nOther studies using recombinant soluble human sialidases have shown that oseltamivir carboxylate scarcely inhibited the activities of the four human sialidases even at 1 mM [8], while zanamivir significantly inhibited the human Neu2 and Neu3 sialidases in the micromolar range.\nFurthermore, Nan et al. using lysates from mature dendritic cells have found that zanamivir completely inhibited Neu1 and Neu3 sialidase activity at 2 mM [9].\nIn addition, other purified neuraminidase inhibitors such as BCX-1827, DANA (2-deoxy-2,3-dehydro-N-acetylneuraminic acid), zanamivir (4-guanidino-Neu5Ac2en), and oseltamivir carboxylate had a limited effect on inhibition of lypopolysaccharide (LPS) induced sialidase activity in live BMC-2 macrophage cells at 1-2 mM compared to the LPS positive control."
+    }
+]

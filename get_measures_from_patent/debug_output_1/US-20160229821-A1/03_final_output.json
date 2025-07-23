@@ -1,0 +1,56 @@
+[
+    {
+        "molecule_name": "15a (Example 13)",
+        "protein_target_name": "D2S",
+        "binding_metric": "IC50",
+        "value": "0.98",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\n15a (Example 13)\tD2S\t0.98\tnM\n15a (Example 13)\t5-HT1A\t0.97\tnM\n15a (Example 13)\t5-HT2A\t262\tnM\n15b (Example 14)\tD2S\t1.96\tnM\n15b (Example 14)\t5-HT1A\t2.25\tnM\n15b (Example 14)\t5-HT2A\t130\tnM"
+    },
+    {
+        "molecule_name": "15a (Example 13)",
+        "protein_target_name": "5-HT1A",
+        "binding_metric": "IC50",
+        "value": "0.97",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\n15a (Example 13)\tD2S\t0.98\tnM\n15a (Example 13)\t5-HT1A\t0.97\tnM\n15a (Example 13)\t5-HT2A\t262\tnM\n15b (Example 14)\tD2S\t1.96\tnM\n15b (Example 14)\t5-HT1A\t2.25\tnM\n15b (Example 14)\t5-HT2A\t130\tnM"
+    },
+    {
+        "molecule_name": "15a (Example 13)",
+        "protein_target_name": "5-HT2A",
+        "binding_metric": "IC50",
+        "value": "262",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\n15a (Example 13)\tD2S\t0.98\tnM\n15a (Example 13)\t5-HT1A\t0.97\tnM\n15a (Example 13)\t5-HT2A\t262\tnM\n15b (Example 14)\tD2S\t1.96\tnM\n15b (Example 14)\t5-HT1A\t2.25\tnM\n15b (Example 14)\t5-HT2A\t130\tnM"
+    },
+    {
+        "molecule_name": "15b (Example 14)",
+        "protein_target_name": "D2S",
+        "binding_metric": "IC50",
+        "value": "1.96",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\n15a (Example 13)\tD2S\t0.98\tnM\n15a (Example 13)\t5-HT1A\t0.97\tnM\n15a (Example 13)\t5-HT2A\t262\tnM\n15b (Example 14)\tD2S\t1.96\tnM\n15b (Example 14)\t5-HT1A\t2.25\tnM\n15b (Example 14)\t5-HT2A\t130\tnM"
+    },
+    {
+        "molecule_name": "15b (Example 14)",
+        "protein_target_name": "5-HT1A",
+        "binding_metric": "IC50",
+        "value": "2.25",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\n15a (Example 13)\tD2S\t0.98\tnM\n15a (Example 13)\t5-HT1A\t0.97\tnM\n15a (Example 13)\t5-HT2A\t262\tnM\n15b (Example 14)\tD2S\t1.96\tnM\n15b (Example 14)\t5-HT1A\t2.25\tnM\n15b (Example 14)\t5-HT2A\t130\tnM"
+    },
+    {
+        "molecule_name": "15b (Example 14)",
+        "protein_target_name": "5-HT2A",
+        "binding_metric": "IC50",
+        "value": "130",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\n15a (Example 13)\tD2S\t0.98\tnM\n15a (Example 13)\t5-HT1A\t0.97\tnM\n15a (Example 13)\t5-HT2A\t262\tnM\n15b (Example 14)\tD2S\t1.96\tnM\n15b (Example 14)\t5-HT1A\t2.25\tnM\n15b (Example 14)\t5-HT2A\t130\tnM"
+    }
+]

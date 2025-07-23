@@ -1,0 +1,20 @@
+[
+    {
+        "molecule_name": "1D9 ACCRETAMAB™ antibody",
+        "protein_target_name": "AKT",
+        "binding_metric": "IC50",
+        "value": "2.6",
+        "unit": "ng/ml",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAll 1D9 antibody constructs, including the humanized 1D9 POTELLIGENT™ antibody and the humanized ACCRETAMAB™ antibody, showed potent inhibition with IC50 values ranging from 2.5 to 40.6 ng/ml IC50 values, as shown in Table 12.\nThe most potent inhibition of AKT phosphorylation was seen in the BxPC3 cells, where the humanized 1D9 ACCRETAMAB™ antibody inhibited heregulin induced phospho-AKT formation with an IC50 value of 2.6 ng/ml (Table 13).\nThe 1D9 murine construct inhibited ligand induced HER3 receptor phosphorylation with an IC50 value of approximately 3 ng/ml, regardless of the activating ligand used (Table 14).\nIC50 values are listed in Table 15.\nFigure 16 shows the IC50 values of the different 1D9 antibodies for inhibiting HER3 phosphorylation across different cancer cell lines."
+    },
+    {
+        "molecule_name": "1D9 murine construct",
+        "protein_target_name": "HER3",
+        "binding_metric": "IC50",
+        "value": "approximately 3",
+        "unit": "ng/ml",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAll 1D9 antibody constructs, including the humanized 1D9 POTELLIGENT™ antibody and the humanized ACCRETAMAB™ antibody, showed potent inhibition with IC50 values ranging from 2.5 to 40.6 ng/ml IC50 values, as shown in Table 12.\nThe most potent inhibition of AKT phosphorylation was seen in the BxPC3 cells, where the humanized 1D9 ACCRETAMAB™ antibody inhibited heregulin induced phospho-AKT formation with an IC50 value of 2.6 ng/ml (Table 13).\nThe 1D9 murine construct inhibited ligand induced HER3 receptor phosphorylation with an IC50 value of approximately 3 ng/ml, regardless of the activating ligand used (Table 14).\nIC50 values are listed in Table 15.\nFigure 16 shows the IC50 values of the different 1D9 antibodies for inhibiting HER3 phosphorylation across different cancer cell lines."
+    }
+]

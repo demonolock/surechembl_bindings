@@ -1,0 +1,20 @@
+[
+    {
+        "molecule_name": "Acyclovir triphosphate",
+        "protein_target_name": "viral DNA polymerase",
+        "binding_metric": "Ki",
+        "value": "3.5",
+        "unit": "mM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nFurthermore, the viral DNA polymerase has a higher affinity for ACV-triphosphate (average Ki=3.5 mM), relative to the drug's affinity for host eukaryotic DNA polymerase (Ki=0.96±0.08 uM), providing an even greater effect of the drug in HSV-1-infected cells, while providing an extra margin of safety in normal host cells (Furman et al., 1979; Furman et al., 1984; Martin et al., 1994)."
+    },
+    {
+        "molecule_name": "Acyclovir triphosphate",
+        "protein_target_name": "host eukaryotic DNA polymerase",
+        "binding_metric": "Ki",
+        "value": "0.96±0.08",
+        "unit": "uM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nFurthermore, the viral DNA polymerase has a higher affinity for ACV-triphosphate (average Ki=3.5 mM), relative to the drug's affinity for host eukaryotic DNA polymerase (Ki=0.96±0.08 uM), providing an even greater effect of the drug in HSV-1-infected cells, while providing an extra margin of safety in normal host cells (Furman et al., 1979; Furman et al., 1984; Martin et al., 1994)."
+    }
+]

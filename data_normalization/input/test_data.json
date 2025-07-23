@@ -1,0 +1,137 @@
+[
+  {
+    "note": "Простой случай",
+    "molecule_name": "Molecule A",
+    "protein_target_name": "Protein A",
+    "patent_number": "TEST-001",
+    "binding_metric": "IC50",
+    "value": "10",
+    "unit": "nM"
+  },
+  {
+    "note": "Логарифмическое значение, unit должен быть проигнорирован",
+    "molecule_name": "Molecule B",
+    "protein_target_name": "Protein B",
+    "patent_number": "TEST-002",
+    "binding_metric": "pKi",
+    "value": "8",
+    "unit": "нерелевантно"
+  },
+  {
+    "note": "Обработка '±'",
+    "molecule_name": "Molecule C",
+    "protein_target_name": "Protein C",
+    "patent_number": "TEST-003",
+    "binding_metric": "IC50",
+    "value": "13 ± 10",
+    "unit": "nM"
+  },
+  {
+    "note": "Обработка 'to' и единицы измерения в строке",
+    "molecule_name": "Molecule D",
+    "protein_target_name": "Protein D",
+    "patent_number": "TEST-004",
+    "binding_metric": "EC50",
+    "value": "0.1 to 200pM",
+    "unit": "pM"
+  },
+  {
+    "note": "Обработка 'about' и 'µM'",
+    "molecule_name": "Molecule E",
+    "protein_target_name": "Protein E",
+    "patent_number": "TEST-005",
+    "binding_metric": "Kd",
+    "value": "about 0.15 µM",
+    "unit": "µM"
+  },
+  {
+    "note": "Сложный диапазон с 'about' и 'to'",
+    "molecule_name": "Molecule F",
+    "protein_target_name": "Protein F",
+    "patent_number": "TEST-006",
+    "binding_metric": "Ki",
+    "value": "about 0.003 µM to about 0.25 µM",
+    "unit": "µM"
+  },
+  {
+    "note": "Обработка '≧'",
+    "molecule_name": "Molecule G",
+    "protein_target_name": "Protein G",
+    "patent_number": "TEST-007",
+    "binding_metric": "IC50",
+    "value": "≧90",
+    "unit": "nM"
+  },
+  {
+    "note": "Обработка '+-'",
+    "molecule_name": "Molecule H",
+    "protein_target_name": "Protein H",
+    "patent_number": "TEST-008",
+    "binding_metric": "IC50",
+    "value": "10.0 +- 1.0",
+    "unit": "nM"
+  },
+  {
+    "note": "Обработка '-+'",
+    "molecule_name": "Molecule I",
+    "protein_target_name": "Protein I",
+    "patent_number": "TEST-009",
+    "binding_metric": "IC50",
+    "value": "23 -+ 6",
+    "unit": "nM"
+  },
+  {
+    "note": "Кривое название метрики (логарифм)",
+    "molecule_name": "Molecule J",
+    "protein_target_name": "Protein J",
+    "patent_number": "TEST-010",
+    "binding_metric": "log ic- 50",
+    "value": "7.5",
+    "unit": ""
+  },
+  {
+    "note": "Кривое название единицы измерения",
+    "molecule_name": "Molecule K",
+    "protein_target_name": "Protein K",
+    "patent_number": "TEST-011",
+    "binding_metric": "Ki",
+    "value": "50",
+    "unit": "micro molar"
+  },
+  {
+    "note": "Научная нотация",
+    "molecule_name": "Molecule L",
+    "protein_target_name": "Protein L",
+    "patent_number": "TEST-012",
+    "binding_metric": "EC50",
+    "value": "1.2*10^{-8}",
+    "unit": "mM"
+  },
+  {
+    "note": "Фильтрация по метрике",
+    "molecule_name": "Molecule M",
+    "protein_target_name": "Protein M",
+    "patent_number": "FILTER-001",
+    "binding_metric": "activity",
+    "value": "100",
+    "unit": "nM"
+  },
+  {
+    "note": "Фильтрация по значению",
+    "molecule_name": "Molecule N",
+    "protein_target_name": "Protein N",
+    "patent_number": "FILTER-002",
+    "binding_metric": "IC50",
+    "value": "Not determined",
+    "unit": "nM"
+  },
+  {
+    "note": "Фильтрация по единице измерения",
+    "molecule_name": "Molecule O",
+    "protein_target_name": "Protein O",
+    "patent_number": "FILTER-003",
+    "binding_metric": "IC50",
+    "value": "100",
+    "unit": "%"
+  }
+]

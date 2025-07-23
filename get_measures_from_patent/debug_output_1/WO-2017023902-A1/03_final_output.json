@@ -1,0 +1,29 @@
+[
+    {
+        "molecule_name": "compounds of Formula (I)",
+        "protein_target_name": "TNFa",
+        "binding_metric": "IC50",
+        "value": "<10",
+        "unit": "μΜ",
+        "is_logarithmic": false,
+        "raw_mentions": "In one embodiment, the compounds of Formula (I) inhibit TNFa functional activity with IC50 values of less than 10 μΜ, for example, from 0.001 to less than 10 μΜ, as measured by the TNF induced HEK-Blue assay.\nPreferably, the compounds of Formula (I) inhibit TNFa functional activity with IC50 values of less than 1 μΜ, for example, from 0.001 to less than 1 μΜ.\nOther preferred compounds inhibit TNFa functional activity with IC50 values of 100 nM and less, for example, from 1 to 100 nM."
+    },
+    {
+        "molecule_name": "compounds of Formula (I)",
+        "protein_target_name": "TNFa",
+        "binding_metric": "IC50",
+        "value": "<1",
+        "unit": "μΜ",
+        "is_logarithmic": false,
+        "raw_mentions": "In one embodiment, the compounds of Formula (I) inhibit TNFa functional activity with IC50 values of less than 10 μΜ, for example, from 0.001 to less than 10 μΜ, as measured by the TNF induced HEK-Blue assay.\nPreferably, the compounds of Formula (I) inhibit TNFa functional activity with IC50 values of less than 1 μΜ, for example, from 0.001 to less than 1 μΜ.\nOther preferred compounds inhibit TNFa functional activity with IC50 values of 100 nM and less, for example, from 1 to 100 nM."
+    },
+    {
+        "molecule_name": "compounds of Formula (I)",
+        "protein_target_name": "TNFa",
+        "binding_metric": "IC50",
+        "value": "100",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "In one embodiment, the compounds of Formula (I) inhibit TNFa functional activity with IC50 values of less than 10 μΜ, for example, from 0.001 to less than 10 μΜ, as measured by the TNF induced HEK-Blue assay.\nPreferably, the compounds of Formula (I) inhibit TNFa functional activity with IC50 values of less than 1 μΜ, for example, from 0.001 to less than 1 μΜ.\nOther preferred compounds inhibit TNFa functional activity with IC50 values of 100 nM and less, for example, from 1 to 100 nM."
+    }
+]
