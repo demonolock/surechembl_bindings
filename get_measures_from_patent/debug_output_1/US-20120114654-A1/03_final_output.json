@@ -1,0 +1,119 @@
+[
+    {
+        "molecule_name": "antibody or antigen-binding fragment",
+        "protein_target_name": "hTL1A or Fhm",
+        "binding_metric": "Kd",
+        "value": "<=1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "In a sixth aspect, the invention features an antibody or antigen-binding fragment thereof that specifically binds to hTL1A or Fhm with an equilibrium dissociation constant (K<sub>D</sub>) of about 1 nM or less, as measured by surface plasmon resonance assay (for example, BIACORE™).\nIn certain embodiments, the antibody of the invention exhibits a K<sub>D </sub>of about 800 pM or less; about 700 pM or less; about 600 pM or less; about 500 pM or less; about 400 pM or less; about 300 pM or less; about 200 pM or less; about 150 pM or less; about 100 pM or less; about 90 pM or less; about 80 pM or less; about 50 pM or less; or 30 pM or less."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "hTL1A",
+        "binding_metric": "Kd",
+        "value": "<1×10−9",
+        "unit": "M",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nSpecific binding can be characterized by an equilibrium dissociation constant (K<sub>D</sub>) of about 3000 nM or less (i.e., a smaller K<sub>D </sub>denotes a tighter binding), about 2000 nM or less, about 1000 nM or less; about 500 nM or less; about 300 nM or less; about 200 nM or less; about 100 nM or less; about 50 nM or less; about 1 nM or less; or about 0.5 nM or less.\nThe term “high affinity” antibody refers to those antibodies having a binding affinity to hTL1A, expressed as K<sub>D</sub>, of about 1×10<sup>−9 </sup>M or less, about 0.5×10<sup>−9 </sup>M or less, about 0.25×10<sup>−9 </sup>M or less, about 1×10<sup>10 </sup>M or less, or about 0.5×10<sup>−10 </sup>M or less, as measured by surface plasmon resonance, e.g., BIACORE™ or solution-affinity ELISA.\nBy the term “slow off rate”, “Koff” or “k<sub>d</sub>” is meant an antibody that dissociates from hTL1A with a rate constant of 1×10<sup>−3 </sup>s<sup>−1 </sup>or less, preferably 1×10<sup>−4</sup>s<sup>−1 </sup>or less, as determined by surface plasmon resonance, e.g., BIACORE™.\nBy the term “intrinsic affinity constant” or “k<sub>a</sub>” is meant an antibody that associates with hTL1A at a rate constant of about 1×10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>or higher, as determined by surface plasmon resonance, e.g., BIACORE™."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "hTL1A",
+        "binding_metric": "Kd",
+        "value": "<0.5×10−9",
+        "unit": "M",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nSpecific binding can be characterized by an equilibrium dissociation constant (K<sub>D</sub>) of about 3000 nM or less (i.e., a smaller K<sub>D </sub>denotes a tighter binding), about 2000 nM or less, about 1000 nM or less; about 500 nM or less; about 300 nM or less; about 200 nM or less; about 100 nM or less; about 50 nM or less; about 1 nM or less; or about 0.5 nM or less.\nThe term “high affinity” antibody refers to those antibodies having a binding affinity to hTL1A, expressed as K<sub>D</sub>, of about 1×10<sup>−9 </sup>M or less, about 0.5×10<sup>−9 </sup>M or less, about 0.25×10<sup>−9 </sup>M or less, about 1×10<sup>10 </sup>M or less, or about 0.5×10<sup>−10 </sup>M or less, as measured by surface plasmon resonance, e.g., BIACORE™ or solution-affinity ELISA.\nBy the term “slow off rate”, “Koff” or “k<sub>d</sub>” is meant an antibody that dissociates from hTL1A with a rate constant of 1×10<sup>−3 </sup>s<sup>−1 </sup>or less, preferably 1×10<sup>−4</sup>s<sup>−1 </sup>or less, as determined by surface plasmon resonance, e.g., BIACORE™.\nBy the term “intrinsic affinity constant” or “k<sub>a</sub>” is meant an antibody that associates with hTL1A at a rate constant of about 1×10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>or higher, as determined by surface plasmon resonance, e.g., BIACORE™."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "hTL1A",
+        "binding_metric": "Kd",
+        "value": "<0.25×10−9",
+        "unit": "M",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nSpecific binding can be characterized by an equilibrium dissociation constant (K<sub>D</sub>) of about 3000 nM or less (i.e., a smaller K<sub>D </sub>denotes a tighter binding), about 2000 nM or less, about 1000 nM or less; about 500 nM or less; about 300 nM or less; about 200 nM or less; about 100 nM or less; about 50 nM or less; about 1 nM or less; or about 0.5 nM or less.\nThe term “high affinity” antibody refers to those antibodies having a binding affinity to hTL1A, expressed as K<sub>D</sub>, of about 1×10<sup>−9 </sup>M or less, about 0.5×10<sup>−9 </sup>M or less, about 0.25×10<sup>−9 </sup>M or less, about 1×10<sup>10 </sup>M or less, or about 0.5×10<sup>−10 </sup>M or less, as measured by surface plasmon resonance, e.g., BIACORE™ or solution-affinity ELISA.\nBy the term “slow off rate”, “Koff” or “k<sub>d</sub>” is meant an antibody that dissociates from hTL1A with a rate constant of 1×10<sup>−3 </sup>s<sup>−1 </sup>or less, preferably 1×10<sup>−4</sup>s<sup>−1 </sup>or less, as determined by surface plasmon resonance, e.g., BIACORE™.\nBy the term “intrinsic affinity constant” or “k<sub>a</sub>” is meant an antibody that associates with hTL1A at a rate constant of about 1×10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>or higher, as determined by surface plasmon resonance, e.g., BIACORE™."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "hTL1A",
+        "binding_metric": "Kd",
+        "value": "<1×10−10",
+        "unit": "M",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nSpecific binding can be characterized by an equilibrium dissociation constant (K<sub>D</sub>) of about 3000 nM or less (i.e., a smaller K<sub>D </sub>denotes a tighter binding), about 2000 nM or less, about 1000 nM or less; about 500 nM or less; about 300 nM or less; about 200 nM or less; about 100 nM or less; about 50 nM or less; about 1 nM or less; or about 0.5 nM or less.\nThe term “high affinity” antibody refers to those antibodies having a binding affinity to hTL1A, expressed as K<sub>D</sub>, of about 1×10<sup>−9 </sup>M or less, about 0.5×10<sup>−9 </sup>M or less, about 0.25×10<sup>−9 </sup>M or less, about 1×10<sup>10 </sup>M or less, or about 0.5×10<sup>−10 </sup>M or less, as measured by surface plasmon resonance, e.g., BIACORE™ or solution-affinity ELISA.\nBy the term “slow off rate”, “Koff” or “k<sub>d</sub>” is meant an antibody that dissociates from hTL1A with a rate constant of 1×10<sup>−3 </sup>s<sup>−1 </sup>or less, preferably 1×10<sup>−4</sup>s<sup>−1 </sup>or less, as determined by surface plasmon resonance, e.g., BIACORE™.\nBy the term “intrinsic affinity constant” or “k<sub>a</sub>” is meant an antibody that associates with hTL1A at a rate constant of about 1×10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>or higher, as determined by surface plasmon resonance, e.g., BIACORE™."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "hTL1A",
+        "binding_metric": "Kd",
+        "value": "<0.5×10−10",
+        "unit": "M",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nSpecific binding can be characterized by an equilibrium dissociation constant (K<sub>D</sub>) of about 3000 nM or less (i.e., a smaller K<sub>D </sub>denotes a tighter binding), about 2000 nM or less, about 1000 nM or less; about 500 nM or less; about 300 nM or less; about 200 nM or less; about 100 nM or less; about 50 nM or less; about 1 nM or less; or about 0.5 nM or less.\nThe term “high affinity” antibody refers to those antibodies having a binding affinity to hTL1A, expressed as K<sub>D</sub>, of about 1×10<sup>−9 </sup>M or less, about 0.5×10<sup>−9 </sup>M or less, about 0.25×10<sup>−9 </sup>M or less, about 1×10<sup>10 </sup>M or less, or about 0.5×10<sup>−10 </sup>M or less, as measured by surface plasmon resonance, e.g., BIACORE™ or solution-affinity ELISA.\nBy the term “slow off rate”, “Koff” or “k<sub>d</sub>” is meant an antibody that dissociates from hTL1A with a rate constant of 1×10<sup>−3 </sup>s<sup>−1 </sup>or less, preferably 1×10<sup>−4</sup>s<sup>−1 </sup>or less, as determined by surface plasmon resonance, e.g., BIACORE™.\nBy the term “intrinsic affinity constant” or “k<sub>a</sub>” is meant an antibody that associates with hTL1A at a rate constant of about 1×10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>or higher, as determined by surface plasmon resonance, e.g., BIACORE™."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "hTL1A",
+        "binding_metric": "Koff",
+        "value": "<1×10−3",
+        "unit": "s−1",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nSpecific binding can be characterized by an equilibrium dissociation constant (K<sub>D</sub>) of about 3000 nM or less (i.e., a smaller K<sub>D </sub>denotes a tighter binding), about 2000 nM or less, about 1000 nM or less; about 500 nM or less; about 300 nM or less; about 200 nM or less; about 100 nM or less; about 50 nM or less; about 1 nM or less; or about 0.5 nM or less.\nThe term “high affinity” antibody refers to those antibodies having a binding affinity to hTL1A, expressed as K<sub>D</sub>, of about 1×10<sup>−9 </sup>M or less, about 0.5×10<sup>−9 </sup>M or less, about 0.25×10<sup>−9 </sup>M or less, about 1×10<sup>10 </sup>M or less, or about 0.5×10<sup>−10 </sup>M or less, as measured by surface plasmon resonance, e.g., BIACORE™ or solution-affinity ELISA.\nBy the term “slow off rate”, “Koff” or “k<sub>d</sub>” is meant an antibody that dissociates from hTL1A with a rate constant of 1×10<sup>−3 </sup>s<sup>−1 </sup>or less, preferably 1×10<sup>−4</sup>s<sup>−1 </sup>or less, as determined by surface plasmon resonance, e.g., BIACORE™.\nBy the term “intrinsic affinity constant” or “k<sub>a</sub>” is meant an antibody that associates with hTL1A at a rate constant of about 1×10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>or higher, as determined by surface plasmon resonance, e.g., BIACORE™."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "hTL1A",
+        "binding_metric": "Koff",
+        "value": "<1×10−4",
+        "unit": "s−1",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nSpecific binding can be characterized by an equilibrium dissociation constant (K<sub>D</sub>) of about 3000 nM or less (i.e., a smaller K<sub>D </sub>denotes a tighter binding), about 2000 nM or less, about 1000 nM or less; about 500 nM or less; about 300 nM or less; about 200 nM or less; about 100 nM or less; about 50 nM or less; about 1 nM or less; or about 0.5 nM or less.\nThe term “high affinity” antibody refers to those antibodies having a binding affinity to hTL1A, expressed as K<sub>D</sub>, of about 1×10<sup>−9 </sup>M or less, about 0.5×10<sup>−9 </sup>M or less, about 0.25×10<sup>−9 </sup>M or less, about 1×10<sup>10 </sup>M or less, or about 0.5×10<sup>−10 </sup>M or less, as measured by surface plasmon resonance, e.g., BIACORE™ or solution-affinity ELISA.\nBy the term “slow off rate”, “Koff” or “k<sub>d</sub>” is meant an antibody that dissociates from hTL1A with a rate constant of 1×10<sup>−3 </sup>s<sup>−1 </sup>or less, preferably 1×10<sup>−4</sup>s<sup>−1 </sup>or less, as determined by surface plasmon resonance, e.g., BIACORE™.\nBy the term “intrinsic affinity constant” or “k<sub>a</sub>” is meant an antibody that associates with hTL1A at a rate constant of about 1×10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>or higher, as determined by surface plasmon resonance, e.g., BIACORE™."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "hTL1A",
+        "binding_metric": "ka",
+        "value": ">1×10^3",
+        "unit": "M−1s−1",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nSpecific binding can be characterized by an equilibrium dissociation constant (K<sub>D</sub>) of about 3000 nM or less (i.e., a smaller K<sub>D </sub>denotes a tighter binding), about 2000 nM or less, about 1000 nM or less; about 500 nM or less; about 300 nM or less; about 200 nM or less; about 100 nM or less; about 50 nM or less; about 1 nM or less; or about 0.5 nM or less.\nThe term “high affinity” antibody refers to those antibodies having a binding affinity to hTL1A, expressed as K<sub>D</sub>, of about 1×10<sup>−9 </sup>M or less, about 0.5×10<sup>−9 </sup>M or less, about 0.25×10<sup>−9 </sup>M or less, about 1×10<sup>10 </sup>M or less, or about 0.5×10<sup>−10 </sup>M or less, as measured by surface plasmon resonance, e.g., BIACORE™ or solution-affinity ELISA.\nBy the term “slow off rate”, “Koff” or “k<sub>d</sub>” is meant an antibody that dissociates from hTL1A with a rate constant of 1×10<sup>−3 </sup>s<sup>−1 </sup>or less, preferably 1×10<sup>−4</sup>s<sup>−1 </sup>or less, as determined by surface plasmon resonance, e.g., BIACORE™.\nBy the term “intrinsic affinity constant” or “k<sub>a</sub>” is meant an antibody that associates with hTL1A at a rate constant of about 1×10<sup>3 </sup>M<sup>−1</sup>s<sup>−1 </sup>or higher, as determined by surface plasmon resonance, e.g., BIACORE™."
+    },
+    {
+        "molecule_name": "H4H1752P",
+        "protein_target_name": "TL1A/hDR3",
+        "binding_metric": "IC50",
+        "value": "<50",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "As shown in Table 8, most of the fully human mAbs show effective blocking of the TL1A/hDR3 and TL1A/hDcR3 binding interaction, with several showing IC50 values below 50 pM.\nTwo of the antibodies, H4H1752P and H4H1805N, strongly blocked binding of both human and monkey TL1A binding to both hDR3 and hDcR3 but failed to block binding of FHM to either hDR3 or hDcR3, suggesting that the binding epitope for these two antibodies may involve the region near the FHM mutation site (hTL1A with Q167R).\nH4H1681N60&gt;10000141179093\nH2M1681N37&gt;100006113234149\nH4H1704N30444277170110\nH4H1719P222346444561\nH4H1725P1518166885145\nH4H1738P6915211712215068\nH4H1742P64214240181231127\nH4H1745P1844505885118\nH4H1750P3415895209656626\nH4H1752P104NB11031NB56\nH4H1804N406971175&gt;1000034\nH2M1804N4610281120&gt;100009\nH4H1805N14NB2633436313\nH2M1805N6NB131222411138\nH4H1817N114235101270NT322\nH2M1817N154249137890666776\nH4H1818N119202123232NT1102\nH2M1818N154317239396NB55\nControl&gt;10000NB5300&gt;1000NT21000\nmAb1Control&gt;10000NB170008600NTNT\nmAb3"
+    },
+    {
+        "molecule_name": "H4H1752P",
+        "protein_target_name": "TL1A/hDcR3",
+        "binding_metric": "IC50",
+        "value": "<50",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "As shown in Table 8, most of the fully human mAbs show effective blocking of the TL1A/hDR3 and TL1A/hDcR3 binding interaction, with several showing IC50 values below 50 pM.\nTwo of the antibodies, H4H1752P and H4H1805N, strongly blocked binding of both human and monkey TL1A binding to both hDR3 and hDcR3 but failed to block binding of FHM to either hDR3 or hDcR3, suggesting that the binding epitope for these two antibodies may involve the region near the FHM mutation site (hTL1A with Q167R).\nH4H1681N60&gt;10000141179093\nH2M1681N37&gt;100006113234149\nH4H1704N30444277170110\nH4H1719P222346444561\nH4H1725P1518166885145\nH4H1738P6915211712215068\nH4H1742P64214240181231127\nH4H1745P1844505885118\nH4H1750P3415895209656626\nH4H1752P104NB11031NB56\nH4H1804N406971175&gt;1000034\nH2M1804N4610281120&gt;100009\nH4H1805N14NB2633436313\nH2M1805N6NB131222411138\nH4H1817N114235101270NT322\nH2M1817N154249137890666776\nH4H1818N119202123232NT1102\nH2M1818N154317239396NB55\nControl&gt;10000NB5300&gt;1000NT21000\nmAb1Control&gt;10000NB170008600NTNT\nmAb3"
+    },
+    {
+        "molecule_name": "H4H1805N",
+        "protein_target_name": "TL1A/hDR3",
+        "binding_metric": "IC50",
+        "value": "<50",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "As shown in Table 8, most of the fully human mAbs show effective blocking of the TL1A/hDR3 and TL1A/hDcR3 binding interaction, with several showing IC50 values below 50 pM.\nTwo of the antibodies, H4H1752P and H4H1805N, strongly blocked binding of both human and monkey TL1A binding to both hDR3 and hDcR3 but failed to block binding of FHM to either hDR3 or hDcR3, suggesting that the binding epitope for these two antibodies may involve the region near the FHM mutation site (hTL1A with Q167R).\nH4H1681N60&gt;10000141179093\nH2M1681N37&gt;100006113234149\nH4H1704N30444277170110\nH4H1719P222346444561\nH4H1725P1518166885145\nH4H1738P6915211712215068\nH4H1742P64214240181231127\nH4H1745P1844505885118\nH4H1750P3415895209656626\nH4H1752P104NB11031NB56\nH4H1804N406971175&gt;1000034\nH2M1804N4610281120&gt;100009\nH4H1805N14NB2633436313\nH2M1805N6NB131222411138\nH4H1817N114235101270NT322\nH2M1817N154249137890666776\nH4H1818N119202123232NT1102\nH2M1818N154317239396NB55\nControl&gt;10000NB5300&gt;1000NT21000\nmAb1Control&gt;10000NB170008600NTNT\nmAb3"
+    },
+    {
+        "molecule_name": "H4H1805N",
+        "protein_target_name": "TL1A/hDcR3",
+        "binding_metric": "IC50",
+        "value": "<50",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "As shown in Table 8, most of the fully human mAbs show effective blocking of the TL1A/hDR3 and TL1A/hDcR3 binding interaction, with several showing IC50 values below 50 pM.\nTwo of the antibodies, H4H1752P and H4H1805N, strongly blocked binding of both human and monkey TL1A binding to both hDR3 and hDcR3 but failed to block binding of FHM to either hDR3 or hDcR3, suggesting that the binding epitope for these two antibodies may involve the region near the FHM mutation site (hTL1A with Q167R).\nH4H1681N60&gt;10000141179093\nH2M1681N37&gt;100006113234149\nH4H1704N30444277170110\nH4H1719P222346444561\nH4H1725P1518166885145\nH4H1738P6915211712215068\nH4H1742P64214240181231127\nH4H1745P1844505885118\nH4H1750P3415895209656626\nH4H1752P104NB11031NB56\nH4H1804N406971175&gt;1000034\nH2M1804N4610281120&gt;100009\nH4H1805N14NB2633436313\nH2M1805N6NB131222411138\nH4H1817N114235101270NT322\nH2M1817N154249137890666776\nH4H1818N119202123232NT1102\nH2M1818N154317239396NB55\nControl&gt;10000NB5300&gt;1000NT21000\nmAb1Control&gt;10000NB170008600NTNT\nmAb3"
+    }
+]

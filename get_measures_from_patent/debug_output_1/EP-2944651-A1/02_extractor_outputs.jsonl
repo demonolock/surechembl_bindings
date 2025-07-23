@@ -1,0 +1,6 @@
+{"raw_mentions": "Here is the extracted sentence:\n\nCTLA4 binds to the B7 isoforms with an affinity that is 10 to 100 times that of CD28."}
+{"final_json": [{"molecule_name": "CTLA4", "protein_target_name": "B7 isoforms", "binding_metric": null, "value": null, "unit": null, "is_logarithmic": false}]}
+{"raw_mentions": "There are no sentences that contain all four required components: a specific molecule name, ID or other identifier, a bioactivity metric, a specific numeric value for that metric, and a unit for that value. The text primarily discusses the structure, function, and expression of flotillins and FOXP3, but does not provide specific bioactivity metrics with numeric values and units."}
+{"raw_mentions": "There are no sentences that meet the specified criteria. The text does not contain any sentences with a specific molecule name, bioactivity metric, numeric value, and unit."}
+{"raw_mentions": "There are no sentences that meet the specified criteria. The text does not contain any sentences with a specific molecule name, bioactivity metric, numeric value, and unit."}
+{"raw_mentions": "There are no sentences that meet the specified criteria. The text does not contain any sentences with a specific molecule name, bioactivity metric, numeric value, and unit."}

@@ -1,0 +1,11 @@
+[
+    {
+        "molecule_name": "1-1 and 1-2",
+        "protein_target_name": "GSK-3",
+        "binding_metric": "Ki",
+        "value": "< 5",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nCompounds 1-1 and 1-2 were found to inhibit GSK-3 at a Ki value of < 5 nM.\nFor determination of GSK-3α and GSK-3β pTYR IC50, the density of the respective bands for each protein at specific compound concentration is compared to a no compound DMSO treated control cell sample present on each exposure. IC50 numbers are defined as the concentration of compound in which the density of the GSK-3α or GSK-3β band is 50% of the no compound control.\nThe GSK-3 IC50 for induction of β-catenin is determined by plotting the 460/530 ratio against the concentration of compound (Log scale) and using the equation of the slope to calculate the point at which the ratio is 50% of the maximum effect.\nBoth compounds 1-1 and 1-2 were found to have a β-catenin : GSK-3α window between 400 and 500 fold. Compound 1-1 was found to have a β-catenin : GSK-3β window between 75 and 100 fold and compound 2 was found to have a β-catenin : GSK-3β window between 25 and 50 fold."
+    }
+]

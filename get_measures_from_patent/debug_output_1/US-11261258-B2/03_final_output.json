@@ -1,0 +1,101 @@
+[
+    {
+        "molecule_name": "CD40",
+        "protein_target_name": "CD40",
+        "binding_metric": "IC50",
+        "value": "38.1",
+        "unit": "ng/ml",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nY12XX-hz28-P238K was also a potent antagonist of B cell proliferation stimulated with cellular CD40L from CD40L-expressing CHO cells, with an IC50 of 38.1 ng/ml and a standard deviation of 9.88 ng/ml.\nThe KD values for the binding of Y12XX-hCD40 to CD40 were 3.1 nM at 25° C. and 5.5 nM at 37° C.\nThe KD values for the binding of Y12XX-hz28 to CD40 were 4.4 nM at 25° C. and 10.9 nM at 37° C.\nThe KD values for the binding of Y12XX-hz40 to CD40 were 3.4 nM at 25° C. and 8.5 nM at 37° C.\nThe KD values for the binding of Y12XX-hz42 to CD40 were 2.3 nM at 25° C. and 5.5 nM at 37° C.\nAntibody B bound to CD40 with a KD of 37 nM at 25° C.\nThe IC50 values for the inhibition of B cell proliferation induced by soluble CD40L trimer were 9.4 ng/ml for Antibody B, 6.7 ng/ml for Y12XX-hz28-P238K, 6.0 ng/ml for Y12XX-hz40-P238K, and 12.1 ng/ml for Y12XX-hz42-P238K.\nThe KD value for the binding of Antibody B to hCD16a-V158 was 7 μM."
+    },
+    {
+        "molecule_name": "CD40",
+        "protein_target_name": "CD40",
+        "binding_metric": "KD",
+        "value": "3.1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nY12XX-hz28-P238K was also a potent antagonist of B cell proliferation stimulated with cellular CD40L from CD40L-expressing CHO cells, with an IC50 of 38.1 ng/ml and a standard deviation of 9.88 ng/ml.\nThe KD values for the binding of Y12XX-hCD40 to CD40 were 3.1 nM at 25° C. and 5.5 nM at 37° C.\nThe KD values for the binding of Y12XX-hz28 to CD40 were 4.4 nM at 25° C. and 10.9 nM at 37° C.\nThe KD values for the binding of Y12XX-hz40 to CD40 were 3.4 nM at 25° C. and 8.5 nM at 37° C.\nThe KD values for the binding of Y12XX-hz42 to CD40 were 2.3 nM at 25° C. and 5.5 nM at 37° C.\nAntibody B bound to CD40 with a KD of 37 nM at 25° C.\nThe IC50 values for the inhibition of B cell proliferation induced by soluble CD40L trimer were 9.4 ng/ml for Antibody B, 6.7 ng/ml for Y12XX-hz28-P238K, 6.0 ng/ml for Y12XX-hz40-P238K, and 12.1 ng/ml for Y12XX-hz42-P238K.\nThe KD value for the binding of Antibody B to hCD16a-V158 was 7 μM."
+    },
+    {
+        "molecule_name": "CD40",
+        "protein_target_name": "CD40",
+        "binding_metric": "KD",
+        "value": "5.5",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nY12XX-hz28-P238K was also a potent antagonist of B cell proliferation stimulated with cellular CD40L from CD40L-expressing CHO cells, with an IC50 of 38.1 ng/ml and a standard deviation of 9.88 ng/ml.\nThe KD values for the binding of Y12XX-hCD40 to CD40 were 3.1 nM at 25° C. and 5.5 nM at 37° C.\nThe KD values for the binding of Y12XX-hz28 to CD40 were 4.4 nM at 25° C. and 10.9 nM at 37° C.\nThe KD values for the binding of Y12XX-hz40 to CD40 were 3.4 nM at 25° C. and 8.5 nM at 37° C.\nThe KD values for the binding of Y12XX-hz42 to CD40 were 2.3 nM at 25° C. and 5.5 nM at 37° C.\nAntibody B bound to CD40 with a KD of 37 nM at 25° C.\nThe IC50 values for the inhibition of B cell proliferation induced by soluble CD40L trimer were 9.4 ng/ml for Antibody B, 6.7 ng/ml for Y12XX-hz28-P238K, 6.0 ng/ml for Y12XX-hz40-P238K, and 12.1 ng/ml for Y12XX-hz42-P238K.\nThe KD value for the binding of Antibody B to hCD16a-V158 was 7 μM."
+    },
+    {
+        "molecule_name": "CD40",
+        "protein_target_name": "CD40",
+        "binding_metric": "KD",
+        "value": "4.4",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nY12XX-hz28-P238K was also a potent antagonist of B cell proliferation stimulated with cellular CD40L from CD40L-expressing CHO cells, with an IC50 of 38.1 ng/ml and a standard deviation of 9.88 ng/ml.\nThe KD values for the binding of Y12XX-hCD40 to CD40 were 3.1 nM at 25° C. and 5.5 nM at 37° C.\nThe KD values for the binding of Y12XX-hz28 to CD40 were 4.4 nM at 25° C. and 10.9 nM at 37° C.\nThe KD values for the binding of Y12XX-hz40 to CD40 were 3.4 nM at 25° C. and 8.5 nM at 37° C.\nThe KD values for the binding of Y12XX-hz42 to CD40 were 2.3 nM at 25° C. and 5.5 nM at 37° C.\nAntibody B bound to CD40 with a KD of 37 nM at 25° C.\nThe IC50 values for the inhibition of B cell proliferation induced by soluble CD40L trimer were 9.4 ng/ml for Antibody B, 6.7 ng/ml for Y12XX-hz28-P238K, 6.0 ng/ml for Y12XX-hz40-P238K, and 12.1 ng/ml for Y12XX-hz42-P238K.\nThe KD value for the binding of Antibody B to hCD16a-V158 was 7 μM."
+    },
+    {
+        "molecule_name": "CD40",
+        "protein_target_name": "CD40",
+        "binding_metric": "KD",
+        "value": "10.9",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nY12XX-hz28-P238K was also a potent antagonist of B cell proliferation stimulated with cellular CD40L from CD40L-expressing CHO cells, with an IC50 of 38.1 ng/ml and a standard deviation of 9.88 ng/ml.\nThe KD values for the binding of Y12XX-hCD40 to CD40 were 3.1 nM at 25° C. and 5.5 nM at 37° C.\nThe KD values for the binding of Y12XX-hz28 to CD40 were 4.4 nM at 25° C. and 10.9 nM at 37° C.\nThe KD values for the binding of Y12XX-hz40 to CD40 were 3.4 nM at 25° C. and 8.5 nM at 37° C.\nThe KD values for the binding of Y12XX-hz42 to CD40 were 2.3 nM at 25° C. and 5.5 nM at 37° C.\nAntibody B bound to CD40 with a KD of 37 nM at 25° C.\nThe IC50 values for the inhibition of B cell proliferation induced by soluble CD40L trimer were 9.4 ng/ml for Antibody B, 6.7 ng/ml for Y12XX-hz28-P238K, 6.0 ng/ml for Y12XX-hz40-P238K, and 12.1 ng/ml for Y12XX-hz42-P238K.\nThe KD value for the binding of Antibody B to hCD16a-V158 was 7 μM."
+    },
+    {
+        "molecule_name": "CD40",
+        "protein_target_name": "CD40",
+        "binding_metric": "KD",
+        "value": "3.4",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nY12XX-hz28-P238K was also a potent antagonist of B cell proliferation stimulated with cellular CD40L from CD40L-expressing CHO cells, with an IC50 of 38.1 ng/ml and a standard deviation of 9.88 ng/ml.\nThe KD values for the binding of Y12XX-hCD40 to CD40 were 3.1 nM at 25° C. and 5.5 nM at 37° C.\nThe KD values for the binding of Y12XX-hz28 to CD40 were 4.4 nM at 25° C. and 10.9 nM at 37° C.\nThe KD values for the binding of Y12XX-hz40 to CD40 were 3.4 nM at 25° C. and 8.5 nM at 37° C.\nThe KD values for the binding of Y12XX-hz42 to CD40 were 2.3 nM at 25° C. and 5.5 nM at 37° C.\nAntibody B bound to CD40 with a KD of 37 nM at 25° C.\nThe IC50 values for the inhibition of B cell proliferation induced by soluble CD40L trimer were 9.4 ng/ml for Antibody B, 6.7 ng/ml for Y12XX-hz28-P238K, 6.0 ng/ml for Y12XX-hz40-P238K, and 12.1 ng/ml for Y12XX-hz42-P238K.\nThe KD value for the binding of Antibody B to hCD16a-V158 was 7 μM."
+    },
+    {
+        "molecule_name": "CD40",
+        "protein_target_name": "CD40",
+        "binding_metric": "KD",
+        "value": "8.5",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nY12XX-hz28-P238K was also a potent antagonist of B cell proliferation stimulated with cellular CD40L from CD40L-expressing CHO cells, with an IC50 of 38.1 ng/ml and a standard deviation of 9.88 ng/ml.\nThe KD values for the binding of Y12XX-hCD40 to CD40 were 3.1 nM at 25° C. and 5.5 nM at 37° C.\nThe KD values for the binding of Y12XX-hz28 to CD40 were 4.4 nM at 25° C. and 10.9 nM at 37° C.\nThe KD values for the binding of Y12XX-hz40 to CD40 were 3.4 nM at 25° C. and 8.5 nM at 37° C.\nThe KD values for the binding of Y12XX-hz42 to CD40 were 2.3 nM at 25° C. and 5.5 nM at 37° C.\nAntibody B bound to CD40 with a KD of 37 nM at 25° C.\nThe IC50 values for the inhibition of B cell proliferation induced by soluble CD40L trimer were 9.4 ng/ml for Antibody B, 6.7 ng/ml for Y12XX-hz28-P238K, 6.0 ng/ml for Y12XX-hz40-P238K, and 12.1 ng/ml for Y12XX-hz42-P238K.\nThe KD value for the binding of Antibody B to hCD16a-V158 was 7 μM."
+    },
+    {
+        "molecule_name": "CD40",
+        "protein_target_name": "CD40",
+        "binding_metric": "KD",
+        "value": "2.3",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nY12XX-hz28-P238K was also a potent antagonist of B cell proliferation stimulated with cellular CD40L from CD40L-expressing CHO cells, with an IC50 of 38.1 ng/ml and a standard deviation of 9.88 ng/ml.\nThe KD values for the binding of Y12XX-hCD40 to CD40 were 3.1 nM at 25° C. and 5.5 nM at 37° C.\nThe KD values for the binding of Y12XX-hz28 to CD40 were 4.4 nM at 25° C. and 10.9 nM at 37° C.\nThe KD values for the binding of Y12XX-hz40 to CD40 were 3.4 nM at 25° C. and 8.5 nM at 37° C.\nThe KD values for the binding of Y12XX-hz42 to CD40 were 2.3 nM at 25° C. and 5.5 nM at 37° C.\nAntibody B bound to CD40 with a KD of 37 nM at 25° C.\nThe IC50 values for the inhibition of B cell proliferation induced by soluble CD40L trimer were 9.4 ng/ml for Antibody B, 6.7 ng/ml for Y12XX-hz28-P238K, 6.0 ng/ml for Y12XX-hz40-P238K, and 12.1 ng/ml for Y12XX-hz42-P238K.\nThe KD value for the binding of Antibody B to hCD16a-V158 was 7 μM."
+    },
+    {
+        "molecule_name": "CD40",
+        "protein_target_name": "CD40",
+        "binding_metric": "KD",
+        "value": "5.5",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nY12XX-hz28-P238K was also a potent antagonist of B cell proliferation stimulated with cellular CD40L from CD40L-expressing CHO cells, with an IC50 of 38.1 ng/ml and a standard deviation of 9.88 ng/ml.\nThe KD values for the binding of Y12XX-hCD40 to CD40 were 3.1 nM at 25° C. and 5.5 nM at 37° C.\nThe KD values for the binding of Y12XX-hz28 to CD40 were 4.4 nM at 25° C. and 10.9 nM at 37° C.\nThe KD values for the binding of Y12XX-hz40 to CD40 were 3.4 nM at 25° C. and 8.5 nM at 37° C.\nThe KD values for the binding of Y12XX-hz42 to CD40 were 2.3 nM at 25° C. and 5.5 nM at 37° C.\nAntibody B bound to CD40 with a KD of 37 nM at 25° C.\nThe IC50 values for the inhibition of B cell proliferation induced by soluble CD40L trimer were 9.4 ng/ml for Antibody B, 6.7 ng/ml for Y12XX-hz28-P238K, 6.0 ng/ml for Y12XX-hz40-P238K, and 12.1 ng/ml for Y12XX-hz42-P238K.\nThe KD value for the binding of Antibody B to hCD16a-V158 was 7 μM."
+    },
+    {
+        "molecule_name": "CD40",
+        "protein_target_name": "CD40",
+        "binding_metric": "KD",
+        "value": "37",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nY12XX-hz28-P238K was also a potent antagonist of B cell proliferation stimulated with cellular CD40L from CD40L-expressing CHO cells, with an IC50 of 38.1 ng/ml and a standard deviation of 9.88 ng/ml.\nThe KD values for the binding of Y12XX-hCD40 to CD40 were 3.1 nM at 25° C. and 5.5 nM at 37° C.\nThe KD values for the binding of Y12XX-hz28 to CD40 were 4.4 nM at 25° C. and 10.9 nM at 37° C.\nThe KD values for the binding of Y12XX-hz40 to CD40 were 3.4 nM at 25° C. and 8.5 nM at 37° C.\nThe KD values for the binding of Y12XX-hz42 to CD40 were 2.3 nM at 25° C. and 5.5 nM at 37° C.\nAntibody B bound to CD40 with a KD of 37 nM at 25° C.\nThe IC50 values for the inhibition of B cell proliferation induced by soluble CD40L trimer were 9.4 ng/ml for Antibody B, 6.7 ng/ml for Y12XX-hz28-P238K, 6.0 ng/ml for Y12XX-hz40-P238K, and 12.1 ng/ml for Y12XX-hz42-P238K.\nThe KD value for the binding of Antibody B to hCD16a-V158 was 7 μM."
+    },
+    {
+        "molecule_name": "CD40",
+        "protein_target_name": "hCD16a-V158",
+        "binding_metric": "KD",
+        "value": "7",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nY12XX-hz28-P238K was also a potent antagonist of B cell proliferation stimulated with cellular CD40L from CD40L-expressing CHO cells, with an IC50 of 38.1 ng/ml and a standard deviation of 9.88 ng/ml.\nThe KD values for the binding of Y12XX-hCD40 to CD40 were 3.1 nM at 25° C. and 5.5 nM at 37° C.\nThe KD values for the binding of Y12XX-hz28 to CD40 were 4.4 nM at 25° C. and 10.9 nM at 37° C.\nThe KD values for the binding of Y12XX-hz40 to CD40 were 3.4 nM at 25° C. and 8.5 nM at 37° C.\nThe KD values for the binding of Y12XX-hz42 to CD40 were 2.3 nM at 25° C. and 5.5 nM at 37° C.\nAntibody B bound to CD40 with a KD of 37 nM at 25° C.\nThe IC50 values for the inhibition of B cell proliferation induced by soluble CD40L trimer were 9.4 ng/ml for Antibody B, 6.7 ng/ml for Y12XX-hz28-P238K, 6.0 ng/ml for Y12XX-hz40-P238K, and 12.1 ng/ml for Y12XX-hz42-P238K.\nThe KD value for the binding of Antibody B to hCD16a-V158 was 7 μM."
+    }
+]

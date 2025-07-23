@@ -1,0 +1,29 @@
+[
+    {
+        "molecule_name": "2-indolone derivatives (Indo 5)",
+        "protein_target_name": "c-Met kinase",
+        "binding_metric": "IC50",
+        "value": "0.16",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nIC50 with regard to inhibition of 2-indolone derivatives (Indo 5) of the present disclosure on c-Met kinase was 0.16 μM, IC50 for TrkA kinase was 0.022 μM, and IC50 for TrkB kinase was 0.23 μM, whereas IC50 for inhibition on other kinases were over 10 μM.\nTrkA    0.022\nTrkB    0.23\nc-Met   0.16\nPDGFR   >10\nFGFR    >10\nAXL     >10\nFLT1    >10\nEPHA1   >10\nIGF1R   >10\nEGFR    >10\nInsR    >10\nc-KIT   >10\nEphb1   >10\nRET     >10\nEGFR (T790, L858R) >10"
+    },
+    {
+        "molecule_name": "2-indolone derivatives (Indo 5)",
+        "protein_target_name": "TrkA kinase",
+        "binding_metric": "IC50",
+        "value": "0.022",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nIC50 with regard to inhibition of 2-indolone derivatives (Indo 5) of the present disclosure on c-Met kinase was 0.16 μM, IC50 for TrkA kinase was 0.022 μM, and IC50 for TrkB kinase was 0.23 μM, whereas IC50 for inhibition on other kinases were over 10 μM.\nTrkA    0.022\nTrkB    0.23\nc-Met   0.16\nPDGFR   >10\nFGFR    >10\nAXL     >10\nFLT1    >10\nEPHA1   >10\nIGF1R   >10\nEGFR    >10\nInsR    >10\nc-KIT   >10\nEphb1   >10\nRET     >10\nEGFR (T790, L858R) >10"
+    },
+    {
+        "molecule_name": "2-indolone derivatives (Indo 5)",
+        "protein_target_name": "TrkB kinase",
+        "binding_metric": "IC50",
+        "value": "0.23",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nIC50 with regard to inhibition of 2-indolone derivatives (Indo 5) of the present disclosure on c-Met kinase was 0.16 μM, IC50 for TrkA kinase was 0.022 μM, and IC50 for TrkB kinase was 0.23 μM, whereas IC50 for inhibition on other kinases were over 10 μM.\nTrkA    0.022\nTrkB    0.23\nc-Met   0.16\nPDGFR   >10\nFGFR    >10\nAXL     >10\nFLT1    >10\nEPHA1   >10\nIGF1R   >10\nEGFR    >10\nInsR    >10\nc-KIT   >10\nEphb1   >10\nRET     >10\nEGFR (T790, L858R) >10"
+    }
+]

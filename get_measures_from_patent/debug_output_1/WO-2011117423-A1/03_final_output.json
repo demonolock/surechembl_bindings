@@ -1,0 +1,344 @@
+[
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "desired antigen",
+        "binding_metric": "affinity",
+        "value": "<500",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Typically, antigen-binding proteins (such as the immunoglobulin single variable domains, and/or polypeptides of the invention) will bind to their antigen with a dissociation constant (KD) of 10^5 to 10^9 moles/liter or less, and preferably 10^7 to 10^9 moles/liter or less and more preferably 10^9 to 10^12 moles/liter (i.e. with an association constant (K_A) of 10 to 10^12 liter/ moles or more, and preferably 10^7 to 10^12 liter/moles or more and more preferably 10^8 to 10^12 liter/moles).\n* Any KD value greater than 10^4 mol liter (or any K_A value lower than 10^4 M^1) liters/mol is generally considered to indicate non-specific binding.\n* Preferably, a monovalent immunoglobulin single variable domain of the invention will bind to the desired antigen with an affinity, less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "desired antigen",
+        "binding_metric": "affinity",
+        "value": "<200",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Typically, antigen-binding proteins (such as the immunoglobulin single variable domains, and/or polypeptides of the invention) will bind to their antigen with a dissociation constant (KD) of 10^5 to 10^9 moles/liter or less, and preferably 10^7 to 10^9 moles/liter or less and more preferably 10^9 to 10^12 moles/liter (i.e. with an association constant (K_A) of 10 to 10^12 liter/ moles or more, and preferably 10^7 to 10^12 liter/moles or more and more preferably 10^8 to 10^12 liter/moles).\n* Any KD value greater than 10^4 mol liter (or any K_A value lower than 10^4 M^1) liters/mol is generally considered to indicate non-specific binding.\n* Preferably, a monovalent immunoglobulin single variable domain of the invention will bind to the desired antigen with an affinity, less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "desired antigen",
+        "binding_metric": "affinity",
+        "value": "<10",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Typically, antigen-binding proteins (such as the immunoglobulin single variable domains, and/or polypeptides of the invention) will bind to their antigen with a dissociation constant (KD) of 10^5 to 10^9 moles/liter or less, and preferably 10^7 to 10^9 moles/liter or less and more preferably 10^9 to 10^12 moles/liter (i.e. with an association constant (K_A) of 10 to 10^12 liter/ moles or more, and preferably 10^7 to 10^12 liter/moles or more and more preferably 10^8 to 10^12 liter/moles).\n* Any KD value greater than 10^4 mol liter (or any K_A value lower than 10^4 M^1) liters/mol is generally considered to indicate non-specific binding.\n* Preferably, a monovalent immunoglobulin single variable domain of the invention will bind to the desired antigen with an affinity, less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "desired antigen",
+        "binding_metric": "affinity",
+        "value": "<500",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Typically, antigen-binding proteins (such as the immunoglobulin single variable domains, and/or polypeptides of the invention) will bind to their antigen with a dissociation constant (KD) of 10^5 to 10^9 moles/liter or less, and preferably 10^7 to 10^9 moles/liter or less and more preferably 10^9 to 10^12 moles/liter (i.e. with an association constant (K_A) of 10 to 10^12 liter/ moles or more, and preferably 10^7 to 10^12 liter/moles or more and more preferably 10^8 to 10^12 liter/moles).\n* Any KD value greater than 10^4 mol liter (or any K_A value lower than 10^4 M^1) liters/mol is generally considered to indicate non-specific binding.\n* Preferably, a monovalent immunoglobulin single variable domain of the invention will bind to the desired antigen with an affinity, less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM."
+    },
+    {
+        "molecule_name": "immunglobulin single variable domain (SEQ ID NO: 1)",
+        "protein_target_name": "human CXCR7",
+        "binding_metric": "Kd",
+        "value": "10^5 to 10^12",
+        "unit": "moles/litre",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAspect A-4: An immunglobulin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (K<sub>D</sub>) of 10<sup>\"5</sup> to 10<sup>\"12</sup> moles/litre or less, and preferably 10<sup>\"7</sup> to 10<sup>\"12</sup> moles/litre or less and more preferably 10<sup>\"8</sup> to 10<sup>\"i2</sup> moles/litre.\nAspect A-7: An immunglobuiin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM,\nAspect A-8: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL1 1 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 1 nM and an average SDF-1 and/or I-TAC displacement of 50% or more, more preferably of 75% or more, even more preferably of 80% or more.\nAspect A-9: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL11 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 20 nM and an average SDF-1 and/or I-TAC displacement of 70% or more."
+    },
+    {
+        "molecule_name": "immunglobulin single variable domain (SEQ ID NO: 1)",
+        "protein_target_name": "human CXCR7",
+        "binding_metric": "affinity",
+        "value": "< 500",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAspect A-4: An immunglobulin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (K<sub>D</sub>) of 10<sup>\"5</sup> to 10<sup>\"12</sup> moles/litre or less, and preferably 10<sup>\"7</sup> to 10<sup>\"12</sup> moles/litre or less and more preferably 10<sup>\"8</sup> to 10<sup>\"i2</sup> moles/litre.\nAspect A-7: An immunglobuiin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM,\nAspect A-8: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL1 1 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 1 nM and an average SDF-1 and/or I-TAC displacement of 50% or more, more preferably of 75% or more, even more preferably of 80% or more.\nAspect A-9: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL11 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 20 nM and an average SDF-1 and/or I-TAC displacement of 70% or more."
+    },
+    {
+        "molecule_name": "immunglobulin single variable domain (SEQ ID NO: 1)",
+        "protein_target_name": "human CXCR7",
+        "binding_metric": "affinity",
+        "value": "< 200",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAspect A-4: An immunglobulin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (K<sub>D</sub>) of 10<sup>\"5</sup> to 10<sup>\"12</sup> moles/litre or less, and preferably 10<sup>\"7</sup> to 10<sup>\"12</sup> moles/litre or less and more preferably 10<sup>\"8</sup> to 10<sup>\"i2</sup> moles/litre.\nAspect A-7: An immunglobuiin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM,\nAspect A-8: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL1 1 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 1 nM and an average SDF-1 and/or I-TAC displacement of 50% or more, more preferably of 75% or more, even more preferably of 80% or more.\nAspect A-9: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL11 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 20 nM and an average SDF-1 and/or I-TAC displacement of 70% or more."
+    },
+    {
+        "molecule_name": "immunglobulin single variable domain (SEQ ID NO: 1)",
+        "protein_target_name": "human CXCR7",
+        "binding_metric": "affinity",
+        "value": "< 10",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAspect A-4: An immunglobulin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (K<sub>D</sub>) of 10<sup>\"5</sup> to 10<sup>\"12</sup> moles/litre or less, and preferably 10<sup>\"7</sup> to 10<sup>\"12</sup> moles/litre or less and more preferably 10<sup>\"8</sup> to 10<sup>\"i2</sup> moles/litre.\nAspect A-7: An immunglobuiin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM,\nAspect A-8: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL1 1 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 1 nM and an average SDF-1 and/or I-TAC displacement of 50% or more, more preferably of 75% or more, even more preferably of 80% or more.\nAspect A-9: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL11 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 20 nM and an average SDF-1 and/or I-TAC displacement of 70% or more."
+    },
+    {
+        "molecule_name": "immunglobulin single variable domain (SEQ ID NO: 1)",
+        "protein_target_name": "human CXCR7",
+        "binding_metric": "affinity",
+        "value": "< 500",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAspect A-4: An immunglobulin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (K<sub>D</sub>) of 10<sup>\"5</sup> to 10<sup>\"12</sup> moles/litre or less, and preferably 10<sup>\"7</sup> to 10<sup>\"12</sup> moles/litre or less and more preferably 10<sup>\"8</sup> to 10<sup>\"i2</sup> moles/litre.\nAspect A-7: An immunglobuiin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM,\nAspect A-8: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL1 1 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 1 nM and an average SDF-1 and/or I-TAC displacement of 50% or more, more preferably of 75% or more, even more preferably of 80% or more.\nAspect A-9: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL11 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 20 nM and an average SDF-1 and/or I-TAC displacement of 70% or more."
+    },
+    {
+        "molecule_name": "immunglobulin single variable domain (SEQ ID NO: 1)",
+        "protein_target_name": "human CXCR7",
+        "binding_metric": "Ki",
+        "value": "< 500",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAspect A-4: An immunglobulin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (K<sub>D</sub>) of 10<sup>\"5</sup> to 10<sup>\"12</sup> moles/litre or less, and preferably 10<sup>\"7</sup> to 10<sup>\"12</sup> moles/litre or less and more preferably 10<sup>\"8</sup> to 10<sup>\"i2</sup> moles/litre.\nAspect A-7: An immunglobuiin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM,\nAspect A-8: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL1 1 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 1 nM and an average SDF-1 and/or I-TAC displacement of 50% or more, more preferably of 75% or more, even more preferably of 80% or more.\nAspect A-9: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL11 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 20 nM and an average SDF-1 and/or I-TAC displacement of 70% or more."
+    },
+    {
+        "molecule_name": "immunglobulin single variable domain (SEQ ID NO: 1)",
+        "protein_target_name": "human CXCR7",
+        "binding_metric": "Ki",
+        "value": "< 200",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAspect A-4: An immunglobulin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (K<sub>D</sub>) of 10<sup>\"5</sup> to 10<sup>\"12</sup> moles/litre or less, and preferably 10<sup>\"7</sup> to 10<sup>\"12</sup> moles/litre or less and more preferably 10<sup>\"8</sup> to 10<sup>\"i2</sup> moles/litre.\nAspect A-7: An immunglobuiin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM,\nAspect A-8: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL1 1 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 1 nM and an average SDF-1 and/or I-TAC displacement of 50% or more, more preferably of 75% or more, even more preferably of 80% or more.\nAspect A-9: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL11 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 20 nM and an average SDF-1 and/or I-TAC displacement of 70% or more."
+    },
+    {
+        "molecule_name": "immunglobulin single variable domain (SEQ ID NO: 1)",
+        "protein_target_name": "human CXCR7",
+        "binding_metric": "Ki",
+        "value": "< 10",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAspect A-4: An immunglobulin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (K<sub>D</sub>) of 10<sup>\"5</sup> to 10<sup>\"12</sup> moles/litre or less, and preferably 10<sup>\"7</sup> to 10<sup>\"12</sup> moles/litre or less and more preferably 10<sup>\"8</sup> to 10<sup>\"i2</sup> moles/litre.\nAspect A-7: An immunglobuiin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM,\nAspect A-8: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL1 1 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 1 nM and an average SDF-1 and/or I-TAC displacement of 50% or more, more preferably of 75% or more, even more preferably of 80% or more.\nAspect A-9: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL11 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 20 nM and an average SDF-1 and/or I-TAC displacement of 70% or more."
+    },
+    {
+        "molecule_name": "immunglobulin single variable domain (SEQ ID NO: 1)",
+        "protein_target_name": "human CXCR7",
+        "binding_metric": "Ki",
+        "value": "< 1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAspect A-4: An immunglobulin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (K<sub>D</sub>) of 10<sup>\"5</sup> to 10<sup>\"12</sup> moles/litre or less, and preferably 10<sup>\"7</sup> to 10<sup>\"12</sup> moles/litre or less and more preferably 10<sup>\"8</sup> to 10<sup>\"i2</sup> moles/litre.\nAspect A-7: An immunglobuiin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM,\nAspect A-8: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL1 1 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 1 nM and an average SDF-1 and/or I-TAC displacement of 50% or more, more preferably of 75% or more, even more preferably of 80% or more.\nAspect A-9: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL11 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 20 nM and an average SDF-1 and/or I-TAC displacement of 70% or more."
+    },
+    {
+        "molecule_name": "immunglobulin single variable domain (SEQ ID NO: 1)",
+        "protein_target_name": "human CXCR7",
+        "binding_metric": "SDF-1 and/or I-TAC displacement",
+        "value": "50",
+        "unit": "%",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAspect A-4: An immunglobulin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (K<sub>D</sub>) of 10<sup>\"5</sup> to 10<sup>\"12</sup> moles/litre or less, and preferably 10<sup>\"7</sup> to 10<sup>\"12</sup> moles/litre or less and more preferably 10<sup>\"8</sup> to 10<sup>\"i2</sup> moles/litre.\nAspect A-7: An immunglobuiin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM,\nAspect A-8: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL1 1 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 1 nM and an average SDF-1 and/or I-TAC displacement of 50% or more, more preferably of 75% or more, even more preferably of 80% or more.\nAspect A-9: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL11 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 20 nM and an average SDF-1 and/or I-TAC displacement of 70% or more."
+    },
+    {
+        "molecule_name": "immunglobulin single variable domain (SEQ ID NO: 1)",
+        "protein_target_name": "human CXCR7",
+        "binding_metric": "SDF-1 and/or I-TAC displacement",
+        "value": "75",
+        "unit": "%",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAspect A-4: An immunglobulin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (K<sub>D</sub>) of 10<sup>\"5</sup> to 10<sup>\"12</sup> moles/litre or less, and preferably 10<sup>\"7</sup> to 10<sup>\"12</sup> moles/litre or less and more preferably 10<sup>\"8</sup> to 10<sup>\"i2</sup> moles/litre.\nAspect A-7: An immunglobuiin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM,\nAspect A-8: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL1 1 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 1 nM and an average SDF-1 and/or I-TAC displacement of 50% or more, more preferably of 75% or more, even more preferably of 80% or more.\nAspect A-9: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL11 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 20 nM and an average SDF-1 and/or I-TAC displacement of 70% or more."
+    },
+    {
+        "molecule_name": "immunglobulin single variable domain (SEQ ID NO: 1)",
+        "protein_target_name": "human CXCR7",
+        "binding_metric": "SDF-1 and/or I-TAC displacement",
+        "value": "80",
+        "unit": "%",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAspect A-4: An immunglobulin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (K<sub>D</sub>) of 10<sup>\"5</sup> to 10<sup>\"12</sup> moles/litre or less, and preferably 10<sup>\"7</sup> to 10<sup>\"12</sup> moles/litre or less and more preferably 10<sup>\"8</sup> to 10<sup>\"i2</sup> moles/litre.\nAspect A-7: An immunglobuiin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM,\nAspect A-8: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL1 1 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 1 nM and an average SDF-1 and/or I-TAC displacement of 50% or more, more preferably of 75% or more, even more preferably of 80% or more.\nAspect A-9: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL11 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 20 nM and an average SDF-1 and/or I-TAC displacement of 70% or more."
+    },
+    {
+        "molecule_name": "immunglobulin single variable domain (SEQ ID NO: 1)",
+        "protein_target_name": "human CXCR7",
+        "binding_metric": "Ki",
+        "value": "< 20",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAspect A-4: An immunglobulin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (K<sub>D</sub>) of 10<sup>\"5</sup> to 10<sup>\"12</sup> moles/litre or less, and preferably 10<sup>\"7</sup> to 10<sup>\"12</sup> moles/litre or less and more preferably 10<sup>\"8</sup> to 10<sup>\"i2</sup> moles/litre.\nAspect A-7: An immunglobuiin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM,\nAspect A-8: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL1 1 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 1 nM and an average SDF-1 and/or I-TAC displacement of 50% or more, more preferably of 75% or more, even more preferably of 80% or more.\nAspect A-9: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL11 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 20 nM and an average SDF-1 and/or I-TAC displacement of 70% or more."
+    },
+    {
+        "molecule_name": "immunglobulin single variable domain (SEQ ID NO: 1)",
+        "protein_target_name": "human CXCR7",
+        "binding_metric": "SDF-1 and/or I-TAC displacement",
+        "value": "70",
+        "unit": "%",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAspect A-4: An immunglobulin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (K<sub>D</sub>) of 10<sup>\"5</sup> to 10<sup>\"12</sup> moles/litre or less, and preferably 10<sup>\"7</sup> to 10<sup>\"12</sup> moles/litre or less and more preferably 10<sup>\"8</sup> to 10<sup>\"i2</sup> moles/litre.\nAspect A-7: An immunglobuiin single variable domain that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with an affinity less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 500 pM,\nAspect A-8: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL1 1 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 500 nM, preferably less than 200 nM, more preferably less than 10 nM, such as less than 1 nM and an average SDF-1 and/or I-TAC displacement of 50% or more, more preferably of 75% or more, even more preferably of 80% or more.\nAspect A-9: An immunglobuiin single variable domain that can specifically displace SDF-1 and/or I-TAC (CXCL11 and/or CXCL12) on CXCR7 and in particular on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 20 nM and an average SDF-1 and/or I-TAC displacement of 70% or more."
+    },
+    {
+        "molecule_name": "immunglobulin single valuable domain",
+        "protein_target_name": "human CXCR7 (SEQ ID NO: 1)",
+        "binding_metric": "KD",
+        "value": "10° to 10^",
+        "unit": "moles/litre",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nAspect D-3: An immunglobulin single valuable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or Dl to D-2 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (KD) of 10° to 10^\" moles/litre or less, and preferably 10^\"'^ to 12 0'^ moles/litre or less and more preferably 10^\"'^ to 10^\" moles/litre.\nAspect D-4: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-1 to D-3 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of association (k_on-rate) of between 10^2 M^\"!s^\"! to about 10^7 M^'V^1, preferably between 10^3 MT^1 and 10^7 M^'V^1, more preferably between 10^4 M^\"V and 10^7 M^'V^1, such as between 10^s MV and 10^7 M.\nAspect D-5: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-l to D-4 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of dissociation (k_off rate) between 1 s^\"1 and 10^\"6 s^\"1 preferably between 10^\"* s^\"! and 10^\"6 s^\"\\ more preferably between 10^\"3 s^\"! and 10^\"6 s^\"], such as between 10^\"4 s^\"1 and 10^\"6 s^\"]."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "human CXCR7 (SEQ ID NO: 1)",
+        "binding_metric": "k_on-rate",
+        "value": "10^2 M^",
+        "unit": "M^",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nAspect D-3: An immunglobulin single valuable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or Dl to D-2 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (KD) of 10° to 10^\" moles/litre or less, and preferably 10^\"'^ to 12 0'^ moles/litre or less and more preferably 10^\"'^ to 10^\" moles/litre.\nAspect D-4: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-1 to D-3 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of association (k_on-rate) of between 10^2 M^\"!s^\"! to about 10^7 M^'V^1, preferably between 10^3 MT^1 and 10^7 M^'V^1, more preferably between 10^4 M^\"V and 10^7 M^'V^1, such as between 10^s MV and 10^7 M.\nAspect D-5: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-l to D-4 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of dissociation (k_off rate) between 1 s^\"1 and 10^\"6 s^\"1 preferably between 10^\"* s^\"! and 10^\"6 s^\"\\ more preferably between 10^\"3 s^\"! and 10^\"6 s^\"], such as between 10^\"4 s^\"1 and 10^\"6 s^\"]."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "human CXCR7 (SEQ ID NO: 1)",
+        "binding_metric": "k_on-rate",
+        "value": "10^7 M^",
+        "unit": "M^",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nAspect D-3: An immunglobulin single valuable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or Dl to D-2 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (KD) of 10° to 10^\" moles/litre or less, and preferably 10^\"'^ to 12 0'^ moles/litre or less and more preferably 10^\"'^ to 10^\" moles/litre.\nAspect D-4: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-1 to D-3 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of association (k_on-rate) of between 10^2 M^\"!s^\"! to about 10^7 M^'V^1, preferably between 10^3 MT^1 and 10^7 M^'V^1, more preferably between 10^4 M^\"V and 10^7 M^'V^1, such as between 10^s MV and 10^7 M.\nAspect D-5: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-l to D-4 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of dissociation (k_off rate) between 1 s^\"1 and 10^\"6 s^\"1 preferably between 10^\"* s^\"! and 10^\"6 s^\"\\ more preferably between 10^\"3 s^\"! and 10^\"6 s^\"], such as between 10^\"4 s^\"1 and 10^\"6 s^\"]."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "human CXCR7 (SEQ ID NO: 1)",
+        "binding_metric": "k_on-rate",
+        "value": "10^3 M",
+        "unit": "M",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nAspect D-3: An immunglobulin single valuable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or Dl to D-2 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (KD) of 10° to 10^\" moles/litre or less, and preferably 10^\"'^ to 12 0'^ moles/litre or less and more preferably 10^\"'^ to 10^\" moles/litre.\nAspect D-4: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-1 to D-3 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of association (k_on-rate) of between 10^2 M^\"!s^\"! to about 10^7 M^'V^1, preferably between 10^3 MT^1 and 10^7 M^'V^1, more preferably between 10^4 M^\"V and 10^7 M^'V^1, such as between 10^s MV and 10^7 M.\nAspect D-5: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-l to D-4 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of dissociation (k_off rate) between 1 s^\"1 and 10^\"6 s^\"1 preferably between 10^\"* s^\"! and 10^\"6 s^\"\\ more preferably between 10^\"3 s^\"! and 10^\"6 s^\"], such as between 10^\"4 s^\"1 and 10^\"6 s^\"]."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "human CXCR7 (SEQ ID NO: 1)",
+        "binding_metric": "k_on-rate",
+        "value": "10^7 M",
+        "unit": "M",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nAspect D-3: An immunglobulin single valuable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or Dl to D-2 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (KD) of 10° to 10^\" moles/litre or less, and preferably 10^\"'^ to 12 0'^ moles/litre or less and more preferably 10^\"'^ to 10^\" moles/litre.\nAspect D-4: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-1 to D-3 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of association (k_on-rate) of between 10^2 M^\"!s^\"! to about 10^7 M^'V^1, preferably between 10^3 MT^1 and 10^7 M^'V^1, more preferably between 10^4 M^\"V and 10^7 M^'V^1, such as between 10^s MV and 10^7 M.\nAspect D-5: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-l to D-4 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of dissociation (k_off rate) between 1 s^\"1 and 10^\"6 s^\"1 preferably between 10^\"* s^\"! and 10^\"6 s^\"\\ more preferably between 10^\"3 s^\"! and 10^\"6 s^\"], such as between 10^\"4 s^\"1 and 10^\"6 s^\"]."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "human CXCR7 (SEQ ID NO: 1)",
+        "binding_metric": "k_on-rate",
+        "value": "10^4 M",
+        "unit": "M",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nAspect D-3: An immunglobulin single valuable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or Dl to D-2 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (KD) of 10° to 10^\" moles/litre or less, and preferably 10^\"'^ to 12 0'^ moles/litre or less and more preferably 10^\"'^ to 10^\" moles/litre.\nAspect D-4: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-1 to D-3 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of association (k_on-rate) of between 10^2 M^\"!s^\"! to about 10^7 M^'V^1, preferably between 10^3 MT^1 and 10^7 M^'V^1, more preferably between 10^4 M^\"V and 10^7 M^'V^1, such as between 10^s MV and 10^7 M.\nAspect D-5: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-l to D-4 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of dissociation (k_off rate) between 1 s^\"1 and 10^\"6 s^\"1 preferably between 10^\"* s^\"! and 10^\"6 s^\"\\ more preferably between 10^\"3 s^\"! and 10^\"6 s^\"], such as between 10^\"4 s^\"1 and 10^\"6 s^\"]."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "human CXCR7 (SEQ ID NO: 1)",
+        "binding_metric": "k_on-rate",
+        "value": "10^7 M",
+        "unit": "M",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nAspect D-3: An immunglobulin single valuable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or Dl to D-2 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (KD) of 10° to 10^\" moles/litre or less, and preferably 10^\"'^ to 12 0'^ moles/litre or less and more preferably 10^\"'^ to 10^\" moles/litre.\nAspect D-4: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-1 to D-3 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of association (k_on-rate) of between 10^2 M^\"!s^\"! to about 10^7 M^'V^1, preferably between 10^3 MT^1 and 10^7 M^'V^1, more preferably between 10^4 M^\"V and 10^7 M^'V^1, such as between 10^s MV and 10^7 M.\nAspect D-5: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-l to D-4 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of dissociation (k_off rate) between 1 s^\"1 and 10^\"6 s^\"1 preferably between 10^\"* s^\"! and 10^\"6 s^\"\\ more preferably between 10^\"3 s^\"! and 10^\"6 s^\"], such as between 10^\"4 s^\"1 and 10^\"6 s^\"]."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "human CXCR7 (SEQ ID NO: 1)",
+        "binding_metric": "k_off rate",
+        "value": "1 s",
+        "unit": "s",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nAspect D-3: An immunglobulin single valuable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or Dl to D-2 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (KD) of 10° to 10^\" moles/litre or less, and preferably 10^\"'^ to 12 0'^ moles/litre or less and more preferably 10^\"'^ to 10^\" moles/litre.\nAspect D-4: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-1 to D-3 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of association (k_on-rate) of between 10^2 M^\"!s^\"! to about 10^7 M^'V^1, preferably between 10^3 MT^1 and 10^7 M^'V^1, more preferably between 10^4 M^\"V and 10^7 M^'V^1, such as between 10^s MV and 10^7 M.\nAspect D-5: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-l to D-4 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of dissociation (k_off rate) between 1 s^\"1 and 10^\"6 s^\"1 preferably between 10^\"* s^\"! and 10^\"6 s^\"\\ more preferably between 10^\"3 s^\"! and 10^\"6 s^\"], such as between 10^\"4 s^\"1 and 10^\"6 s^\"]."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "human CXCR7 (SEQ ID NO: 1)",
+        "binding_metric": "k_off rate",
+        "value": "10^6 s",
+        "unit": "s",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nAspect D-3: An immunglobulin single valuable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or Dl to D-2 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (KD) of 10° to 10^\" moles/litre or less, and preferably 10^\"'^ to 12 0'^ moles/litre or less and more preferably 10^\"'^ to 10^\" moles/litre.\nAspect D-4: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-1 to D-3 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of association (k_on-rate) of between 10^2 M^\"!s^\"! to about 10^7 M^'V^1, preferably between 10^3 MT^1 and 10^7 M^'V^1, more preferably between 10^4 M^\"V and 10^7 M^'V^1, such as between 10^s MV and 10^7 M.\nAspect D-5: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-l to D-4 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of dissociation (k_off rate) between 1 s^\"1 and 10^\"6 s^\"1 preferably between 10^\"* s^\"! and 10^\"6 s^\"\\ more preferably between 10^\"3 s^\"! and 10^\"6 s^\"], such as between 10^\"4 s^\"1 and 10^\"6 s^\"]."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "human CXCR7 (SEQ ID NO: 1)",
+        "binding_metric": "k_off rate",
+        "value": "10^ s",
+        "unit": "s",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nAspect D-3: An immunglobulin single valuable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or Dl to D-2 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (KD) of 10° to 10^\" moles/litre or less, and preferably 10^\"'^ to 12 0'^ moles/litre or less and more preferably 10^\"'^ to 10^\" moles/litre.\nAspect D-4: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-1 to D-3 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of association (k_on-rate) of between 10^2 M^\"!s^\"! to about 10^7 M^'V^1, preferably between 10^3 MT^1 and 10^7 M^'V^1, more preferably between 10^4 M^\"V and 10^7 M^'V^1, such as between 10^s MV and 10^7 M.\nAspect D-5: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-l to D-4 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of dissociation (k_off rate) between 1 s^\"1 and 10^\"6 s^\"1 preferably between 10^\"* s^\"! and 10^\"6 s^\"\\ more preferably between 10^\"3 s^\"! and 10^\"6 s^\"], such as between 10^\"4 s^\"1 and 10^\"6 s^\"]."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "human CXCR7 (SEQ ID NO: 1)",
+        "binding_metric": "k_off rate",
+        "value": "10^6 s",
+        "unit": "s",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nAspect D-3: An immunglobulin single valuable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or Dl to D-2 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (KD) of 10° to 10^\" moles/litre or less, and preferably 10^\"'^ to 12 0'^ moles/litre or less and more preferably 10^\"'^ to 10^\" moles/litre.\nAspect D-4: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-1 to D-3 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of association (k_on-rate) of between 10^2 M^\"!s^\"! to about 10^7 M^'V^1, preferably between 10^3 MT^1 and 10^7 M^'V^1, more preferably between 10^4 M^\"V and 10^7 M^'V^1, such as between 10^s MV and 10^7 M.\nAspect D-5: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-l to D-4 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of dissociation (k_off rate) between 1 s^\"1 and 10^\"6 s^\"1 preferably between 10^\"* s^\"! and 10^\"6 s^\"\\ more preferably between 10^\"3 s^\"! and 10^\"6 s^\"], such as between 10^\"4 s^\"1 and 10^\"6 s^\"]."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "human CXCR7 (SEQ ID NO: 1)",
+        "binding_metric": "k_off rate",
+        "value": "10^3 s",
+        "unit": "s",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nAspect D-3: An immunglobulin single valuable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or Dl to D-2 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (KD) of 10° to 10^\" moles/litre or less, and preferably 10^\"'^ to 12 0'^ moles/litre or less and more preferably 10^\"'^ to 10^\" moles/litre.\nAspect D-4: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-1 to D-3 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of association (k_on-rate) of between 10^2 M^\"!s^\"! to about 10^7 M^'V^1, preferably between 10^3 MT^1 and 10^7 M^'V^1, more preferably between 10^4 M^\"V and 10^7 M^'V^1, such as between 10^s MV and 10^7 M.\nAspect D-5: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-l to D-4 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of dissociation (k_off rate) between 1 s^\"1 and 10^\"6 s^\"1 preferably between 10^\"* s^\"! and 10^\"6 s^\"\\ more preferably between 10^\"3 s^\"! and 10^\"6 s^\"], such as between 10^\"4 s^\"1 and 10^\"6 s^\"]."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "human CXCR7 (SEQ ID NO: 1)",
+        "binding_metric": "k_off rate",
+        "value": "10^6 s",
+        "unit": "s",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nAspect D-3: An immunglobulin single valuable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or Dl to D-2 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (KD) of 10° to 10^\" moles/litre or less, and preferably 10^\"'^ to 12 0'^ moles/litre or less and more preferably 10^\"'^ to 10^\" moles/litre.\nAspect D-4: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-1 to D-3 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of association (k_on-rate) of between 10^2 M^\"!s^\"! to about 10^7 M^'V^1, preferably between 10^3 MT^1 and 10^7 M^'V^1, more preferably between 10^4 M^\"V and 10^7 M^'V^1, such as between 10^s MV and 10^7 M.\nAspect D-5: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-l to D-4 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of dissociation (k_off rate) between 1 s^\"1 and 10^\"6 s^\"1 preferably between 10^\"* s^\"! and 10^\"6 s^\"\\ more preferably between 10^\"3 s^\"! and 10^\"6 s^\"], such as between 10^\"4 s^\"1 and 10^\"6 s^\"]."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "human CXCR7 (SEQ ID NO: 1)",
+        "binding_metric": "k_off rate",
+        "value": "10^4 s",
+        "unit": "s",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nAspect D-3: An immunglobulin single valuable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or Dl to D-2 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (KD) of 10° to 10^\" moles/litre or less, and preferably 10^\"'^ to 12 0'^ moles/litre or less and more preferably 10^\"'^ to 10^\" moles/litre.\nAspect D-4: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-1 to D-3 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of association (k_on-rate) of between 10^2 M^\"!s^\"! to about 10^7 M^'V^1, preferably between 10^3 MT^1 and 10^7 M^'V^1, more preferably between 10^4 M^\"V and 10^7 M^'V^1, such as between 10^s MV and 10^7 M.\nAspect D-5: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-l to D-4 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of dissociation (k_off rate) between 1 s^\"1 and 10^\"6 s^\"1 preferably between 10^\"* s^\"! and 10^\"6 s^\"\\ more preferably between 10^\"3 s^\"! and 10^\"6 s^\"], such as between 10^\"4 s^\"1 and 10^\"6 s^\"]."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "human CXCR7 (SEQ ID NO: 1)",
+        "binding_metric": "k_off rate",
+        "value": "10^6 s",
+        "unit": "s",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nAspect D-3: An immunglobulin single valuable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or Dl to D-2 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a dissociation constant (KD) of 10° to 10^\" moles/litre or less, and preferably 10^\"'^ to 12 0'^ moles/litre or less and more preferably 10^\"'^ to 10^\" moles/litre.\nAspect D-4: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-1 to D-3 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of association (k_on-rate) of between 10^2 M^\"!s^\"! to about 10^7 M^'V^1, preferably between 10^3 MT^1 and 10^7 M^'V^1, more preferably between 10^4 M^\"V and 10^7 M^'V^1, such as between 10^s MV and 10^7 M.\nAspect D-5: An immunglobulin single variable domain according to any of aspects B-l to B-7, C-1 to C-7, and/or D-l to D-4 that can specifically bind to CXCR7 and in particular human CXCR7 (SEQ ID NO: 1) with a rate of dissociation (k_off rate) between 1 s^\"1 and 10^\"6 s^\"1 preferably between 10^\"* s^\"! and 10^\"6 s^\"\\ more preferably between 10^\"3 s^\"! and 10^\"6 s^\"], such as between 10^\"4 s^\"1 and 10^\"6 s^\"]."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "CXCR7",
+        "binding_metric": "Ki",
+        "value": "<1000",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "An immunglobulin single variable domain that can specifically displace SDF-1 and/or I- TAC on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 1000nM, more preferably less than 500 nM, more preferably less than 100 nM, even more preferably less than 50 nM, most preferably less than 10 nM and an average SDF-1 and/or I-TAC displacement of 60% to 80% or more in the radioligand assay as e.g. outlined in example 9) or 80% to 100% (in the FACS competition assay as e.g. outlined in example 10)."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "CXCR7",
+        "binding_metric": "Ki",
+        "value": "<500",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "An immunglobulin single variable domain that can specifically displace SDF-1 and/or I- TAC on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 1000nM, more preferably less than 500 nM, more preferably less than 100 nM, even more preferably less than 50 nM, most preferably less than 10 nM and an average SDF-1 and/or I-TAC displacement of 60% to 80% or more in the radioligand assay as e.g. outlined in example 9) or 80% to 100% (in the FACS competition assay as e.g. outlined in example 10)."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "CXCR7",
+        "binding_metric": "Ki",
+        "value": "<100",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "An immunglobulin single variable domain that can specifically displace SDF-1 and/or I- TAC on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 1000nM, more preferably less than 500 nM, more preferably less than 100 nM, even more preferably less than 50 nM, most preferably less than 10 nM and an average SDF-1 and/or I-TAC displacement of 60% to 80% or more in the radioligand assay as e.g. outlined in example 9) or 80% to 100% (in the FACS competition assay as e.g. outlined in example 10)."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "CXCR7",
+        "binding_metric": "Ki",
+        "value": "<50",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "An immunglobulin single variable domain that can specifically displace SDF-1 and/or I- TAC on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 1000nM, more preferably less than 500 nM, more preferably less than 100 nM, even more preferably less than 50 nM, most preferably less than 10 nM and an average SDF-1 and/or I-TAC displacement of 60% to 80% or more in the radioligand assay as e.g. outlined in example 9) or 80% to 100% (in the FACS competition assay as e.g. outlined in example 10)."
+    },
+    {
+        "molecule_name": "Nanobody",
+        "protein_target_name": "CXCR7",
+        "binding_metric": "Ki",
+        "value": "<10",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "An immunglobulin single variable domain that can specifically displace SDF-1 and/or I- TAC on human CXCR7 (SEQ ID NO: 1) with an average Ki of less than 1000nM, more preferably less than 500 nM, more preferably less than 100 nM, even more preferably less than 50 nM, most preferably less than 10 nM and an average SDF-1 and/or I-TAC displacement of 60% to 80% or more in the radioligand assay as e.g. outlined in example 9) or 80% to 100% (in the FACS competition assay as e.g. outlined in example 10)."
+    }
+]

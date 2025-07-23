@@ -1,0 +1,2 @@
+{"raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe data demonstrate that the dissociation constant for a monomer-dimer equilibrium must be less than Kd = 10^6 M (and probably much less than this)."}
+{"final_json": [{"molecule_name": null, "protein_target_name": null, "binding_metric": "Kd", "value": "<10^6", "unit": "M", "is_logarithmic": false}]}

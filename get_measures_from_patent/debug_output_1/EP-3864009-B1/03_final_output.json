@@ -1,0 +1,56 @@
+[
+    {
+        "molecule_name": "Comparative Compound A",
+        "protein_target_name": "pSTAT3",
+        "binding_metric": "% inhibition",
+        "value": "96.9",
+        "unit": "%",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 8\nTest Compound\tIC50(nM)\t%pSTAT3 inhibition at 10µM\nComparative Compound A\t170\t96.9\nComparative Compound B\t54\t97.9\nCompound (2)\t16\t95.9\nCompound (3)\t23\t95.9\n\nTable 9A - IL17-F Production Inhibition\nCompound\tDonor 1\tDonor 2\tDonor 3\tAverage (nM)\tSD\nComparative Compound B\t243\t217\t148\t203\t49\nCompound (2)\t11\t13\t46\t10\t53\nCompound (3)\t57\t48\t105\t23\t72\n\nTable 9B - Inhibition of STAT3 phosphorylation\nCompound\tDonor 1\tDonor 2\tDonor 3\tAverage (nM)\tSD\nComparative Compound B\t11\t17\t54\t61\t47\nCompound (2)\t6\t9\t55\t12\t0\nCompound (3)\t15\t72\t99\t19\t264 \n\nWhile both comparative Compound B and Compound (2) were shown to have IC50 values against pSTAT3 inhibition of less than 100nM, the IC50 value for Compound (2) was significantly lower than for comparative Compound B."
+    },
+    {
+        "molecule_name": "Comparative Compound B",
+        "protein_target_name": "pSTAT3",
+        "binding_metric": "% inhibition",
+        "value": "97.9",
+        "unit": "%",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 8\nTest Compound\tIC50(nM)\t%pSTAT3 inhibition at 10µM\nComparative Compound A\t170\t96.9\nComparative Compound B\t54\t97.9\nCompound (2)\t16\t95.9\nCompound (3)\t23\t95.9\n\nTable 9A - IL17-F Production Inhibition\nCompound\tDonor 1\tDonor 2\tDonor 3\tAverage (nM)\tSD\nComparative Compound B\t243\t217\t148\t203\t49\nCompound (2)\t11\t13\t46\t10\t53\nCompound (3)\t57\t48\t105\t23\t72\n\nTable 9B - Inhibition of STAT3 phosphorylation\nCompound\tDonor 1\tDonor 2\tDonor 3\tAverage (nM)\tSD\nComparative Compound B\t11\t17\t54\t61\t47\nCompound (2)\t6\t9\t55\t12\t0\nCompound (3)\t15\t72\t99\t19\t264 \n\nWhile both comparative Compound B and Compound (2) were shown to have IC50 values against pSTAT3 inhibition of less than 100nM, the IC50 value for Compound (2) was significantly lower than for comparative Compound B."
+    },
+    {
+        "molecule_name": "Compound (2)",
+        "protein_target_name": "pSTAT3",
+        "binding_metric": "% inhibition",
+        "value": "95.9",
+        "unit": "%",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 8\nTest Compound\tIC50(nM)\t%pSTAT3 inhibition at 10µM\nComparative Compound A\t170\t96.9\nComparative Compound B\t54\t97.9\nCompound (2)\t16\t95.9\nCompound (3)\t23\t95.9\n\nTable 9A - IL17-F Production Inhibition\nCompound\tDonor 1\tDonor 2\tDonor 3\tAverage (nM)\tSD\nComparative Compound B\t243\t217\t148\t203\t49\nCompound (2)\t11\t13\t46\t10\t53\nCompound (3)\t57\t48\t105\t23\t72\n\nTable 9B - Inhibition of STAT3 phosphorylation\nCompound\tDonor 1\tDonor 2\tDonor 3\tAverage (nM)\tSD\nComparative Compound B\t11\t17\t54\t61\t47\nCompound (2)\t6\t9\t55\t12\t0\nCompound (3)\t15\t72\t99\t19\t264 \n\nWhile both comparative Compound B and Compound (2) were shown to have IC50 values against pSTAT3 inhibition of less than 100nM, the IC50 value for Compound (2) was significantly lower than for comparative Compound B."
+    },
+    {
+        "molecule_name": "Compound (3)",
+        "protein_target_name": "pSTAT3",
+        "binding_metric": "% inhibition",
+        "value": "95.9",
+        "unit": "%",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 8\nTest Compound\tIC50(nM)\t%pSTAT3 inhibition at 10µM\nComparative Compound A\t170\t96.9\nComparative Compound B\t54\t97.9\nCompound (2)\t16\t95.9\nCompound (3)\t23\t95.9\n\nTable 9A - IL17-F Production Inhibition\nCompound\tDonor 1\tDonor 2\tDonor 3\tAverage (nM)\tSD\nComparative Compound B\t243\t217\t148\t203\t49\nCompound (2)\t11\t13\t46\t10\t53\nCompound (3)\t57\t48\t105\t23\t72\n\nTable 9B - Inhibition of STAT3 phosphorylation\nCompound\tDonor 1\tDonor 2\tDonor 3\tAverage (nM)\tSD\nComparative Compound B\t11\t17\t54\t61\t47\nCompound (2)\t6\t9\t55\t12\t0\nCompound (3)\t15\t72\t99\t19\t264 \n\nWhile both comparative Compound B and Compound (2) were shown to have IC50 values against pSTAT3 inhibition of less than 100nM, the IC50 value for Compound (2) was significantly lower than for comparative Compound B."
+    },
+    {
+        "molecule_name": "Compound (2)",
+        "protein_target_name": "pSTAT3",
+        "binding_metric": "IC50",
+        "value": "<100",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 8\nTest Compound\tIC50(nM)\t%pSTAT3 inhibition at 10µM\nComparative Compound A\t170\t96.9\nComparative Compound B\t54\t97.9\nCompound (2)\t16\t95.9\nCompound (3)\t23\t95.9\n\nTable 9A - IL17-F Production Inhibition\nCompound\tDonor 1\tDonor 2\tDonor 3\tAverage (nM)\tSD\nComparative Compound B\t243\t217\t148\t203\t49\nCompound (2)\t11\t13\t46\t10\t53\nCompound (3)\t57\t48\t105\t23\t72\n\nTable 9B - Inhibition of STAT3 phosphorylation\nCompound\tDonor 1\tDonor 2\tDonor 3\tAverage (nM)\tSD\nComparative Compound B\t11\t17\t54\t61\t47\nCompound (2)\t6\t9\t55\t12\t0\nCompound (3)\t15\t72\t99\t19\t264 \n\nWhile both comparative Compound B and Compound (2) were shown to have IC50 values against pSTAT3 inhibition of less than 100nM, the IC50 value for Compound (2) was significantly lower than for comparative Compound B."
+    },
+    {
+        "molecule_name": "Comparative Compound B",
+        "protein_target_name": "pSTAT3",
+        "binding_metric": "IC50",
+        "value": "<100",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 8\nTest Compound\tIC50(nM)\t%pSTAT3 inhibition at 10µM\nComparative Compound A\t170\t96.9\nComparative Compound B\t54\t97.9\nCompound (2)\t16\t95.9\nCompound (3)\t23\t95.9\n\nTable 9A - IL17-F Production Inhibition\nCompound\tDonor 1\tDonor 2\tDonor 3\tAverage (nM)\tSD\nComparative Compound B\t243\t217\t148\t203\t49\nCompound (2)\t11\t13\t46\t10\t53\nCompound (3)\t57\t48\t105\t23\t72\n\nTable 9B - Inhibition of STAT3 phosphorylation\nCompound\tDonor 1\tDonor 2\tDonor 3\tAverage (nM)\tSD\nComparative Compound B\t11\t17\t54\t61\t47\nCompound (2)\t6\t9\t55\t12\t0\nCompound (3)\t15\t72\t99\t19\t264 \n\nWhile both comparative Compound B and Compound (2) were shown to have IC50 values against pSTAT3 inhibition of less than 100nM, the IC50 value for Compound (2) was significantly lower than for comparative Compound B."
+    }
+]

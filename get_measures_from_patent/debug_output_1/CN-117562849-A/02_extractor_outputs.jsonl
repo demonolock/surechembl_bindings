@@ -1,0 +1,2 @@
+{"raw_mentions": "The fibronectin is a compound mixture of human fibronectin, trehalose and mannitol, and the molecular weight of the fibronectin is about 30 Kd."}
+{"final_json": [{"molecule_name": "fibronectin", "protein_target_name": null, "binding_metric": null, "value": "30", "unit": "Kd", "is_logarithmic": false}]}

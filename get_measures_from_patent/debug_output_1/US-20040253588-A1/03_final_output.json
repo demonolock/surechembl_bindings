@@ -1,0 +1,29 @@
+[
+    {
+        "molecule_name": "polyclonal antibodies",
+        "protein_target_name": "DME",
+        "binding_metric": "K_a",
+        "value": "10^9 to 10^12",
+        "unit": "L/mole",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe K<sub>a </sub>determined for a preparation of polyclonal antibodies, which are heterogeneous in their affinities for multiple DME epitopes, represents the average affinity, or avidity, of the antibodies for DME, with K<sub>a </sub>ranging from about 10<sup>9 </sup>to 10<sup>12 </sup>L/mole. \nHigh-affinity antibody preparations with K<sub>a </sub>ranging from about 10<sup>9 </sup>to 10<sup>12 </sup>L/mole are preferred for use in immunoassays in which the DME-antibody complex must withstand rigorous manipulations. \nLow-affinity antibody preparations with K<sub>a </sub>ranging from about 10<sup>6 </sup>to 10<sup>7 </sup>L/mole are preferred for use in immunopurification and similar procedures which ultimately require dissociation of DME, preferably in active form, from the antibody."
+    },
+    {
+        "molecule_name": "High-affinity antibody preparations",
+        "protein_target_name": "DME",
+        "binding_metric": "K_a",
+        "value": "10^9 to 10^12",
+        "unit": "L/mole",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe K<sub>a </sub>determined for a preparation of polyclonal antibodies, which are heterogeneous in their affinities for multiple DME epitopes, represents the average affinity, or avidity, of the antibodies for DME, with K<sub>a </sub>ranging from about 10<sup>9 </sup>to 10<sup>12 </sup>L/mole. \nHigh-affinity antibody preparations with K<sub>a </sub>ranging from about 10<sup>9 </sup>to 10<sup>12 </sup>L/mole are preferred for use in immunoassays in which the DME-antibody complex must withstand rigorous manipulations. \nLow-affinity antibody preparations with K<sub>a </sub>ranging from about 10<sup>6 </sup>to 10<sup>7 </sup>L/mole are preferred for use in immunopurification and similar procedures which ultimately require dissociation of DME, preferably in active form, from the antibody."
+    },
+    {
+        "molecule_name": "Low-affinity antibody preparations",
+        "protein_target_name": "DME",
+        "binding_metric": "K_a",
+        "value": "10^6 to 10^7",
+        "unit": "L/mole",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe K<sub>a </sub>determined for a preparation of polyclonal antibodies, which are heterogeneous in their affinities for multiple DME epitopes, represents the average affinity, or avidity, of the antibodies for DME, with K<sub>a </sub>ranging from about 10<sup>9 </sup>to 10<sup>12 </sup>L/mole. \nHigh-affinity antibody preparations with K<sub>a </sub>ranging from about 10<sup>9 </sup>to 10<sup>12 </sup>L/mole are preferred for use in immunoassays in which the DME-antibody complex must withstand rigorous manipulations. \nLow-affinity antibody preparations with K<sub>a </sub>ranging from about 10<sup>6 </sup>to 10<sup>7 </sup>L/mole are preferred for use in immunopurification and similar procedures which ultimately require dissociation of DME, preferably in active form, from the antibody."
+    }
+]

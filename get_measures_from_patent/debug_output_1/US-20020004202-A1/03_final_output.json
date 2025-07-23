@@ -1,0 +1,137 @@
+[
+    {
+        "molecule_name": "FK506",
+        "protein_target_name": "receptor",
+        "binding_metric": "IC50",
+        "value": "<100",
+        "unit": "mM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[0124] In the compound, wherein H2 may be capable of binding to a receptor with an IC50 of less than 100 mM; or an IC50 of less than 10 mM; or an IC50 of less than 1 mM; or an IC50 of less than 100 uM; or an IC50 of less than 10 uM; or an IC50 of less than 1 pM; or an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM.\n[0126] In complex, H1 is capable of binding to the binding domain of the fusion protein with an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM; or an IC50 of less than 100 pM; or an IC50 of less than 10 pM; or an IC50 of less than 1 pM."
+    },
+    {
+        "molecule_name": "FK506",
+        "protein_target_name": "receptor",
+        "binding_metric": "IC50",
+        "value": "<10",
+        "unit": "mM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[0124] In the compound, wherein H2 may be capable of binding to a receptor with an IC50 of less than 100 mM; or an IC50 of less than 10 mM; or an IC50 of less than 1 mM; or an IC50 of less than 100 uM; or an IC50 of less than 10 uM; or an IC50 of less than 1 pM; or an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM.\n[0126] In complex, H1 is capable of binding to the binding domain of the fusion protein with an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM; or an IC50 of less than 100 pM; or an IC50 of less than 10 pM; or an IC50 of less than 1 pM."
+    },
+    {
+        "molecule_name": "FK506",
+        "protein_target_name": "receptor",
+        "binding_metric": "IC50",
+        "value": "<1",
+        "unit": "mM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[0124] In the compound, wherein H2 may be capable of binding to a receptor with an IC50 of less than 100 mM; or an IC50 of less than 10 mM; or an IC50 of less than 1 mM; or an IC50 of less than 100 uM; or an IC50 of less than 10 uM; or an IC50 of less than 1 pM; or an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM.\n[0126] In complex, H1 is capable of binding to the binding domain of the fusion protein with an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM; or an IC50 of less than 100 pM; or an IC50 of less than 10 pM; or an IC50 of less than 1 pM."
+    },
+    {
+        "molecule_name": "FK506",
+        "protein_target_name": "receptor",
+        "binding_metric": "IC50",
+        "value": "<100",
+        "unit": "uM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[0124] In the compound, wherein H2 may be capable of binding to a receptor with an IC50 of less than 100 mM; or an IC50 of less than 10 mM; or an IC50 of less than 1 mM; or an IC50 of less than 100 uM; or an IC50 of less than 10 uM; or an IC50 of less than 1 pM; or an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM.\n[0126] In complex, H1 is capable of binding to the binding domain of the fusion protein with an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM; or an IC50 of less than 100 pM; or an IC50 of less than 10 pM; or an IC50 of less than 1 pM."
+    },
+    {
+        "molecule_name": "FK506",
+        "protein_target_name": "receptor",
+        "binding_metric": "IC50",
+        "value": "<10",
+        "unit": "uM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[0124] In the compound, wherein H2 may be capable of binding to a receptor with an IC50 of less than 100 mM; or an IC50 of less than 10 mM; or an IC50 of less than 1 mM; or an IC50 of less than 100 uM; or an IC50 of less than 10 uM; or an IC50 of less than 1 pM; or an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM.\n[0126] In complex, H1 is capable of binding to the binding domain of the fusion protein with an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM; or an IC50 of less than 100 pM; or an IC50 of less than 10 pM; or an IC50 of less than 1 pM."
+    },
+    {
+        "molecule_name": "FK506",
+        "protein_target_name": "receptor",
+        "binding_metric": "IC50",
+        "value": "<1",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[0124] In the compound, wherein H2 may be capable of binding to a receptor with an IC50 of less than 100 mM; or an IC50 of less than 10 mM; or an IC50 of less than 1 mM; or an IC50 of less than 100 uM; or an IC50 of less than 10 uM; or an IC50 of less than 1 pM; or an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM.\n[0126] In complex, H1 is capable of binding to the binding domain of the fusion protein with an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM; or an IC50 of less than 100 pM; or an IC50 of less than 10 pM; or an IC50 of less than 1 pM."
+    },
+    {
+        "molecule_name": "FK506",
+        "protein_target_name": "receptor",
+        "binding_metric": "IC50",
+        "value": "<100",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[0124] In the compound, wherein H2 may be capable of binding to a receptor with an IC50 of less than 100 mM; or an IC50 of less than 10 mM; or an IC50 of less than 1 mM; or an IC50 of less than 100 uM; or an IC50 of less than 10 uM; or an IC50 of less than 1 pM; or an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM.\n[0126] In complex, H1 is capable of binding to the binding domain of the fusion protein with an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM; or an IC50 of less than 100 pM; or an IC50 of less than 10 pM; or an IC50 of less than 1 pM."
+    },
+    {
+        "molecule_name": "FK506",
+        "protein_target_name": "receptor",
+        "binding_metric": "IC50",
+        "value": "<10",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[0124] In the compound, wherein H2 may be capable of binding to a receptor with an IC50 of less than 100 mM; or an IC50 of less than 10 mM; or an IC50 of less than 1 mM; or an IC50 of less than 100 uM; or an IC50 of less than 10 uM; or an IC50 of less than 1 pM; or an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM.\n[0126] In complex, H1 is capable of binding to the binding domain of the fusion protein with an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM; or an IC50 of less than 100 pM; or an IC50 of less than 10 pM; or an IC50 of less than 1 pM."
+    },
+    {
+        "molecule_name": "FK506",
+        "protein_target_name": "receptor",
+        "binding_metric": "IC50",
+        "value": "<1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[0124] In the compound, wherein H2 may be capable of binding to a receptor with an IC50 of less than 100 mM; or an IC50 of less than 10 mM; or an IC50 of less than 1 mM; or an IC50 of less than 100 uM; or an IC50 of less than 10 uM; or an IC50 of less than 1 pM; or an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM.\n[0126] In complex, H1 is capable of binding to the binding domain of the fusion protein with an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM; or an IC50 of less than 100 pM; or an IC50 of less than 10 pM; or an IC50 of less than 1 pM."
+    },
+    {
+        "molecule_name": "Dexamethasone",
+        "protein_target_name": "fusion protein",
+        "binding_metric": "IC50",
+        "value": "<100",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[0124] In the compound, wherein H2 may be capable of binding to a receptor with an IC50 of less than 100 mM; or an IC50 of less than 10 mM; or an IC50 of less than 1 mM; or an IC50 of less than 100 uM; or an IC50 of less than 10 uM; or an IC50 of less than 1 pM; or an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM.\n[0126] In complex, H1 is capable of binding to the binding domain of the fusion protein with an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM; or an IC50 of less than 100 pM; or an IC50 of less than 10 pM; or an IC50 of less than 1 pM."
+    },
+    {
+        "molecule_name": "Dexamethasone",
+        "protein_target_name": "fusion protein",
+        "binding_metric": "IC50",
+        "value": "<10",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[0124] In the compound, wherein H2 may be capable of binding to a receptor with an IC50 of less than 100 mM; or an IC50 of less than 10 mM; or an IC50 of less than 1 mM; or an IC50 of less than 100 uM; or an IC50 of less than 10 uM; or an IC50 of less than 1 pM; or an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM.\n[0126] In complex, H1 is capable of binding to the binding domain of the fusion protein with an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM; or an IC50 of less than 100 pM; or an IC50 of less than 10 pM; or an IC50 of less than 1 pM."
+    },
+    {
+        "molecule_name": "Dexamethasone",
+        "protein_target_name": "fusion protein",
+        "binding_metric": "IC50",
+        "value": "<1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[0124] In the compound, wherein H2 may be capable of binding to a receptor with an IC50 of less than 100 mM; or an IC50 of less than 10 mM; or an IC50 of less than 1 mM; or an IC50 of less than 100 uM; or an IC50 of less than 10 uM; or an IC50 of less than 1 pM; or an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM.\n[0126] In complex, H1 is capable of binding to the binding domain of the fusion protein with an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM; or an IC50 of less than 100 pM; or an IC50 of less than 10 pM; or an IC50 of less than 1 pM."
+    },
+    {
+        "molecule_name": "Dexamethasone",
+        "protein_target_name": "fusion protein",
+        "binding_metric": "IC50",
+        "value": "<100",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[0124] In the compound, wherein H2 may be capable of binding to a receptor with an IC50 of less than 100 mM; or an IC50 of less than 10 mM; or an IC50 of less than 1 mM; or an IC50 of less than 100 uM; or an IC50 of less than 10 uM; or an IC50 of less than 1 pM; or an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM.\n[0126] In complex, H1 is capable of binding to the binding domain of the fusion protein with an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM; or an IC50 of less than 100 pM; or an IC50 of less than 10 pM; or an IC50 of less than 1 pM."
+    },
+    {
+        "molecule_name": "Dexamethasone",
+        "protein_target_name": "fusion protein",
+        "binding_metric": "IC50",
+        "value": "<10",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[0124] In the compound, wherein H2 may be capable of binding to a receptor with an IC50 of less than 100 mM; or an IC50 of less than 10 mM; or an IC50 of less than 1 mM; or an IC50 of less than 100 uM; or an IC50 of less than 10 uM; or an IC50 of less than 1 pM; or an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM.\n[0126] In complex, H1 is capable of binding to the binding domain of the fusion protein with an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM; or an IC50 of less than 100 pM; or an IC50 of less than 10 pM; or an IC50 of less than 1 pM."
+    },
+    {
+        "molecule_name": "Dexamethasone",
+        "protein_target_name": "fusion protein",
+        "binding_metric": "IC50",
+        "value": "<1",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n[0124] In the compound, wherein H2 may be capable of binding to a receptor with an IC50 of less than 100 mM; or an IC50 of less than 10 mM; or an IC50 of less than 1 mM; or an IC50 of less than 100 uM; or an IC50 of less than 10 uM; or an IC50 of less than 1 pM; or an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM.\n[0126] In complex, H1 is capable of binding to the binding domain of the fusion protein with an IC50 of less than 100 nM; or an IC50 of less than 10 nM; or an IC50 of less than 1 nM; or an IC50 of less than 100 pM; or an IC50 of less than 10 pM; or an IC50 of less than 1 pM."
+    }
+]

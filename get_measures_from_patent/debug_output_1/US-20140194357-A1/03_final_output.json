@@ -1,0 +1,29 @@
+[
+    {
+        "molecule_name": "Relaxin",
+        "protein_target_name": "relaxin polypeptide receptor",
+        "binding_metric": "Kd",
+        "value": "400",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "In some embodiments, the linkages are arranged such that the relaxin polypeptide binds the relaxin polypeptide receptor with a Kd of about 400 nM or lower, with a Kd of 150 nM or lower, and in some cases with a Kd of 100 nM or lower, as measured by an equilibrium binding assay, such as that described in Spencer et al., J. Biol. Chem., 263:7862-7867 (1988)."
+    },
+    {
+        "molecule_name": "Relaxin",
+        "protein_target_name": "relaxin polypeptide receptor",
+        "binding_metric": "Kd",
+        "value": "150",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "In some embodiments, the linkages are arranged such that the relaxin polypeptide binds the relaxin polypeptide receptor with a Kd of about 400 nM or lower, with a Kd of 150 nM or lower, and in some cases with a Kd of 100 nM or lower, as measured by an equilibrium binding assay, such as that described in Spencer et al., J. Biol. Chem., 263:7862-7867 (1988)."
+    },
+    {
+        "molecule_name": "Relaxin",
+        "protein_target_name": "relaxin polypeptide receptor",
+        "binding_metric": "Kd",
+        "value": "100",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "In some embodiments, the linkages are arranged such that the relaxin polypeptide binds the relaxin polypeptide receptor with a Kd of about 400 nM or lower, with a Kd of 150 nM or lower, and in some cases with a Kd of 100 nM or lower, as measured by an equilibrium binding assay, such as that described in Spencer et al., J. Biol. Chem., 263:7862-7867 (1988)."
+    }
+]

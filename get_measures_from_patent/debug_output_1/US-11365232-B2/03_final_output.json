@@ -1,0 +1,74 @@
+[
+    {
+        "molecule_name": "Interleukin-2 fused to IgG1 antibody",
+        "protein_target_name": "pSTAT5a",
+        "binding_metric": "EC50",
+        "value": "0.070",
+        "unit": "ng/mL",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 3 summarizes the EC50 values for pSTAT5a activation by DP47GS IgG-IL-2 vs. DP47GS IgG-(IL-2)2 in the different cell subsets.\nT cell\tIgG-IL-2\tIgG-(IL-2)2\tactivated Treg\t0.070 ng/mL\t0.020 ng/mL\nmemory Treg\t0.210 ng/mL\t0.025 ng/mL\nnaïve Treg\t0.040 ng/mL\t0.020 ng/mL\nmemory Tconv\t>0.400 ng/mL\t>0.100 ng/mL"
+    },
+    {
+        "molecule_name": "DP47GS IgG-(IL-2)2",
+        "protein_target_name": "pSTAT5a",
+        "binding_metric": "EC50",
+        "value": "0.020",
+        "unit": "ng/mL",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 3 summarizes the EC50 values for pSTAT5a activation by DP47GS IgG-IL-2 vs. DP47GS IgG-(IL-2)2 in the different cell subsets.\nT cell\tIgG-IL-2\tIgG-(IL-2)2\tactivated Treg\t0.070 ng/mL\t0.020 ng/mL\nmemory Treg\t0.210 ng/mL\t0.025 ng/mL\nnaïve Treg\t0.040 ng/mL\t0.020 ng/mL\nmemory Tconv\t>0.400 ng/mL\t>0.100 ng/mL"
+    },
+    {
+        "molecule_name": "Interleukin-2 fused to IgG1 antibody",
+        "protein_target_name": "pSTAT5a",
+        "binding_metric": "EC50",
+        "value": "0.210",
+        "unit": "ng/mL",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 3 summarizes the EC50 values for pSTAT5a activation by DP47GS IgG-IL-2 vs. DP47GS IgG-(IL-2)2 in the different cell subsets.\nT cell\tIgG-IL-2\tIgG-(IL-2)2\tactivated Treg\t0.070 ng/mL\t0.020 ng/mL\nmemory Treg\t0.210 ng/mL\t0.025 ng/mL\nnaïve Treg\t0.040 ng/mL\t0.020 ng/mL\nmemory Tconv\t>0.400 ng/mL\t>0.100 ng/mL"
+    },
+    {
+        "molecule_name": "DP47GS IgG-(IL-2)2",
+        "protein_target_name": "pSTAT5a",
+        "binding_metric": "EC50",
+        "value": "0.025",
+        "unit": "ng/mL",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 3 summarizes the EC50 values for pSTAT5a activation by DP47GS IgG-IL-2 vs. DP47GS IgG-(IL-2)2 in the different cell subsets.\nT cell\tIgG-IL-2\tIgG-(IL-2)2\tactivated Treg\t0.070 ng/mL\t0.020 ng/mL\nmemory Treg\t0.210 ng/mL\t0.025 ng/mL\nnaïve Treg\t0.040 ng/mL\t0.020 ng/mL\nmemory Tconv\t>0.400 ng/mL\t>0.100 ng/mL"
+    },
+    {
+        "molecule_name": "Interleukin-2 fused to IgG1 antibody",
+        "protein_target_name": "pSTAT5a",
+        "binding_metric": "EC50",
+        "value": "0.040",
+        "unit": "ng/mL",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 3 summarizes the EC50 values for pSTAT5a activation by DP47GS IgG-IL-2 vs. DP47GS IgG-(IL-2)2 in the different cell subsets.\nT cell\tIgG-IL-2\tIgG-(IL-2)2\tactivated Treg\t0.070 ng/mL\t0.020 ng/mL\nmemory Treg\t0.210 ng/mL\t0.025 ng/mL\nnaïve Treg\t0.040 ng/mL\t0.020 ng/mL\nmemory Tconv\t>0.400 ng/mL\t>0.100 ng/mL"
+    },
+    {
+        "molecule_name": "DP47GS IgG-(IL-2)2",
+        "protein_target_name": "pSTAT5a",
+        "binding_metric": "EC50",
+        "value": "0.020",
+        "unit": "ng/mL",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 3 summarizes the EC50 values for pSTAT5a activation by DP47GS IgG-IL-2 vs. DP47GS IgG-(IL-2)2 in the different cell subsets.\nT cell\tIgG-IL-2\tIgG-(IL-2)2\tactivated Treg\t0.070 ng/mL\t0.020 ng/mL\nmemory Treg\t0.210 ng/mL\t0.025 ng/mL\nnaïve Treg\t0.040 ng/mL\t0.020 ng/mL\nmemory Tconv\t>0.400 ng/mL\t>0.100 ng/mL"
+    },
+    {
+        "molecule_name": "Interleukin-2 fused to IgG1 antibody",
+        "protein_target_name": "pSTAT5a",
+        "binding_metric": "EC50",
+        "value": ">0.400",
+        "unit": "ng/mL",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 3 summarizes the EC50 values for pSTAT5a activation by DP47GS IgG-IL-2 vs. DP47GS IgG-(IL-2)2 in the different cell subsets.\nT cell\tIgG-IL-2\tIgG-(IL-2)2\tactivated Treg\t0.070 ng/mL\t0.020 ng/mL\nmemory Treg\t0.210 ng/mL\t0.025 ng/mL\nnaïve Treg\t0.040 ng/mL\t0.020 ng/mL\nmemory Tconv\t>0.400 ng/mL\t>0.100 ng/mL"
+    },
+    {
+        "molecule_name": "DP47GS IgG-(IL-2)2",
+        "protein_target_name": "pSTAT5a",
+        "binding_metric": "EC50",
+        "value": ">0.100",
+        "unit": "ng/mL",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 3 summarizes the EC50 values for pSTAT5a activation by DP47GS IgG-IL-2 vs. DP47GS IgG-(IL-2)2 in the different cell subsets.\nT cell\tIgG-IL-2\tIgG-(IL-2)2\tactivated Treg\t0.070 ng/mL\t0.020 ng/mL\nmemory Treg\t0.210 ng/mL\t0.025 ng/mL\nnaïve Treg\t0.040 ng/mL\t0.020 ng/mL\nmemory Tconv\t>0.400 ng/mL\t>0.100 ng/mL"
+    }
+]

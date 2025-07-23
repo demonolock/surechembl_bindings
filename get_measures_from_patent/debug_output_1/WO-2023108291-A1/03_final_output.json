@@ -1,0 +1,119 @@
+[
+    {
+        "molecule_name": "Macrocyclic peptides",
+        "protein_target_name": "APJ",
+        "binding_metric": "Ki",
+        "value": "0.2 - 5.7",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Affinity was measured by the displacement of the radiolabeled ligand (Nle75, Tyr77) [1251]] - Pyr- Apelinl 3, which indicates that some Macrocyclic peptides exhibit an affinity on APJ similar to apelin (Ki 0.2 - 5.7 nM).\nIn specific embodiments, macrocyclic analogues of the disclosure have reduced sizes (33% reduction in mass molecular vs. apelin-13), while keeping a good affinity with the receptor (Ki 0.8-5 nM vs apelin-13, Ki 0.8 nM)."
+    },
+    {
+        "molecule_name": "Apelin ",
+        "protein_target_name": "APJ",
+        "binding_metric": "Ki",
+        "value": "0.2 - 5.7",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Affinity was measured by the displacement of the radiolabeled ligand (Nle75, Tyr77) [1251]] - Pyr- Apelinl 3, which indicates that some Macrocyclic peptides exhibit an affinity on APJ similar to apelin (Ki 0.2 - 5.7 nM).\nIn specific embodiments, macrocyclic analogues of the disclosure have reduced sizes (33% reduction in mass molecular vs. apelin-13), while keeping a good affinity with the receptor (Ki 0.8-5 nM vs apelin-13, Ki 0.8 nM)."
+    },
+    {
+        "molecule_name": "macrocyclic analogues",
+        "protein_target_name": "receptor",
+        "binding_metric": "Ki",
+        "value": "0.8-5",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Affinity was measured by the displacement of the radiolabeled ligand (Nle75, Tyr77) [1251]] - Pyr- Apelinl 3, which indicates that some Macrocyclic peptides exhibit an affinity on APJ similar to apelin (Ki 0.2 - 5.7 nM).\nIn specific embodiments, macrocyclic analogues of the disclosure have reduced sizes (33% reduction in mass molecular vs. apelin-13), while keeping a good affinity with the receptor (Ki 0.8-5 nM vs apelin-13, Ki 0.8 nM)."
+    },
+    {
+        "molecule_name": "Apelin-13",
+        "protein_target_name": "receptor",
+        "binding_metric": "Ki",
+        "value": "0.8",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Affinity was measured by the displacement of the radiolabeled ligand (Nle75, Tyr77) [1251]] - Pyr- Apelinl 3, which indicates that some Macrocyclic peptides exhibit an affinity on APJ similar to apelin (Ki 0.2 - 5.7 nM).\nIn specific embodiments, macrocyclic analogues of the disclosure have reduced sizes (33% reduction in mass molecular vs. apelin-13), while keeping a good affinity with the receptor (Ki 0.8-5 nM vs apelin-13, Ki 0.8 nM)."
+    },
+    {
+        "molecule_name": "Apelin-13",
+        "protein_target_name": "APJ receptor",
+        "binding_metric": "Ki",
+        "value": "<20",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "All Apelin 13 analogs with a Ki < 20 nM were tested for their ability to activate downstream signaling pathways of the APJ receptor. \nThe plasma stability of compounds having an affinity less than 20 nM for the APJ receptor was assessed (Table V above). \nThe first generation of macrocyclic analogs 97, 13, 15, 16, 18 and 19 showed good stability in rat plasma, displaying ti/₂ ranging from 2 to 5 h, well above Ape13 (ti/₂ 0.4 h). \nPeptides with polar groups on the linker (18, 19 ti/₂ 2.0 - 2.2 h) exhibited lower half-lives (vs 97, 13, 15, 16 ti/₂ 4.0 - 4.7 h), which sugge"
+    },
+    {
+        "molecule_name": "Apelin 13 analog",
+        "protein_target_name": "β-arrestin2",
+        "binding_metric": "EC50",
+        "value": "33",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nCompound 15 ( β-arr2 EC50 33 nM, Emax 115%) produced a drop in blood pressure (AMABP -40 mmHg) similar to Ape13 and the response lasted slightly longer, possibly due to the longer half-life and higher potency in the recruitment of β-arrestin2 (FIG. 14).\nIn contrast, analog 20 (β-arr2 EC50 143 nM, E<sub>max</sub> 98%) having a truncated N-terminal tail, did not reach the same magnitude of response as Ape13 even at the high dose tested (AMABP -27 mmHg) (FIG. 14).\nSimilarly, analog 29 ( β-arr2 EC50 743 nM, Emax 69%) having both N-terminal and C-terminal truncation displayed little effect on blood pressure (AMABP -13 mmHg) while 43 (β-arr2 EC50 232 nM, Emax 55%) showed no effect.\nCompound 42 induced a smaller drop in blood pressure (AMABP -24 mmHg) than Ape13 despite a similar potency on the APJ binding (31, Kj 0.6 nM vs Ape13, Kj 0.6 nM) and the recruitment of β-arrestin2 (42, EC50 31 nM vs Ape13, EC50 37 nM)."
+    },
+    {
+        "molecule_name": "Apelin 13 analog",
+        "protein_target_name": "β-arrestin2",
+        "binding_metric": "EC50",
+        "value": "143",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nCompound 15 ( β-arr2 EC50 33 nM, Emax 115%) produced a drop in blood pressure (AMABP -40 mmHg) similar to Ape13 and the response lasted slightly longer, possibly due to the longer half-life and higher potency in the recruitment of β-arrestin2 (FIG. 14).\nIn contrast, analog 20 (β-arr2 EC50 143 nM, E<sub>max</sub> 98%) having a truncated N-terminal tail, did not reach the same magnitude of response as Ape13 even at the high dose tested (AMABP -27 mmHg) (FIG. 14).\nSimilarly, analog 29 ( β-arr2 EC50 743 nM, Emax 69%) having both N-terminal and C-terminal truncation displayed little effect on blood pressure (AMABP -13 mmHg) while 43 (β-arr2 EC50 232 nM, Emax 55%) showed no effect.\nCompound 42 induced a smaller drop in blood pressure (AMABP -24 mmHg) than Ape13 despite a similar potency on the APJ binding (31, Kj 0.6 nM vs Ape13, Kj 0.6 nM) and the recruitment of β-arrestin2 (42, EC50 31 nM vs Ape13, EC50 37 nM)."
+    },
+    {
+        "molecule_name": "Apelin 13 analog",
+        "protein_target_name": "β-arrestin2",
+        "binding_metric": "EC50",
+        "value": "743",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nCompound 15 ( β-arr2 EC50 33 nM, Emax 115%) produced a drop in blood pressure (AMABP -40 mmHg) similar to Ape13 and the response lasted slightly longer, possibly due to the longer half-life and higher potency in the recruitment of β-arrestin2 (FIG. 14).\nIn contrast, analog 20 (β-arr2 EC50 143 nM, E<sub>max</sub> 98%) having a truncated N-terminal tail, did not reach the same magnitude of response as Ape13 even at the high dose tested (AMABP -27 mmHg) (FIG. 14).\nSimilarly, analog 29 ( β-arr2 EC50 743 nM, Emax 69%) having both N-terminal and C-terminal truncation displayed little effect on blood pressure (AMABP -13 mmHg) while 43 (β-arr2 EC50 232 nM, Emax 55%) showed no effect.\nCompound 42 induced a smaller drop in blood pressure (AMABP -24 mmHg) than Ape13 despite a similar potency on the APJ binding (31, Kj 0.6 nM vs Ape13, Kj 0.6 nM) and the recruitment of β-arrestin2 (42, EC50 31 nM vs Ape13, EC50 37 nM)."
+    },
+    {
+        "molecule_name": "Elabela analog",
+        "protein_target_name": "β-arrestin2",
+        "binding_metric": "EC50",
+        "value": "232",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nCompound 15 ( β-arr2 EC50 33 nM, Emax 115%) produced a drop in blood pressure (AMABP -40 mmHg) similar to Ape13 and the response lasted slightly longer, possibly due to the longer half-life and higher potency in the recruitment of β-arrestin2 (FIG. 14).\nIn contrast, analog 20 (β-arr2 EC50 143 nM, E<sub>max</sub> 98%) having a truncated N-terminal tail, did not reach the same magnitude of response as Ape13 even at the high dose tested (AMABP -27 mmHg) (FIG. 14).\nSimilarly, analog 29 ( β-arr2 EC50 743 nM, Emax 69%) having both N-terminal and C-terminal truncation displayed little effect on blood pressure (AMABP -13 mmHg) while 43 (β-arr2 EC50 232 nM, Emax 55%) showed no effect.\nCompound 42 induced a smaller drop in blood pressure (AMABP -24 mmHg) than Ape13 despite a similar potency on the APJ binding (31, Kj 0.6 nM vs Ape13, Kj 0.6 nM) and the recruitment of β-arrestin2 (42, EC50 31 nM vs Ape13, EC50 37 nM)."
+    },
+    {
+        "molecule_name": "Apelin 13 analog",
+        "protein_target_name": "APJ",
+        "binding_metric": "Kj",
+        "value": "0.6",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nCompound 15 ( β-arr2 EC50 33 nM, Emax 115%) produced a drop in blood pressure (AMABP -40 mmHg) similar to Ape13 and the response lasted slightly longer, possibly due to the longer half-life and higher potency in the recruitment of β-arrestin2 (FIG. 14).\nIn contrast, analog 20 (β-arr2 EC50 143 nM, E<sub>max</sub> 98%) having a truncated N-terminal tail, did not reach the same magnitude of response as Ape13 even at the high dose tested (AMABP -27 mmHg) (FIG. 14).\nSimilarly, analog 29 ( β-arr2 EC50 743 nM, Emax 69%) having both N-terminal and C-terminal truncation displayed little effect on blood pressure (AMABP -13 mmHg) while 43 (β-arr2 EC50 232 nM, Emax 55%) showed no effect.\nCompound 42 induced a smaller drop in blood pressure (AMABP -24 mmHg) than Ape13 despite a similar potency on the APJ binding (31, Kj 0.6 nM vs Ape13, Kj 0.6 nM) and the recruitment of β-arrestin2 (42, EC50 31 nM vs Ape13, EC50 37 nM)."
+    },
+    {
+        "molecule_name": "[Pyr1]-apelin-13 ",
+        "protein_target_name": "APJ",
+        "binding_metric": "Kj",
+        "value": "0.6",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nCompound 15 ( β-arr2 EC50 33 nM, Emax 115%) produced a drop in blood pressure (AMABP -40 mmHg) similar to Ape13 and the response lasted slightly longer, possibly due to the longer half-life and higher potency in the recruitment of β-arrestin2 (FIG. 14).\nIn contrast, analog 20 (β-arr2 EC50 143 nM, E<sub>max</sub> 98%) having a truncated N-terminal tail, did not reach the same magnitude of response as Ape13 even at the high dose tested (AMABP -27 mmHg) (FIG. 14).\nSimilarly, analog 29 ( β-arr2 EC50 743 nM, Emax 69%) having both N-terminal and C-terminal truncation displayed little effect on blood pressure (AMABP -13 mmHg) while 43 (β-arr2 EC50 232 nM, Emax 55%) showed no effect.\nCompound 42 induced a smaller drop in blood pressure (AMABP -24 mmHg) than Ape13 despite a similar potency on the APJ binding (31, Kj 0.6 nM vs Ape13, Kj 0.6 nM) and the recruitment of β-arrestin2 (42, EC50 31 nM vs Ape13, EC50 37 nM)."
+    },
+    {
+        "molecule_name": "Apelin 13 analog",
+        "protein_target_name": "β-arrestin2",
+        "binding_metric": "EC50",
+        "value": "31",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nCompound 15 ( β-arr2 EC50 33 nM, Emax 115%) produced a drop in blood pressure (AMABP -40 mmHg) similar to Ape13 and the response lasted slightly longer, possibly due to the longer half-life and higher potency in the recruitment of β-arrestin2 (FIG. 14).\nIn contrast, analog 20 (β-arr2 EC50 143 nM, E<sub>max</sub> 98%) having a truncated N-terminal tail, did not reach the same magnitude of response as Ape13 even at the high dose tested (AMABP -27 mmHg) (FIG. 14).\nSimilarly, analog 29 ( β-arr2 EC50 743 nM, Emax 69%) having both N-terminal and C-terminal truncation displayed little effect on blood pressure (AMABP -13 mmHg) while 43 (β-arr2 EC50 232 nM, Emax 55%) showed no effect.\nCompound 42 induced a smaller drop in blood pressure (AMABP -24 mmHg) than Ape13 despite a similar potency on the APJ binding (31, Kj 0.6 nM vs Ape13, Kj 0.6 nM) and the recruitment of β-arrestin2 (42, EC50 31 nM vs Ape13, EC50 37 nM)."
+    },
+    {
+        "molecule_name": "[Pyr1]-apelin-13 ",
+        "protein_target_name": "β-arrestin2",
+        "binding_metric": "EC50",
+        "value": "37",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nCompound 15 ( β-arr2 EC50 33 nM, Emax 115%) produced a drop in blood pressure (AMABP -40 mmHg) similar to Ape13 and the response lasted slightly longer, possibly due to the longer half-life and higher potency in the recruitment of β-arrestin2 (FIG. 14).\nIn contrast, analog 20 (β-arr2 EC50 143 nM, E<sub>max</sub> 98%) having a truncated N-terminal tail, did not reach the same magnitude of response as Ape13 even at the high dose tested (AMABP -27 mmHg) (FIG. 14).\nSimilarly, analog 29 ( β-arr2 EC50 743 nM, Emax 69%) having both N-terminal and C-terminal truncation displayed little effect on blood pressure (AMABP -13 mmHg) while 43 (β-arr2 EC50 232 nM, Emax 55%) showed no effect.\nCompound 42 induced a smaller drop in blood pressure (AMABP -24 mmHg) than Ape13 despite a similar potency on the APJ binding (31, Kj 0.6 nM vs Ape13, Kj 0.6 nM) and the recruitment of β-arrestin2 (42, EC50 31 nM vs Ape13, EC50 37 nM)."
+    }
+]

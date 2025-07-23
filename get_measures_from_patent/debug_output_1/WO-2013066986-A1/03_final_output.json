@@ -1,0 +1,11 @@
+[
+    {
+        "molecule_name": "B02C 11",
+        "protein_target_name": "FVIII",
+        "binding_metric": "Kd",
+        "value": "~2xl0\"u\" mol",
+        "unit": "L\"1\"",
+        "is_logarithmic": false,
+        "raw_mentions": "B02C 11 binds to FVIII with an apparent dissociation constant K<sub>D</sub> ~ 2xl0<sup>\"u</sup> mol L<sup>\"1</sup> \nThe dynamic range for the SPR assay was narrow, with a range of quantification from 0.2 μg/ml (~1 nM) to 5 μg/ml (-33 nM). \nThe spike-recovery experiment with 1.0 μg/ml (~7 nM) B02C11 demonstrated a recovery of 109±16% (Figure IB). \nThe dynamic range of the SPR assay was from 0.2-33 μg/ml anti-FVIII antibody, corresponding to -1.4-35 BU/ml for the high-affinity neutralizing monoclonal antibody B02C11 (Figure 1A). \nBelow 0.2 μg/ml, signal to noise ratios were too low to obtain reliable information. \nthese spike-recovery assays indicated the lower limit for detection of this high-affinity neutralizing antibody by SPR was 0.2 μg/ml~1.4 BU/ml."
+    }
+]

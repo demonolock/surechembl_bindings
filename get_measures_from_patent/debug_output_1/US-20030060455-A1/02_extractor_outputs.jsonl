@@ -1,0 +1,2 @@
+{"raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nPreferred compounds including those from the synthetic examples above were evaluated and had IC50<10 uM in this assay."}
+{"final_json": [{"molecule_name": null, "protein_target_name": null, "binding_metric": "IC50", "value": "<10", "unit": "uM", "is_logarithmic": false}]}

@@ -1,0 +1,11 @@
+[
+    {
+        "molecule_name": "Cyclin-dependent kinase inhibitor 1",
+        "protein_target_name": "Cdk4",
+        "binding_metric": "I0.5",
+        "value": "11",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nThe D-A mutation decreases the I<sub>0.5 </sub>from 100 nM to 46 nM (FIG. 7).\nComparing this with the p16INK4-based peptide, which has an I<sub>0.5 </sub>of 16.3 μM (FIG. 7), we have now produced a peptide which is approximately 350-fold more active as a Cdk4 inhibitory compound.\nThis value is in the same range as the Ki of 40 nM for p21<sup>WAF1 </sup>obtained for the inhibition of cyclin D1-Cdk4 in Sf9 cell lysates by Harper et al. (1995).\np21<sup>WAF1 </sup>itself, which has an I<sub>0.5 </sub>of 11 nM in the insect cell lysate assay (FIG. 7)"
+    }
+]

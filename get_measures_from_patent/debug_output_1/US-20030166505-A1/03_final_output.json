@@ -1,0 +1,380 @@
+[
+    {
+        "molecule_name": "Neurotensin(8-13)",
+        "protein_target_name": "human receptor",
+        "binding_metric": "Kd",
+        "value": "0.09",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences and table rows that meet the criteria:\n\nWhile substituting D-Lys for L-Arg<sup>8 </sup>in NT64L resulted in a polypeptide (NT67L) exhibiting greater resistance to peptidase degradation than NT64L, the NT67L polypeptide exhibited a binding affinity (K<sub>d</sub>=0.61 nM) about six fold lower at the human receptor than that exhibited by NT64L (K<sub>d</sub>=0.09 nM).\nNT64L0.09 ± 0.01 (3)0.10 ± 0.01 (5)\nNT(8-13)0.14 ± 0.01 (4)0.16 ± 0.01 (3)\nNT65L0.32 ± 0.01 (5)0.075 ± 0.004 (3)\nNT67L0.61 ± 0.06 (3)0.21 ± .02 (10)\nNT21.0 ± 0.1 (6)0.8 ± 0.1 (3)\nNT69L1.55 ± 0.09 (5)0.82 ± 0.07 (4)\nNT711.8 ± 0.1 (4)0.22 ± 0.03 (8)\nNT(1-13) 1.97 ± 0.07 (130) 2.39 ± 0.08 (99)\nNTW3.2 ± 0.3 (3)0.34 ± 0.03 (3)\nNT64D3.3 ± 0.4 (3)3.8 ± 0.4 (3)\nNT66L3.7 ± 0.4 (3) 0.85 ± 0.09 (14)\nNT345.8 ± 0.6 (4)0.046 ± 0.003 (3)\nNT(tert-Leu)13.2 ± 0.5 (4) 19.8 ± 0.4 (4)\nNT(9-13)30 ± 2 (3) 46 ± 4 (3)\nNT7534 ± 1 (5) 10.0 ± 0.4 (5)\nNT7345 ± 3 (3) 32 ± 6 (6)\nEisai95 ± 9 (12)5.4 ± 0.6 (8)\nNT66D210 ± 20 (10)77 ± 9 (8)\nNT74360 ± 10 (3) 160 ± 40 (3)\nNT72640 (2)270 ± 30 (5)\nFor example, NT(tert-Leu) was about 100 fold less potent at both the human (K<sub>d</sub>=13.2 nM) and rat (K<sub>d</sub>=19.8 nM) receptors than was NT(8-13) (K<sub>d</sub>=0.14 nM and 0.16 nM at human and rat receptors, respectively).\nA smaller decrease (3 fold) in binding affinity resulted when L-Ile<sup>12 </sup>was replaced with tert-Leu as observed between NT64L and NT65L."
+    },
+    {
+        "molecule_name": "Neurotensin(8-13)",
+        "protein_target_name": "human receptor",
+        "binding_metric": "Kd",
+        "value": "0.61",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences and table rows that meet the criteria:\n\nWhile substituting D-Lys for L-Arg<sup>8 </sup>in NT64L resulted in a polypeptide (NT67L) exhibiting greater resistance to peptidase degradation than NT64L, the NT67L polypeptide exhibited a binding affinity (K<sub>d</sub>=0.61 nM) about six fold lower at the human receptor than that exhibited by NT64L (K<sub>d</sub>=0.09 nM).\nNT64L0.09 ± 0.01 (3)0.10 ± 0.01 (5)\nNT(8-13)0.14 ± 0.01 (4)0.16 ± 0.01 (3)\nNT65L0.32 ± 0.01 (5)0.075 ± 0.004 (3)\nNT67L0.61 ± 0.06 (3)0.21 ± .02 (10)\nNT21.0 ± 0.1 (6)0.8 ± 0.1 (3)\nNT69L1.55 ± 0.09 (5)0.82 ± 0.07 (4)\nNT711.8 ± 0.1 (4)0.22 ± 0.03 (8)\nNT(1-13) 1.97 ± 0.07 (130) 2.39 ± 0.08 (99)\nNTW3.2 ± 0.3 (3)0.34 ± 0.03 (3)\nNT64D3.3 ± 0.4 (3)3.8 ± 0.4 (3)\nNT66L3.7 ± 0.4 (3) 0.85 ± 0.09 (14)\nNT345.8 ± 0.6 (4)0.046 ± 0.003 (3)\nNT(tert-Leu)13.2 ± 0.5 (4) 19.8 ± 0.4 (4)\nNT(9-13)30 ± 2 (3) 46 ± 4 (3)\nNT7534 ± 1 (5) 10.0 ± 0.4 (5)\nNT7345 ± 3 (3) 32 ± 6 (6)\nEisai95 ± 9 (12)5.4 ± 0.6 (8)\nNT66D210 ± 20 (10)77 ± 9 (8)\nNT74360 ± 10 (3) 160 ± 40 (3)\nNT72640 (2)270 ± 30 (5)\nFor example, NT(tert-Leu) was about 100 fold less potent at both the human (K<sub>d</sub>=13.2 nM) and rat (K<sub>d</sub>=19.8 nM) receptors than was NT(8-13) (K<sub>d</sub>=0.14 nM and 0.16 nM at human and rat receptors, respectively).\nA smaller decrease (3 fold) in binding affinity resulted when L-Ile<sup>12 </sup>was replaced with tert-Leu as observed between NT64L and NT65L."
+    },
+    {
+        "molecule_name": "Neurotensin(8-13) with tert-Leu substitution",
+        "protein_target_name": "human receptor",
+        "binding_metric": "Kd",
+        "value": "13.2",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences and table rows that meet the criteria:\n\nWhile substituting D-Lys for L-Arg<sup>8 </sup>in NT64L resulted in a polypeptide (NT67L) exhibiting greater resistance to peptidase degradation than NT64L, the NT67L polypeptide exhibited a binding affinity (K<sub>d</sub>=0.61 nM) about six fold lower at the human receptor than that exhibited by NT64L (K<sub>d</sub>=0.09 nM).\nNT64L0.09 ± 0.01 (3)0.10 ± 0.01 (5)\nNT(8-13)0.14 ± 0.01 (4)0.16 ± 0.01 (3)\nNT65L0.32 ± 0.01 (5)0.075 ± 0.004 (3)\nNT67L0.61 ± 0.06 (3)0.21 ± .02 (10)\nNT21.0 ± 0.1 (6)0.8 ± 0.1 (3)\nNT69L1.55 ± 0.09 (5)0.82 ± 0.07 (4)\nNT711.8 ± 0.1 (4)0.22 ± 0.03 (8)\nNT(1-13) 1.97 ± 0.07 (130) 2.39 ± 0.08 (99)\nNTW3.2 ± 0.3 (3)0.34 ± 0.03 (3)\nNT64D3.3 ± 0.4 (3)3.8 ± 0.4 (3)\nNT66L3.7 ± 0.4 (3) 0.85 ± 0.09 (14)\nNT345.8 ± 0.6 (4)0.046 ± 0.003 (3)\nNT(tert-Leu)13.2 ± 0.5 (4) 19.8 ± 0.4 (4)\nNT(9-13)30 ± 2 (3) 46 ± 4 (3)\nNT7534 ± 1 (5) 10.0 ± 0.4 (5)\nNT7345 ± 3 (3) 32 ± 6 (6)\nEisai95 ± 9 (12)5.4 ± 0.6 (8)\nNT66D210 ± 20 (10)77 ± 9 (8)\nNT74360 ± 10 (3) 160 ± 40 (3)\nNT72640 (2)270 ± 30 (5)\nFor example, NT(tert-Leu) was about 100 fold less potent at both the human (K<sub>d</sub>=13.2 nM) and rat (K<sub>d</sub>=19.8 nM) receptors than was NT(8-13) (K<sub>d</sub>=0.14 nM and 0.16 nM at human and rat receptors, respectively).\nA smaller decrease (3 fold) in binding affinity resulted when L-Ile<sup>12 </sup>was replaced with tert-Leu as observed between NT64L and NT65L."
+    },
+    {
+        "molecule_name": "Neurotensin(8-13) with tert-Leu substitution",
+        "protein_target_name": "rat receptor",
+        "binding_metric": "Kd",
+        "value": "19.8",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences and table rows that meet the criteria:\n\nWhile substituting D-Lys for L-Arg<sup>8 </sup>in NT64L resulted in a polypeptide (NT67L) exhibiting greater resistance to peptidase degradation than NT64L, the NT67L polypeptide exhibited a binding affinity (K<sub>d</sub>=0.61 nM) about six fold lower at the human receptor than that exhibited by NT64L (K<sub>d</sub>=0.09 nM).\nNT64L0.09 ± 0.01 (3)0.10 ± 0.01 (5)\nNT(8-13)0.14 ± 0.01 (4)0.16 ± 0.01 (3)\nNT65L0.32 ± 0.01 (5)0.075 ± 0.004 (3)\nNT67L0.61 ± 0.06 (3)0.21 ± .02 (10)\nNT21.0 ± 0.1 (6)0.8 ± 0.1 (3)\nNT69L1.55 ± 0.09 (5)0.82 ± 0.07 (4)\nNT711.8 ± 0.1 (4)0.22 ± 0.03 (8)\nNT(1-13) 1.97 ± 0.07 (130) 2.39 ± 0.08 (99)\nNTW3.2 ± 0.3 (3)0.34 ± 0.03 (3)\nNT64D3.3 ± 0.4 (3)3.8 ± 0.4 (3)\nNT66L3.7 ± 0.4 (3) 0.85 ± 0.09 (14)\nNT345.8 ± 0.6 (4)0.046 ± 0.003 (3)\nNT(tert-Leu)13.2 ± 0.5 (4) 19.8 ± 0.4 (4)\nNT(9-13)30 ± 2 (3) 46 ± 4 (3)\nNT7534 ± 1 (5) 10.0 ± 0.4 (5)\nNT7345 ± 3 (3) 32 ± 6 (6)\nEisai95 ± 9 (12)5.4 ± 0.6 (8)\nNT66D210 ± 20 (10)77 ± 9 (8)\nNT74360 ± 10 (3) 160 ± 40 (3)\nNT72640 (2)270 ± 30 (5)\nFor example, NT(tert-Leu) was about 100 fold less potent at both the human (K<sub>d</sub>=13.2 nM) and rat (K<sub>d</sub>=19.8 nM) receptors than was NT(8-13) (K<sub>d</sub>=0.14 nM and 0.16 nM at human and rat receptors, respectively).\nA smaller decrease (3 fold) in binding affinity resulted when L-Ile<sup>12 </sup>was replaced with tert-Leu as observed between NT64L and NT65L."
+    },
+    {
+        "molecule_name": "Neurotensin(8-13)",
+        "protein_target_name": "human receptor",
+        "binding_metric": "Kd",
+        "value": "0.14",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences and table rows that meet the criteria:\n\nWhile substituting D-Lys for L-Arg<sup>8 </sup>in NT64L resulted in a polypeptide (NT67L) exhibiting greater resistance to peptidase degradation than NT64L, the NT67L polypeptide exhibited a binding affinity (K<sub>d</sub>=0.61 nM) about six fold lower at the human receptor than that exhibited by NT64L (K<sub>d</sub>=0.09 nM).\nNT64L0.09 ± 0.01 (3)0.10 ± 0.01 (5)\nNT(8-13)0.14 ± 0.01 (4)0.16 ± 0.01 (3)\nNT65L0.32 ± 0.01 (5)0.075 ± 0.004 (3)\nNT67L0.61 ± 0.06 (3)0.21 ± .02 (10)\nNT21.0 ± 0.1 (6)0.8 ± 0.1 (3)\nNT69L1.55 ± 0.09 (5)0.82 ± 0.07 (4)\nNT711.8 ± 0.1 (4)0.22 ± 0.03 (8)\nNT(1-13) 1.97 ± 0.07 (130) 2.39 ± 0.08 (99)\nNTW3.2 ± 0.3 (3)0.34 ± 0.03 (3)\nNT64D3.3 ± 0.4 (3)3.8 ± 0.4 (3)\nNT66L3.7 ± 0.4 (3) 0.85 ± 0.09 (14)\nNT345.8 ± 0.6 (4)0.046 ± 0.003 (3)\nNT(tert-Leu)13.2 ± 0.5 (4) 19.8 ± 0.4 (4)\nNT(9-13)30 ± 2 (3) 46 ± 4 (3)\nNT7534 ± 1 (5) 10.0 ± 0.4 (5)\nNT7345 ± 3 (3) 32 ± 6 (6)\nEisai95 ± 9 (12)5.4 ± 0.6 (8)\nNT66D210 ± 20 (10)77 ± 9 (8)\nNT74360 ± 10 (3) 160 ± 40 (3)\nNT72640 (2)270 ± 30 (5)\nFor example, NT(tert-Leu) was about 100 fold less potent at both the human (K<sub>d</sub>=13.2 nM) and rat (K<sub>d</sub>=19.8 nM) receptors than was NT(8-13) (K<sub>d</sub>=0.14 nM and 0.16 nM at human and rat receptors, respectively).\nA smaller decrease (3 fold) in binding affinity resulted when L-Ile<sup>12 </sup>was replaced with tert-Leu as observed between NT64L and NT65L."
+    },
+    {
+        "molecule_name": "Neurotensin(8-13)",
+        "protein_target_name": "rat receptor",
+        "binding_metric": "Kd",
+        "value": "0.16",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences and table rows that meet the criteria:\n\nWhile substituting D-Lys for L-Arg<sup>8 </sup>in NT64L resulted in a polypeptide (NT67L) exhibiting greater resistance to peptidase degradation than NT64L, the NT67L polypeptide exhibited a binding affinity (K<sub>d</sub>=0.61 nM) about six fold lower at the human receptor than that exhibited by NT64L (K<sub>d</sub>=0.09 nM).\nNT64L0.09 ± 0.01 (3)0.10 ± 0.01 (5)\nNT(8-13)0.14 ± 0.01 (4)0.16 ± 0.01 (3)\nNT65L0.32 ± 0.01 (5)0.075 ± 0.004 (3)\nNT67L0.61 ± 0.06 (3)0.21 ± .02 (10)\nNT21.0 ± 0.1 (6)0.8 ± 0.1 (3)\nNT69L1.55 ± 0.09 (5)0.82 ± 0.07 (4)\nNT711.8 ± 0.1 (4)0.22 ± 0.03 (8)\nNT(1-13) 1.97 ± 0.07 (130) 2.39 ± 0.08 (99)\nNTW3.2 ± 0.3 (3)0.34 ± 0.03 (3)\nNT64D3.3 ± 0.4 (3)3.8 ± 0.4 (3)\nNT66L3.7 ± 0.4 (3) 0.85 ± 0.09 (14)\nNT345.8 ± 0.6 (4)0.046 ± 0.003 (3)\nNT(tert-Leu)13.2 ± 0.5 (4) 19.8 ± 0.4 (4)\nNT(9-13)30 ± 2 (3) 46 ± 4 (3)\nNT7534 ± 1 (5) 10.0 ± 0.4 (5)\nNT7345 ± 3 (3) 32 ± 6 (6)\nEisai95 ± 9 (12)5.4 ± 0.6 (8)\nNT66D210 ± 20 (10)77 ± 9 (8)\nNT74360 ± 10 (3) 160 ± 40 (3)\nNT72640 (2)270 ± 30 (5)\nFor example, NT(tert-Leu) was about 100 fold less potent at both the human (K<sub>d</sub>=13.2 nM) and rat (K<sub>d</sub>=19.8 nM) receptors than was NT(8-13) (K<sub>d</sub>=0.14 nM and 0.16 nM at human and rat receptors, respectively).\nA smaller decrease (3 fold) in binding affinity resulted when L-Ile<sup>12 </sup>was replaced with tert-Leu as observed between NT64L and NT65L."
+    },
+    {
+        "molecule_name": "Neurotensin(8-13)",
+        "protein_target_name": "serotonin receptors",
+        "binding_metric": "Kd",
+        "value": "6.6",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "Neurotensin(1-11)",
+        "protein_target_name": "serotonin receptors",
+        "binding_metric": "Kd",
+        "value": "34600",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "Neurotensin(1-8)",
+        "protein_target_name": "serotonin receptors",
+        "binding_metric": "Kd",
+        "value": "8700",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "Neurotensin(8-13)",
+        "protein_target_name": "serotonin receptors",
+        "binding_metric": "Kd",
+        "value": "7400",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "Neurotensin(9-13)",
+        "protein_target_name": "serotonin receptors",
+        "binding_metric": "Kd",
+        "value": "6340",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "NT268",
+        "protein_target_name": "serotonin receptors",
+        "binding_metric": "Kd",
+        "value": "6800",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "Neurotensin ",
+        "protein_target_name": "serotonin receptors",
+        "binding_metric": "Kd",
+        "value": ">100000",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "Neurotensin(8-13)",
+        "protein_target_name": "serotonin receptors",
+        "binding_metric": "Kd",
+        "value": "6600",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "Neurotensin(8-13)",
+        "protein_target_name": "serotonin receptors",
+        "binding_metric": "Kd",
+        "value": "4400",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "5-Hydroxytryptamine",
+        "protein_target_name": "serotonin receptors",
+        "binding_metric": "Kd",
+        "value": "680",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "4-[4-(4-Chlorophenyl)-4-hydroxypiperidin-1-yl]-1-(4-fluorophenyl)butan-1-one",
+        "protein_target_name": "serotonin receptors",
+        "binding_metric": "Kd",
+        "value": "61",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "8-Chloro-11-(4-methyl-1-piperazinyl)-5H-dibenzo[b,e][1,4]diazepine",
+        "protein_target_name": "serotonin receptors",
+        "binding_metric": "Kd",
+        "value": "9.1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "Neurotensin(8-13)",
+        "protein_target_name": "adrenergic α1 receptors",
+        "binding_metric": "Kd",
+        "value": "6.9",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "Neurotensin(1-8)",
+        "protein_target_name": "adrenergic α1 receptors",
+        "binding_metric": "Kd",
+        "value": "38000",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "Neurotensin(8-13)",
+        "protein_target_name": "adrenergic α1 receptors",
+        "binding_metric": "Kd",
+        "value": "6900",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "4-[4-(4-Chlorophenyl)-4-hydroxypiperidin-1-yl]-1-(4-fluorophenyl)butan-1-one",
+        "protein_target_name": "adrenergic α1 receptors",
+        "binding_metric": "Kd",
+        "value": "17600",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "8-Chloro-11-(4-methyl-1-piperazinyl)-5H-dibenzo[b,e][1,4]diazepine",
+        "protein_target_name": "adrenergic α1 receptors",
+        "binding_metric": "Kd",
+        "value": "19",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "Neurotensin(8-13)",
+        "protein_target_name": "adrenergic α2 receptors",
+        "binding_metric": "Kd",
+        "value": ">100000",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "Neurotensin(8-13)",
+        "protein_target_name": "Muscarinic receptors",
+        "binding_metric": "Kd",
+        "value": ">100000",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "Neurotensin(8-13)",
+        "protein_target_name": "Dopamine receptors",
+        "binding_metric": "Kd",
+        "value": ">100000",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "Neurotensin(8-13)",
+        "protein_target_name": "NTR",
+        "binding_metric": "Kd",
+        "value": "0.21",
+        "unit": null,
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "Neurotensin(8-13)",
+        "protein_target_name": "NTR",
+        "binding_metric": "Kd",
+        "value": "0.61",
+        "unit": null,
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "Neurotensin(1-11)",
+        "protein_target_name": "Muscarinic receptors",
+        "binding_metric": "Kd",
+        "value": "58600",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "Neurotensin(1-11)",
+        "protein_target_name": "NTR",
+        "binding_metric": "Kd",
+        "value": "133000",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "Neurotensin(1-11)",
+        "protein_target_name": "NTR",
+        "binding_metric": "Kd",
+        "value": "0.82",
+        "unit": null,
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "Neurotensin(1-11)",
+        "protein_target_name": "NTR",
+        "binding_metric": "Kd",
+        "value": "1.55",
+        "unit": null,
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "Neurotensin ",
+        "protein_target_name": "NTR",
+        "binding_metric": "Kd",
+        "value": ">100000",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "5-Hydroxytryptamine",
+        "protein_target_name": "NTR",
+        "binding_metric": "Kd",
+        "value": ">100000",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "4-[4-(4-Chlorophenyl)-4-hydroxypiperidin-1-yl]-1-(4-fluorophenyl)butan-1-one",
+        "protein_target_name": "adrenergic α2 receptors",
+        "binding_metric": "Kd",
+        "value": ">10000",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "4-[4-(4-Chlorophenyl)-4-hydroxypiperidin-1-yl]-1-(4-fluorophenyl)butan-1-one",
+        "protein_target_name": "Muscarinic receptors",
+        "binding_metric": "Kd",
+        "value": "2.6",
+        "unit": null,
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "4-[4-(4-Chlorophenyl)-4-hydroxypiperidin-1-yl]-1-(4-fluorophenyl)butan-1-one",
+        "protein_target_name": "Dopamine receptors",
+        "binding_metric": "Kd",
+        "value": ">100000",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "4-[4-(4-Chlorophenyl)-4-hydroxypiperidin-1-yl]-1-(4-fluorophenyl)butan-1-one",
+        "protein_target_name": "NTR",
+        "binding_metric": "Kd",
+        "value": ">100000",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "8-Chloro-11-(4-methyl-1-piperazinyl)-5H-dibenzo[b,e][1,4]diazepine",
+        "protein_target_name": "adrenergic α2 receptors",
+        "binding_metric": "Kd",
+        "value": "168.5",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "8-Chloro-11-(4-methyl-1-piperazinyl)-5H-dibenzo[b,e][1,4]diazepine",
+        "protein_target_name": "Muscarinic receptors",
+        "binding_metric": "Kd",
+        "value": "211",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "8-Chloro-11-(4-methyl-1-piperazinyl)-5H-dibenzo[b,e][1,4]diazepine",
+        "protein_target_name": "Dopamine receptors",
+        "binding_metric": "Kd",
+        "value": ">100000",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    },
+    {
+        "molecule_name": "8-Chloro-11-(4-methyl-1-piperazinyl)-5H-dibenzo[b,e][1,4]diazepine",
+        "protein_target_name": "NTR",
+        "binding_metric": "Kd",
+        "value": ">100000",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nSpecifically, NT64L had a Kd of 6.6 μM at this receptor in a competition binding assay using [3H]ketanserin as the radioligand.\nTABLE VIBinding-affinities for serotonin receptors.Kd [nM]Human Brain TissueCompound5HT2ANT69L34600NT66L8700NT67L7400NT(9-13)6340NT26800L-neo-Trp>100000NT64L6600NT(8-13)4400Serotonin680Haloperidol61Clozapine9.1\nThese studies revealed that NT67L can interact with adrenergic α1 receptors having a Kd value of 6.9 μM.\nTABLE VIIComparison of binding at different receptors.Kd (nM)Human brain tissueadrenergicCHO cellsCompoundα1α2MuscarinicDopaminerNTRhNTRNT66L38000n.d.n.d.560000.853.7 NT67L 6900>100000>100000>100000   0.210.61NT69Ln.d.   58600n.d.133000.821.55L-neo-Trpn.d.n.d.n.d.n.d.n.d.>100000Serotoninn.d.n.d.n.d.n.d.>100000>100000Haloperidol  17600 >100002.6>100000>100000Clozapine  19 168.5211>100000>100000"
+    }
+]

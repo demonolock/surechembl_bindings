@@ -1,0 +1,2 @@
+{"raw_mentions": "As a single agent, \u03b2-lapachone has demonstrated significant antineoplastic activity against human cancer cell lines at concentrations typically in the range of 1-10 \u03bcM (IC50)."}
+{"final_json": [{"molecule_name": "\u03b2-lapachone", "protein_target_name": null, "binding_metric": "IC50", "value": "1-10", "unit": "\u03bcM", "is_logarithmic": false}]}

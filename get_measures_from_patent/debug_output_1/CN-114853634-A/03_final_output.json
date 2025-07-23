@@ -1,0 +1,38 @@
+[
+    {
+        "molecule_name": "Immunoglobulin",
+        "protein_target_name": "PD-L1",
+        "binding_metric": "Kd",
+        "value": "2.025E-11",
+        "unit": null,
+        "is_logarithmic": false,
+        "raw_mentions": "an antibody which has strong binding capacity with PD-L1 protein and has an affinity kD value of 2.025E-11 \nits IC <sub>50</sub> At 1.8X 10 <sup>-10</sup> The mol/L level; \nFIG. 1 shows that example 4(YPD29B) partially abolished the inhibitory effect of PD-L1 on IFN γ at 10nM and its IC was determined after varying concentrations <sub>50</sub> At 1.8X 10 <sup>-10</sup> mol/L level."
+    },
+    {
+        "molecule_name": "example 4(YPD29B)",
+        "protein_target_name": "PD-L1",
+        "binding_metric": "IC50",
+        "value": "1.8X 10^-10",
+        "unit": "mol/L",
+        "is_logarithmic": false,
+        "raw_mentions": "an antibody which has strong binding capacity with PD-L1 protein and has an affinity kD value of 2.025E-11 \nits IC <sub>50</sub> At 1.8X 10 <sup>-10</sup> The mol/L level; \nFIG. 1 shows that example 4(YPD29B) partially abolished the inhibitory effect of PD-L1 on IFN γ at 10nM and its IC was determined after varying concentrations <sub>50</sub> At 1.8X 10 <sup>-10</sup> mol/L level."
+    },
+    {
+        "molecule_name": "antibody of example 4",
+        "protein_target_name": "PD-L1",
+        "binding_metric": "kD",
+        "value": "2.025E-11",
+        "unit": null,
+        "is_logarithmic": false,
+        "raw_mentions": "FIGS. 13 and 14 show that the antibody of example 4 has strong binding ability to PD-L1, and has an affinity kD value of 2.025E-11, even stronger than that of PD-L1, as confirmed by Biacore experiments."
+    },
+    {
+        "molecule_name": "example 4",
+        "protein_target_name": "PD-L1",
+        "binding_metric": "Kd",
+        "value": "2.025E-11",
+        "unit": "kD",
+        "is_logarithmic": false,
+        "raw_mentions": "Here is the extracted sentence:\n\nThe binding protein of example 4 was initially identified as PD-L1 (fig. 12). Further Biacore experiments were performed to confirm that example 4 has a strong binding ability to PD-L1 with an affinity of 2.025E-11 in kD, even stronger than the antibodies of PD-L1 (Table 11, FIGS. 12-14)."
+    }
+]

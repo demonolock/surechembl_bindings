@@ -5,13 +5,14 @@ import argparse
 import logging
 import concurrent.futures
 
+from alias_to_name.pipeline import filter_and_convert_molecula_alias_to_name
 from llm_patent_agents.patent_processor import process_patent_text
 from filter.src.patent_parser import fetch_patent_description
 from filter.src.get_patents import get_patents_ids
 
 from_cache = True
 # Тут результат выгрузки filter/__main__.py
-patent_dirs = '/home/vshepard/hackaton_life/patents'
+patent_dirs = '/home/vshepard/hackaton_life/patents_json'
 
 # Настройка логирования
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -23,10 +24,13 @@ def process_single_patent(patent_number, output_dir, timeout=40, from_cache=Fals
         patent_text = None
 
         if from_cache and cache_dir:
-            file_path = os.path.join(cache_dir, f"{patent_number}")
+            file_path = os.path.join(cache_dir, f"{patent_number}.json")
             if os.path.exists(file_path):
                 with open(file_path, "r", encoding="utf-8") as f:
-                    patent_text = f.read()
+                    text = f.read()
+                    json_text = json.loads(text)
+                    if isinstance(json_text, dict) and 'content' in json_text:
+                        patent_text = json_text
             else:
                 logging.warning(f'Файл кэша {file_path} не найден.')
         else:
@@ -48,7 +52,7 @@ def process_single_patent(patent_number, output_dir, timeout=40, from_cache=Fals
 
         # Обработка текста и извлечение данных
         extracted_data = process_patent_text(
-            patent_text=patent_text,
+            patent_text=patent_text['content'],
             associated_molecules=[],
             patent_id=patent_number,
             debug=True,
@@ -59,10 +63,11 @@ def process_single_patent(patent_number, output_dir, timeout=40, from_cache=Fals
         if extracted_data:
             debug_dir = os.path.join(output_dir, patent_number)
             os.makedirs(debug_dir, exist_ok=True)
+            replaced_extracted_data = filter_and_convert_molecula_alias_to_name(patent_text, patent_number, extracted_data)
             final_output_path = os.path.join(debug_dir, "03_final_output.json")
             with open(final_output_path, "w", encoding="utf-8") as f:
-                json.dump(extracted_data, f, indent=4, ensure_ascii=False)
-            logging.info(f"Сохранен результат для {patent_number}: {len(extracted_data)} записей.")
+                json.dump(replaced_extracted_data, f, indent=4, ensure_ascii=False)
+            logging.info(f"Сохранен результат для {patent_number}: {len(replaced_extracted_data)} записей.")
         else:
             logging.info(f"Для патента {patent_number} не найдено данных.")
 

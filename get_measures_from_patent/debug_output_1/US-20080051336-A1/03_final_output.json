@@ -1,0 +1,29 @@
+[
+    {
+        "molecule_name": "R3/I6",
+        "protein_target_name": "LGR7",
+        "binding_metric": "IC50",
+        "value": "15",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nR<sub>3</sub>/I<sub>6 </sub>bound LGR7 with an IC<sub>50 </sub>value of 15 nM.\nThe R<sub>3</sub>/I<sub>5 </sub>chimeric polypeptide, which demonstrated affinity for GPCR135 and GPCR142 in the subnanomolar and low nanomolar range, respectively, showed lower affinity for LGR7, with an IC<sub>50 </sub>value of about 0.5 μM.\nChimeric polypeptides R<sub>3</sub>/R<sub>1</sub>, R<sub>3</sub>/R<sub>2</sub>, and R<sub>3</sub>/I<sub>3</sub>, bound to LGR7 with IC<sub>50 </sub>values in low nanomolar range, which is similar to that of relaxin-3."
+    },
+    {
+        "molecule_name": "Relaxin-3/INSL5 chimera",
+        "protein_target_name": "LGR7",
+        "binding_metric": "IC50",
+        "value": "0.5",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nR<sub>3</sub>/I<sub>6 </sub>bound LGR7 with an IC<sub>50 </sub>value of 15 nM.\nThe R<sub>3</sub>/I<sub>5 </sub>chimeric polypeptide, which demonstrated affinity for GPCR135 and GPCR142 in the subnanomolar and low nanomolar range, respectively, showed lower affinity for LGR7, with an IC<sub>50 </sub>value of about 0.5 μM.\nChimeric polypeptides R<sub>3</sub>/R<sub>1</sub>, R<sub>3</sub>/R<sub>2</sub>, and R<sub>3</sub>/I<sub>3</sub>, bound to LGR7 with IC<sub>50 </sub>values in low nanomolar range, which is similar to that of relaxin-3."
+    },
+    {
+        "molecule_name": "Relaxin-3/INSL5 chimera",
+        "protein_target_name": "GPCR135",
+        "binding_metric": "IC50",
+        "value": "<1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nR<sub>3</sub>/I<sub>6 </sub>bound LGR7 with an IC<sub>50 </sub>value of 15 nM.\nThe R<sub>3</sub>/I<sub>5 </sub>chimeric polypeptide, which demonstrated affinity for GPCR135 and GPCR142 in the subnanomolar and low nanomolar range, respectively, showed lower affinity for LGR7, with an IC<sub>50 </sub>value of about 0.5 μM.\nChimeric polypeptides R<sub>3</sub>/R<sub>1</sub>, R<sub>3</sub>/R<sub>2</sub>, and R<sub>3</sub>/I<sub>3</sub>, bound to LGR7 with IC<sub>50 </sub>values in low nanomolar range, which is similar to that of relaxin-3."
+    }
+]

@@ -1,0 +1,2 @@
+{"raw_mentions": "Here is the extracted sentence:\n\nthe dissociation constant of the nucleic acid nucleic acid targeting moiety for the target should not be greater than about 1\u00d710<sup>\u22123 </sup>M"}
+{"final_json": [{"molecule_name": "nucleic acid targeting moiety", "protein_target_name": null, "binding_metric": "Kd", "value": "<1\u00d710\u22123", "unit": "M", "is_logarithmic": false}]}

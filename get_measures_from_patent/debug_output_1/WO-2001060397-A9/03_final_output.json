@@ -1,0 +1,110 @@
+[
+    {
+        "molecule_name": "Transmembrane Activator and CAML Interactor",
+        "protein_target_name": "TACI",
+        "binding_metric": "binding affinity",
+        "value": "10",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nOptionally, the anti-TACI, anti-BCMA, anti-TALL-1, or anti-APRIL antibodies will have a binding affinity of at least 10nM, preferably, of at least 5nM, and more preferably, of at least 1nM for the respective receptor or ligand, as determined in a binding assay."
+    },
+    {
+        "molecule_name": "B Cell Maturation Antigen",
+        "protein_target_name": "BCMA",
+        "binding_metric": "binding affinity",
+        "value": "10",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nOptionally, the anti-TACI, anti-BCMA, anti-TALL-1, or anti-APRIL antibodies will have a binding affinity of at least 10nM, preferably, of at least 5nM, and more preferably, of at least 1nM for the respective receptor or ligand, as determined in a binding assay."
+    },
+    {
+        "molecule_name": "TNF-Related Activation-Induced Cytokine ",
+        "protein_target_name": "TALL-1",
+        "binding_metric": "binding affinity",
+        "value": "10",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nOptionally, the anti-TACI, anti-BCMA, anti-TALL-1, or anti-APRIL antibodies will have a binding affinity of at least 10nM, preferably, of at least 5nM, and more preferably, of at least 1nM for the respective receptor or ligand, as determined in a binding assay."
+    },
+    {
+        "molecule_name": "A Proliferation-Inducing Ligand ",
+        "protein_target_name": "APRIL",
+        "binding_metric": "binding affinity",
+        "value": "10",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nOptionally, the anti-TACI, anti-BCMA, anti-TALL-1, or anti-APRIL antibodies will have a binding affinity of at least 10nM, preferably, of at least 5nM, and more preferably, of at least 1nM for the respective receptor or ligand, as determined in a binding assay."
+    },
+    {
+        "molecule_name": "Transmembrane Activator and CAML Interactor",
+        "protein_target_name": "TACI",
+        "binding_metric": "binding affinity",
+        "value": "5",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nOptionally, the anti-TACI, anti-BCMA, anti-TALL-1, or anti-APRIL antibodies will have a binding affinity of at least 10nM, preferably, of at least 5nM, and more preferably, of at least 1nM for the respective receptor or ligand, as determined in a binding assay."
+    },
+    {
+        "molecule_name": "B Cell Maturation Antigen",
+        "protein_target_name": "BCMA",
+        "binding_metric": "binding affinity",
+        "value": "5",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nOptionally, the anti-TACI, anti-BCMA, anti-TALL-1, or anti-APRIL antibodies will have a binding affinity of at least 10nM, preferably, of at least 5nM, and more preferably, of at least 1nM for the respective receptor or ligand, as determined in a binding assay."
+    },
+    {
+        "molecule_name": "TNF-Related Activation-Induced Cytokine ",
+        "protein_target_name": "TALL-1",
+        "binding_metric": "binding affinity",
+        "value": "5",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nOptionally, the anti-TACI, anti-BCMA, anti-TALL-1, or anti-APRIL antibodies will have a binding affinity of at least 10nM, preferably, of at least 5nM, and more preferably, of at least 1nM for the respective receptor or ligand, as determined in a binding assay."
+    },
+    {
+        "molecule_name": "A Proliferation-Inducing Ligand ",
+        "protein_target_name": "APRIL",
+        "binding_metric": "binding affinity",
+        "value": "5",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nOptionally, the anti-TACI, anti-BCMA, anti-TALL-1, or anti-APRIL antibodies will have a binding affinity of at least 10nM, preferably, of at least 5nM, and more preferably, of at least 1nM for the respective receptor or ligand, as determined in a binding assay."
+    },
+    {
+        "molecule_name": "Transmembrane Activator and CAML Interactor",
+        "protein_target_name": "TACI",
+        "binding_metric": "binding affinity",
+        "value": "1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nOptionally, the anti-TACI, anti-BCMA, anti-TALL-1, or anti-APRIL antibodies will have a binding affinity of at least 10nM, preferably, of at least 5nM, and more preferably, of at least 1nM for the respective receptor or ligand, as determined in a binding assay."
+    },
+    {
+        "molecule_name": "B Cell Maturation Antigen",
+        "protein_target_name": "BCMA",
+        "binding_metric": "binding affinity",
+        "value": "1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nOptionally, the anti-TACI, anti-BCMA, anti-TALL-1, or anti-APRIL antibodies will have a binding affinity of at least 10nM, preferably, of at least 5nM, and more preferably, of at least 1nM for the respective receptor or ligand, as determined in a binding assay."
+    },
+    {
+        "molecule_name": "TNF-Related Activation-Induced Cytokine ",
+        "protein_target_name": "TALL-1",
+        "binding_metric": "binding affinity",
+        "value": "1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nOptionally, the anti-TACI, anti-BCMA, anti-TALL-1, or anti-APRIL antibodies will have a binding affinity of at least 10nM, preferably, of at least 5nM, and more preferably, of at least 1nM for the respective receptor or ligand, as determined in a binding assay."
+    },
+    {
+        "molecule_name": "A Proliferation-Inducing Ligand ",
+        "protein_target_name": "APRIL",
+        "binding_metric": "binding affinity",
+        "value": "1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nOptionally, the anti-TACI, anti-BCMA, anti-TALL-1, or anti-APRIL antibodies will have a binding affinity of at least 10nM, preferably, of at least 5nM, and more preferably, of at least 1nM for the respective receptor or ligand, as determined in a binding assay."
+    }
+]

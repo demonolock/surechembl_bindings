@@ -1,0 +1,2 @@
+{"raw_mentions": "The compounds of the invention described herein are potent and selective kinase inhibitors as demonstrated by representative compounds described herein that inhibit kinases with IC50 values at between about 10 nM and about 5 M or greater."}
+{"final_json": [{"molecule_name": null, "protein_target_name": "kinases", "binding_metric": "IC50", "value": "<10", "unit": "nM", "is_logarithmic": false}, {"molecule_name": null, "protein_target_name": "kinases", "binding_metric": "IC50", "value": "5", "unit": "M", "is_logarithmic": false}]}

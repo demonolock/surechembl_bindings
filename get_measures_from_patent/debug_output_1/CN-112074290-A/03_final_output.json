@@ -1,0 +1,20 @@
+[
+    {
+        "molecule_name": "structure 2",
+        "protein_target_name": "α v β 3 integrin",
+        "binding_metric": "IC50",
+        "value": "0.3",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "As shown in table 1 above, structures 1,2 and 3 each show efficient binding to α v β 3 integrin and α v β 5 integrin, with structures 2 and 3, for example, showing a particular preference for binding to α v β 3 integrin (IC 50 ═ 0.3nM and 0.8nM, respectively)."
+    },
+    {
+        "molecule_name": "structure 3",
+        "protein_target_name": "α v β 3 integrin",
+        "binding_metric": "IC50",
+        "value": "0.8",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "As shown in table 1 above, structures 1,2 and 3 each show efficient binding to α v β 3 integrin and α v β 5 integrin, with structures 2 and 3, for example, showing a particular preference for binding to α v β 3 integrin (IC 50 ═ 0.3nM and 0.8nM, respectively)."
+    }
+]

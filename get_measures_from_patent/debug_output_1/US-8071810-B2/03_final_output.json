@@ -1,0 +1,74 @@
+[
+    {
+        "molecule_name": "Cyclohexylalanine",
+        "protein_target_name": "C5a receptor",
+        "binding_metric": "IC50",
+        "value": "24",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "To these belong 9 and 10, whose activity, in an assay concerning the inhibition of C5a induced calcium mobilization, was described to be 24 and 465 nM, respectively.\nHowever, further analysis of the compounds in a functional assay of C5a induced enzyme release by stablye transfected rat-basophil cells expressing the human C5a receptor (Example 28), shows that 9 and 10 have only a minor activity of 7152 nM or >4760 nM.\nCompound 8 which is claimed in the patent WO03082826, shows only very low activity (1917 nM) in an enzyme release assay.\nFor W-54011 a very high biologic activity was described: an IC50 value of 3.1, 2.7 and 1.6 nM for the rhC5a-induced calcium mobilization, chemotaxis and ROS release was respectively measured (Sumichika et al. 2002 J. Biol. Chem. 277: 49403).\nIn an enzyme release assay according to Example 28W-54011 shows an IC50 value of 90 nM which is notedly bigger than the IC50 value given in the previously described assay.\nDespite this still satisfactory activity, the compound has other disadvantages: the solubility in PBS-buffered aqueous solution is only 0.4 μM and the chemical synthesis requires an enantioselective step or an enantiomer separation, if there is the need to administer only one enantiomer."
+    },
+    {
+        "molecule_name": "Phenylalanine",
+        "protein_target_name": "C5a receptor",
+        "binding_metric": "IC50",
+        "value": "465",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "To these belong 9 and 10, whose activity, in an assay concerning the inhibition of C5a induced calcium mobilization, was described to be 24 and 465 nM, respectively.\nHowever, further analysis of the compounds in a functional assay of C5a induced enzyme release by stablye transfected rat-basophil cells expressing the human C5a receptor (Example 28), shows that 9 and 10 have only a minor activity of 7152 nM or >4760 nM.\nCompound 8 which is claimed in the patent WO03082826, shows only very low activity (1917 nM) in an enzyme release assay.\nFor W-54011 a very high biologic activity was described: an IC50 value of 3.1, 2.7 and 1.6 nM for the rhC5a-induced calcium mobilization, chemotaxis and ROS release was respectively measured (Sumichika et al. 2002 J. Biol. Chem. 277: 49403).\nIn an enzyme release assay according to Example 28W-54011 shows an IC50 value of 90 nM which is notedly bigger than the IC50 value given in the previously described assay.\nDespite this still satisfactory activity, the compound has other disadvantages: the solubility in PBS-buffered aqueous solution is only 0.4 μM and the chemical synthesis requires an enantioselective step or an enantiomer separation, if there is the need to administer only one enantiomer."
+    },
+    {
+        "molecule_name": "Cyclohexylalanine",
+        "protein_target_name": "C5a receptor",
+        "binding_metric": "IC50",
+        "value": ">4760",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "To these belong 9 and 10, whose activity, in an assay concerning the inhibition of C5a induced calcium mobilization, was described to be 24 and 465 nM, respectively.\nHowever, further analysis of the compounds in a functional assay of C5a induced enzyme release by stablye transfected rat-basophil cells expressing the human C5a receptor (Example 28), shows that 9 and 10 have only a minor activity of 7152 nM or >4760 nM.\nCompound 8 which is claimed in the patent WO03082826, shows only very low activity (1917 nM) in an enzyme release assay.\nFor W-54011 a very high biologic activity was described: an IC50 value of 3.1, 2.7 and 1.6 nM for the rhC5a-induced calcium mobilization, chemotaxis and ROS release was respectively measured (Sumichika et al. 2002 J. Biol. Chem. 277: 49403).\nIn an enzyme release assay according to Example 28W-54011 shows an IC50 value of 90 nM which is notedly bigger than the IC50 value given in the previously described assay.\nDespite this still satisfactory activity, the compound has other disadvantages: the solubility in PBS-buffered aqueous solution is only 0.4 μM and the chemical synthesis requires an enantioselective step or an enantiomer separation, if there is the need to administer only one enantiomer."
+    },
+    {
+        "molecule_name": "Phenylalanine",
+        "protein_target_name": "C5a receptor",
+        "binding_metric": "IC50",
+        "value": "7152",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "To these belong 9 and 10, whose activity, in an assay concerning the inhibition of C5a induced calcium mobilization, was described to be 24 and 465 nM, respectively.\nHowever, further analysis of the compounds in a functional assay of C5a induced enzyme release by stablye transfected rat-basophil cells expressing the human C5a receptor (Example 28), shows that 9 and 10 have only a minor activity of 7152 nM or >4760 nM.\nCompound 8 which is claimed in the patent WO03082826, shows only very low activity (1917 nM) in an enzyme release assay.\nFor W-54011 a very high biologic activity was described: an IC50 value of 3.1, 2.7 and 1.6 nM for the rhC5a-induced calcium mobilization, chemotaxis and ROS release was respectively measured (Sumichika et al. 2002 J. Biol. Chem. 277: 49403).\nIn an enzyme release assay according to Example 28W-54011 shows an IC50 value of 90 nM which is notedly bigger than the IC50 value given in the previously described assay.\nDespite this still satisfactory activity, the compound has other disadvantages: the solubility in PBS-buffered aqueous solution is only 0.4 μM and the chemical synthesis requires an enantioselective step or an enantiomer separation, if there is the need to administer only one enantiomer."
+    },
+    {
+        "molecule_name": "W-54011",
+        "protein_target_name": "C5a receptor",
+        "binding_metric": "IC50",
+        "value": "3.1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "To these belong 9 and 10, whose activity, in an assay concerning the inhibition of C5a induced calcium mobilization, was described to be 24 and 465 nM, respectively.\nHowever, further analysis of the compounds in a functional assay of C5a induced enzyme release by stablye transfected rat-basophil cells expressing the human C5a receptor (Example 28), shows that 9 and 10 have only a minor activity of 7152 nM or >4760 nM.\nCompound 8 which is claimed in the patent WO03082826, shows only very low activity (1917 nM) in an enzyme release assay.\nFor W-54011 a very high biologic activity was described: an IC50 value of 3.1, 2.7 and 1.6 nM for the rhC5a-induced calcium mobilization, chemotaxis and ROS release was respectively measured (Sumichika et al. 2002 J. Biol. Chem. 277: 49403).\nIn an enzyme release assay according to Example 28W-54011 shows an IC50 value of 90 nM which is notedly bigger than the IC50 value given in the previously described assay.\nDespite this still satisfactory activity, the compound has other disadvantages: the solubility in PBS-buffered aqueous solution is only 0.4 μM and the chemical synthesis requires an enantioselective step or an enantiomer separation, if there is the need to administer only one enantiomer."
+    },
+    {
+        "molecule_name": "W-54011",
+        "protein_target_name": "C5a receptor",
+        "binding_metric": "IC50",
+        "value": "2.7",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "To these belong 9 and 10, whose activity, in an assay concerning the inhibition of C5a induced calcium mobilization, was described to be 24 and 465 nM, respectively.\nHowever, further analysis of the compounds in a functional assay of C5a induced enzyme release by stablye transfected rat-basophil cells expressing the human C5a receptor (Example 28), shows that 9 and 10 have only a minor activity of 7152 nM or >4760 nM.\nCompound 8 which is claimed in the patent WO03082826, shows only very low activity (1917 nM) in an enzyme release assay.\nFor W-54011 a very high biologic activity was described: an IC50 value of 3.1, 2.7 and 1.6 nM for the rhC5a-induced calcium mobilization, chemotaxis and ROS release was respectively measured (Sumichika et al. 2002 J. Biol. Chem. 277: 49403).\nIn an enzyme release assay according to Example 28W-54011 shows an IC50 value of 90 nM which is notedly bigger than the IC50 value given in the previously described assay.\nDespite this still satisfactory activity, the compound has other disadvantages: the solubility in PBS-buffered aqueous solution is only 0.4 μM and the chemical synthesis requires an enantioselective step or an enantiomer separation, if there is the need to administer only one enantiomer."
+    },
+    {
+        "molecule_name": "W-54011",
+        "protein_target_name": "C5a receptor",
+        "binding_metric": "IC50",
+        "value": "1.6",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "To these belong 9 and 10, whose activity, in an assay concerning the inhibition of C5a induced calcium mobilization, was described to be 24 and 465 nM, respectively.\nHowever, further analysis of the compounds in a functional assay of C5a induced enzyme release by stablye transfected rat-basophil cells expressing the human C5a receptor (Example 28), shows that 9 and 10 have only a minor activity of 7152 nM or >4760 nM.\nCompound 8 which is claimed in the patent WO03082826, shows only very low activity (1917 nM) in an enzyme release assay.\nFor W-54011 a very high biologic activity was described: an IC50 value of 3.1, 2.7 and 1.6 nM for the rhC5a-induced calcium mobilization, chemotaxis and ROS release was respectively measured (Sumichika et al. 2002 J. Biol. Chem. 277: 49403).\nIn an enzyme release assay according to Example 28W-54011 shows an IC50 value of 90 nM which is notedly bigger than the IC50 value given in the previously described assay.\nDespite this still satisfactory activity, the compound has other disadvantages: the solubility in PBS-buffered aqueous solution is only 0.4 μM and the chemical synthesis requires an enantioselective step or an enantiomer separation, if there is the need to administer only one enantiomer."
+    },
+    {
+        "molecule_name": "W-54011",
+        "protein_target_name": "C5a receptor",
+        "binding_metric": "IC50",
+        "value": "90",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "To these belong 9 and 10, whose activity, in an assay concerning the inhibition of C5a induced calcium mobilization, was described to be 24 and 465 nM, respectively.\nHowever, further analysis of the compounds in a functional assay of C5a induced enzyme release by stablye transfected rat-basophil cells expressing the human C5a receptor (Example 28), shows that 9 and 10 have only a minor activity of 7152 nM or >4760 nM.\nCompound 8 which is claimed in the patent WO03082826, shows only very low activity (1917 nM) in an enzyme release assay.\nFor W-54011 a very high biologic activity was described: an IC50 value of 3.1, 2.7 and 1.6 nM for the rhC5a-induced calcium mobilization, chemotaxis and ROS release was respectively measured (Sumichika et al. 2002 J. Biol. Chem. 277: 49403).\nIn an enzyme release assay according to Example 28W-54011 shows an IC50 value of 90 nM which is notedly bigger than the IC50 value given in the previously described assay.\nDespite this still satisfactory activity, the compound has other disadvantages: the solubility in PBS-buffered aqueous solution is only 0.4 μM and the chemical synthesis requires an enantioselective step or an enantiomer separation, if there is the need to administer only one enantiomer."
+    }
+]

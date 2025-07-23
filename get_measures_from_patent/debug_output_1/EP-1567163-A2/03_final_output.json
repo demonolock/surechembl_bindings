@@ -1,0 +1,65 @@
+[
+    {
+        "molecule_name": "Ramosetron",
+        "protein_target_name": "synaptosomes from rat hypothalamic tissue",
+        "binding_metric": "Ki",
+        "value": "35.0",
+        "unit": "nmol/L",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nMore specifically, MCI-225 inhibited the uptake of [<sup>3</sup>H]NA and [<sup>3</sup>H]5-HT by synaptosomes from rat hypothalamic tissue with inhibition constants of Ki=35.0 nmol/L and Ki=491 nmol/L, respectively.\nIn addition, MCI-225 inhibited the uptake of [<sup>3</sup>H]NA and [<sup>3</sup>H]5-HT by synaptosomes from rat cortical tissue with inhibition constants of Ki=0.696 nmol/L and Ki=1070 nmol/L, respectively.\nMCI-225 was also reported to inhibit the uptake of serotonin by synaptosomes from rat hippocampal tissue with an inhibition constant of Ki=244 nmol/L.\nFurther, the MCI-225 inhibition constant for the uptake of [<sup>3</sup>H]D A by synaptosomes from rat striatal tissue was reported as Ki=14,800 nmol/L.\nWith regard to 5-HT<sub>3</sub> receptor antagonist activity, Eguchi et al. reported that MCI-225 showed high affinity for the 5-HT<sub>3</sub> receptor (Ki less than 100 nmol/L) in comparison to the other receptors tested.\nThe IC<sub>50</sub> values determined for MCI-225, for these additional receptors were all greater than 1 μmol/L."
+    },
+    {
+        "molecule_name": "Ramosetron",
+        "protein_target_name": "synaptosomes from rat hypothalamic tissue",
+        "binding_metric": "Ki",
+        "value": "491",
+        "unit": "nmol/L",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nMore specifically, MCI-225 inhibited the uptake of [<sup>3</sup>H]NA and [<sup>3</sup>H]5-HT by synaptosomes from rat hypothalamic tissue with inhibition constants of Ki=35.0 nmol/L and Ki=491 nmol/L, respectively.\nIn addition, MCI-225 inhibited the uptake of [<sup>3</sup>H]NA and [<sup>3</sup>H]5-HT by synaptosomes from rat cortical tissue with inhibition constants of Ki=0.696 nmol/L and Ki=1070 nmol/L, respectively.\nMCI-225 was also reported to inhibit the uptake of serotonin by synaptosomes from rat hippocampal tissue with an inhibition constant of Ki=244 nmol/L.\nFurther, the MCI-225 inhibition constant for the uptake of [<sup>3</sup>H]D A by synaptosomes from rat striatal tissue was reported as Ki=14,800 nmol/L.\nWith regard to 5-HT<sub>3</sub> receptor antagonist activity, Eguchi et al. reported that MCI-225 showed high affinity for the 5-HT<sub>3</sub> receptor (Ki less than 100 nmol/L) in comparison to the other receptors tested.\nThe IC<sub>50</sub> values determined for MCI-225, for these additional receptors were all greater than 1 μmol/L."
+    },
+    {
+        "molecule_name": "Ramosetron",
+        "protein_target_name": "synaptosomes from rat cortical tissue",
+        "binding_metric": "Ki",
+        "value": "0.696",
+        "unit": "nmol/L",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nMore specifically, MCI-225 inhibited the uptake of [<sup>3</sup>H]NA and [<sup>3</sup>H]5-HT by synaptosomes from rat hypothalamic tissue with inhibition constants of Ki=35.0 nmol/L and Ki=491 nmol/L, respectively.\nIn addition, MCI-225 inhibited the uptake of [<sup>3</sup>H]NA and [<sup>3</sup>H]5-HT by synaptosomes from rat cortical tissue with inhibition constants of Ki=0.696 nmol/L and Ki=1070 nmol/L, respectively.\nMCI-225 was also reported to inhibit the uptake of serotonin by synaptosomes from rat hippocampal tissue with an inhibition constant of Ki=244 nmol/L.\nFurther, the MCI-225 inhibition constant for the uptake of [<sup>3</sup>H]D A by synaptosomes from rat striatal tissue was reported as Ki=14,800 nmol/L.\nWith regard to 5-HT<sub>3</sub> receptor antagonist activity, Eguchi et al. reported that MCI-225 showed high affinity for the 5-HT<sub>3</sub> receptor (Ki less than 100 nmol/L) in comparison to the other receptors tested.\nThe IC<sub>50</sub> values determined for MCI-225, for these additional receptors were all greater than 1 μmol/L."
+    },
+    {
+        "molecule_name": "Ramosetron",
+        "protein_target_name": "synaptosomes from rat cortical tissue",
+        "binding_metric": "Ki",
+        "value": "1070",
+        "unit": "nmol/L",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nMore specifically, MCI-225 inhibited the uptake of [<sup>3</sup>H]NA and [<sup>3</sup>H]5-HT by synaptosomes from rat hypothalamic tissue with inhibition constants of Ki=35.0 nmol/L and Ki=491 nmol/L, respectively.\nIn addition, MCI-225 inhibited the uptake of [<sup>3</sup>H]NA and [<sup>3</sup>H]5-HT by synaptosomes from rat cortical tissue with inhibition constants of Ki=0.696 nmol/L and Ki=1070 nmol/L, respectively.\nMCI-225 was also reported to inhibit the uptake of serotonin by synaptosomes from rat hippocampal tissue with an inhibition constant of Ki=244 nmol/L.\nFurther, the MCI-225 inhibition constant for the uptake of [<sup>3</sup>H]D A by synaptosomes from rat striatal tissue was reported as Ki=14,800 nmol/L.\nWith regard to 5-HT<sub>3</sub> receptor antagonist activity, Eguchi et al. reported that MCI-225 showed high affinity for the 5-HT<sub>3</sub> receptor (Ki less than 100 nmol/L) in comparison to the other receptors tested.\nThe IC<sub>50</sub> values determined for MCI-225, for these additional receptors were all greater than 1 μmol/L."
+    },
+    {
+        "molecule_name": "Ramosetron",
+        "protein_target_name": "synaptosomes from rat hippocampal tissue",
+        "binding_metric": "Ki",
+        "value": "244",
+        "unit": "nmol/L",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nMore specifically, MCI-225 inhibited the uptake of [<sup>3</sup>H]NA and [<sup>3</sup>H]5-HT by synaptosomes from rat hypothalamic tissue with inhibition constants of Ki=35.0 nmol/L and Ki=491 nmol/L, respectively.\nIn addition, MCI-225 inhibited the uptake of [<sup>3</sup>H]NA and [<sup>3</sup>H]5-HT by synaptosomes from rat cortical tissue with inhibition constants of Ki=0.696 nmol/L and Ki=1070 nmol/L, respectively.\nMCI-225 was also reported to inhibit the uptake of serotonin by synaptosomes from rat hippocampal tissue with an inhibition constant of Ki=244 nmol/L.\nFurther, the MCI-225 inhibition constant for the uptake of [<sup>3</sup>H]D A by synaptosomes from rat striatal tissue was reported as Ki=14,800 nmol/L.\nWith regard to 5-HT<sub>3</sub> receptor antagonist activity, Eguchi et al. reported that MCI-225 showed high affinity for the 5-HT<sub>3</sub> receptor (Ki less than 100 nmol/L) in comparison to the other receptors tested.\nThe IC<sub>50</sub> values determined for MCI-225, for these additional receptors were all greater than 1 μmol/L."
+    },
+    {
+        "molecule_name": "Ramosetron",
+        "protein_target_name": "synaptosomes from rat striatal tissue",
+        "binding_metric": "Ki",
+        "value": "14,800",
+        "unit": "nmol/L",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nMore specifically, MCI-225 inhibited the uptake of [<sup>3</sup>H]NA and [<sup>3</sup>H]5-HT by synaptosomes from rat hypothalamic tissue with inhibition constants of Ki=35.0 nmol/L and Ki=491 nmol/L, respectively.\nIn addition, MCI-225 inhibited the uptake of [<sup>3</sup>H]NA and [<sup>3</sup>H]5-HT by synaptosomes from rat cortical tissue with inhibition constants of Ki=0.696 nmol/L and Ki=1070 nmol/L, respectively.\nMCI-225 was also reported to inhibit the uptake of serotonin by synaptosomes from rat hippocampal tissue with an inhibition constant of Ki=244 nmol/L.\nFurther, the MCI-225 inhibition constant for the uptake of [<sup>3</sup>H]D A by synaptosomes from rat striatal tissue was reported as Ki=14,800 nmol/L.\nWith regard to 5-HT<sub>3</sub> receptor antagonist activity, Eguchi et al. reported that MCI-225 showed high affinity for the 5-HT<sub>3</sub> receptor (Ki less than 100 nmol/L) in comparison to the other receptors tested.\nThe IC<sub>50</sub> values determined for MCI-225, for these additional receptors were all greater than 1 μmol/L."
+    },
+    {
+        "molecule_name": "Ramosetron",
+        "protein_target_name": "5-HT3 receptor",
+        "binding_metric": "Ki",
+        "value": "<100",
+        "unit": "nmol/L",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nMore specifically, MCI-225 inhibited the uptake of [<sup>3</sup>H]NA and [<sup>3</sup>H]5-HT by synaptosomes from rat hypothalamic tissue with inhibition constants of Ki=35.0 nmol/L and Ki=491 nmol/L, respectively.\nIn addition, MCI-225 inhibited the uptake of [<sup>3</sup>H]NA and [<sup>3</sup>H]5-HT by synaptosomes from rat cortical tissue with inhibition constants of Ki=0.696 nmol/L and Ki=1070 nmol/L, respectively.\nMCI-225 was also reported to inhibit the uptake of serotonin by synaptosomes from rat hippocampal tissue with an inhibition constant of Ki=244 nmol/L.\nFurther, the MCI-225 inhibition constant for the uptake of [<sup>3</sup>H]D A by synaptosomes from rat striatal tissue was reported as Ki=14,800 nmol/L.\nWith regard to 5-HT<sub>3</sub> receptor antagonist activity, Eguchi et al. reported that MCI-225 showed high affinity for the 5-HT<sub>3</sub> receptor (Ki less than 100 nmol/L) in comparison to the other receptors tested.\nThe IC<sub>50</sub> values determined for MCI-225, for these additional receptors were all greater than 1 μmol/L."
+    }
+]

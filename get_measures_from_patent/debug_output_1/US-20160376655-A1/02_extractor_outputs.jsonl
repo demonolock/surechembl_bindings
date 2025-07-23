@@ -1,0 +1,2 @@
+{"raw_mentions": "When cells were perfused with 100 \u03bcM UTP, even larger inward currents were obtained."}
+{"final_json": [{"molecule_name": "UTP", "protein_target_name": null, "binding_metric": null, "value": "100", "unit": "\u03bcM", "is_logarithmic": false}]}

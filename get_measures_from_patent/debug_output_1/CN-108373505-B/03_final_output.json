@@ -1,0 +1,92 @@
+[
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "human IL4R (SEQ ID NO:1)",
+        "binding_metric": "KD",
+        "value": "<1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nIn some embodiments of first aspect to second aspect, the antibody can combine recombined human IL4R (SEQ ID NO:1) and recombination monkey IL4R (SEQ ID NO:3), and KD when recombined human IL4R is combined to be lower than 1nM.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 100pM<sub>50</sub>Value suppression Activation of the recombined IL (SEQ ID NO:4) processed to HEK-Blue IL-4/IL-13 cell.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 50pM<sub>50</sub>Value suppression Activation of system recombination IL13 (SEQ ID NO:32) to HEK-Blue IL-4/IL-13 cell.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 200pM<sub>50</sub>Value suppression The proliferation of the TF-1 cell of recombined IL (SEQ ID NO:4) induction processed."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "recombined IL (SEQ ID NO:4)",
+        "binding_metric": "IC50",
+        "value": "<100",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nIn some embodiments of first aspect to second aspect, the antibody can combine recombined human IL4R (SEQ ID NO:1) and recombination monkey IL4R (SEQ ID NO:3), and KD when recombined human IL4R is combined to be lower than 1nM.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 100pM<sub>50</sub>Value suppression Activation of the recombined IL (SEQ ID NO:4) processed to HEK-Blue IL-4/IL-13 cell.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 50pM<sub>50</sub>Value suppression Activation of system recombination IL13 (SEQ ID NO:32) to HEK-Blue IL-4/IL-13 cell.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 200pM<sub>50</sub>Value suppression The proliferation of the TF-1 cell of recombined IL (SEQ ID NO:4) induction processed."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "recombination IL13 (SEQ ID NO:32)",
+        "binding_metric": "IC50",
+        "value": "<50",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nIn some embodiments of first aspect to second aspect, the antibody can combine recombined human IL4R (SEQ ID NO:1) and recombination monkey IL4R (SEQ ID NO:3), and KD when recombined human IL4R is combined to be lower than 1nM.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 100pM<sub>50</sub>Value suppression Activation of the recombined IL (SEQ ID NO:4) processed to HEK-Blue IL-4/IL-13 cell.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 50pM<sub>50</sub>Value suppression Activation of system recombination IL13 (SEQ ID NO:32) to HEK-Blue IL-4/IL-13 cell.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 200pM<sub>50</sub>Value suppression The proliferation of the TF-1 cell of recombined IL (SEQ ID NO:4) induction processed."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "recombined IL (SEQ ID NO:4)",
+        "binding_metric": "IC50",
+        "value": "<200",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nIn some embodiments of first aspect to second aspect, the antibody can combine recombined human IL4R (SEQ ID NO:1) and recombination monkey IL4R (SEQ ID NO:3), and KD when recombined human IL4R is combined to be lower than 1nM.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 100pM<sub>50</sub>Value suppression Activation of the recombined IL (SEQ ID NO:4) processed to HEK-Blue IL-4/IL-13 cell.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 50pM<sub>50</sub>Value suppression Activation of system recombination IL13 (SEQ ID NO:32) to HEK-Blue IL-4/IL-13 cell.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 200pM<sub>50</sub>Value suppression The proliferation of the TF-1 cell of recombined IL (SEQ ID NO:4) induction processed."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "recombined human IL4R (SEQ ID NO:1)",
+        "binding_metric": "KD",
+        "value": "<1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nIn some embodiments of first aspect to second aspect, the antibody can combine recombined human IL4R (SEQ ID NO:1) and recombination monkey IL4R (SEQ ID NO:3), and KD when recombined human IL4R is combined to be lower than 1nM.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 100pM<sub>50</sub>Value suppression Activation of the recombined IL (SEQ ID NO:4) processed to HEK-Blue IL-4/IL-13 cell.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 50pM<sub>50</sub>Value suppression Activation of system recombination IL13 (SEQ ID NO:32) to HEK-Blue IL-4/IL-13 cell.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 200pM<sub>50</sub>Value suppression The proliferation of the TF-1 cell of recombined IL (SEQ ID NO:4) induction processed."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "recombined IL (SEQ ID NO:4)",
+        "binding_metric": "IC50",
+        "value": "<100",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nIn some embodiments of first aspect to second aspect, the antibody can combine recombined human IL4R (SEQ ID NO:1) and recombination monkey IL4R (SEQ ID NO:3), and KD when recombined human IL4R is combined to be lower than 1nM.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 100pM<sub>50</sub>Value suppression Activation of the recombined IL (SEQ ID NO:4) processed to HEK-Blue IL-4/IL-13 cell.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 50pM<sub>50</sub>Value suppression Activation of system recombination IL13 (SEQ ID NO:32) to HEK-Blue IL-4/IL-13 cell.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 200pM<sub>50</sub>Value suppression The proliferation of the TF-1 cell of recombined IL (SEQ ID NO:4) induction processed."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "recombination IL13 (SEQ ID NO:32)",
+        "binding_metric": "IC50",
+        "value": "<50",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nIn some embodiments of first aspect to second aspect, the antibody can combine recombined human IL4R (SEQ ID NO:1) and recombination monkey IL4R (SEQ ID NO:3), and KD when recombined human IL4R is combined to be lower than 1nM.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 100pM<sub>50</sub>Value suppression Activation of the recombined IL (SEQ ID NO:4) processed to HEK-Blue IL-4/IL-13 cell.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 50pM<sub>50</sub>Value suppression Activation of system recombination IL13 (SEQ ID NO:32) to HEK-Blue IL-4/IL-13 cell.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 200pM<sub>50</sub>Value suppression The proliferation of the TF-1 cell of recombined IL (SEQ ID NO:4) induction processed."
+    },
+    {
+        "molecule_name": "antibody",
+        "protein_target_name": "recombined IL (SEQ ID NO:4)",
+        "binding_metric": "IC50",
+        "value": "<200",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nIn some embodiments of first aspect to second aspect, the antibody can combine recombined human IL4R (SEQ ID NO:1) and recombination monkey IL4R (SEQ ID NO:3), and KD when recombined human IL4R is combined to be lower than 1nM.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 100pM<sub>50</sub>Value suppression Activation of the recombined IL (SEQ ID NO:4) processed to HEK-Blue IL-4/IL-13 cell.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 50pM<sub>50</sub>Value suppression Activation of system recombination IL13 (SEQ ID NO:32) to HEK-Blue IL-4/IL-13 cell.\nIn some embodiments of first aspect to second aspect, the antibody can be with the IC lower than 200pM<sub>50</sub>Value suppression The proliferation of the TF-1 cell of recombined IL (SEQ ID NO:4) induction processed."
+    },
+    {
+        "molecule_name": "L18D7-IgG",
+        "protein_target_name": "IL-4",
+        "binding_metric": "IC50",
+        "value": "48.3949.4048.4155.02",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nL18D7L28G5L28F8L28C9S1E6IC<sub>50</sub>9.6828.30410.783.75516.6\nL10C2L10B2S1E6IC<sub>50</sub>7.8797.16619.77\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)L10B2-IgG43.432E+51.520E-44.429E-10\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)L10C2-IgG43.531E+53.085E-48.736E-10\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)S1E6-IgG43.125E+59.227E-42.953E-9\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)L18D7-IgG42.97E51.426E-44.8E-10\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)L28F8-IgG43.422E51.436E-44.196E-10\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)L28G5-IgG42.891E51.343E-44.645E-10\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)L28C9-IgG43.307E51.937E-45.857E-10\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)S1E6-IgG42.494E57.086E-42.841E-9\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)L18D7-IgG45.904E59.839E-41.667E-9\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)L28C9-IgG47.065E55.935E-38.401E-9\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)L28F8-IgG47.485E55.189E-36.932E-9\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)L28G5-IgG46.842E57.086E-31.036E-8\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)S1E6-IgG45.271E54.904E-39.305E-9\nIL-4S1E6-IgG4L18D7-IgG4L28C9-IgG4L28G5-IgG4L28F8-IgG4IC<sub>50</sub>(pM)~48.3949.4048.4155.02\nIL-13S1E6-IgG4L18D7-IgG4L28C9-IgG4L28G5-IgG4L28F8-IgG4IC<sub>50</sub>(pM)~10.2012.1211.5112.07"
+    },
+    {
+        "molecule_name": "L18D7-IgG",
+        "protein_target_name": "IL-13",
+        "binding_metric": "IC50",
+        "value": "10.2012.1211.5112.07",
+        "unit": "pM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\n\nL18D7L28G5L28F8L28C9S1E6IC<sub>50</sub>9.6828.30410.783.75516.6\nL10C2L10B2S1E6IC<sub>50</sub>7.8797.16619.77\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)L10B2-IgG43.432E+51.520E-44.429E-10\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)L10C2-IgG43.531E+53.085E-48.736E-10\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)S1E6-IgG43.125E+59.227E-42.953E-9\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)L18D7-IgG42.97E51.426E-44.8E-10\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)L28F8-IgG43.422E51.436E-44.196E-10\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)L28G5-IgG42.891E51.343E-44.645E-10\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)L28C9-IgG43.307E51.937E-45.857E-10\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)S1E6-IgG42.494E57.086E-42.841E-9\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)L18D7-IgG45.904E59.839E-41.667E-9\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)L28C9-IgG47.065E55.935E-38.401E-9\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)L28F8-IgG47.485E55.189E-36.932E-9\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)L28G5-IgG46.842E57.086E-31.036E-8\nK<sub>on</sub>(1/Ms)K<sub>off</sub>(1/s)KD(M)S1E6-IgG45.271E54.904E-39.305E-9\nIL-4S1E6-IgG4L18D7-IgG4L28C9-IgG4L28G5-IgG4L28F8-IgG4IC<sub>50</sub>(pM)~48.3949.4048.4155.02\nIL-13S1E6-IgG4L18D7-IgG4L28C9-IgG4L28G5-IgG4L28F8-IgG4IC<sub>50</sub>(pM)~10.2012.1211.5112.07"
+    }
+]

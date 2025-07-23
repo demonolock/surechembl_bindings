@@ -1,0 +1,11 @@
+[
+    {
+        "molecule_name": "Immunoglobulin",
+        "protein_target_name": "Rad18",
+        "binding_metric": "Kd",
+        "value": "<10^9",
+        "unit": null,
+        "is_logarithmic": false,
+        "raw_mentions": "Preferably the antibody binds Rad18 with a high affinity, e.g. with a Kd of less than about 10^9."
+    }
+]

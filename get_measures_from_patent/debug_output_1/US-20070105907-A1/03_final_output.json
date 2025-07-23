@@ -1,0 +1,29 @@
+[
+    {
+        "molecule_name": "Norharman",
+        "protein_target_name": "IDO",
+        "binding_metric": "Ki",
+        "value": "3.3",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. Currently, the most potent IDO inhibitor reported is 3-butyl-β-carboline (FIG. 1A), a non-competitive inhibitor with a Ki=3.3 μM (Peterson et al. (1993) Med. Chem. Res., 3:473-82).\n2. However, the most commonly used IDO inhibitor is 1-methyl-tryptophan (FIG. 1B), a commercially available compound that is a competitive inhibitor with a Ki=34 μM (Cady et al. (1991) Arch. Biochem. Biophys., 291:326-33).\n3. The natural product brassinin (1, FIG. 1C) was determined to be a moderately active competitive IDO inhibitor, Ki=97.7 μM."
+    },
+    {
+        "molecule_name": "1-Methyl-L-tryptophan",
+        "protein_target_name": "IDO",
+        "binding_metric": "Ki",
+        "value": "34",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. Currently, the most potent IDO inhibitor reported is 3-butyl-β-carboline (FIG. 1A), a non-competitive inhibitor with a Ki=3.3 μM (Peterson et al. (1993) Med. Chem. Res., 3:473-82).\n2. However, the most commonly used IDO inhibitor is 1-methyl-tryptophan (FIG. 1B), a commercially available compound that is a competitive inhibitor with a Ki=34 μM (Cady et al. (1991) Arch. Biochem. Biophys., 291:326-33).\n3. The natural product brassinin (1, FIG. 1C) was determined to be a moderately active competitive IDO inhibitor, Ki=97.7 μM."
+    },
+    {
+        "molecule_name": "1-Methyl-3-(methylthio)-4-(1-methylethenyl)benzene",
+        "protein_target_name": "IDO",
+        "binding_metric": "Ki",
+        "value": "97.7",
+        "unit": "μM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n1. Currently, the most potent IDO inhibitor reported is 3-butyl-β-carboline (FIG. 1A), a non-competitive inhibitor with a Ki=3.3 μM (Peterson et al. (1993) Med. Chem. Res., 3:473-82).\n2. However, the most commonly used IDO inhibitor is 1-methyl-tryptophan (FIG. 1B), a commercially available compound that is a competitive inhibitor with a Ki=34 μM (Cady et al. (1991) Arch. Biochem. Biophys., 291:326-33).\n3. The natural product brassinin (1, FIG. 1C) was determined to be a moderately active competitive IDO inhibitor, Ki=97.7 μM."
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "molecule_name": "(2S,4S,5S,7S)-N-(2-Carbamoyl-2-methylpropyl)-5-amino-4-hydroxy-2,7-diisopropyl-8-[4-methoxy-3-(3-methoxypropoxy)phenyl]-octanamide",
+        "protein_target_name": "renin",
+        "binding_metric": "Ki",
+        "value": "<1",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Aliskiren is a potent inhibitor of renin with a Ki in the sub-nanomolar level. \nAliskiren has a low oral bioavailability of about 2.6%."
+    }
+]

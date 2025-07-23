@@ -1,0 +1,38 @@
+[
+    {
+        "molecule_name": "11β-HSD1 inhibitors of structural formula I",
+        "protein_target_name": "11β-HSD1",
+        "binding_metric": "IC50",
+        "value": "<500",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "The 11β-HSD1 inhibitors of structural formula I generally have an inhibition constant IC50 of less than about 500 nM, and preferably less than about 100 nM.\nFor example, compounds of the present invention ideally demonstrate an inhibition constant IC50 against 11β-HSD2 greater than about 1000 nM, and preferably greater than 4000 nM."
+    },
+    {
+        "molecule_name": "compounds of the present invention",
+        "protein_target_name": "11β-HSD2",
+        "binding_metric": "IC50",
+        "value": ">1000",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "The 11β-HSD1 inhibitors of structural formula I generally have an inhibition constant IC50 of less than about 500 nM, and preferably less than about 100 nM.\nFor example, compounds of the present invention ideally demonstrate an inhibition constant IC50 against 11β-HSD2 greater than about 1000 nM, and preferably greater than 4000 nM."
+    },
+    {
+        "molecule_name": "11β-HSD1 inhibitors of structural formula I",
+        "protein_target_name": "11β-HSD1",
+        "binding_metric": "IC50",
+        "value": "<100",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "The 11β-HSD1 inhibitors of structural formula I generally have an inhibition constant IC50 of less than about 500 nM, and preferably less than about 100 nM.\nFor example, compounds of the present invention ideally demonstrate an inhibition constant IC50 against 11β-HSD2 greater than about 1000 nM, and preferably greater than 4000 nM."
+    },
+    {
+        "molecule_name": "compounds of the present invention",
+        "protein_target_name": "11β-HSD2",
+        "binding_metric": "IC50",
+        "value": ">4000",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "The 11β-HSD1 inhibitors of structural formula I generally have an inhibition constant IC50 of less than about 500 nM, and preferably less than about 100 nM.\nFor example, compounds of the present invention ideally demonstrate an inhibition constant IC50 against 11β-HSD2 greater than about 1000 nM, and preferably greater than 4000 nM."
+    }
+]

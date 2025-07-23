@@ -1,0 +1,11 @@
+[
+    {
+        "molecule_name": "Compound 1",
+        "protein_target_name": "phosphodiesterase 4B subtype (PDE4B)",
+        "binding_metric": "IC50",
+        "value": "10.685",
+        "unit": "nM",
+        "is_logarithmic": false,
+        "raw_mentions": "Here are the extracted sentences/rows that meet the criteria:\n\nTable 6: Results of in vitro screening test of compound according to the present disclosureCompoundIC50 (nM)Compound 10.685\nTable 7: Inhibitory activity of compound according to the present disclosure on TNFα production in hPBMCCompoundIC50(nM)Apremilast16.5 (n=3)Compound 10.56 (n=2)\nConclusion: Compound 1 showed excellent in vitro activity of inhibiting phosphodiesterase 4B subtype (PDE4B) with an IC50 of 10.685 nM is not present, however,  Compound 1 showed excellent in vitro activity of inhibiting phosphodiesterase 4B subtype (PDE4B) is present and Table 6 has the IC50 value for Compound 1, hence: Compound 1 has an IC50 of 10.685 nM.\nThe inhibitory activity of Compound 1 of lipopolysaccharide (LPS)-induced TNFα production in human peripheral blood mononuclear cells with various concentrations of compound at 100 µM, 10 µM, 1 µM, 100 nM, 10 nM, 1 nM, 100 pM, 10 pM is present but does not have the IC50 value, however, Table 7 has the IC50 value for Compound 1, hence: Compound 1 has an IC50 of 0.56 nM for TNFα production in hPBMC."
+    }
+]
