@@ -7,6 +7,7 @@ def fetch_patent_description(doc_id: str) -> dict | None:
     try:
         resp = requests.get(url, headers=headers)
         resp.raise_for_status()
+
         if resp.status_code == 200:
             data = resp.json()
 
@@ -18,7 +19,6 @@ def fetch_patent_description(doc_id: str) -> dict | None:
                     desc.get("lang") == "EN"
                     and "section" in desc
                     and "content" in desc["section"]
-                    and ""
                 ):
                     return desc["section"]
 
