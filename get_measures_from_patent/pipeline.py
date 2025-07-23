@@ -11,7 +11,7 @@ from filter.src.get_patents import get_patents_ids
 
 from_cache = True
 # Тут результат выгрузки filter/__main__.py
-patent_dirs = '/home/vshepard/hackaton_life/patents'
+patent_dirs = '/home/vshepard/hackaton_life/patents_json'
 
 # Настройка логирования
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -23,10 +23,13 @@ def process_single_patent(patent_number, output_dir, timeout=40, from_cache=Fals
         patent_text = None
 
         if from_cache and cache_dir:
-            file_path = os.path.join(cache_dir, f"{patent_number}")
+            file_path = os.path.join(cache_dir, f"{patent_number}.json")
             if os.path.exists(file_path):
                 with open(file_path, "r", encoding="utf-8") as f:
-                    patent_text = f.read()
+                    text = f.read()
+                    json_text = json.loads(text)
+                    if isinstance(json_text, dict) and 'content' in json_text:
+                        patent_text = json_text['content']
             else:
                 logging.warning(f'Файл кэша {file_path} не найден.')
         else:
