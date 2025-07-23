@@ -9,14 +9,14 @@ pip install -r requirements.txt
 Для этого надо скачать базу surecmebl и загрузить её в duckdb. 
 Затем запустить 
 ```
-surechembl_db_scripts/read_from_duckdb.py
+python surechembl_db_scripts/read_from_duckdb.py
 ```
 Затем запустить 
 ```
-surechembl_db_scripts/create_patent_lists.py
+python surechembl_db_scripts/create_patent_lists.py
 ```
 
-3. Фильтрация и скачивание патентов(можно использовать example_small_ids.txt или example_big_ids.txt для демонстрации)
+3. Фильтрация и скачивание патентов(можно использовать example_small_ids.txt или example_big_ids.txt для демонстрации, так как surechembl не дает скачать патенты сейчас)
 ```
 python downloader.py  --input_file <список патентов> --output_dir <папка для скачанных патентов>
 ```
