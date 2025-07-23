@@ -1,7 +1,10 @@
 import json
 import os
-from get_measures_from_patent.llm_patent_agents.patent_processor import process_patent_text
+
 from get_measures_from_patent import config
+from get_measures_from_patent.llm_patent_agents.patent_processor import (
+    process_patent_text,
+)
 
 
 def run_single_test(patent_id, patent_file_path):
@@ -14,7 +17,9 @@ def run_single_test(patent_id, patent_file_path):
     try:
         with open(patent_file_path, "r", encoding="utf-8") as f:
             patent_text = f.read()
-        print(f"Successfully read {len(patent_text)} characters from {patent_file_path}")
+        print(
+            f"Successfully read {len(patent_text)} characters from {patent_file_path}"
+        )
     except FileNotFoundError:
         print(f"ERROR: Patent file not found at {patent_file_path}")
         return
@@ -26,7 +31,7 @@ def run_single_test(patent_id, patent_file_path):
         patent_text=patent_text,
         associated_molecules=[],
         patent_id=patent_id,
-        debug=True
+        debug=True,
     )
 
     # 3. Print the final result
@@ -44,7 +49,7 @@ def run_single_test(patent_id, patent_file_path):
             print(f"- Found chunk file: {chunk_file}")
         else:
             print(f"- WARNING: Chunk file not found.")
-        
+
         extractor_file = os.path.join(debug_dir, "02_extractor_outputs.jsonl")
         if os.path.exists(extractor_file):
             print(f"- Found extractor output file: {extractor_file}")
@@ -61,22 +66,25 @@ def run_single_test(patent_id, patent_file_path):
 
     print(f"\n--- Test for {patent_id} Finished ---\n")
 
+
 def main():
     """
     Main function to find all patent tests and run them.
     """
-    patents_dir = os.path.join("get_measures_from_patent", "llm_patent_agents", "tests", "patents")
+    patents_dir = os.path.join(
+        "get_measures_from_patent", "llm_patent_agents", "tests", "patents"
+    )
 
     if not os.path.isdir(patents_dir):
         print(f"ERROR: Test patents directory not found at '{patents_dir}'")
         return
 
-    patent_files = [f for f in os.listdir(patents_dir) if f.endswith('.txt')]
+    patent_files = [f for f in os.listdir(patents_dir) if f.endswith(".txt")]
 
     if not patent_files:
         print(f"WARNING: No patent test files (.txt) found in '{patents_dir}'")
         return
-    
+
     print(f"Found {len(patent_files)} patent(s) to test.")
 
     for patent_filename in patent_files:
@@ -85,6 +93,7 @@ def main():
         run_single_test(patent_id, patent_file_path)
 
     print("--- All Test Runs Finished ---")
+
 
 if __name__ == "__main__":
     main()

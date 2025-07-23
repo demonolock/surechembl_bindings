@@ -7,6 +7,6 @@ query = f"SELECT DISTINCT patent_number FROM '{file}'"
 rows = duckdb.query(query).fetchall()
 patent_numbers = [row[0] for row in rows]
 
-with open("/home/vshepard/hackaton_life/test.txt", 'w', encoding='utf-8') as file:
+with open("/home/vshepard/hackaton_life/test.txt", "w", encoding="utf-8") as file:
     for word in patent_numbers:
-        file.write(word + '\n')
+        file.write(word + "\n")

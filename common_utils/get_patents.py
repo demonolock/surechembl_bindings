@@ -7,7 +7,7 @@ def get_patents_ids(file_path: str) -> set[str]:
     """
     word_list = set()
     try:
-        with open(file_path, 'r', encoding='utf-8') as file:
+        with open(file_path, "r", encoding="utf-8") as file:
             for line in file:
                 word = line.strip()  # Удаляем пробелы и переносы строк
                 if word:  # Добавляем только непустые строки

@@ -1,7 +1,8 @@
 import os
 from pathlib import Path
-from PIL import Image
+
 import pytesseract
+from PIL import Image
 
 file_path = os.path.abspath(__file__)
 dir_path = os.path.dirname(file_path)

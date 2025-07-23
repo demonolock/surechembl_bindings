@@ -12,10 +12,9 @@ while True:
         order by patent_number, smiles
         limit {chunk_size} OFFSET {offset};
         """
-    offset+=chunk_size
+    offset += chunk_size
     rows = duckdb.query(query).fetchall()
     if not rows:
         break
     for row in rows:
         print(f"patent_number: {row[0]}, smile: {row[1]}, inchi_key: {row[2]}")
-

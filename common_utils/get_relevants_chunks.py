@@ -1,13 +1,19 @@
 import re
 
 
-def get_relevant_chunks(text: str, metric_regex_pattern: str,
-                         chunk_context_size: int, negative_keywords_regex: str|None=None) -> list[str]:
+def get_relevant_chunks(
+    text: str,
+    metric_regex_pattern: str,
+    chunk_context_size: int,
+    negative_keywords_regex: str | None = None,
+) -> list[str]:
     """
     Finds relevant chunks of text based on metric keywords and filters out negative keywords.
     """
     # 1. Find all metric positions
-    metric_positions = [m.start() for m in re.finditer(metric_regex_pattern, text, re.IGNORECASE)]
+    metric_positions = [
+        m.start() for m in re.finditer(metric_regex_pattern, text, re.IGNORECASE)
+    ]
     if not metric_positions:
         return []
 
@@ -34,7 +40,9 @@ def get_relevant_chunks(text: str, metric_regex_pattern: str,
     final_chunks = []
     for start, end in merged_intervals:
         chunk = text[start:end]
-        if not negative_keywords_regex or not re.search(negative_keywords_regex, chunk, re.IGNORECASE):
+        if not negative_keywords_regex or not re.search(
+            negative_keywords_regex, chunk, re.IGNORECASE
+        ):
             final_chunks.append(chunk)
 
     return final_chunks

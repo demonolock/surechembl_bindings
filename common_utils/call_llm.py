@@ -2,9 +2,19 @@ import time
 
 import openai
 
+
 class LLM:
-    def __init__(self, api_retry_attempts, api_key, api_base_url, temperature, max_tokens_response, model_name,
-                 api_retry_delay, logger):
+    def __init__(
+        self,
+        api_retry_attempts,
+        api_key,
+        api_base_url,
+        temperature,
+        max_tokens_response,
+        model_name,
+        api_retry_delay,
+        logger,
+    ):
         self.api_retry_attempts = api_retry_attempts
         self.api_retry_delay = api_retry_delay
         self.api_key = api_key
@@ -14,16 +24,21 @@ class LLM:
         self.model_name = model_name
         self.logger = logger
 
-    def call_llm(self, prompt: str) -> str | None:
+    def call_llm(
+        self, user_prompt: str, system_prompt: str | None = None
+    ) -> str | None:
         """
         Calls the LLM API with retry logic.
         """
+        messages = [{"role": "user", "content": user_prompt}]
+        if system_prompt:
+            messages.append({"role": "system", "content": system_prompt})
         for attempt in range(self.api_retry_attempts):
             try:
                 client = openai.OpenAI(api_key=self.api_key, base_url=self.api_base_url)
                 response = client.chat.completions.create(
                     model=self.model_name,
-                    messages=[{"role": "user", "content": prompt}],
+                    messages=messages,
                     temperature=self.temperature,
                     max_tokens=self.max_tokens_response,
                 )

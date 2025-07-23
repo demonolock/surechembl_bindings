@@ -14,8 +14,14 @@ class ExtractorAgent:
     """
     An agent that extracts structured data from a text chunk using a two-step LLM process.
     """
-    def run(self, text_chunk: str, patent_id: str, debug: bool = False,
-            debug_output_dir: str | None = None) -> tuple[str | None, list[dict]]:
+
+    def run(
+        self,
+        text_chunk: str,
+        patent_id: str,
+        debug: bool = False,
+        debug_output_dir: str | None = None,
+    ) -> tuple[str | None, list[dict]]:
         """
         Runs the two-step extraction process.
         Returns the raw mentions and the extracted data.
@@ -39,7 +45,9 @@ class ExtractorAgent:
                 f.write(json.dumps({"raw_mentions": raw_mentions}) + "\n")
 
         # Step 2: Format into JSON
-        format_prompt = self.config.EXTRACTOR_FORMAT_PROMPT.format(raw_mentions=raw_mentions)
+        format_prompt = self.config.EXTRACTOR_FORMAT_PROMPT.format(
+            raw_mentions=raw_mentions
+        )
         json_response = self.llm.call_llm(format_prompt)
 
         if not json_response:
@@ -51,21 +59,35 @@ class ExtractorAgent:
         try:
             json_to_parse = self._extract_json_from_response(json_response)
             if not json_to_parse:
-                raise json.JSONDecodeError("No JSON found in the LLM response", json_response, 0)
+                raise json.JSONDecodeError(
+                    "No JSON found in the LLM response", json_response, 0
+                )
             extracted_data = json.loads(json_to_parse)
         except json.JSONDecodeError:
-            self.logging.warning(f"Initial JSON parsing failed. Raw response:\n{json_response}\nAttempting self-correction.")
-            correction_prompt = self.config.JSON_CORRECTION_PROMPT.format(invalid_json_text=json_response)
+            self.logging.warning(
+                f"Initial JSON parsing failed. Raw response:\n{json_response}\nAttempting self-correction."
+            )
+            correction_prompt = self.config.JSON_CORRECTION_PROMPT.format(
+                invalid_json_text=json_response
+            )
             corrected_json_response = self.llm.call_llm(correction_prompt)
             if not corrected_json_response:
                 self.logging.error("LLM failed to provide a corrected JSON.")
                 return raw_mentions, []
             try:
-                json_to_parse = self._extract_json_from_response(corrected_json_response)
+                json_to_parse = self._extract_json_from_response(
+                    corrected_json_response
+                )
                 if not json_to_parse:
-                    raise json.JSONDecodeError("No JSON found in the corrected LLM response", corrected_json_response, 0)
+                    raise json.JSONDecodeError(
+                        "No JSON found in the corrected LLM response",
+                        corrected_json_response,
+                        0,
+                    )
                 extracted_data = json.loads(json_to_parse)
-                json_response = corrected_json_response # Use corrected version for debug log
+                json_response = (
+                    corrected_json_response  # Use corrected version for debug log
+                )
             except json.JSONDecodeError as e:
                 self.logging.error(f"Failed to parse JSON even after correction: {e}")
                 self.logging.error(f"Original response: {json_response}")
@@ -79,7 +101,6 @@ class ExtractorAgent:
                 f.write(json.dumps({"final_json": extracted_data}) + "\n")
 
         return raw_mentions, extracted_data
-
 
     def _extract_json_from_response(self, response_text: str) -> str | None:
         """Extracts a JSON string from a markdown code block or the raw text."""

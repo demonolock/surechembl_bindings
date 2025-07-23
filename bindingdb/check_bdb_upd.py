@@ -1,14 +1,14 @@
-import os
-
-import pandas as pd
-import numpy as np
 import argparse
+import os
+from typing import Optional
+
+import numpy as np
+import pandas as pd
 from rdkit import Chem
-from tqdm import tqdm
 from rdkit.Chem import rdchem
 from rdkit.Chem.MolStandardize import rdMolStandardize
 from rdkit.Chem.rdchem import BondType as BT
-from typing import Optional
+
 
 def standardize(smiles):
     # follows the steps in
@@ -29,7 +29,9 @@ def standardize(smiles):
     parent_clean_mol = rdMolStandardize.FragmentParent(clean_mol)
 
     # try to neutralize molecule
-    uncharger = rdMolStandardize.Uncharger()  # annoying, but necessary as no convenience method exists
+    uncharger = (
+        rdMolStandardize.Uncharger()
+    )  # annoying, but necessary as no convenience method exists
     uncharged_parent_clean_mol = uncharger.uncharge(parent_clean_mol)
 
     # note that no attempt is made at reionization at this step
@@ -45,20 +47,21 @@ def standardize(smiles):
 
     return taut_uncharged_parent_clean_mol
 
+
 def standardize_and_validate_smiles(smiles: str) -> Optional[str]:
     ATOM_LIST = list(range(1, 119))
     CHIRALITY_LIST = [
         Chem.rdchem.ChiralType.CHI_UNSPECIFIED,
         Chem.rdchem.ChiralType.CHI_TETRAHEDRAL_CW,
         Chem.rdchem.ChiralType.CHI_TETRAHEDRAL_CCW,
-        Chem.rdchem.ChiralType.CHI_OTHER
+        Chem.rdchem.ChiralType.CHI_OTHER,
     ]
     ATOM_DEGREE = [0, 1, 2, 3, 4, 5, 6]
     BOND_LIST = [BT.SINGLE, BT.DOUBLE, BT.TRIPLE, BT.AROMATIC]
     BONDDIR_LIST = [
         Chem.rdchem.BondDir.NONE,
         Chem.rdchem.BondDir.ENDUPRIGHT,
-        Chem.rdchem.BondDir.ENDDOWNRIGHT
+        Chem.rdchem.BondDir.ENDDOWNRIGHT,
     ]
     try:
         mol = standardize(smiles)
@@ -82,40 +85,64 @@ def standardize_and_validate_smiles(smiles: str) -> Optional[str]:
     except ValueError:
         return None
 
+
 if __name__ == "__main__":
     dir_path = os.path.dirname(os.path.realpath(__file__))
     our_output = os.path.join(dir_path, "enrich_data", "output", "bindb.csv")
 
-    parser = argparse.ArgumentParser(description='Evaluate test data against BindingDB dataset.')
-    parser.add_argument('--test_csv', default=our_output, help='Path to test CSV file')
-    parser.add_argument('--mol_representation_filter', default='InChI_key', choices=['smiles', 'InChI_key'],
-                        help='Which molecular representation to use for identifying unique ligand-target pairs (default: smiles)')
+    parser = argparse.ArgumentParser(
+        description="Evaluate test data against BindingDB dataset."
+    )
+    parser.add_argument("--test_csv", default=our_output, help="Path to test CSV file")
+    parser.add_argument(
+        "--mol_representation_filter",
+        default="InChI_key",
+        choices=["smiles", "InChI_key"],
+        help="Which molecular representation to use for identifying unique ligand-target pairs (default: smiles)",
+    )
     args = parser.parse_args()
 
     df = pd.read_csv(
-        'BindingDB_singlechain.csv', sep=',',
+        "BindingDB_singlechain.csv",
+        sep=",",
         usecols=[
-            "Ligand SMILES", "Ligand InChI", "Ligand InChI Key",
-            "Target Name", "Sequence",
-            "Ki (nM)", "IC50 (nM)", "Kd (nM)", "EC50 (nM)", "Curation/DataSource"
-        ], dtype=str
+            "Ligand SMILES",
+            "Ligand InChI",
+            "Ligand InChI Key",
+            "Target Name",
+            "Sequence",
+            "Ki (nM)",
+            "IC50 (nM)",
+            "Kd (nM)",
+            "EC50 (nM)",
+            "Curation/DataSource",
+        ],
+        dtype=str,
     )
 
     test = pd.read_csv(
         args.test_csv,
         usecols=[
-            "Ligand SMILES", "Ligand InChI Key", "Sequence",
-            "Ki (nM)", "IC50 (nM)", "Kd (nM)", "EC50 (nM)"
-        ], dtype=str
+            "Ligand SMILES",
+            "Ligand InChI Key",
+            "Sequence",
+            "Ki (nM)",
+            "IC50 (nM)",
+            "Kd (nM)",
+            "EC50 (nM)",
+        ],
+        dtype=str,
     )
 
-    if args.mol_representation_filter == 'smiles':
+    if args.mol_representation_filter == "smiles":
         print("Using standardized SMILES for molecule-target comparison...")
-        test["Ligand SMILES"] = test["Ligand SMILES"].apply(standardize_and_validate_smiles)
-        cols = ['Ligand SMILES', 'Sequence']
+        test["Ligand SMILES"] = test["Ligand SMILES"].apply(
+            standardize_and_validate_smiles
+        )
+        cols = ["Ligand SMILES", "Sequence"]
     else:
         print("Using InChI Key for molecule-target comparison...")
-        cols = ['Ligand InChI Key', 'Sequence']
+        cols = ["Ligand InChI Key", "Sequence"]
 
     existing_pairs = set(map(tuple, df[cols].dropna().values))
     new_mask = ~test[cols].agg(tuple, axis=1).isin(existing_pairs)
@@ -125,13 +152,16 @@ if __name__ == "__main__":
 
     aff_cols = ["Ki (nM)", "IC50 (nM)", "Kd (nM)", "EC50 (nM)"]
     merged = test[cols + aff_cols].merge(
-        df[cols + aff_cols], on=cols, how="inner",
-        suffixes=("_patents", "_bdb")
+        df[cols + aff_cols], on=cols, how="inner", suffixes=("_patents", "_bdb")
     )
 
     for c in aff_cols:
-        merged[f"{c}_patents"] = pd.to_numeric(merged[f"{c}_patents"].astype(str).str.strip(' <>~'), errors='coerce')
-        merged[f"{c}_bdb"] = pd.to_numeric(merged[f"{c}_bdb"].astype(str).str.strip(' <>~'), errors='coerce')
+        merged[f"{c}_patents"] = pd.to_numeric(
+            merged[f"{c}_patents"].astype(str).str.strip(" <>~"), errors="coerce"
+        )
+        merged[f"{c}_bdb"] = pd.to_numeric(
+            merged[f"{c}_bdb"].astype(str).str.strip(" <>~"), errors="coerce"
+        )
 
     corr_values = []
     corr = {}
@@ -158,5 +188,3 @@ if __name__ == "__main__":
     average_corr = np.mean(valid_corr) if valid_corr else 0.0
 
     print(f"\nAverage correlation (valid metrics only): {average_corr:.3f}")
-
-
