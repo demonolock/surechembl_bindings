@@ -1,2 +1,0 @@
-{"raw_mentions": "of the IFN\u03c3-Fc 4, 110 Kd, is more than five-fold larger than that of the wild type IFN\u03c32a, which is 20kd."}
-{"final_json": [{"molecule_name": "IFN\u03c3-Fc 4", "protein_target_name": null, "binding_metric": "Kd", "value": "110", "unit": "Kd"}, {"molecule_name": "IFN\u03c32a", "protein_target_name": null, "binding_metric": "Kd", "value": "20", "unit": "kd"}]}

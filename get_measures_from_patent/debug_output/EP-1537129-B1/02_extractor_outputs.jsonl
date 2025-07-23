@@ -1,2 +1,0 @@
-{"raw_mentions": "The IC50 values for these compounds (including SH23 and 25 (data not shown)) were similar, between 2-4 \u00b5M."}
-{"final_json": [{"molecule_name": "SH23 and 25", "protein_target_name": null, "binding_metric": "IC50", "value": "2-4", "unit": "\u00b5M"}]}

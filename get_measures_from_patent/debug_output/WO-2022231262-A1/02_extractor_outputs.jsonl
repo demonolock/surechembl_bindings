@@ -1,2 +1,0 @@
-{"raw_mentions": "Here are the extracted sentences that meet the criteria:\n\nAllopurinol is known as a non-specific inhibitor of various enzymes involved in purine and pyrimidine metabolism, and has a Ki 700 nM for xanthine oxidase (Y. Takano et al., Life Sciences, 2005, 76, 1835-1847)."}
-{"final_json": [{"molecule_name": "Allopurinol", "protein_target_name": "xanthine oxidase", "binding_metric": "Ki", "value": "700", "unit": "nM"}]}

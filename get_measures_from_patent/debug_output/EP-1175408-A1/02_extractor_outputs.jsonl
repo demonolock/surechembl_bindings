@@ -1,2 +1,0 @@
-{"raw_mentions": "The compounds described in the Examples were tested as described above and had IC50 values in the range 0.001 to 0.00005 \u03bcM."}
-{"final_json": [{"molecule_name": null, "protein_target_name": null, "binding_metric": "IC50", "value": "0.001 to 0.00005", "unit": "\u03bcM"}]}

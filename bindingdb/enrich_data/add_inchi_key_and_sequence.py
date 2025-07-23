@@ -13,26 +13,32 @@ output_file = "output/final_inchi_seq.json"
 inchi_key_cache_file = "output/inchi_key_cache.db"
 sequence_cache_file = "output/sequence_cache.db"
 
+
 def skip_nulls(row):
-    return not (row.get('molecule_name') and
-                row.get('protein_target_name') and
-                row.get('binding_metric') and
-                row.get('value') and
-                row.get('unit') and
-                row.get('patent_number'))
+    return not (
+        row.get("molecule_name")
+        and row.get("protein_target_name")
+        and row.get("binding_metric")
+        and row.get("value")
+        and row.get("unit")
+        and row.get("patent_number")
+    )
+
 
 def wrong_metric(row):
-    metric = row.get('binding_metric', '').replace(' ', '').lower().strip()
-    return metric not in ['kd', 'ki', 'ic50', 'ec50']
+    metric = row.get("binding_metric", "").replace(" ", "").lower().strip()
+    return metric not in ["kd", "ki", "ic50", "ec50"]
 
 
 def get_inchi_key_pubchem(name):
     try:
-        url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/{name}/cids/JSON"
+        url = (
+            f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/{name}/cids/JSON"
+        )
         resp = requests.get(url, timeout=10)
         if not resp.ok:
             return None
-        cids = resp.json().get('IdentifierList', {}).get('CID', [])
+        cids = resp.json().get("IdentifierList", {}).get("CID", [])
         if not cids:
             return None
         cid = cids[0]
@@ -40,8 +46,8 @@ def get_inchi_key_pubchem(name):
         resp = requests.get(url, timeout=10)
         if not resp.ok:
             return None
-        props = resp.json().get('PropertyTable', {}).get('Properties', [{}])[0]
-        return props.get('InChIKey')
+        props = resp.json().get("PropertyTable", {}).get("Properties", [{}])[0]
+        return props.get("InChIKey")
     except Exception:
         return None
 
@@ -56,15 +62,16 @@ def get_inchi_key_surechembl(name):
         # SureChEMBL API returns a list of results; InChIKey may be under various keys
         if isinstance(data, list) and data:
             result = data[0]
-            return result.get('standardInchiKey') or result.get('inchiKey')
+            return result.get("standardInchiKey") or result.get("inchiKey")
         elif isinstance(data, dict):
-            return data.get('standardInchiKey') or data.get('inchiKey')
+            return data.get("standardInchiKey") or data.get("inchiKey")
         return None
     except Exception:
         return None
 
 
 # You can add more fallback services as needed, e.g., ChemSpider, OPSIN, etc.
+
 
 def name_to_inchi_key(name, inchi_key_cache):
     if name in inchi_key_cache:
@@ -83,9 +90,11 @@ def name_to_inchi_key(name, inchi_key_cache):
     # Do NOT cache None if all fail
     return None
 
+
 def random_email(domain="gmail.com"):
-    username = ''.join(random.choices(string.ascii_lowercase + string.digits, k=10))
+    username = "".join(random.choices(string.ascii_lowercase + string.digits, k=10))
     return f"{username}@{domain}"
+
 
 def get_sequence_uniprot(protein_name, sequence_cache):
     if protein_name in sequence_cache:
@@ -100,7 +109,9 @@ def get_sequence_uniprot(protein_name, sequence_cache):
             if seq_resp.ok:
                 fasta = seq_resp.text
                 lines = fasta.splitlines()
-                sequence = "".join(line.strip() for line in lines if not line.startswith(">"))
+                sequence = "".join(
+                    line.strip() for line in lines if not line.startswith(">")
+                )
                 if sequence:
                     sequence_cache[protein_name] = sequence
                     return sequence
@@ -112,17 +123,20 @@ def get_sequence_uniprot(protein_name, sequence_cache):
     # Но я расчитываю что редко сюда будем попадать с реальным сиквенсом. Потом можно улучшить и обернуть в rate limit.
     try:
         from Bio import Entrez, SeqIO
+
         Entrez.email = random_email()
         # Search for the protein by name in protein db (includes GenBank, RefSeq)
         handle = Entrez.esearch(db="protein", term=protein_name, retmax=1)
         record = Entrez.read(handle)
         if record["IdList"]:
             protein_id = record["IdList"][0]
-            fetch_handle = Entrez.efetch(db="protein", id=protein_id, rettype="fasta", retmode="text")
+            fetch_handle = Entrez.efetch(
+                db="protein", id=protein_id, rettype="fasta", retmode="text"
+            )
             seq_record = SeqIO.read(fetch_handle, "fasta")
             sequence = str(seq_record.seq)
             if sequence:
-                time.sleep(1) # rate limit
+                time.sleep(1)  # rate limit
                 print("Found sequence:", sequence)
                 sequence_cache[protein_name] = sequence
                 return sequence
@@ -135,27 +149,31 @@ def get_sequence_uniprot(protein_name, sequence_cache):
 def process_one(result, inchi_key_cache, sequence_cache):
     inchi_key = None
     sequence = None
-    molecule_name = result.get('molecule_name')
+    molecule_name = result.get("molecule_name")
     if molecule_name:
         inchi_key = name_to_inchi_key(molecule_name, inchi_key_cache)
     if inchi_key:
-        result['Ligand InChI Key'] = inchi_key
-        target_name = result.get('protein_target_name')
+        result["Ligand InChI Key"] = inchi_key
+        target_name = result.get("protein_target_name")
         if target_name:
             sequence = get_sequence_uniprot(target_name, sequence_cache)
-        result['Sequence'] = sequence
+        result["Sequence"] = sequence
     return result
 
+
 if __name__ == "__main__":
-    with open(input_file, 'r', encoding='utf-8') as f:
+    with open(input_file, "r", encoding="utf-8") as f:
         results = json.load(f)
 
     max_workers = 16
     updated_results = []
 
     # Open shelve persistent caches
-    with shelve.open(inchi_key_cache_file, writeback=True) as inchi_key_cache, \
-         shelve.open(sequence_cache_file, writeback=True) as sequence_cache:
+    with shelve.open(
+        inchi_key_cache_file, writeback=True
+    ) as inchi_key_cache, shelve.open(
+        sequence_cache_file, writeback=True
+    ) as sequence_cache:
 
         def process_wrapper(result):
             return process_one(result, inchi_key_cache, sequence_cache)
@@ -163,7 +181,11 @@ if __name__ == "__main__":
         with ThreadPoolExecutor(max_workers=max_workers) as executor:
             futures = []
             for result in results:
-                if not isinstance(result, dict) or skip_nulls(result) or wrong_metric(result):
+                if (
+                    not isinstance(result, dict)
+                    or skip_nulls(result)
+                    or wrong_metric(result)
+                ):
                     print(f"Skip the row: {result}")
                     continue
                 futures.append(executor.submit(process_wrapper, result))
@@ -179,5 +201,5 @@ if __name__ == "__main__":
         inchi_key_cache.sync()
         sequence_cache.sync()
 
-    with open(output_file, 'w', encoding='utf-8') as f:
+    with open(output_file, "w", encoding="utf-8") as f:
         json.dump(updated_results, f, ensure_ascii=False, indent=2)

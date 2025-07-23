@@ -1,4 +1,0 @@
-{"raw_mentions": "Here is the extracted sentence:\n\nThis higher bis-M6P N-glycan content on ATB200 rhGAA directly correlated with high-affinity binding to CIMPR in M6P receptor plate binding assays (KD about 2-4 nM) Figure 9A."}
-{"final_json": [{"molecule_name": "ATB200 rhGAA", "protein_target_name": "CIMPR", "binding_metric": "KD", "value": "2-4", "unit": "nM"}]}
-{"raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nComparisons involved 5-100 nM of ATB200 rhGAA according to the invention with 10-500 nM conventional rhGAA Lumizyme\u00ae."}
-{"final_json": [{"molecule_name": "ATB200 rhGAA", "protein_target_name": null, "binding_metric": null, "value": "5-100", "unit": "nM"}, {"molecule_name": "Lumizyme\u00ae", "protein_target_name": null, "binding_metric": null, "value": "10-500", "unit": "nM"}]}

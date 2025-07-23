@@ -5,8 +5,8 @@ url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/{inchikey}/p
 
 resp = requests.get(url)
 if resp.ok:
-    props = resp.json()['PropertyTable']['Properties'][0]
-    name = props.get('Title') or props.get('IUPACName')
+    props = resp.json()["PropertyTable"]["Properties"][0]
+    name = props.get("Title") or props.get("IUPACName")
     print("Name:", name)
 else:
     print("Not found in PubChem")

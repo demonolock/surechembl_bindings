@@ -1,2 +1,0 @@
-{"raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n* Ten peptides were selected by the best scores of IC50 nM (concentration of peptide that inhibits binding of a standard peptide by 50%) and binding potential, respectively (Kim, et al. (2011) J. Immunol. Methods, 374(1-2): p. 62-9)."}
-{"final_json": [{"molecule_name": null, "protein_target_name": null, "protein_uniprot_id": null, "protein_seq_id": null, "binding_metric": "IC50", "value": null, "unit": "nM"}]}

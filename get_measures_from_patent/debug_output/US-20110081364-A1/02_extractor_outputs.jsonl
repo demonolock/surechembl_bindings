@@ -1,2 +1,0 @@
-{"raw_mentions": "Compounds I-1 and I-28 were tested and found to inhibit Aurora A with a Ki of less than 200 nM."}
-{"final_json": [{"molecule_name": "I-1", "protein_target_name": "Aurora A", "binding_metric": "Ki", "value": "<200", "unit": "nM"}, {"molecule_name": "I-28", "protein_target_name": "Aurora A", "binding_metric": "Ki", "value": "<200", "unit": "nM"}]}

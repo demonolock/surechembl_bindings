@@ -1,2 +1,0 @@
-{"raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nThe \u201cvoltage clamp\u201d mode has been used to assess the compound's IC50 holding the cells at \u221260 mV.\n\n\nNo other sentences in the provided text meet the criteria of containing a specific molecule name, ID or other identifier, a bioactivity metric, a specific numeric value for that metric, and a unit for that value."}
-{"final_json": [{"molecule_name": null, "protein_target_name": null, "binding_metric": "IC50", "value": null, "unit": null}]}

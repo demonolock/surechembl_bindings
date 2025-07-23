@@ -3,81 +3,57 @@
 2. Составляем список алиасов. Это то что есть в molecula_name, но нет в annotation.
 3. Ищем алиасы по тексту патента. Просим LLM понять что это значит.
 """
+import argparse
 import json
-import os
+import logging
 
-from alias_to_name.utils import fetch_patent, split_text_with_overlap, ask_llm, get_alias_list, process_patent
+from alias_to_name.config import ConfigAliasLLM
+from alias_to_name.utils import filter_and_convert_molecula_alias_to_name
+from common_utils.patent_parser import fetch_patent_description
 
-# Если сайт не грузит, читаю с файла
-# with open(patent_file, "r", encoding="utf‑8") as f:
-#     patent_data = json.load(f)
+# Настройка логирования
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+)
 
-SYSTEM_PROMPT = """
-You are a chemistry nomenclature expert.
-Task: For each alias below, return the most common name of the molecule it refers to.
-If an alias is unknown or maps to multiple molecules, output “Not found”.
-"""
-USER_PROMPT = """
-Alias list start:
-{alias_list}
-Alias list end
-
-Text:
-{patent_text}
-
-Return only in format "alias;; molecula_name" and nothing more
-"""
-
-
-def filter_and_convert_molecula_alias_to_name(patent_data: dict, patent_number: str, measures_list: list):
-    filtered_measures = [measure for measure in measures_list if isinstance(measure, dict) \
-                         # and measure['patent_number'] == patent_number \
-                         and isinstance(measure['molecule_name'], str) \
-                         and isinstance(measure['protein_target_name'], str)
-                         and isinstance(measure['binding_metric'], str)]
-    if not filtered_measures:
-        return {}
-    content, aliases = get_alias_list(patent_data, filtered_measures)
-
-    print("aliases")
-    print(aliases)
-    alias_value_ans = {}
-    if aliases:
-        result, alias_value_ans = process_patent(SYSTEM_PROMPT, USER_PROMPT, content, aliases)
-        # if result and len(result) > 0:
-        #     print(result)
-        #     print(alias_value_ans)
-    replaced_measured = []
-    for measure in filtered_measures:
-        if alias_value_ans.get(measure['molecule_name'], None) is not None:
-            measure['molecule_name'] = alias_value_ans.get(measure['molecule_name'])
-        replaced_measured.append(measure)
-    return replaced_measured
 
 def main():
-    dir_path = os.path.dirname(os.path.abspath(__file__))
-    measures_file = os.path.join(dir_path, "output/final_json.json")
-    patent_file = os.path.join(dir_path, "data/json/patent_EP-3068388-A2.json")
-    output_file = os.path.join(dir_path, "output/output_replaced")
+    parser = argparse.ArgumentParser(
+        description="Пайплайн для извлечения данных из патентов."
+    )
+    parser.add_argument(
+        "input_file",
+        type=str,
+        default="",  # Не нужно если есть from_cache
+        help="Путь к текстовому файлу со списком ID патентов.",
+    )
+    parser.add_argument(
+        "output_file",
+        type=str,
+        default="",  # Не нужно если есть from_cache
+        help="Путь к текстовому файлу со списком ID патентов.",
+    )
+    args = parser.parse_args()
 
-    print(measures_file)
-    with open(measures_file, "r", encoding="utf‑8") as f:
+    with open(args.input_file, "r", encoding="utf‑8") as f:
         measures = json.load(f)
 
-    patent_numbers = set([measure['patent_number'] for measure in measures if 'patent_number' in measure])
-    # patent_numbers = ['EP-2566876-A1']
+    patent_numbers = set(
+        [measure["patent_number"] for measure in measures if "patent_number" in measure]
+    )
     for patent_number in patent_numbers:
         try:
-            print(patent_number)
-            patent = fetch_patent(patent_number)
-            measured = filter_and_convert_molecula_alias_to_name(patent, patent_number, measures)
-            with open(output_file + '/' + patent_number, 'w') as f:
+            logging.info(f"{patent_number} begin")
+            patent = fetch_patent_description(patent_number)
+            config = ConfigAliasLLM()
+            measured = filter_and_convert_molecula_alias_to_name(
+                patent, measures, config, logging
+            )
+            with open(args.output_file + "/" + patent_number, "w") as f:
                 json.dump(measured, f)
         except Exception as err:
-            print(f"skip {patent_number}")
-            print(err)
-
-    print()
+            logging.info(f"skip {patent_number}")
+            logging.error(err)
 
 
 if __name__ == "__main__":

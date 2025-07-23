@@ -1,2 +1,0 @@
-{"raw_mentions": "Here are the extracted sentences that meet the criteria:\n\n\nLigand rhTECK was diluted to 5\u00d7 of its EC50 with wash buffer containing 0.5% BSA."}
-{"final_json": [{"molecule_name": "rhTECK", "protein_target_name": null, "protein_uniprot_id": null, "protein_seq_id": null, "binding_metric": "EC50", "value": "5\u00d7 of its EC50", "unit": null}]}

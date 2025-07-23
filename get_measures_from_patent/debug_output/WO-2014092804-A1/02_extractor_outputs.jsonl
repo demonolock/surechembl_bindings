@@ -1,6 +1,0 @@
-{"raw_mentions": "Alto et al. (2003, Proc Natl Acad Sci USA 100:4445-50) performed a bioinformatic analysis of the AD sequence of various AKAP proteins to design an RII selective AD sequence called AKAP-IS (SEQ ID NO:3), with a binding constant for DDD of 0.4 nM."}
-{"final_json": [{"molecule_name": "AKAP-IS", "protein_target_name": "RII", "protein_uniprot_id": null, "protein_seq_id": "3", "binding_metric": "binding constant", "value": "0.4", "unit": "nM"}]}
-{"raw_mentions": "Hundsrucker et al. (2006, Biochem J 396:297-306) developed still other peptide competitors for AKAP binding to PKA, with a binding constant as low as 0.4 nM to the DDD of the RII form of PKA."}
-{"final_json": [{"molecule_name": "peptide competitors", "protein_target_name": "PKA", "protein_uniprot_id": null, "protein_seq_id": null, "binding_metric": "binding constant", "value": "0.4", "unit": "nM"}]}
-{"raw_mentions": "At the onset, the CL2E-Iinked SN-38 conjugate had a promisingly similar IC50 as the CL2A conjugate in the Raji cell line, which was consistent with the view that if rapidly internalized, both conjugates would release the active form of SN-38 at approximately the same rate."}
-{"final_json": [{"molecule_name": "SN-38", "protein_target_name": null, "protein_uniprot_id": null, "protein_seq_id": null, "binding_metric": "IC50", "value": null, "unit": null}]}
