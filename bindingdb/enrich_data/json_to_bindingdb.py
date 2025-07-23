@@ -31,7 +31,10 @@ csv_header = [
     "IC50 (nM)",
     "Kd (nM)",
     "EC50 (nM)",
-    "unit"
+    "unit",
+    "patent_number",
+    "molecule_name",
+    "protein_target_name",
 ]
 
 with open(final_json, 'r', encoding='utf-8') as f:
@@ -64,6 +67,9 @@ with open(bindb_csv, 'w', encoding='utf-8', newline='') as w_file:
                 "Kd (nM)": "",
                 "EC50 (nM)": "",
                 "unit": row.get("unit", ""),
+                "patent_number": row.get("patent_number", ""),
+                "molecule_name": row.get("molecule_name", ""),
+                "protein_target_name": row.get("protein_target_name", ""),
             }
 
             value = row.get("value", "")
