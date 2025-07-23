@@ -104,12 +104,11 @@ def process_one(result, inchi_key_cache, sequence_cache):
     molecule_name = result.get('molecule_name')
     if molecule_name:
         inchi_key = name_to_inchi_key(molecule_name, inchi_key_cache)
-    if inchi_key:
-        result['Ligand InChI Key'] = inchi_key
-        target_name = result.get('protein_target_name')
-        if target_name:
-            sequence = get_sequence_uniprot(target_name, sequence_cache)
-        result['Sequence'] = sequence
+    target_name = result.get('protein_target_name')
+    if target_name:
+        sequence = get_sequence_uniprot(target_name, sequence_cache)
+    result['Ligand InChI Key'] = inchi_key
+    result['Sequence'] = sequence
     return result
 
 if __name__ == "__main__":
