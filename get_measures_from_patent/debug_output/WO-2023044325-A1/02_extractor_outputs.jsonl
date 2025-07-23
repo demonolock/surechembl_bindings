@@ -1,2 +1,0 @@
-{"raw_mentions": "Table 6 shows the IC50 values of the CD4 and CD8 T cell proliferation inhibition by the exemplified anti -human MCT1 antibodies."}
-{"final_json": [{"molecule_name": "anti-human MCT1 antibodies", "protein_target_name": "MCT1", "protein_uniprot_id": null, "protein_seq_id": null, "binding_metric": "IC50", "value": null, "unit": null}]}

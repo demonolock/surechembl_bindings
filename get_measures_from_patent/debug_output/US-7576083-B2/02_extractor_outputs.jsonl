@@ -1,2 +1,0 @@
-{"raw_mentions": "Depending on the actual subunit composition, glutamate and glycine activate the NMDA receptor with EC50 values in the high nanomolar to low micromolar range."}
-{"final_json": [{"molecule_name": "glutamate and glycine", "protein_target_name": "NMDA receptor", "binding_metric": "EC50", "value": null, "unit": "nM to uM"}]}

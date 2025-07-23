@@ -1,2 +1,0 @@
-{"raw_mentions": "None. \n\nThere are no sentences that contain all four required components: \n1. A specific molecule name, ID or other identifier.\n2. A bioactivity metric IC50, Ki, Kd, EC50 and their variations.\n3. A specific numeric value for that metric (e.g., \"10\", \"5.5\", \"<100\").\n4. A unit for that value (e.g., \"nM\", \"uM\", \"%\")."}
-{"raw_mentions": "There are no sentences that meet the specified criteria. The text does not contain specific molecule names, bioactivity metrics (IC50, Ki, Kd, EC50), numeric values, and units together in the same sentence."}

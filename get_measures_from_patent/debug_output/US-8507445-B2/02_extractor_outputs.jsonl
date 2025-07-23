@@ -1,3 +1,0 @@
-{"raw_mentions": "Close to 100% inhibition of CGRRAGGSC (SEQ ID NO:37)-phage binding was observed at a peptide concentration of about 0.1 nM (not shown)."}
-{"final_json": [{"molecule_name": "CGRRAGGSC (SEQ ID NO:37)", "protein_target_name": null, "binding_metric": null, "value": "0.1", "unit": "nM"}]}
-{"raw_mentions": "There are no sentences in the provided text that contain all four required components: a specific molecule name, ID or other identifier, a bioactivity metric (IC50, Ki, Kd, EC50 and their variations), a specific numeric value for that metric, and a unit for that value."}

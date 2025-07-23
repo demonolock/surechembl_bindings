@@ -6,23 +6,20 @@ import logging
 import concurrent.futures
 
 from llm_patent_agents.patent_processor import process_patent_text
-from filter.src.patent_parser import fetch_patent_description
-from filter.src.get_patents import get_patents_ids
-
-from_cache = True
-# Тут результат выгрузки filter/__main__.py
-patent_dirs = '/home/vshepard/hackaton_life/patents'
+from common_utils.patent_parser import fetch_patent_description
+from common_utils.get_patents import get_patents_ids
 
 # Настройка логирования
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-def process_single_patent(patent_number, output_dir, timeout=40, from_cache=False, cache_dir=None):
+def process_single_patent(patent_number: str, output_dir: str, timeout: int=40,
+                          cache_dir: str|None=None) -> None:
     """Обрабатывает один патент: либо скачивает, либо берет из кэша, извлекает данные."""
     try:
         logging.info(f'Начинаю обработку патента: {patent_number}')
         patent_text = None
 
-        if from_cache and cache_dir:
+        if cache_dir:
             file_path = os.path.join(cache_dir, f"{patent_number}")
             if os.path.exists(file_path):
                 with open(file_path, "r", encoding="utf-8") as f:
@@ -48,7 +45,7 @@ def process_single_patent(patent_number, output_dir, timeout=40, from_cache=Fals
 
         # Обработка текста и извлечение данных
         extracted_data = process_patent_text(
-            patent_text=patent_text,
+            patent_text=patent_text['content'],
             associated_molecules=[],
             patent_id=patent_number,
             debug=True,
@@ -93,20 +90,26 @@ def main():
         default=40,
         help="Таймаут в секундах для скачивания одного патента."
     )
+    parser.add_argument(
+        "--patent_dirs",
+        type=int,
+        default=40,
+        help="Таймаут в секундах для скачивания одного патента."
+    )
     args = parser.parse_args()
 
     output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "debug_output")
 
-    if from_cache:
-        logging.info(f"Обработка патентов из кэша в {patent_dirs}")
-        files = [f for f in os.listdir(patent_dirs) if os.path.isfile(os.path.join(patent_dirs, f))]
+    if args.patent_dirs:
+        logging.info(f"Обработка патентов из кэша в {args.patent_dirs}")
+        files = [f for f in os.listdir(args.patent_dirs) if os.path.isfile(os.path.join(args.patent_dirs, f))]
         logging.info(f"Найдено {len(files)} файлов для обработки.")
 
         # Extract patent numbers from file names (without extension)
         patent_numbers = [os.path.splitext(f)[0] for f in files]
 
         with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as executor:
-            future_to_patent = {executor.submit(process_single_patent, pn, output_dir, from_cache=True, cache_dir=patent_dirs): pn for pn in
+            future_to_patent = {executor.submit(process_single_patent, pn, output_dir, cache_dir=args.patent_dirs): pn for pn in
                                 patent_numbers}
             for future in concurrent.futures.as_completed(future_to_patent):
                 patent_number = future_to_patent[future]

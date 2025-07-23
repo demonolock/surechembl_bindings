@@ -1,2 +1,0 @@
-{"raw_mentions": "As shown in figure 3, HK, LC and LPS have physical directly in conjunction with Kd values are respectively 1.713*10<sup>-7 </sup>M and 1.524*10<sup>-9 </sup>M."}
-{"final_json": [{"molecule_name": "HK", "protein_target_name": null, "binding_metric": "Kd", "value": "1.713*10^-7", "unit": "M"}, {"molecule_name": "LC", "protein_target_name": null, "binding_metric": "Kd", "value": "1.524*10^-9", "unit": "M"}, {"molecule_name": "LPS", "protein_target_name": null, "binding_metric": "Kd", "value": null, "unit": null}]}

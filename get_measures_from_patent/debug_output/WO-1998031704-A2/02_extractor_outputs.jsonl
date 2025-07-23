@@ -1,2 +1,0 @@
-{"raw_mentions": "AGENTS OF THE INVENTION are active in displacing [<sup>3</sup>H] Substance P in the said test method at concentrations of the order of from Ki = about 0.01 to about 10.0 nM."}
-{"final_json": [{"molecule_name": "[<sup>3</sup>H] Substance P", "protein_target_name": null, "binding_metric": "Ki", "value": "0.01 to about 10.0", "unit": "nM"}]}

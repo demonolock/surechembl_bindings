@@ -1,2 +1,0 @@
-{"raw_mentions": "The compounds of Examples 8 and 17, when tested according to the above procedure, had IC50 values of, respectively, 10 and 64 nanomolar."}
-{"final_json": [{"molecule_name": "Example 8", "protein_target_name": null, "binding_metric": "IC50", "value": "10", "unit": "nanomolar"}, {"molecule_name": "Example 17", "protein_target_name": null, "binding_metric": "IC50", "value": "64", "unit": "nanomolar"}]}

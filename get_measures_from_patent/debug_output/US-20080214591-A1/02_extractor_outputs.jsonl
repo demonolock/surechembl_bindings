@@ -1,2 +1,0 @@
-{"raw_mentions": "Thus, such compounds exhibit receptor activation constants or EC50 values (i.e., which provide a measure of the concentration of compound needed to activate half of the relevant receptor sites of the skeletal muscle of a patient) which are extremely high (i.e., greater than about 100 \u03bcM)."}
-{"final_json": [{"molecule_name": null, "protein_target_name": "receptor", "binding_metric": "EC50", "value": ">100", "unit": "\u03bcM"}]}
