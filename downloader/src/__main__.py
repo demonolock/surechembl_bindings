@@ -8,9 +8,9 @@ from common_utils.get_patents import get_patents_ids
 from common_utils.patent_parser import fetch_patent_description
 from .patent_filter import patent_filter
 
-IDS_UNFILTERED_FILE = "./out/patent_ids_unfiltered.txt"
-IDS_FILTERED_FILE = "./out/patent_ids_unfiltered.txt"
-IDS_ERROR_DOWNLOAD_FILE = "./out/patent_ids_error.txt"
+IDS_UNFILTERED_FILE = "patent_ids_unfiltered.txt"
+IDS_FILTERED_FILE = ".patent_ids_unfiltered.txt"
+IDS_ERROR_DOWNLOAD_FILE = "patent_ids_error.txt"
 
 # Настройка логирования
 logging.basicConfig(
@@ -77,6 +77,8 @@ def main():
     )
     args = parser.parse_args()
 
+    if not os.path.exists(args.output_dir):
+        os.makedirs(args.output_dir)
     patent_numbers = get_patents_ids(args.input_file)
     download(patent_numbers, args.input_dir, args.output_dir)
 
