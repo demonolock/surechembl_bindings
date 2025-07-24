@@ -6,7 +6,7 @@ from concurrent.futures import ProcessPoolExecutor, as_completed
 
 from common_utils.get_patents import get_patents_ids
 from common_utils.patent_parser import fetch_patent_description
-from .patent_filter import patent_filter
+from downloader.src.patent_filter import patent_filter
 
 IDS_UNFILTERED_FILE = "patent_ids_unfiltered.txt"
 IDS_FILTERED_FILE = "patent_ids_filtered.txt"
@@ -19,9 +19,9 @@ logging.basicConfig(
 
 
 def download(patent_numbers: set[str], input_dir: str, output_dir: str) -> None:
-    unfiltered_patents_file = os.path.join(output_dir, IDS_UNFILTERED_FILE)
-    filtered_patents_file = os.path.join(output_dir, IDS_FILTERED_FILE)
-    error_patents_file = os.path.join(output_dir, IDS_ERROR_DOWNLOAD_FILE)
+    unfiltered_patents_file = os.path.join(input_dir, IDS_UNFILTERED_FILE)
+    filtered_patents_file = os.path.join(input_dir, IDS_FILTERED_FILE)
+    error_patents_file = os.path.join(input_dir, IDS_ERROR_DOWNLOAD_FILE)
 
     unfiltered_patents = get_patents_ids(unfiltered_patents_file)
     filtered_patents = get_patents_ids(filtered_patents_file)
