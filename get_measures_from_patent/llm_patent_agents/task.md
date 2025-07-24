@@ -54,7 +54,7 @@
     import os
 
     # --- API and Directory Configuration ---
-    API_BASE_URL = "http://80.209.242.40:8000/v1"
+    API_BASE_URL = "{URL}"
     API_KEY = "dummy-key"
     MODEL_NAME = "llama-3.3-70b-instruct"
     TEMPERATURE = 0.0
