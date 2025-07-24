@@ -9,7 +9,7 @@ from common_utils.patent_parser import fetch_patent_description
 from .patent_filter import patent_filter
 
 IDS_UNFILTERED_FILE = "patent_ids_unfiltered.txt"
-IDS_FILTERED_FILE = ".patent_ids_unfiltered.txt"
+IDS_FILTERED_FILE = "patent_ids_filtered.txt"
 IDS_ERROR_DOWNLOAD_FILE = "patent_ids_error.txt"
 
 # Настройка логирования
@@ -28,7 +28,7 @@ def download(patent_numbers: set[str], input_dir: str, output_dir: str) -> None:
 
     curr_patents_numbers = patent_numbers - unfiltered_patents - filtered_patents
 
-    max_workers = 2  # Максимум CPU - то что вы используете (браузер, IDE). Я взяла половину от своих 16 CPU
+    max_workers = 8  # Максимум CPU - то что вы используете (браузер, IDE). Я взяла половину от своих 16 CPU
 
     with ProcessPoolExecutor(max_workers=max_workers) as executor:
         future_to_patent = {
