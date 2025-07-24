@@ -44,7 +44,6 @@ def json_to_bindingdb(data: list[dict], bindb_csv_path: str) -> None:
         writer.writeheader()
 
         for row in data:
-            print(data)
             if (
                 row.get("Ligand InChI Key")
                 and row.get("Sequence")
