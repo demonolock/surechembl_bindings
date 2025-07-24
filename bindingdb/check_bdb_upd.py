@@ -88,7 +88,7 @@ def standardize_and_validate_smiles(smiles: str) -> Optional[str]:
 
 if __name__ == "__main__":
     dir_path = os.path.dirname(os.path.realpath(__file__))
-    our_output = os.path.join(dir_path, "enrich_data", "output", "bindb.csv")
+    our_output = os.path.join(dir_path, "enrich_data", "input", "csv", "result.csv")
 
     parser = argparse.ArgumentParser(
         description="Evaluate test data against BindingDB dataset."
@@ -103,7 +103,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     df = pd.read_csv(
-        "BindingDB_singlechain.csv",
+        "BindingDB_singlechain_deduplicated.csv",
         sep=",",
         usecols=[
             "Ligand SMILES",

@@ -229,7 +229,7 @@ def normalize_data(data):
 
 def main():
     dir_path = os.path.dirname(os.path.abspath(__file__))
-    input_file = os.path.join(dir_path, "input/final_json_1.json")
+    input_file = os.path.join(dir_path, "/home/vshepard/hackaton_life/final_final/final_old_23_07.json")
     output_file = os.path.join(dir_path, "output/final_normalized_data.json")
 
     os.makedirs(os.path.join(dir_path, "output"), exist_ok=True)
