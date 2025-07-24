@@ -68,7 +68,7 @@ Automating bioactivity data extraction will:
    * Under the hood, this agent also replaces metric aliases with molecular names (see next step):
 
    ```bash
-   python get_measure.py --patent_dirs <patent_dir> <binding_data_dir>
+   python get_measure.py --patent_dirs <patent_dir> --output_dir <binding_data_dir>
    ```
 5. **Add InChIKey and sequence by molecule and target names, normalize data, and write the final table:**
 
