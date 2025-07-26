@@ -1,4 +1,5 @@
 import re
+from traceback import print_tb
 
 
 def get_relevant_chunks(
@@ -12,6 +13,9 @@ def get_relevant_chunks(
     Finds relevant chunks of text based on metric keywords and filters out negative keywords.
     """
     try:
+        chunk_context_size = int(chunk_context_size)
+        if not isinstance(text, str):
+            print()
         # 1. Find all metric positions
         metric_positions = [
             m.start() for m in re.finditer(metric_regex_pattern, text, re.IGNORECASE)

@@ -1,8 +1,10 @@
 import argparse
 import concurrent.futures
+import csv
 import json
 import logging
 import os
+import sys
 import time
 
 from alias_to_name.config import ConfigAliasLLM
@@ -87,6 +89,72 @@ def process_single_patent(
             f.write(patent_number + "\n")
 
 
+def process_google_patents(
+    output_dir: str,
+    cache_dir: str | None = None,
+) -> None:
+    """
+    Processes all Google patents from CSV files in cache_dir.
+    Each CSV must have: publication_number, description_text, publication_date.
+    """
+    if cache_dir is None:
+        raise ValueError("--google_patents_cache_dir must be specified")
+    # Увеличиваем размер поля до максимума платформы, иначе не влезет текст патента
+    csv.field_size_limit(sys.maxsize)
+
+    # Get all CSV files in cache_dir
+    files = [
+        os.path.join(cache_dir, f)
+        for f in os.listdir(cache_dir)
+        if os.path.isfile(os.path.join(cache_dir, f)) and f.endswith(".csv")
+    ]
+
+    for file_path in files:
+        logging.info(f"Processing file: {file_path}")
+        with open(file_path, "r", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                patent_number = row["publication_number"]
+                patent_text = row["description_text"]
+                # patent_date = row.get("publication_date")  # Unused for now
+                process_google_patent(patent_text, patent_number, output_dir)
+
+
+def process_google_patent(patent_text, patent_number, output_dir: str):
+    try:
+        # Обработка текста и извлечение данных
+        extracted_data = process_patent_text(
+            patent_text=patent_text,
+            associated_molecules=[],
+            patent_id=patent_number,
+            debug=True,
+            debug_output_dir=output_dir,
+            config=ConfigMeasuresLLM(),
+        )
+
+        # Сохранение результата
+        if extracted_data:
+            debug_dir = os.path.join(output_dir, patent_number)
+            os.makedirs(debug_dir, exist_ok=True)
+            final_output_path = os.path.join(debug_dir, "03_final_output.json")
+            replaced_extracted_data = filter_and_convert_molecula_alias_to_name(
+                patent_text, extracted_data, ConfigAliasLLM(), logging
+            )
+            with open(final_output_path, "w", encoding="utf-8") as f:
+                json.dump(replaced_extracted_data, f, indent=4, ensure_ascii=False)
+            logging.info(
+                f"Сохранен результат для {patent_number}: {len(replaced_extracted_data)} записей."
+            )
+        else:
+            logging.info(f"Для патента {patent_number} не найдено данных.")
+    except Exception as e:
+        logging.error(
+            f"Произошла ошибка при обработке патента {patent_number}: {e}",
+            exc_info=True,
+        )
+        with open("patent_ids_processing_error.txt", "a") as f:
+            f.write(patent_number + "\n")
+
 def main():
     """Основная функция для запуска пайплайна обработки патентов."""
     parser = argparse.ArgumentParser(
@@ -95,7 +163,7 @@ def main():
     parser.add_argument(
         "--input_file",
         type=str,
-        default="",  # Не нужно если есть patent_dirs. Будут браться уже скаченные данные.
+        default="",
         help="Путь к текстовому файлу со списком ID патентов.",
     )
     parser.add_argument(
@@ -118,7 +186,20 @@ def main():
     parser.add_argument(
         "--output_dir", type=str, help="Директория для вывода результата."
     )
+    parser.add_argument(
+        "--google_patents_cache_dir", type=str, default=None,
+        help="Директория с csv-файлами Google Patents. Для запуска обработки Google Patents."
+    )
     args = parser.parse_args()
+
+    # Обработка Google Patents
+    if args.google_patents_cache_dir:
+        logging.info(f"Обработка Google Patents из {args.google_patents_cache_dir}")
+        process_google_patents(
+            output_dir=args.output_dir,
+            cache_dir=args.google_patents_cache_dir
+        )
+        return
 
     if args.patent_dirs:
         logging.info(f"Обработка патентов из кэша в {args.patent_dirs}")
@@ -176,6 +257,7 @@ def main():
                     logging.error(f"{patent_number} сгенерировал исключение: {exc}")
 
         logging.info("Обработка всех патентов завершена.")
+
 
 
 if __name__ == "__main__":

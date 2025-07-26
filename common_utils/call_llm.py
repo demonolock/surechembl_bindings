@@ -1,6 +1,6 @@
 import time
 
-import openai
+from groq import Groq
 
 
 class LLM:
@@ -35,7 +35,7 @@ class LLM:
             messages.append({"role": "system", "content": system_prompt})
         for attempt in range(self.api_retry_attempts):
             try:
-                client = openai.OpenAI(api_key=self.api_key, base_url=self.api_base_url)
+                client = Groq(api_key=self.api_key, base_url=self.api_base_url)
                 response = client.chat.completions.create(
                     model=self.model_name,
                     messages=messages,

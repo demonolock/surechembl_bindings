@@ -1,11 +1,13 @@
 import os
 
+from common_utils.init_env import LLM_KEY, LLM_MODEL, LLM_URL
+
 # --- API and Directory Configuration ---
-API_BASE_URL = "http://80.209.242.40:8000/v1"
-API_KEY = "dummy-key"
-MODEL_NAME = "llama-3.3-70b-instruct"
+API_BASE_URL = LLM_URL
+API_KEY = LLM_KEY
+MODEL_NAME = LLM_MODEL
 TEMPERATURE = 0.1
-MAX_TOKENS_RESPONSE = 4096
+MAX_TOKENS_RESPONSE = 131072
 DEBUG_OUTPUT_DIR = os.path.join(
     os.path.dirname(os.path.abspath(__file__)), "debug_output"
 )

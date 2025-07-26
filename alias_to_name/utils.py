@@ -4,8 +4,8 @@ from common_utils.get_relevants_chunks import get_relevant_chunks
 
 
 def get_alias_list(patent_data, measures):
-    content = patent_data["content"]
-    annotations = patent_data["annotations"]
+    content = patent_data
+    annotations = patent_data["annotations"]  # TODO check using inchi key
     chemicals = []
     for a in annotations:
         if a["category"] == "chemical" or a["category"] == "target":
