@@ -4,6 +4,7 @@ import csv
 import json
 import logging
 import os
+import shelve
 import sys
 import time
 
@@ -19,9 +20,10 @@ logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
+inchi_key_cache_file = "../bindingdb/enrich_data/output/inchi_key_cache.db"
 
 def process_single_patent(
-    patent_number: str, output_dir: str, timeout: int = 40, cache_dir: str | None = None
+    patent_number: str, output_dir: str, inchi_key_cache: str, timeout: int = 40, cache_dir: str | None = None
 ) -> None:
     """Обрабатывает один патент: либо скачивает, либо берет из кэша, извлекает данные."""
     try:
@@ -70,7 +72,7 @@ def process_single_patent(
             os.makedirs(debug_dir, exist_ok=True)
             final_output_path = os.path.join(debug_dir, "03_final_output.json")
             replaced_extracted_data = filter_and_convert_molecula_alias_to_name(
-                patent_text, extracted_data, ConfigAliasLLM(), logging
+                patent_text, extracted_data, ConfigAliasLLM(), logging, inchi_key_cache
             )
             with open(final_output_path, "w", encoding="utf-8") as f:
                 json.dump(replaced_extracted_data, f, indent=4, ensure_ascii=False)
@@ -201,60 +203,66 @@ def main():
         )
         return
 
-    if args.patent_dirs:
-        logging.info(f"Обработка патентов из кэша в {args.patent_dirs}")
-        files = [
-            f
-            for f in os.listdir(args.patent_dirs)
-            if os.path.isfile(os.path.join(args.patent_dirs, f))
-        ]
-        logging.info(f"Найдено {len(files)} файлов для обработки.")
 
-        # Extract patent numbers from file names (without extension)
-        patent_numbers = [os.path.splitext(f)[0] for f in files]
+    with shelve.open(
+            inchi_key_cache_file, writeback=True
+    ) as inchi_key_cache:
 
-        with concurrent.futures.ThreadPoolExecutor(
-            max_workers=args.workers
-        ) as executor:
-            future_to_patent = {
-                executor.submit(
-                    process_single_patent,
-                    pn,
-                    args.output_dir,
-                    cache_dir=args.patent_dirs,
-                ): pn
-                for pn in patent_numbers
-            }
-            for future in concurrent.futures.as_completed(future_to_patent):
-                patent_number = future_to_patent[future]
-                try:
-                    future.result()
-                except Exception as exc:
-                    logging.error(f"{patent_number} сгенерировал исключение: {exc}")
-    else:
-        patent_numbers = get_patents_ids(args.input_file)
-        logging.info(
-            f"Начинаю обработку {len(patent_numbers)} патентов с {args.workers} воркерами."
-        )
+        if args.patent_dirs:
+            logging.info(f"Обработка патентов из кэша в {args.patent_dirs}")
+            files = [
+                f
+                for f in os.listdir(args.patent_dirs)
+                if os.path.isfile(os.path.join(args.patent_dirs, f))
+            ]
+            logging.info(f"Найдено {len(files)} файлов для обработки.")
 
-        with concurrent.futures.ThreadPoolExecutor(
-            max_workers=args.workers
-        ) as executor:
-            # Передаем каждому воркеру функцию и ее аргументы
-            future_to_patent = {
-                executor.submit(
-                    process_single_patent, pn, args.output_dir, timeout=args.timeout
-                ): pn
-                for pn in patent_numbers
-            }
+            # Extract patent numbers from file names (without extension)
+            patent_numbers = [os.path.splitext(f)[0] for f in files]
 
-            # Обрабатываем результаты по мере их завершения
-            for future in concurrent.futures.as_completed(future_to_patent):
-                patent_number = future_to_patent[future]
-                try:
-                    future.result()  # Проверяем на наличие исключений во время выполнения
-                except Exception as exc:
-                    logging.error(f"{patent_number} сгенерировал исключение: {exc}")
+            with concurrent.futures.ThreadPoolExecutor(
+                max_workers=args.workers
+            ) as executor:
+                future_to_patent = {
+                    executor.submit(
+                        process_single_patent,
+                        pn,
+                        args.output_dir,
+                        inchi_key_cache,
+                        cache_dir=args.patent_dirs,
+                    ): pn
+                    for pn in patent_numbers
+                }
+                for future in concurrent.futures.as_completed(future_to_patent):
+                    patent_number = future_to_patent[future]
+                    try:
+                        future.result()
+                    except Exception as exc:
+                        logging.error(f"{patent_number} сгенерировал исключение: {exc}")
+        else:
+            patent_numbers = get_patents_ids(args.input_file)
+            logging.info(
+                f"Начинаю обработку {len(patent_numbers)} патентов с {args.workers} воркерами."
+            )
+
+            with concurrent.futures.ThreadPoolExecutor(
+                max_workers=args.workers
+            ) as executor:
+                # Передаем каждому воркеру функцию и ее аргументы
+                future_to_patent = {
+                    executor.submit(
+                        process_single_patent, pn, args.output_dir, inchi_key_cache, timeout=args.timeout
+                    ): pn
+                    for pn in patent_numbers
+                }
+
+                # Обрабатываем результаты по мере их завершения
+                for future in concurrent.futures.as_completed(future_to_patent):
+                    patent_number = future_to_patent[future]
+                    try:
+                        future.result()  # Проверяем на наличие исключений во время выполнения
+                    except Exception as exc:
+                        logging.error(f"{patent_number} сгенерировал исключение: {exc}")
 
         logging.info("Обработка всех патентов завершена.")
 

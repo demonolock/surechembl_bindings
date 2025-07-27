@@ -4,7 +4,7 @@ from common_utils.config_llm import ConfigLLM
 from common_utils.get_relevants_chunks import get_relevant_chunks
 
 
-def get_alias_list(patent_data, measures):
+def get_alias_list(patent_data, measures, inchi_key_cache):
     content = patent_data
     # annotations = patent_data["annotations"]  # TODO check using inchi key
     # chemicals = []
@@ -16,7 +16,7 @@ def get_alias_list(patent_data, measures):
         molecule_name = measure["molecule_name"].lower().strip()
         # if molecule_name not in chemicals:
         #     aliases.add(measure["molecule_name"])
-        if not name_to_inchi_key(molecule_name):
+        if not name_to_inchi_key(molecule_name, inchi_key_cache):
             aliases.add(measure["molecule_name"])
     return content, list(aliases)
 
@@ -70,7 +70,7 @@ def process_patent(content, aliases, config, logger):
 
 
 def filter_and_convert_molecula_alias_to_name(
-    patent_data: dict, measures_list: list, config: ConfigLLM, logger
+    patent_data: dict, measures_list: list, config: ConfigLLM, logger, inchi_key_cache
 ) -> dict:
     filtered_measures = [
         measure
@@ -82,7 +82,7 @@ def filter_and_convert_molecula_alias_to_name(
     ]
     if not filtered_measures:
         return {}
-    content, aliases = get_alias_list(patent_data, filtered_measures)
+    content, aliases = get_alias_list(patent_data, filtered_measures, inchi_key_cache)
 
     logger.debug(f"Aliases: {aliases}")
     alias_value_ans = {}

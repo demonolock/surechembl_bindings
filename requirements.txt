@@ -9,3 +9,5 @@ pytesseract==0.3.13
 rdkit==2025.3.3
 Requests==2.32.4
 tqdm==4.67.1
+groq
+pi
