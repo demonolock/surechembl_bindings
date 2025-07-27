@@ -1,3 +1,4 @@
+from bindingdb.enrich_data.add_inchi_key_and_sequence import get_inchi_key_pubchem
 from common_utils.call_llm import LLM
 from common_utils.config_llm import ConfigLLM
 from common_utils.get_relevants_chunks import get_relevant_chunks
@@ -5,15 +6,17 @@ from common_utils.get_relevants_chunks import get_relevant_chunks
 
 def get_alias_list(patent_data, measures):
     content = patent_data
-    annotations = patent_data["annotations"]  # TODO check using inchi key
-    chemicals = []
-    for a in annotations:
-        if a["category"] == "chemical" or a["category"] == "target":
-            chemicals.append(a["name"].lower().strip())
+    # annotations = patent_data["annotations"]  # TODO check using inchi key
+    # chemicals = []
+    # for a in annotations:
+    #     if a["category"] == "chemical" or a["category"] == "target":
+    #         chemicals.append(a["name"].lower().strip())
     aliases = set()
     for measure in measures:
         molecule_name = measure["molecule_name"].lower().strip()
-        if molecule_name not in chemicals:
+        # if molecule_name not in chemicals:
+        #     aliases.add(measure["molecule_name"])
+        if not get_inchi_key_pubchem(molecule_name):
             aliases.add(measure["molecule_name"])
     return content, list(aliases)
 
