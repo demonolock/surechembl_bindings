@@ -205,6 +205,8 @@ def process_row(row):
     row["binding_metric"] = metric_name
     row["value"] = final_value
     row["unit"] = final_unit
+    row["original_value"] = original_value_str
+    row["original_metric"] = original_metric
 
     # Фильтруем строки, если какие-то из ключевых полей отсутствуют
     essential_keys = ["molecule_name", "protein_target_name", "patent_number"]
@@ -229,7 +231,7 @@ def normalize_data(data):
 
 def main():
     dir_path = os.path.dirname(os.path.abspath(__file__))
-    input_file = os.path.join(dir_path, "/home/vshepard/hackaton_life/final_final/final_old_23_07.json")
+    input_file = os.path.join(dir_path, "/home/vshepard/mapa/hackaton_gero/output/final_json.json")
     output_file = os.path.join(dir_path, "output/final_normalized_data.json")
 
     os.makedirs(os.path.join(dir_path, "output"), exist_ok=True)

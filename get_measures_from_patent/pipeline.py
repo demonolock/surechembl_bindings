@@ -139,14 +139,17 @@ def process_google_patent(patent_text, patent_number, output_dir: str):
             debug_dir = os.path.join(output_dir, patent_number)
             os.makedirs(debug_dir, exist_ok=True)
             final_output_path = os.path.join(debug_dir, "03_final_output.json")
-            replaced_extracted_data = filter_and_convert_molecula_alias_to_name(
-                patent_text, extracted_data, ConfigAliasLLM(), logging
-            )
-            with open(final_output_path, "w", encoding="utf-8") as f:
-                json.dump(replaced_extracted_data, f, indent=4, ensure_ascii=False)
-            logging.info(
-                f"Сохранен результат для {patent_number}: {len(replaced_extracted_data)} записей."
-            )
+            with shelve.open(
+                    inchi_key_cache_file, writeback=True
+            ) as inchi_key_cache:
+                replaced_extracted_data = filter_and_convert_molecula_alias_to_name(
+                    patent_text, extracted_data, ConfigAliasLLM(), logging, inchi_key_cache
+                )
+                with open(final_output_path, "w", encoding="utf-8") as f:
+                    json.dump(replaced_extracted_data, f, indent=4, ensure_ascii=False)
+                logging.info(
+                    f"Сохранен результат для {patent_number}: {len(replaced_extracted_data)} записей."
+                )
         else:
             logging.info(f"Для патента {patent_number} не найдено данных.")
     except Exception as e:
